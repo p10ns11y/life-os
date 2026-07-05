@@ -2,7 +2,7 @@
 type: project
 cluster: "cultural-creative"
 weekly_energy_target: 3
-weekly_energy_logged: 2.5  # 2026-07-05 (added elision note + more polish)
+weekly_energy_logged: 2.75  # 2026-07-05 (added integration note + polish)
 importance: 4
 urgency: 2
 progress: 40
@@ -44,5 +44,6 @@ See [[Portfolio/Portfolio-MOC]].
 - UI polish note: Added simple CSS classes in the frontend for highlighting layers (see src/components/ProsodyHighlighter.tsx in the repo).
 - Further: Added example output for "திருக்குறள்" style venpa in the docs (see docs/prosody-examples.md in the repo).
 - Note: Parser handles basic elision in Tamil (see tamil_chars_generator/ for char data).
+- Polish: Added note on future integration with skills for auto-prosody analysis in agent workflows.
 
 Next: more venpa examples and UI polish.
