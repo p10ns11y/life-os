@@ -2,7 +2,7 @@
 type: project
 cluster: "cultural-creative"
 weekly_energy_target: 3
-weekly_energy_logged: 2.25  # 2026-07-05 (added more venpa example + docs link)
+weekly_energy_logged: 2.5  # 2026-07-05 (added elision note + more polish)
 importance: 4
 urgency: 2
 progress: 40
@@ -43,5 +43,6 @@ See [[Portfolio/Portfolio-MOC]].
 - Additional: Basic venpa (வெண்பா) line now segments correctly for initial test cases (e.g., "அறத்துப்பால்" structure).
 - UI polish note: Added simple CSS classes in the frontend for highlighting layers (see src/components/ProsodyHighlighter.tsx in the repo).
 - Further: Added example output for "திருக்குறள்" style venpa in the docs (see docs/prosody-examples.md in the repo).
+- Note: Parser handles basic elision in Tamil (see tamil_chars_generator/ for char data).
 
 Next: more venpa examples and UI polish.
