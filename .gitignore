@@ -1,0 +1,48 @@
+# Private and non-sharable content
+/private/
+/drafts/
+
+# Obsidian transient / personal state (avoid leaking layout, recent files, etc.)
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+*.bak
+*.tmp
+
+# Potential PII and sensitive (audit before adding)
+**/*llm*
+**/*cv*
+**/*resume*
+**/*personal*
+**/*family*
+**/*health*
+**/*finance*
+**/*tax*
+**/*pension*
+**/*birth*
+**/*address*
+**/*email*
+**/*phone*
+**/*passport*
+**/*id-*
+**/*secret*
+**/*key*
+**/*token*
+**/*credential*
+**/*password*
+
+# Large binaries / media that may contain PII
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.mov
+*.zip
+*.tar.gz
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~

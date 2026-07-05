@@ -1,0 +1,183 @@
+filters:
+  and:
+    - or:
+        - file.hasProperty("importance")
+        - file.hasProperty("urgency")
+        - file.hasProperty("next_action")
+    - or:
+        - type == "project"
+        - type == "area"
+        - type == "task"
+    - status != "Archived"
+formulas:
+  quadrant: |
+    if(importance >= 3 && urgency >= 3, "🔴 DO FIRST",
+    if(importance >= 3, "🟢 SCHEDULE",
+    if(urgency >= 3, "🟡 DELEGATE", "⚪ ELIMINATE")))
+  is_stale: review_date < (now() - "14d") && status != "Done"
+  urgency_label: if(urgency == 4, "🔴 URGENT (4)", if(urgency == 3, "🟠 HIGH (3)", if(urgency == 2, "🟡 MEDIUM (2)", "🟢 LOW (1)")))
+  has_action: next_action != "" && next_action != null
+  Untitled: ""
+views:
+  - type: table
+    name: All Actionables
+    sort:
+      - property: importance
+        direction: DESC
+      - property: urgency
+        direction: DESC
+    columns:
+      - file.name
+      - type
+      - status
+      - importance
+      - urgency
+      - progress
+      - area
+      - due
+      - next_action
+      - quadrant
+  - type: table
+    name: 🔴 DO FIRST
+    filters:
+      and:
+        - importance >= 3
+        - urgency >= 3
+    sort:
+      - property: progress
+        direction: DESC
+    columns:
+      - file.name
+      - status
+      - progress
+      - due
+      - next_action
+      - area
+  - type: table
+    name: 🟢 SCHEDULE
+    filters:
+      and:
+        - importance >= 3
+        - urgency < 3
+    columns:
+      - file.name
+      - status
+      - progress
+      - due
+      - next_action
+      - area
+  - type: table
+    name: 🟡 DELEGATE
+    filters:
+      and:
+        - importance < 3
+        - urgency >= 3
+    columns:
+      - file.name
+      - status
+      - progress
+      - due
+      - next_action
+      - area
+  - type: table
+    name: ⚪ ELIMINATE / Park
+    filters:
+      and:
+        - importance < 3
+        - urgency < 3
+    columns:
+      - file.name
+      - status
+      - progress
+      - due
+      - area
+  - type: table
+    name: By Progress (All)
+    sort:
+      - property: progress
+        direction: DESC
+    columns:
+      - file.name
+      - type
+      - status
+      - importance
+      - urgency
+      - progress
+      - due
+      - next_action
+      - area
+
+  # Portfolio-specific views for project management
+  - type: table
+    name: By Cluster
+    columns:
+      - file.name
+      - cluster
+      - importance
+      - weekly_energy_target
+      - progress
+      - next_action
+      - area
+    sort:
+      - property: cluster
+      - property: importance
+        direction: DESC
+
+  - type: table
+    name: Energy Balance
+    formulas:
+      energy_gap: weekly_energy_target - (weekly_energy_logged or 0)
+    columns:
+      - file.name
+      - cluster
+      - weekly_energy_target
+      - progress
+      - energy_gap
+      - next_action
+    sort:
+      - property: energy_gap
+        direction: DESC
+
+  - type: table
+    name: Portfolio Projects (High Value)
+    filters:
+      and:
+        - type == "project"
+        - importance >= 3
+    columns:
+      - file.name
+      - cluster
+      - importance
+      - urgency
+      - weekly_energy_target
+      - progress
+      - next_action
+  - type: table
+    name: 📋 All Todos & Actions
+    filters:
+      or:
+        - type == "task"
+        - file.hasProperty("next_action")
+    order:
+      - file.name
+      - formula.urgency_label
+      - formula.quadrant
+      - area
+    sort:
+      - property: formula.Untitled
+        direction: DESC
+      - property: urgency
+        direction: DESC
+    columns:
+      - file.name
+      - next_action
+      - urgency_label
+      - urgency
+      - importance
+      - status
+      - due
+      - progress
+      - area
+      - has_action
+  - type: cards
+    name: View
