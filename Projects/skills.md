@@ -2,7 +2,7 @@
 type: project
 cluster: "agentic-reactor"
 weekly_energy_target: 3
-weekly_energy_logged: 0.75  # 2026-07-05 daily check + surplus example
+weekly_energy_logged: 1.0  # 2026-07-05 daily check + surplus + docs improvement
 importance: 5
 urgency: 3
 progress: 55
@@ -42,3 +42,6 @@ Used the skills library (ai-optimization for scouting projects, higher-order for
 Result: Clearer focus on Tier 1 (thepulimaangani + skills), visible connections via wikilinks, energy tracking started.
 
 This compounds: the act of managing the portfolio improves the skills themselves.
+
+## Small docs improvement (same day)
+Added note: "See Portfolio-MOC for example of using these skills to track personal projects, energy allocation, and connections in Obsidian."
