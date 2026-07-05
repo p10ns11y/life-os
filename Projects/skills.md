@@ -2,6 +2,7 @@
 type: project
 cluster: "agentic-reactor"
 weekly_energy_target: 3
+weekly_energy_logged: 0.75  # 2026-07-05 daily check + surplus example
 importance: 5
 urgency: 3
 progress: 55
@@ -34,3 +35,10 @@ Includes: ai-optimization, fusion-sage, bdd-strategizer, higher-order-decision-a
 Highest leverage. Core focus area.
 
 See [[Portfolio/Portfolio-MOC]].
+
+## Surplus Example (from daily use 2026-07-05)
+Used the skills library (ai-optimization for scouting projects, higher-order for energy decisions, fusion-sage for clustering) to build this very Portfolio MOC and project notes.
+
+Result: Clearer focus on Tier 1 (thepulimaangani + skills), visible connections via wikilinks, energy tracking started.
+
+This compounds: the act of managing the portfolio improves the skills themselves.
