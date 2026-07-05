@@ -2,6 +2,7 @@
 type: project
 cluster: "cultural-creative"
 weekly_energy_target: 3
+weekly_energy_logged: 0  # 2026-07-05 (deferred to next block)
 importance: 4
 urgency: 2
 progress: 40
