@@ -2,7 +2,7 @@
 type: project
 cluster: "cultural-creative"
 weekly_energy_target: 3
-weekly_energy_logged: 1.5  # 2026-07-05 (added venpa example + parser link)
+weekly_energy_logged: 2.0  # 2026-07-05 (added UI polish link + another example)
 importance: 4
 urgency: 2
 progress: 40
@@ -41,5 +41,6 @@ See [[Portfolio/Portfolio-MOC]].
 - Linked via build/tamil_seiyul_alagi_wasm.sh for the WASM build step that makes this available in browser.
 - This is polishing the parser integration.
 - Additional: Basic venpa (வெண்பா) line now segments correctly for initial test cases (e.g., "அறத்துப்பால்" structure).
+- UI polish note: Added simple CSS classes in the frontend for highlighting layers (see src/components/ProsodyHighlighter.tsx in the repo).
 
 Next: more venpa examples and UI polish.
