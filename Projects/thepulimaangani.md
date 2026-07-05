@@ -2,7 +2,7 @@
 type: project
 cluster: "cultural-creative"
 weekly_energy_target: 3
-weekly_energy_logged: 2.0  # 2026-07-05 (added UI polish link + another example)
+weekly_energy_logged: 2.25  # 2026-07-05 (added more venpa example + docs link)
 importance: 4
 urgency: 2
 progress: 40
@@ -42,5 +42,6 @@ See [[Portfolio/Portfolio-MOC]].
 - This is polishing the parser integration.
 - Additional: Basic venpa (வெண்பா) line now segments correctly for initial test cases (e.g., "அறத்துப்பால்" structure).
 - UI polish note: Added simple CSS classes in the frontend for highlighting layers (see src/components/ProsodyHighlighter.tsx in the repo).
+- Further: Added example output for "திருக்குறள்" style venpa in the docs (see docs/prosody-examples.md in the repo).
 
 Next: more venpa examples and UI polish.
