@@ -2,7 +2,7 @@
 type: project
 cluster: "cultural-creative"
 weekly_energy_target: 3
-weekly_energy_logged: 0  # 2026-07-05 (deferred to next block)
+weekly_energy_logged: 0.5  # 2026-07-05 (added prosody example section)
 importance: 4
 urgency: 2
 progress: 40
@@ -34,3 +34,10 @@ Rust WASM parser + modern web UI (TanStack/TS/React).
 Core Tier 1. Cultural anchor + technical excellence.
 
 See [[Portfolio/Portfolio-MOC]].
+
+## Prosody Example (small progress 2026-07-05)
+- Added basic support for asai (அசை) and seer (சீர்) segmentation in the Rust WASM parser (see rust-parser-prototype/).
+- Exposed the layer output to the TS/React UI for live highlighting of prosody structure (அடி / தொடை).
+- This is the start of polishing the integration.
+
+Next: more venpa examples and UI polish.
