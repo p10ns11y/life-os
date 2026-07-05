@@ -2,7 +2,7 @@
 type: project
 cluster: "agentic-reactor"
 weekly_energy_target: 3
-weekly_energy_logged: 1.0  # 2026-07-05 daily check + surplus + docs improvement
+weekly_energy_logged: 1.25  # 2026-07-05 daily check + surplus + docs improvement
 importance: 5
 urgency: 3
 progress: 55
@@ -44,4 +44,4 @@ Result: Clearer focus on Tier 1 (thepulimaangani + skills), visible connections 
 This compounds: the act of managing the portfolio improves the skills themselves.
 
 ## Small docs improvement (same day)
-Added note: "See Portfolio-MOC for example of using these skills to track personal projects, energy allocation, and connections in Obsidian."
+Added note: "See Portfolio-MOC for example of using these skills to track personal projects, energy allocation, and connections in Obsidian. Also useful for quick daily focus picks via MOC and energy gaps in frontmatter."
