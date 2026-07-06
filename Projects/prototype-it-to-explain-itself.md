@@ -1,13 +1,17 @@
 ---
 type: project
+status: "In Progress"
 cluster: "research-prototypes"
+github: https://github.com/p10ns11y/prototype-it-to-explain-itself
 weekly_energy_target: 1
 importance: 2
 urgency: 1
 progress: 15
-area: "[[Learning & Craft]]"
+area: "[[Learning]]"
 next_action: "Explore the core idea and document what 'explain itself' means in practice"
 review_date: 2026-07-15
+effort: low
+tags: [prototype, learning]
 ---
 
 # prototype-it-to-explain-itself
@@ -23,4 +27,4 @@ Located in Work/research/aiml/
 ## Energy Note
 Low regular allocation. Good for occasional deep dives and inspiration.
 
-See [[Portfolio/Portfolio-MOC]].
+See [[Projects/Portfolio-MOC]].

@@ -1,0 +1,15 @@
+---
+title: "The WebKitGTK Project"
+source: "https://webkitgtk.org/"
+author:
+published:
+created: 2026-06-04
+description:
+tags:
+  - "clippings"
+---
+![Screenshot of Epiphany using WebKitGTK](/images/screenshot.png)
+
+## Web content rendering
+
+WebKitGTK is a full-featured port of the WebKit rendering engine, suitable for projects requiring any kind of web integration, from hybrid HTML/CSS applications to full-fledged web browsers. It offers WebKit’s full functionality and is useful in a wide range of systems from desktop computers to embedded systems like phones, tablets, and televisions. WebKitGTK is made by a lively community of developers and designers,

@@ -1,14 +1,18 @@
 ---
 type: project
+status: "In Progress"
 cluster: "agentic-reactor"
+github: https://github.com/p10ns11y/skills
 weekly_energy_target: 3
 weekly_energy_logged: 2.0  # 2026-07-05 daily check + surplus + docs improvement
-importance: 5
+importance: 4
 urgency: 3
 progress: 55
-area: "[[Learning & Craft]]"
+area: "[[Career]]"
 next_action: "Add more surplus examples and improve discovery docs"
 review_date: 2026-07-09
+effort: high
+tags: [skills, meta]
 ---
 
 # skills
@@ -28,13 +32,14 @@ Includes: ai-optimization, fusion-sage, bdd-strategizer, higher-order-decision-a
 - Related to [[agent-prompt-tuning-lab]] (data source)
 
 ## Local / External
-- Work/personal/skills/
-- Intended for global ~/.cursor/skills or equivalent
+- Source: ~/Work/personal/skills/
+- Intended for global ~/.cursor/skills, ~/.grok/skills, or equivalent (symlinked or on PATH for agents)
+- This vault's agentic instructions: [[AGENTS.md]] (load skills before complex work here or on connected projects)
 
 ## Energy Note
 Highest leverage. Core focus area.
 
-See [[Portfolio/Portfolio-MOC]].
+See [[Projects/Portfolio-MOC]].
 
 ## Surplus Example (from daily use 2026-07-05)
 Used the skills library (ai-optimization for scouting projects, higher-order for energy decisions, fusion-sage for clustering) to build this very Portfolio MOC and project notes.

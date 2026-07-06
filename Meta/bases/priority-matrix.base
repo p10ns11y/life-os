@@ -106,10 +106,11 @@ views:
       - due
       - next_action
       - area
-
-  # Portfolio-specific views for project management
   - type: table
     name: By Cluster
+    sort:
+      - property: importance
+        direction: DESC
     columns:
       - file.name
       - cluster
@@ -118,13 +119,11 @@ views:
       - progress
       - next_action
       - area
-    sort:
-      - property: cluster
-      - property: importance
-        direction: DESC
-
   - type: table
     name: Energy Balance
+    sort:
+      - property: energy_gap
+        direction: DESC
     formulas:
       energy_gap: weekly_energy_target - (weekly_energy_logged or 0)
     columns:
@@ -134,10 +133,6 @@ views:
       - progress
       - energy_gap
       - next_action
-    sort:
-      - property: energy_gap
-        direction: DESC
-
   - type: table
     name: Portfolio Projects (High Value)
     filters:
@@ -179,5 +174,8 @@ views:
       - progress
       - area
       - has_action
+    columnSize:
+      formula.urgency_label: 172
+      formula.quadrant: 147
   - type: cards
     name: View

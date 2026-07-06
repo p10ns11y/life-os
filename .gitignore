@@ -2,12 +2,12 @@
 /private/
 /drafts/
 
-# Obsidian transient / personal state (avoid leaking layout, recent files, etc.)
-.obsidian/workspace.json
-.obsidian/cache/
-.obsidian/plugins/*/data.json
-*.bak
-*.tmp
+# Archives (historical/inactive notes — useful locally but not part of the active Life OS)
+# Keeps the repo lean and focused on current Projects, Areas, Inbox, and active Resources.
+Archives/
+
+# Obsidian (leaks personal config, workspace layout, recent files, enabled plugins, graph settings, custom themes/snippets, plugin data, etc.)
+.obsidian/
 
 # Potential PII and sensitive (audit before adding)
 **/*llm*
