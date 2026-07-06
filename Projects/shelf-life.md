@@ -1,6 +1,8 @@
 ---
 type: project
+status: "In Progress"
 cluster: "cultural-creative"
+github: https://github.com/thecuriousts/shelf-life
 weekly_energy_target: 2
 importance: 3
 urgency: 2
@@ -8,6 +10,8 @@ progress: 20
 area: "[[Creative]]"
 next_action: "Build basic shelf view and awakening tracking in a simple prototype"
 review_date: 2026-07-12
+effort: medium
+tags: [creative, shelf]
 ---
 
 # shelf-life
@@ -34,4 +38,4 @@ Inspired by personal reflections on books as living companions (see related poet
 ## Energy Note
 Medium priority for its personal and motivational value. Use for reflection time.
 
-See [[Portfolio/Portfolio-MOC]] for full picture.
+See [[Projects/Portfolio-MOC]] for full picture.

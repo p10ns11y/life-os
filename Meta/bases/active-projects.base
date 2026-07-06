@@ -1,0 +1,22 @@
+filters:
+  and:
+    - type == "project"
+    - status != "Done"
+    - status != "Archived"
+views:
+  - type: table
+    name: Active Projects
+    sort:
+      - property: importance
+        direction: DESC
+      - property: progress
+        direction: DESC
+    columns:
+      - file.name
+      - status
+      - importance
+      - urgency
+      - progress
+      - due
+      - next_action
+      - area

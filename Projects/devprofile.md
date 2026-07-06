@@ -1,6 +1,8 @@
 ---
 type: project
+status: "In Progress"
 cluster: "presence-career"
+github: https://github.com/p10ns11y/devprofile
 weekly_energy_target: 2
 importance: 4
 urgency: 3
@@ -8,6 +10,8 @@ progress: 50
 area: "[[Career]]"
 next_action: "Add more Q&A examples and improve PDF generation polish"
 review_date: 2026-07-11
+effort: medium
+tags: [career, profile]
 ---
 
 # devprofile
@@ -25,4 +29,4 @@ Modern Next.js portfolio with AI Q&A (grounded in CV data), interactive docs, an
 ## Energy Note
 Important for career visibility. Medium-high allocation.
 
-See [[Portfolio/Portfolio-MOC]].
+See [[Projects/Portfolio-MOC]].

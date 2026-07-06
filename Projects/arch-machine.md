@@ -1,13 +1,17 @@
 ---
 type: project
+status: "In Progress"
 cluster: "foundational-infra"
+github: https://github.com/p10ns11y/arch-machine
 weekly_energy_target: 2
 importance: 4
 urgency: 3
 progress: 60
-area: "[[Home / Automation & Systems]]"
+area: "[[Systems]]"
 next_action: "Integrate more skills for self-auditing agents and sentinels"
 review_date: 2026-07-10
+effort: high
+tags: [infra, arch]
 ---
 
 # arch-machine
@@ -33,4 +37,4 @@ Turns a fresh install into a secure, profile-based fortress with agents and sent
 ## Energy Note
 High leverage for everything else. Prioritize when it unlocks better workflows.
 
-See [[Portfolio/Portfolio-MOC]].
+See [[Projects/Portfolio-MOC]].

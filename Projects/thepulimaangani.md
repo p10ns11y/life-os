@@ -1,14 +1,18 @@
 ---
 type: project
+status: "In Progress"
 cluster: "cultural-creative"
+github: https://github.com/p10ns11y/thepulimaangani
 weekly_energy_target: 3
 weekly_energy_logged: 2.9  # 2026-07-05 (added test case + polish)
 importance: 4
 urgency: 2
 progress: 40
-area: "[[Cultural]]"
+area: "[[Creative]]"
 next_action: "Polish parser integration and add more prosody examples"
 review_date: 2026-07-08
+effort: high
+tags: [cultural, prosody]
 ---
 
 # thepulimaangani
@@ -33,7 +37,7 @@ Rust WASM parser + modern web UI (TanStack/TS/React).
 ## Energy Note
 Core Tier 1. Cultural anchor + technical excellence.
 
-See [[Portfolio/Portfolio-MOC]].
+See [[Projects/Portfolio-MOC]].
 
 ## Prosody Example (small progress 2026-07-05)
 - Added basic support for asai (அசை) and seer (சீர்) segmentation in the Rust WASM parser (see rust-parser-prototype/src/).

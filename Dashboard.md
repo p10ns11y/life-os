@@ -1,92 +1,71 @@
 # Life Dashboard
 
-> Last reviewed: 2026-07-05 • **Run full matrix review weekly.** Use this as your primary launch point.
+> Last reviewed: 2026-07-06 • **Run full matrix review weekly.** Use this as your primary launch point.
 
 ## Eisenhower Priority Matrix (via Obsidian Bases)
+Edit `importance` (1-4) + `urgency` (1-4) on notes with `type: project|area|task`. See [[Meta/schema.md]] for all properties (incl. cluster, weekly_energy_*), formulas, and conventions.
 
-**How to use**: Edit `importance` (1-4) and `urgency` (1-4) on any note. Items appear here automatically when they have those properties and are not Archived. Edit progress/next_action/due directly in the tables.
+### 🔴 DO FIRST
+![[Meta/bases/priority-matrix.base#🔴 DO FIRST]]
 
-### 🔴 DO FIRST — High Importance + High Urgency (Do these now)
-![[bases/priority-matrix.base#🔴 DO FIRST]]
+### 🟢 SCHEDULE
+![[Meta/bases/priority-matrix.base#🟢 SCHEDULE]]
 
-### 🟢 SCHEDULE — High Importance + Low Urgency (Plan & protect time)
-![[bases/priority-matrix.base#🟢 SCHEDULE]]
+### 🟡 DELEGATE
+![[Meta/bases/priority-matrix.base#🟡 DELEGATE]]
 
-### 🟡 DELEGATE — Low Importance + High Urgency (Automate, hand off, or timebox)
-![[bases/priority-matrix.base#🟡 DELEGATE]]
+### ⚪ ELIMINATE / Park
+![[Meta/bases/priority-matrix.base#⚪ ELIMINATE / Park]]
 
-### ⚪ ELIMINATE / Park — Low / Low (Delete, defer forever, or archive)
-![[bases/priority-matrix.base#⚪ ELIMINATE / Park]]
+**Momentum**: ![[Meta/bases/priority-matrix.base#By Progress (All)]]
 
-**All Actionables + Progress view** (for scanning momentum):
-![[bases/priority-matrix.base#By Progress (All)]]
+## 📋 All Todos & Actions
+![[Meta/bases/priority-matrix.base#📋 All Todos & Actions]]
 
-## 📋 All Todos & Actions (flat list, filter by urgency)
-This is the dedicated list view for all actionable todos and items with `next_action`.
+Filter in the base on `urgency` / `urgency_label` (formula) or `next_action`. Use templates for creation.
 
-- Switch to the **📋 All Todos & Actions** view inside the embedded base below (or open the .base file directly and select the view).
-- Columns include `urgency_label` (formula) + raw `urgency` for easy filtering.
-- In the base toolbar, click the **Filter** button to add conditions like:
-  - `urgency >= 3` (high or urgent)
-  - `urgency == 4`
-  - Or filter on the `urgency_label` text / `due` / `status`.
-- You can duplicate the view (via view menu) and save custom filtered versions (e.g. "My Urgent Todos").
-
-**Reference inspiration**: https://x.com/Peramanathan/status/1988118490524643681 (Eisenhower + task prioritization visuals)
-
-![[bases/priority-matrix.base#📋 All Todos & Actions]]
-
-## Portfolio Overview (Projects Management)
-
-Track connections, clusters, and energy/time allocation for code projects in `~/Work/personal`.
-
-- Open [[Portfolio/Portfolio-MOC]] for the full map with wikilinks and clusters.
-- Use Bases views:
-  - **By Cluster**
-  - **Energy Balance** (watch gaps)
-  - **Portfolio Projects (High Value)**
-- Graph view (filter Projects/ or tag #project) shows connections.
-- Update frontmatter on each project note (importance, urgency, weekly_energy_target, cluster, progress, next_action).
+## Portfolio Overview
+- Open [[Projects/Portfolio-MOC]] (clusters + energy).
+- Update project frontmatter: `cluster`, `weekly_energy_target`, `weekly_energy_logged`, `importance`, `progress`, `next_action`, `area`.
+- Bases: By Cluster, Energy Balance, Portfolio Projects (High Value).
 
 Current focus clusters: Agentic Reactor, Cultural/Creative, Foundations.
 
-See the plan for details on energy split and reviews.
+## Life Areas (canonical)
+All areas live flat in Areas/ as .md. Use Area template + update frontmatter.
 
-## Quick Capture & Creation
-- **New Project**: Command palette → "Templates: Insert template" → Project (or right-click in Projects/ → New from template)
-- **New Area**: Same → Area template
-- Anything captured in **Inbox/** should be processed during weekly review into a proper Project/Area or archived.
-- Use the core Properties pane (right side) on any note to add `importance`/`urgency`/`progress` etc. fast.
+- [[Areas/Career]]
+- [[Areas/Health]]
+- [[Areas/Finance]]
+- [[Areas/Learning]]
+- [[Areas/Relationships]]
+- [[Areas/Systems]]
+- [[Areas/Creative]]
+
+Tasks surface via the Todos view above (filter by area). See [[Meta/schema.md]].
 
 ## Weekly Review Ritual (5-15 min)
-1. Open this Dashboard.
-2. Go to the **All Actionables** view (for matrix) **or** the **📋 All Todos & Actions** view (for flat todo list + urgency filtering).
-3. For every visible item:
-   - Update `progress`
-   - Set or refine `next_action`
-   - Bump `review_date`
-   - Move status if needed (`Done` or `On Hold`)
-4. Pull 1-2 items from SCHEDULE into DO FIRST if capacity allows.
-5. Celebrate wins. Note energy/themes in this note or a daily note.
-6. Archive completed low-value items.
+1. Open Dashboard.
+2. Scan DO FIRST + All Todos & Actions (filter urgency >=3).
+3. Update `progress`, `next_action`, `review_date`, status for items.
+4. Move 1-2 from SCHEDULE if capacity.
+5. Celebrate. Log energy.
 
-**Quarterly surplus review**: Pull data from Bases + use AI (Grok/fusion) to generate `reviews/YYYY-Qx-life.md` (trajectory, quadrant balance, area health).
+**Quarterly**: use fusion-sage on Bases data for surplus reviews.
 
-## Active Projects Overview
-![[bases/active-projects.base]]
+## Active Projects
+![[Meta/bases/active-projects.base]]
 
-## Current Focus Areas (manual or base)
-- Career (xAI/Tesla prep, agentic tooling)
-- Systems & Automation (this vault, local agents, hermes etc.)
+## Quick Start
+- New: Templates → Project or Area
+- Properties pane for fast edits
+- Full rules: [[Meta/schema.md]]
+- Inbox/ only for capture (process in review)
 
 ## Links
-- [[Meta/schema.md]] — the canonical property rules
-- [[bases/priority-matrix.base]]
-- Inbox/
-- Areas/
-- Projects/
-- Resources/Clippings/
+- [[Meta/schema.md]] (source of truth)
+- [[Meta/bases/priority-matrix.base]]
+- [[Projects/Portfolio-MOC]]
+- Inbox/ | Areas/ | Projects/ | private/ | Resources/Clippings/
 
----
-
-*This is the living control surface for the vault-as-life-OS. The combination of simple frontmatter + powerful core Bases gives durable, low-maintenance prioritization and progress tracking.*
+*Simple frontmatter + Bases + templates = durable prioritization and progress. Update schema first for changes.*
