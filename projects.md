@@ -10,7 +10,6 @@ These are the active project notes (excluding the MOC itself and internal notes)
 
 - **skills** (Career | agentic-reactor) — Relevance: 4/4, Progress: 55%, Energy target: 3
 - **Collab Finder** (Career | agentic-reactor) — Relevance: 4/4, Progress: 70%, Energy target: 3
-- **xAI-and-Tesla** (Career | presence-career) — Relevance: 4/4, Progress: 40%, Energy target: 2
 - **devprofile** (Career | presence-career) — Relevance: 4/4, Progress: 50%, Energy target: 2
 - **arch-machine** (Systems | foundational-infra) — Relevance: 4/4, Progress: 60%, Energy target: 2
 - **thepulimaangani** (Creative | cultural-creative) — Relevance: 4/4, Progress: 40%, Energy target: 3
@@ -22,7 +21,6 @@ These are the active project notes (excluding the MOC itself and internal notes)
 - **elomaxz** (Systems | daily-foundations) — Relevance: 2/4, Progress: 10%, Energy target: 1
 - **premflow** (Systems | daily-foundations) — Relevance: 2/4, Progress: 10%, Energy target: 1
 - **prototype-it-to-explain-itself** (Learning | research-prototypes) — Relevance: 2/4, Progress: 15%, Energy target: 1
-- **UI polish** (Creative | cultural-creative) — Relevance: 2/4, Progress: 15%, Energy target: 1
 
 Relevance score is primarily based on `importance` (1-4) from each project's frontmatter, combined with strategic value (cluster priority and energy allocation).
 
@@ -51,7 +49,6 @@ flowchart TD
     %% Projects as nodes with relevance + progress
     skills["skills<br/>Relevance: 4/4<br/>Progress: 55%"]
     collab["Collab Finder<br/>Relevance: 4/4<br/>Progress: 70%"]
-    xai["xAI-and-Tesla<br/>Relevance: 4/4<br/>Progress: 40%"]
     dev["devprofile<br/>Relevance: 4/4<br/>Progress: 50%"]
     arch["arch-machine<br/>Relevance: 4/4<br/>Progress: 60%"]
     puli["thepulimaangani<br/>Relevance: 4/4<br/>Progress: 40%"]
@@ -63,7 +60,6 @@ flowchart TD
     elo["elomaxz<br/>Relevance: 2/4<br/>Progress: 10%"]
     prem["premflow<br/>Relevance: 2/4<br/>Progress: 10%"]
     proto["prototype-it-to-explain-itself<br/>Relevance: 2/4<br/>Progress: 15%"]
-    ui["UI polish<br/>Relevance: 2/4<br/>Progress: 15%"]
 
     %% Connections: Project → Cluster
     skills --> AR
@@ -76,10 +72,8 @@ flowchart TD
     prem --> DF
     dev --> PC
     latex --> PC
-    xai --> PC
     puli --> CC
     shelf --> CC
-    ui --> CC
     proto --> RP
 
     %% Connections: Project → Area (using frontmatter area)
@@ -88,7 +82,6 @@ flowchart TD
     tuning --> Career
     dev --> Career
     latex --> Career
-    xai --> Career
     arch --> Systems
     shelly --> Systems
     adapt --> Systems
@@ -96,7 +89,6 @@ flowchart TD
     prem --> Systems
     puli --> Creative
     shelf --> Creative
-    ui --> Creative
     proto --> Learning
 
     %% Styling by relevance score
@@ -104,9 +96,9 @@ flowchart TD
     classDef med fill:#fff9c4,stroke:#f9a825,stroke-width:2px
     classDef low fill:#eeeeee,stroke:#757575,stroke-width:1px
 
-    class skills,collab,xai,dev,arch,puli high
+    class skills,collab,dev,arch,puli high
     class tuning,latex,shelly,shelf med
-    class adapt,elo,prem,proto,ui low
+    class adapt,elo,prem,proto low
 ```
 
 ## Legend

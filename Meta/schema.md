@@ -65,4 +65,10 @@ Short names for clean display in tables and effective use. All 7 exist as flat .
 - templates/Project.md + Area.md
 - reviews/ (quarterly surplus notes)
 
+## Folder Conventions
+- `Projects/` — Long-term coding projects and major multi-step endeavors. Use `type: project`, full portfolio fields (cluster, weekly_energy_*, importance for life impact).
+- `Actions/` — Short-term, bounded tasks and actions. Prefer `type: task`. These surface in the "📋 All Todos & Actions" view. Do not put ongoing responsibilities or long-horizon work here.
+- `Areas/` — The 7 canonical ongoing responsibility areas (flat).
+- `Inbox/` — Temporary capture only.
+
 This schema + Bases is the iron-peak durable kernel. Future changes should update this file first.
