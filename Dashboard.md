@@ -66,6 +66,6 @@ Tasks surface via the Todos view above (filter by area). See [[Meta/schema.md]].
 - [[Meta/schema.md]] (source of truth)
 - [[Meta/bases/priority-matrix.base]]
 - [[Projects/Portfolio-MOC]]
-- Inbox/ | Areas/ | Projects/ | private/ | Resources/Clippings/
+- Inbox/ | Areas/ | Projects/ | Actions/ | private/ | Resources/Clippings/
 
 *Simple frontmatter + Bases + templates = durable prioritization and progress. Update schema first for changes.*

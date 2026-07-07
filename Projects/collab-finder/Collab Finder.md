@@ -17,7 +17,7 @@ tags: [agentic, tauri, collab, job-tools, rust]
 
 # Collab Finder (Personal Job Target Tool)
 
-Production-ready Tauri + Rust + TS/React agentic desktop app for rapid, high-quality evaluation of job opportunities (especially xAI-style roles) using Grok and structured prep packs.
+Production-ready Tauri + Rust + TS/React agentic desktop app for rapid, high-quality evaluation of job opportunities (especially SpaceXAI-style roles) using Grok and structured prep packs.
 
 ## Goal / Outcome
 Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailored prep pack in minutes, with reliable history, resume, and data integrity. Becomes the primary engine for my career navigation.
