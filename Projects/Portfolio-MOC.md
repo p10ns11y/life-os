@@ -1,8 +1,8 @@
-# Portfolio MOC
+# Portfolio Map of Content (Portfolio-MOC)
 
 This is the central map for all personal projects.
 
-See [[Dashboard]] for daily view and energy tracking. (MOC moved to Projects/ for folder simplification)
+See [[Dashboard]] for daily view and energy tracking. (Map of Content moved to Projects/ for folder simplification)
 
 Use the Graph (filter to Projects/ or tag #project) and Bases views to see connections and time allocation.
 

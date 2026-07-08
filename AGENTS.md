@@ -73,12 +73,12 @@ When an agent session touches this vault or connected projects (collab-finder, p
 
 ## premflow Connection
 
-`premflow` (CLI / agent flow tool) lives at `~/Work/personal/premflow/`.
+`premflow` (command line interface / agent flow tool) lives at `~/Work/personal/premflow/`.
 
 **Current plan (documented, not yet executed)**: Symlink premflow's `notes/`, `tasks/`, `journal/` (and key designs/artifacts) into this vault so its output participates in:
 - Eisenhower / priority matrix
 - Energy tracking (`weekly_energy_*`)
-- Portfolio-MOC and Dashboard
+- Portfolio Map of Content (Portfolio-MOC) and Dashboard
 - Unified weekly review
 
 See the dedicated section in `Projects/premflow.md` for the exact symlink intention and next_action.
@@ -99,16 +99,19 @@ Golden loop (inspired by premflow rules + skills):
 - Prefer **frontmatter + link** changes over rewriting prose in project descriptions.
 - When you must edit body text, keep the original voice and intent.
 - New projects/areas → use the templates.
-- After any area rename or mass frontmatter change: update `Meta/schema.md`, `Dashboard.md`, `Welcome.md`, `Projects/Portfolio-MOC.md`, and the templates if they contain examples.
+- After any area rename or mass frontmatter change: update `Meta/schema.md`, `Dashboard.md`, `Welcome.md`, `Projects/Portfolio-MOC.md` (Portfolio Map of Content), and the templates if they contain examples.
 - Commit message should explain *why* (mission alignment, energy, surplus), not just a file list.
 
 ## Quick Orientation for Agents
 
 - Start here: `Dashboard.md` + `Meta/schema.md`
-- Map: `Projects/Portfolio-MOC.md`
-- Current focus clusters: see Portfolio-MOC (agentic-reactor, cultural-creative, daily-foundations, foundational-infra, presence-career, research-prototypes)
+- Map: `Projects/Portfolio-MOC.md` (Portfolio Map of Content)
+- Current focus clusters: see Portfolio Map of Content (Portfolio-MOC) (agentic-reactor, cultural-creative, daily-foundations, foundational-infra, presence-career, research-prototypes)
 - Daily driver: open Dashboard → All Todos & Actions view → filter urgency.
 
 This vault improves itself. Every time you use the skills to work inside it, you are also feeding the skills project.
 
 Load the skills. Respect the schema. Verify before you declare victory.
+
+## Communication Rule for All Agents
+Never use abbreviations without first providing the full term. Always spell out the full form on first use (example: "Personal Knowledge Management (PKM)" instead of bare "PKM"). After the initial introduction, the abbreviation may be used sparingly if it improves readability without sacrificing clarity. This applies to all responses, notes, and edits.

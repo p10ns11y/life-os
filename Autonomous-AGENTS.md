@@ -50,7 +50,7 @@ Run this loop continuously (with appropriate sleep/polling intervals):
    - If a task reveals missing capability:
      - Propose and create a new project using `Meta/templates/Project.md`.
      - Assign appropriate `area` (one of the 7 canonical: Career, Health, Finance, Learning, Relationships, Systems, Creative).
-     - Assign `cluster` from existing Portfolio-MOC clusters (agentic-reactor, presence-career, daily-foundations, foundational-infra, cultural-creative, research-prototypes).
+     - Assign `cluster` from existing Portfolio Map of Content (Portfolio-MOC) clusters (agentic-reactor, presence-career, daily-foundations, foundational-infra, cultural-creative, research-prototypes).
      - Add to `[[Projects/Portfolio-MOC]]` and update the graph in `[[projects]]`.
    - Use `higher-order-decision-architect` and `stellar-roadmap` skills when scoping new work.
    - Never create new top-level folders without explicit plan.
@@ -63,14 +63,14 @@ Run this loop continuously (with appropriate sleep/polling intervals):
    - Feed improvements back into the vault (this system improves itself).
 
 6. **Continuous Health**
-   - Periodically regenerate or review `[[projects]]` graph and Portfolio-MOC when connections change.
+   - Periodically regenerate or review `[[projects]]` graph and Portfolio Map of Content (Portfolio-MOC) when connections change.
    - Contribute to `skills` when you discover better patterns.
    - Respect the planned premflow integration (see `Projects/premflow.md`) — once symlinked, use premflow's notes/tasks/journal as additional task sources.
 
 ## Key Interfaces for Autonomous Agents
 
 - **Task Sources**: `Dashboard.md`, `Meta/bases/priority-matrix.base`, project `next_action` + `review_date` fields, `Inbox/`.
-- **Project Map**: `[[Projects/Portfolio-MOC]]` + `[[projects]]` (Mermaid graph with relevance and connections).
+- **Project Map**: `[[Projects/Portfolio-MOC]]` (Portfolio Map of Content) + `[[projects]]` (Mermaid graph with relevance and connections).
 - **Rules**: `[[Meta/schema.md]]`, `[[AGENTS.md]]`.
 - **Templates**: `Meta/templates/Project.md` and `Area.md`.
 - **Skills Library**: `~/Work/personal/skills/`.
@@ -91,7 +91,7 @@ An autonomous agent might:
 - Pick the highest relevance unfinished task in a Tier 1 cluster.
 - Load `ai-optimization` + `fusion-sage`.
 - Execute, update the project note with progress/energy.
-- If the task suggests a new capability, create a small project, update Portfolio-MOC and the graph.
+- If the task suggests a new capability, create a small project, update Portfolio Map of Content (Portfolio-MOC) and the graph.
 - Verify, log, sleep.
 
 This vault is the single source of truth. Autonomous agents should treat it as their memory, task queue, and improvement log.

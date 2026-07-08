@@ -25,7 +25,7 @@ Edit `importance` (1-4) + `urgency` (1-4) on notes with `type: project|area|task
 Filter in the base on `urgency` / `urgency_label` (formula) or `next_action`. Use templates for creation.
 
 ## Portfolio Overview
-- Open [[Projects/Portfolio-MOC]] (clusters + energy).
+- Open [[Projects/Portfolio-MOC]] (Portfolio Map of Content, clusters + energy).
 - Update project frontmatter: `cluster`, `weekly_energy_target`, `weekly_energy_logged`, `importance`, `progress`, `next_action`, `area`.
 - Bases: By Cluster, Energy Balance, Portfolio Projects (High Value).
 

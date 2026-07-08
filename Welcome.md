@@ -7,7 +7,7 @@ This is your **Life OS vault**.
 
 ## Structure
 - Areas/ (flat, 7 canonical: Career, Health, Finance, Learning, Relationships, Systems, Creative)
-- Projects/ (long-term coding / major projects) + Portfolio-MOC
+- Projects/ (long-term coding / major projects) + Portfolio Map of Content (Portfolio-MOC)
 - Actions/ (short-term tasks and actions)
 - Inbox/ (capture only; dated + reviews stay)
 - private/ (sensitive)

@@ -26,7 +26,7 @@ See [[Projects/Portfolio-MOC]].
 ## Vault Integration (notes / tasks / journal)
 **Planned**: Symlink or connect premflow's notes/, tasks/, and journal/ (and relevant designs/artifacts) into this vault.
 
-This space (the Life OS vault) will become the unified view for premflow's ongoing work, daily logs, and tasks so they participate in the Eisenhower matrix, energy tracking, and Portfolio-MOC.
+This space (the Life OS vault) will become the unified view for premflow's ongoing work, daily logs, and tasks so they participate in the Eisenhower matrix, energy tracking, and Portfolio Map of Content (Portfolio-MOC).
 
 Implementation deferred — add the note for now. When ready, something like:
 
