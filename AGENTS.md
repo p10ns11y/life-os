@@ -67,6 +67,8 @@ Key skills you will almost always want (in rough order of use):
 These are intended to be available globally (`~/.cursor/skills`, `~/.grok/skills`, symlinked, or explicitly loaded via path).
 
 When an agent session touches this vault or connected projects (collab-finder, premflow, arch-machine, shellyxz, skills, thepulimaangani, etc.):
+- For a connected coding project, first read its local `AGENTS.md` (e.g. collab-finder/AGENTS.md) + consult/update the corresponding `Projects/<name>/` note in this vault for session scope / next_action.
+- Always close the loop by updating the life-os project card (frontmatter + brief session outcome).
 1. Read the relevant skill(s).
 2. Use them (especially for planning, surplus, refactors, verification).
 3. Record the usage + outcome in the project note or daily log (see "Surplus Example" pattern in `Projects/skills.md`).
