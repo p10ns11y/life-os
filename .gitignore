@@ -41,6 +41,14 @@ Archives/
 *.zip
 *.tar.gz
 
+# Exceptions: track important reference materials in these folders
+# (tech papers and whitepapers are core to the vault's knowledge base)
+# Directory + recursive un-ignore is required to override the earlier *.pdf etc. rules.
+!Resources/whitepapers/
+!Resources/whitepapers/**
+!Resources/techpapers/
+!Resources/techpapers/**
+
 # OS / editor
 .DS_Store
 Thumbs.db
