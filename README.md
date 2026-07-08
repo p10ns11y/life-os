@@ -67,6 +67,7 @@ The result is lightweight, decision-focused, and explicitly built to support age
 - [[Projects/Portfolio-MOC]]
 - [[Meta/schema.md]]
 - [[AGENTS.md]]
-- GitHub: https://github.com/p10ns11y/notes
+- [[Resources/index]] — Index and references for assets (whitepapers, techpapers, etc.)
+- GitHub: https://github.com/p10ns11y/life-os
 
 This vault improves itself. Every time the system is used to plan or review work, the knowledge compounds.
