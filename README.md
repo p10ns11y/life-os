@@ -7,7 +7,7 @@ This is my central **Life OS** — combining areas of responsibility, active pro
 ## Quick Start
 
 - Open [[Dashboard]] for the daily view (Eisenhower matrix + progress)
-- Browse [[Projects/Portfolio-MOC]] for the project map
+- Browse [[Projects/Portfolio-MOC]] for the project map (Portfolio Map of Content)
 - See [[Meta/schema.md]] for the canonical property rules and area list
 - Use [[AGENTS.md]] when working with AI agents or coding in connected projects
 
@@ -33,7 +33,7 @@ This is my central **Life OS** — combining areas of responsibility, active pro
 
 See [[projects]] for a visual graph of projects, clusters, areas, and connections.
 
-Current focus clusters (from Portfolio-MOC):
+Current focus clusters (from Portfolio Map of Content):
 - Agentic Reactor / Self-Guarded Kernel
 - Presence + Career Leverage
 - Daily Foundations + Infra

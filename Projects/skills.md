@@ -42,11 +42,11 @@ Highest leverage. Core focus area.
 See [[Projects/Portfolio-MOC]].
 
 ## Surplus Example (from daily use 2026-07-05)
-Used the skills library (ai-optimization for scouting projects, higher-order for energy decisions, fusion-sage for clustering) to build this very Portfolio MOC and project notes.
+Used the skills library (ai-optimization for scouting projects, higher-order for energy decisions, fusion-sage for clustering) to build this very Portfolio Map of Content (Portfolio-MOC) and project notes.
 
 Result: Clearer focus on Tier 1 (thepulimaangani + skills), visible connections via wikilinks, energy tracking started.
 
 This compounds: the act of managing the portfolio improves the skills themselves.
 
 ## Small docs improvement (same day)
-Added note: "See Portfolio-MOC for example of using these skills to track personal projects, energy allocation, and connections in Obsidian. Also useful for quick daily focus picks via MOC and energy gaps in frontmatter. Helps decide when to switch between Tier 1 projects based on remaining energy. For example, thepulimaangani's cultural value makes it high priority despite energy. Can also use the Base view to surface high-value items quickly."
+Added note: "See Portfolio Map of Content (Portfolio-MOC) for example of using these skills to track personal projects, energy allocation, and connections in Obsidian. Also useful for quick daily focus picks via Map of Content and energy gaps in frontmatter. Helps decide when to switch between Tier 1 projects based on remaining energy. For example, thepulimaangani's cultural value makes it high priority despite energy. Can also use the Base view to surface high-value items quickly."

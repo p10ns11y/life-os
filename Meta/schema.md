@@ -15,7 +15,7 @@ This is the single source of truth for the life areas + projects system. All new
 - **review_date** (date): When to intentionally touch this again.
 - **effort** (text, optional): `low` | `medium` | `high`
 - **tags** (list)
-- **cluster** (text): Portfolio grouping key used by Portfolio-MOC and Bases energy views (e.g. "agentic-reactor", "cultural-creative", "daily-foundations", "foundational-infra", "presence-career", "research-prototypes").
+- **cluster** (text): Portfolio grouping key used by Portfolio Map of Content (Portfolio-MOC) and Bases energy views (e.g. "agentic-reactor", "cultural-creative", "daily-foundations", "foundational-infra", "presence-career", "research-prototypes").
 - **weekly_energy_target** (number): Planned weekly hours/units for this project. Enables energy balance tracking.
 - **weekly_energy_logged** (text): Actual logged value with optional note, e.g. `2.0  # 2026-07-05 daily check + surplus`. Used in Portfolio views.
 

@@ -6,7 +6,7 @@ See [[Portfolio-MOC]] for the canonical cluster definitions and [[Dashboard]] fo
 
 ## Real Projects (from Projects/ folder)
 
-These are the active project notes (excluding the MOC itself and internal notes):
+These are the active project notes (excluding the Map of Content itself and internal notes):
 
 - **skills** (Career | agentic-reactor) — Relevance: 4/4, Progress: 55%, Energy target: 3
 - **Collab Finder** (Career | agentic-reactor) — Relevance: 4/4, Progress: 70%, Energy target: 3
