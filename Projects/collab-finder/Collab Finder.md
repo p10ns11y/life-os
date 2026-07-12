@@ -3,17 +3,17 @@ type: project
 status: "In Progress"
 importance: 4
 urgency: 3
-progress: 72
+progress: 78
 area: "[[Career]]"
 cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/collab-finder
 weekly_energy_target: 3
-weekly_energy_logged: 3.5  # 2026-07-08: CV packet persist + devprofile grounding + propose sidecar wiring + tests + life-os thin + delta gen (goal)
+weekly_energy_logged: 3.5  # 2026-07-12: looper skill + UI polish + React pure panels/sticky CV (~3.5); prior week CV wiring retained in session notes
 due: 2026-08-15
-next_action: "Wire CV packet persist on Quick Target (kill restore warning) + devprofile_path + pruned cvdata read + 'Propose CV suggestions as sidecar' button+preview (cv-promote-guard sidecar-first). Surface in prep panel. Generate patch from prep suggestions vs real cvdata. (See 2026-07-08 daily note.)"
-review_date: 2026-07-08
+next_action: "Dogfood dual-fit Analyze + Prep in desktop app; note any CV-packet/restore friction; hold XState until a multi-step cancelable client pipeline needs it."
+review_date: 2026-07-13
 effort: high
-tags: [agentic, tauri, collab, job-tools, rust]
+tags: [agentic, tauri, collab, job-tools, rust, react]
 ---
 
 # Collab Finder (Personal Job Target Tool)
@@ -24,34 +24,36 @@ Production-ready Tauri + Rust + TS/React agentic desktop app for rapid, high-qua
 Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailored prep pack in minutes, with reliable history, resume, and data integrity. Becomes the primary engine for my career navigation.
 
 ## Shipped (high-grade)
-- Core "Evaluate fit" + "Generate prep pack" hero loop (Grok-4.3 structured output)
-- Rich CV packet handling + context-aware prep
+- Core "Evaluate fit" + "Generate prep pack" hero loop (Grok structured output)
+- Rich CV packet handling + context-aware prep + dual-fit / proof-variant prep work
 - Full MVU architecture, persistence (SQLite + JSON blobs), state hydration
-- History "Job targets", Data table, resume-last affordance
-- Data integrity (dedup, schema v4)
+- History / Data / resume affordances; data integrity (dedup, schema)
+- **Agent control plane**: `looper` skill (structured loops, multi-model routing, Loop Cards)
+- **Product UI system**: PRODUCT/DESIGN + shared viewport/panel/chip language
+- **React client quality**: pure status-enum panels (xAI, devprofile), sticky CV open, keyboard/rail pure helpers + verify runners
 
-## Current Focus / Open (from latest review)
-- CV packet metadata persist on Quick Target (no "not stored" on restore) + devprofile real CV grounding + sidecar proposals from prep cv_suggestions (guard wiring)
-- History/Data/Stats trust + resume paths
-- Polish + tests to raise daily-driver grade
+## Current Focus / Open
+- Dogfood Analyze + Prep end-to-end in the app (trust the hero loop daily)
+- History/Data/Stats secondary paths when needed via palette
+- Full CV promote guard UX (diff + confirm + .bak) if gaps appear in dogfood
+- **Not** XState adoption yet (MVU owns domain; local reducers own Tauri forms)
 
 ## Next Actions
-- Complete CV packet persist + devprofile_path + propose-sidecar (in progress this goal)
-- Address refresh races + secondary screen reliability
-- Make resume path rock-solid
-- Iterate on UX per reports (B+ visual, A core flow)
+- See `next_action` frontmatter (dogfood dual-fit)
+- Keep session detail in dated notes under this folder (thin main note)
 
 ## Links
-- Source / worktree notes in previous sessions
 - Area: [[Areas/Career]]
-- Related automation notes moved to Resources if needed
-- Vault system: [[Dashboard]]
-
-**Status as of plan adoption**: Strong foundation landed. Next value is making the "after the hero action" experience trustworthy and delightful.
+- Cluster map: [[Projects/Portfolio-MOC]]
+- Skills library (meta): [[Projects/skills]]
+- Devprofile CV: [[Projects/devprofile]]
+- Vault: [[Dashboard]]
 
 ## Connections (Obsidian)
 - Uses patterns from [[Projects/skills]]
 - Synergizes with [[Projects/devprofile]] for CV/presence
 - See [[Projects/Portfolio-MOC]]
 
-**Session details for 2026-07-08 (CV wiring goal + life-os hygiene)**: [[2026-07-08]] (inside this project folder; keeps main note thin per schema).
+## Session log (detail notes)
+- [[2026-07-08]] — CV packet persist + devprofile path + sidecar propose
+- [[2026-07-12]] — looper skill + impeccable UI polish + React optimize / XState eval
