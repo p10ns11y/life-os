@@ -4,13 +4,13 @@ status: "In Progress"
 cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/skills
 weekly_energy_target: 3
-weekly_energy_logged: 2.0  # 2026-07-05 daily check + surplus + docs improvement
+weekly_energy_logged: 2.5  # 2026-07-12: looper skill promoted into skills library from collab-finder
 importance: 4
 urgency: 3
-progress: 55
+progress: 58
 area: "[[Career]]"
-next_action: "Add more surplus examples and improve discovery docs"
-review_date: 2026-07-09
+next_action: "Symlink looper into ~/.cursor/skills if not already; add surplus example for structured loops; improve discovery docs"
+review_date: 2026-07-12
 effort: high
 tags: [skills, meta]
 ---
@@ -19,7 +19,7 @@ tags: [skills, meta]
 
 Library of agent skills for token-efficient context, safe orchestration, supply-chain hardening, and self-guarded workflows.
 
-Includes: ai-optimization, fusion-sage, bdd-strategizer, higher-order-decision-architect, stellar-roadmap, verification, git-worktrees, and many more.
+Includes: ai-optimization, fusion-sage, looper, bdd-strategizer, higher-order-decision-architect, stellar-roadmap, verification, git-worktrees, and many more.
 
 ## Why it matters
 - The meta project that improves all others
@@ -30,7 +30,7 @@ Includes: ai-optimization, fusion-sage, bdd-strategizer, higher-order-decision-a
 - Powers [[Projects/collab-finder]] (reactor, guards)
 - Used across the entire portfolio for execution and planning
 - Related to [[agent-prompt-tuning-lab]] (data source)
-- **2026-07-12**: collab-finder shipped in-repo **looper** (structured agent loops / multi-model routing) under `.agents/skills/looper` — portable control plane composing orchestrator + fusion/fission; see [[Projects/collab-finder/2026-07-12]]
+- **2026-07-12**: **looper** is in the skills library (`~/Work/personal/skills/looper` + `rules/looper.mdc`) — structured agent loops / multi-model routing; collab-finder keeps a project-local vendor under `.agents/skills/looper` (see [[Projects/collab-finder/2026-07-12]])
 
 ## Local / External
 - Source: ~/Work/personal/skills/
