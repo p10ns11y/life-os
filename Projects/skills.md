@@ -30,6 +30,7 @@ Includes: ai-optimization, fusion-sage, bdd-strategizer, higher-order-decision-a
 - Powers [[Projects/collab-finder]] (reactor, guards)
 - Used across the entire portfolio for execution and planning
 - Related to [[agent-prompt-tuning-lab]] (data source)
+- **2026-07-12**: collab-finder shipped in-repo **looper** (structured agent loops / multi-model routing) under `.agents/skills/looper` — portable control plane composing orchestrator + fusion/fission; see [[Projects/collab-finder/2026-07-12]]
 
 ## Local / External
 - Source: ~/Work/personal/skills/

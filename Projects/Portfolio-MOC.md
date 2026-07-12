@@ -11,7 +11,7 @@ Use the Graph (filter to Projects/ or tag #project) and Bases views to see conne
 ### 1. Agentic Reactor / Self-Guarded Kernel
 Core tools for safe agents.
 - [[Projects/skills]] (meta library)
-- [[Projects/collab-finder]]
+- [[Projects/collab-finder]] — daily-driver job target reactor; **looper** skill + polished React shell (sessions [[Projects/collab-finder/2026-07-12|2026-07-12]])
 - [[Projects/agent-prompt-tuning-lab]]
 
 ### 2. Presence + Career Leverage
@@ -46,7 +46,7 @@ See Bases views in [[Meta/bases/priority-matrix.base]] for energy balance and Ei
 
 Track weekly energy in each project note's frontmatter.
 
-Current focus (example): Tier 1 on thepulimaangani + skills.
+Current focus (example): Tier 1 on thepulimaangani + skills; **agentic-reactor** active on collab-finder dogfood (dual-fit) after looper/UI/React wave ([[Projects/collab-finder/2026-07-12]]).
 
 ## Links
 - [[Areas/Career]]
