@@ -8,7 +8,7 @@ See [[Portfolio-MOC]] for the canonical cluster definitions and [[Dashboard]] fo
 
 These are the active project notes (excluding the Map of Content itself and internal notes):
 
-- **skills** (Career | agentic-reactor) — Relevance: 4/4, Progress: 55%, Energy target: 3
+- **skills** (Career | agentic-reactor) — Relevance: 4/4, Progress: 58%, Energy target: 3
 - **Collab Finder** (Career | agentic-reactor) — Relevance: 4/4, Progress: 78%, Energy target: 3
 - **devprofile** (Career | presence-career) — Relevance: 4/4, Progress: 50%, Energy target: 2
 - **arch-machine** (Systems | foundational-infra) — Relevance: 4/4, Progress: 60%, Energy target: 2
