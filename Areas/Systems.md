@@ -21,6 +21,7 @@ tags: [automation, systems]
 - Documented boundaries and quick recovery
 
 **Current Focus / Active Projects**:
+- [[Projects/peram-vault/README|peram-vault]] — local PQ vault SoT (`~/.local/share/peram-vault`) + Collections dry-run
 - [[Projects/arch-machine/README|arch-machine]]
 - [[Projects/shellyxz/README|shellyxz]]
 - [[Projects/adaptate/README|adaptate]]
@@ -28,4 +29,5 @@ tags: [automation, systems]
 - [[Projects/premflow/README|premflow]]
 
 ## Review Log
+- 2026-07-13: Linked peram-vault (PQ encrypted local SoT; Collections export satellite).
 - 2026-07-06: Created from schema as canonical flat area note (originally "Home", renamed to Systems for clarity).

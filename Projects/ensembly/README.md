@@ -81,5 +81,7 @@ Operator opens turn or watch and **knows** the next body act and next authorizat
 ## Session log
 
 - [[Projects/ensembly/sessions/2026-07-12|2026-07-12]]
-- [[Projects/ensembly/sessions/2026-07-13|2026-07-13]]
+- [[Projects/ensembly/sessions/2026-07-13|2026-07-13]] — last-mile + MAP/PREMFLOW/wealth/cultural titles index
 - [[Projects/ensembly/sessions/2026-07-13-copilot|2026-07-13 copilot model]]
+
+*Last 30d mine (2026-07-13): Grok-heavy (ensembly cwd); Cursor had no ensembly agent-transcripts in window.*

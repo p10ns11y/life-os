@@ -33,3 +33,7 @@ Hub for **identity sovereignty** across Tamil/India roots, Swedish place-life, a
 ## Bio frame (anchors)
 
 Born **1987**, **Thanjavur, Tamil Nadu**; ~**23 years** in India; **Sweden from ~2010**; international study; **English-primary** multinational work.
+
+## Session log
+
+*Last 30d mine: hub + three-cultures-coaching active 2026-07-13 (ensembly cultural titles); no dated sessions/ folder yet — sibling cards hold practice logs.*

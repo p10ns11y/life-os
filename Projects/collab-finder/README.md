@@ -63,6 +63,9 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 
 ## Session log
 
-- [[Projects/collab-finder/sessions/2026-07-08|2026-07-08]]
-- [[Projects/collab-finder/sessions/2026-07-11|2026-07-11]]
-- [[Projects/collab-finder/sessions/2026-07-12|2026-07-12]]
+- [[Projects/collab-finder/sessions/2026-07-08|2026-07-08]] — CV packet + devprofile + sidecar
+- [[Projects/collab-finder/sessions/2026-07-09|2026-07-09]] — life-os tracker / AGENTS links
+- [[Projects/collab-finder/sessions/2026-07-11|2026-07-11]] — CV mojibake + dual-fit gap analysis
+- [[Projects/collab-finder/sessions/2026-07-12|2026-07-12]] — looper + UI + React pure panels
+
+*Last 30d mine: Grok dominant 07-08→12; Cursor 07-12 PR review session.*

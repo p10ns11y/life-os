@@ -25,9 +25,10 @@ Tools for showing work and finding opportunities.
 ### 3. Daily Foundations + Infra
 Daily tools and self-auditing systems.
 - [[Projects/ensembly/README|ensembly]] — **digital clone / Game of Peram** · sessions [[Projects/ensembly/sessions/2026-07-13|2026-07-13]]
+- [[Projects/peram-vault/README|peram-vault]] — **local PQ vault SoT** + xAI Collections dry-run (`~/Work/personal/peram-vault`)
 - [[Projects/shellyxz/README|shellyxz]] (https://github.com/p10ns11y/shellyxz.sh, `~/.config/shell`)
 - [[Projects/arch-machine/README|arch-machine]] (~/arch-machine)
-- [[Projects/premflow/README|premflow]] (https://github.com/thecuriousts/premflow)
+- [[Projects/premflow/README|premflow]] — shared SoT · [[Projects/premflow/sessions/2026-07-13|2026-07-13]]
 - [[Projects/adaptate/README|adaptate]]
 - [[Projects/elomaxz/README|elomaxz]]
 
@@ -43,6 +44,9 @@ Language, culture, history, and move optionality (Sweden base + US willingness).
 - [[Projects/swedish-assimilation/README|swedish-assimilation]] — Swedish essentials (read · speech · write) + culture/history → integration
 - [[Projects/america-move-prep/README|america-move-prep]] — US communication, civics/culture, practical move checklist
 
+### 4c. Personal Finance
+- [[Projects/wealth-dd/README|wealth-dd]] — wealth-growth CLI (debts, runway, tax SE/IN/US) · sessions [[Projects/wealth-dd/sessions/2026-07-13|2026-07-13]]
+
 ### 5. Research Prototypes
 Experiments for learning.
 - [[Projects/prototype-it-to-explain-itself/README|prototype-it-to-explain-itself]]
@@ -56,7 +60,7 @@ See Bases views in [[Meta/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-07-13):** collab-finder dogfood (dual-fit) · ensembly dogfood (turn/claim/complete) · skills library (looper) · **swedish-assimilation** (read aloud + diary) · **america-move-prep** (US target brief) · shell when friction appears.
+**Current focus (2026-07-13, post 30d mine):** ensembly dogfood (turn/claim/complete + copilot) · collab-finder dogfood (dual-fit) · **wealth-dd** brief with private ledger · **premflow** capture/`flow` SoT · swedish-assimilation + america-move-prep practice · skills (looper) · shell when friction appears.
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]

@@ -124,3 +124,9 @@ Log under `sessions/YYYY-MM-DD.md` (minutes + what + one friction).
 - Area: [[Areas/Learning]] · [[Areas/Career]]
 - Sibling: [[Projects/america-move-prep/README|america-move-prep]]
 - Portfolio: [[Projects/Portfolio-MOC|Portfolio-MOC]] · cluster *cultural-integration*
+
+## Session log
+
+- [[Projects/swedish-assimilation/sessions/2026-07-13|2026-07-13]] — project kickoff
+
+*Last 30d mine: opened 2026-07-13 (ensembly cultural titles).*
