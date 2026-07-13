@@ -21,9 +21,14 @@ tags: [learning]
 - Time logged in deliberate practice
 
 **Current Focus / Active Projects**:
+- [[Projects/cultural-integration/three-cultures-coaching|Three fields, one sovereignty]] — Tamil × Sweden × America coaching (freedom without forced acting)
+- [[Projects/cultural-integration/README|cultural-integration]] — hub
+- [[Projects/swedish-assimilation/README|swedish-assimilation]] — Swedish read/speech/write + culture/history → integration
+- [[Projects/america-move-prep/README|america-move-prep]] — US move prep (communication, civics/culture, practical checklist)
 - [[Projects/skills/README|skills]]
 - [[Projects/prototype-it-to-explain-itself/README|prototype-it-to-explain-itself]]
 - [[Projects/agent-prompt-tuning-lab/README|agent-prompt-tuning-lab]]
 
 ## Review Log
+- 2026-07-13: Added swedish-assimilation + america-move-prep (cultural integration tracks).
 - 2026-07-06: Created from schema as canonical flat area note. (Projects remapped here from prior non-canonical)

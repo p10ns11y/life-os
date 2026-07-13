@@ -21,7 +21,7 @@ tags: [finance]
 - Clear budget and quarterly financial reviews
 
 **Current Focus / Active Projects**:
-- (none active yet; integrate with daily tools and career income)
+- [[Projects/finance-dd/README|finance-dd]] — local debt-avalanche + runway decision brief (`~/Work/personal/finance-dd`, `npm run brief`)
 
 ## Review Log
 - 2026-07-06: Created from schema as canonical flat area note.

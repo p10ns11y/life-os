@@ -22,6 +22,10 @@ These are the active project **folders** (`Projects/{slug}/README.md` + `session
 - **elomaxz** (Systems | daily-foundations) — Relevance: 2/4, Progress: 10%, Energy target: 1
 - **premflow** (Systems | daily-foundations) — Relevance: 2/4, Progress: 10%, Energy target: 1
 - **prototype-it-to-explain-itself** (Learning | research-prototypes) — Relevance: 2/4, Progress: 15%, Energy target: 1
+- **cultural-integration** (Learning | cultural-integration) — Relevance: 4/4, Progress: 20%, Energy target: 1 — three-cultures coaching note (Tamil × SE × US)
+- **swedish-assimilation** (Learning | cultural-integration) — Relevance: 4/4, Progress: 5%, Energy target: 3 — Swedish read/speech/write + culture/history
+- **america-move-prep** (Career | cultural-integration) — Relevance: 3/4, Progress: 5%, Energy target: 2 — US move readiness (comms, civics, checklist)
+- **finance-dd** (Finance | personal-finance) — Relevance: 4/4, Progress: 40%, Energy target: 2 — debt avalanche + runway brief
 
 Relevance score is primarily based on `importance` (1-4) from each project's frontmatter, combined with strategic value (cluster priority and energy allocation).
 

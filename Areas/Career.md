@@ -22,8 +22,11 @@ tags: [career]
 
 **Current Focus / Active Items**:
 - [[Projects/collab-finder/Collab Finder|Collab Finder]] (primary agentic job target tool)
+- [[Projects/america-move-prep/README|america-move-prep]] — US optionality (target brief, civics, move checklist; no filings from vault)
+- [[Projects/swedish-assimilation/README|swedish-assimilation]] — Swedish workplace/society language readiness
 - [[Actions/SpaceXAI-and-Tesla|SpaceXAI / Tesla positioning and applications]]
 - Vault-as-life-OS (this system)
 
 ## Review Log
+- 2026-07-13: Linked america-move-prep + swedish-assimilation (mobility / local integration).
 - 2026-07-05: Initialized structured Area with full properties + linked to priority matrix.

@@ -21,7 +21,9 @@ tags: [relationships]
 - Low loneliness + high signal connections
 
 **Current Focus / Active Projects**:
-- (leverage collab-finder and presence projects for professional community)
+- [[Projects/cultural-integration/three-cultures-coaching|Three fields, one sovereignty]] — multi-culture harmony without forced acting (Tamil · Sweden · America)
+- Professional community: leverage collab-finder and presence projects
 
 ## Review Log
+- 2026-07-13: Linked cultural-integration coaching note (cross-cultural self/relationships).
 - 2026-07-06: Created from schema as canonical flat area note.

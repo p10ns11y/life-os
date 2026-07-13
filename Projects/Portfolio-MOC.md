@@ -36,6 +36,13 @@ High personal meaning projects.
 - [[Projects/thepulimaangani/README|thepulimaangani]]
 - [[Projects/shelf-life/README|shelf-life]] (https://github.com/thecuriousts/shelf-life)
 
+### 4b. Cultural Integration / Place Readiness
+Language, culture, history, and move optionality (Sweden base + US willingness).
+- [[Projects/cultural-integration/three-cultures-coaching|Three fields, one sovereignty]] — philosopher-king note: commons, conflicts, freedom without forced acting
+- [[Projects/cultural-integration/README|cultural-integration]] — hub
+- [[Projects/swedish-assimilation/README|swedish-assimilation]] — Swedish essentials (read · speech · write) + culture/history → integration
+- [[Projects/america-move-prep/README|america-move-prep]] — US communication, civics/culture, practical move checklist
+
 ### 5. Research Prototypes
 Experiments for learning.
 - [[Projects/prototype-it-to-explain-itself/README|prototype-it-to-explain-itself]]
@@ -49,10 +56,10 @@ See Bases views in [[Meta/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-07-13):** collab-finder dogfood (dual-fit) · ensembly dogfood (turn/claim/complete) · skills library (looper) · shell when friction appears.
+**Current focus (2026-07-13):** collab-finder dogfood (dual-fit) · ensembly dogfood (turn/claim/complete) · skills library (looper) · **swedish-assimilation** (read aloud + diary) · **america-move-prep** (US target brief) · shell when friction appears.
 
 ## Links
-- [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]]
+- [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]
 - [[projects]] — visual graph of projects
 - Git: https://github.com/p10ns11y/life-os
 
