@@ -21,7 +21,7 @@ tags: [automation, systems]
 - Documented boundaries and quick recovery
 
 **Current Focus / Active Projects**:
-- [[Projects/peram-vault/README|peram-vault]] — local PQ vault SoT (`~/.local/share/peram-vault`) + Collections dry-run
+- [[Projects/peram-vault/README|peram-vault]] — local PQ vault SoT (path via private map ref `vault.sot` only) + Collections dry-run
 - [[Projects/arch-machine/README|arch-machine]]
 - [[Projects/shellyxz/README|shellyxz]]
 - [[Projects/adaptate/README|adaptate]]

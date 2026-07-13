@@ -25,7 +25,7 @@ Tools for showing work and finding opportunities.
 ### 3. Daily Foundations + Infra
 Daily tools and self-auditing systems.
 - [[Projects/ensembly/README|ensembly]] — **digital clone / Game of Peram** · sessions [[Projects/ensembly/sessions/2026-07-13|2026-07-13]]
-- [[Projects/peram-vault/README|peram-vault]] — **local PQ vault SoT** + xAI Collections dry-run (`~/Work/personal/peram-vault`)
+- [[Projects/peram-vault/README|peram-vault]] — **local PQ vault SoT** + xAI Collections dry-run (code/path via private map; no public disk location)
 - [[Projects/shellyxz/README|shellyxz]] (https://github.com/p10ns11y/shellyxz.sh, `~/.config/shell`)
 - [[Projects/arch-machine/README|arch-machine]] (~/arch-machine)
 - [[Projects/premflow/README|premflow]] — shared SoT · [[Projects/premflow/sessions/2026-07-13|2026-07-13]]
