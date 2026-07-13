@@ -22,6 +22,7 @@ Tools for showing work and finding opportunities.
 
 ### 3. Daily Foundations + Infra
 Daily tools and self-auditing systems.
+- [[Projects/ensembly/README|ensembly]] — **digital clone / Game of Peram** life swarm (pair for physical + HITL); sessions [[Projects/ensembly/sessions/2026-07-13|2026-07-13]]
 - [[Projects/elomaxz]]
 - [[Projects/premflow]] (https://github.com/thecuriousts/premflow)
 - [[Projects/adaptate]]
@@ -46,7 +47,7 @@ See Bases views in [[Meta/bases/priority-matrix.base]] for energy balance and Ei
 
 Track weekly energy in each project note's frontmatter.
 
-Current focus (example): Tier 1 on thepulimaangani + skills; **agentic-reactor** active on collab-finder dogfood (dual-fit) after looper/UI/React wave ([[Projects/collab-finder/2026-07-12]]).
+Current focus (example): Tier 1 on thepulimaangani + skills; **agentic-reactor** active on collab-finder dogfood (dual-fit) after looper/UI/React wave ([[Projects/collab-finder/2026-07-12]]); **foundational-infra** active on ensembly dogfood (turn/claim/complete) after 2026-07-13 Grok wave ([[Projects/ensembly/sessions/2026-07-13]]).
 
 ## Links
 - [[Areas/Career]]
