@@ -39,6 +39,8 @@ Law: `ensembly/docs/LIFE-OS-BOUNDARY.md` · vault pointers in [[README]] and [[A
 
 Operator opens turn or watch and **knows** the next body act and next authorization; clone can read machine-readable status; physical work can be claimed/completed like auth gates.
 
+**How to play & steer (laptop + remote):** `ensembly/docs/PLAYBOOK.md` — Game of Peram controls, CLI recipes, **$SPN**, channel/Eve trajectory for productivity away from the desk.
+
 ## Shipped (high-grade)
 
 - Day loop, privacy default-deny, realm split, wait snapshot, approve/deny
