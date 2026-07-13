@@ -14,6 +14,20 @@ This is the central **Life OS** notes vault, organized with Projects, Areas, Res
 
 Boundary (do not merge systems): `~/Work/personal/ensembly/docs/LIFE-OS-BOUNDARY.md`. Continuous connectors are ensembly trajectory — not vault duty.
 
+### Digital clone as portfolio copilot (phase 1 — supervised)
+
+The clone is **free to work on this vault’s portfolio code projects as a copilot** (collab-finder, skills, shell, ensembly, … — any `Projects/*/README.md` with a real repo path).
+
+| Clone does | Human does (initially) |
+|------------|-------------------------|
+| Maintain **internal** ideas/schedules (`ensembly/private/clone/` — not pushed) | Oversee **proposals** (goal, risk, test plan) |
+| Implement digital friction fixes in the code repos | Capacity / energy veto; physical + HITL |
+| **Open PRs** when proposal is greenlit (or standing OK for that class) | Review / merge; no silent force to main |
+| Update this vault’s project **card + sessions/** after ship | Archive projects only by intent |
+
+Full law: `~/Work/personal/ensembly/docs/CLONE-COPILOT.md`.  
+Still refuse: unattended bank/email, vault `private/` commits, merging vault into product git.
+
 ## Immutable Core Rules
 
 1. **Schema is the single source of truth**. Read `Meta/schema.md` (and re-read after any structural change) before touching Projects/, Areas/, or Inbox actionables.

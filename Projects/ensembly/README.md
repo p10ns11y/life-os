@@ -8,11 +8,11 @@ area: "[[Systems]]"
 cluster: "foundational-infra"
 github: https://github.com/thecuriousts/ensembly
 weekly_energy_target: 4
-weekly_energy_logged: 4.0  # 2026-07-13: next-action loop + claim/complete + watch sync + life-os boundary
-next_action: "Dogfood turn/claim/complete daily; next physical + next auth only; keep private wait-snapshot as truth; connectors stay trajectory not vault duty."
-review_date: 2026-07-13
+weekly_energy_logged: 4.5  # 2026-07-13: + clone copilot model (propose→PR)
+next_action: "Dogfood turn/claim/complete; greenlight first copilot proposal→PR; keep private/clone ledger local-only."
+review_date: 2026-07-14
 effort: high
-tags: [ensembly, life-swarm, digital-clone, game-of-peram, systems]
+tags: [ensembly, life-swarm, digital-clone, game-of-peram, systems, copilot]
 ---
 
 # ensembly (Game of Peram)
@@ -33,6 +33,8 @@ Law: `ensembly/docs/LIFE-OS-BOUNDARY.md` · vault pointers in [[README]] and [[A
 **Refuse:** merge vault into ensembly git · treat this vault as always-on connector host · unattended bank/email.  
 **Free:** experiment with satellites; archive when they stop earning capacity.
 
+**Copilot (phase 1):** Free to work **all** life-os portfolio code projects as copilot — internal ideas/schedule in `ensembly/private/clone/`; human oversees proposals; clone opens PRs when allowed. Law: `ensembly/docs/CLONE-COPILOT.md`.
+
 ## Goal / Outcome
 
 Operator opens turn or watch and **knows** the next body act and next authorization; clone can read machine-readable status; physical work can be claimed/completed like auth gates.
@@ -51,6 +53,7 @@ Operator opens turn or watch and **knows** the next body act and next authorizat
 ## Current focus / open
 
 - Daily dogfood of turn → claim/complete → approve/deny
+- **Copilot phase 1:** proposals overseen; PRs when greenlit ([CLONE-COPILOT](https://github.com/thecuriousts/ensembly/blob/master/docs/CLONE-COPILOT.md))
 - Continuous hooks/connectors = **trajectory** (not vault daemons)
 - Eve bridge later as production remote host (not kernel rewrite)
 
@@ -77,3 +80,4 @@ Operator opens turn or watch and **knows** the next body act and next authorizat
 
 - [[Projects/ensembly/sessions/2026-07-12|2026-07-12]]
 - [[Projects/ensembly/sessions/2026-07-13|2026-07-13]]
+- [[Projects/ensembly/sessions/2026-07-13-copilot|2026-07-13 copilot model]]
