@@ -52,3 +52,5 @@ See [[Projects/Portfolio-MOC]].
 - [[Projects/shellyxz/sessions/2026-06-19|2026-06-19]]
 - [[Projects/shellyxz/sessions/2026-06-22|2026-06-22]]
 - [[Projects/shellyxz/sessions/2026-07-03|2026-07-03]]
+
+*Last 30d mine: Grok voice/wpctl 07-03; Cursor dense on shell 06-14→06-22 (ontology, PATH contract, verification cockpit, docs).*

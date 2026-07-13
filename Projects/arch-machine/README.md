@@ -48,3 +48,5 @@ See [[Projects/Portfolio-MOC]].
 ## Session log
 
 - [[Projects/arch-machine/sessions/2026-06-22|2026-06-22]]
+
+*Last 30d: Cursor 06-22 onboard/skills symlink (session note present).*

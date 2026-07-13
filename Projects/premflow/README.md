@@ -76,4 +76,4 @@ See [[Projects/Portfolio-MOC]].
 
 ## Session log
 
-- 2026-07-13 — Shared micro-capture: ensembly `flow` wrapper + `capture` symlink to `~/.premflow`; law in ensembly `docs/PREMFLOW-FIT.md`.
+- [[Projects/premflow/sessions/2026-07-13|2026-07-13]] — shared micro-capture SoT + ensembly PREMFLOW-FIT

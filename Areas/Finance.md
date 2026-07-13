@@ -21,7 +21,7 @@ tags: [finance]
 - Clear budget and quarterly financial reviews
 
 **Current Focus / Active Projects**:
-- [[Projects/finance-dd/README|finance-dd]] — local finance decision brief (`~/Work/personal/finance-dd`, `npm run brief`)
+- [[Projects/wealth-dd/README|wealth-dd]] — local wealth-growth brief: investments, RE, tax SE/IN/US (`~/Work/personal/wealth-dd`, `npm run brief`)
 
 ## Review Log
 - 2026-07-06: Created from schema as canonical flat area note.

@@ -61,3 +61,5 @@ Added note: "See Portfolio Map of Content (Portfolio-MOC) for example of using t
 ## Session log
 
 - [[Projects/skills/sessions/2026-07-12|2026-07-12]] — looper promoted into skills library
+
+*Last 30d mine: looper promotion 07-12 (session note); Cursor quiet on skills cwd; heavy use via collab-finder/ensembly hosts.*

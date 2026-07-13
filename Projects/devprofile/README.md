@@ -41,3 +41,5 @@ See [[Projects/Portfolio-MOC]].
 
 - [[Projects/devprofile/sessions/2026-06-19|2026-06-19]]
 - [[Projects/devprofile/sessions/2026-06-23|2026-06-23]]
+
+*Last 30d: Cursor 06-19 polish + 06-23; Grok quiet.*

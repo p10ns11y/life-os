@@ -31,4 +31,4 @@ See [[Projects/Portfolio-MOC]].
 
 ## Session log
 
-- _No Grok/Cursor sessions mined in 2026-06-13 → 2026-07-13._
+- *Last 30d mine: no Grok/Cursor parent sessions with activity (mtime window). Lab idle for harvest until next use.*
