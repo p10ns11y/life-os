@@ -2,10 +2,10 @@
 /private/
 /drafts/
 
-# Shared premflow capture (symlink → ~/.premflow) — finance/PII possible; never commit
-# Symlink alone is usually safe in git, but ignore so tools never pack target contents
-Projects/premflow/capture
-Projects/premflow/capture/
+# Shared premflow capture: track the *symlink* only (pointer to ~/.premflow).
+# Never pack private target contents if capture is ever a real directory.
+Projects/premflow/capture/**
+# (do not ignore Projects/premflow/capture itself — the symlink is intentional)
 
 # Archives (historical/inactive notes — useful locally but not part of the active Life OS)
 # Keeps the repo lean and focused on current Projects, Areas, Inbox, and active Resources.
