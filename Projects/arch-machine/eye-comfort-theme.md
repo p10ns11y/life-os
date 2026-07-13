@@ -10,17 +10,21 @@ tags: [infra, omarchy, theme, eye-comfort, circadian]
 
 **SoT / code:** [`~/arch-machine`](https://github.com/p10ns11y/arch-machine) module  
 `modules/productivity/eye-comfort` · branch `feat/eye-comfort-theme`  
-PR: https://github.com/p10ns11y/arch-machine/pull/new/feat/eye-comfort-theme
+PR: https://github.com/p10ns11y/arch-machine/pull/20
 
 **Not** stored as files in this vault path — life-os only tracks progress; remote sync is arch-machine.
 
 ## What shipped
 
-- Dark + light Omarchy themes (warm night umber / day cream; vision-science palette)
-- Wallpapers (signature lantern delight + quieter stage pieces)
-- Circadian switcher `eye-comfort-theme` (07–18 light, else dark; `HOUR=` injectable)
-- Yazi flavors, nvim soft gruvbox hooks, Ghostty via Omarchy SoT
-- `install.sh` for remote machines; optional user timer under `units/`
+- **Seven OKLCH circadian phases**; host packages generated from OKLCH SoT (`generate-packages`)
+- Omarchy themes (warm night umber ↔ day cream; vision-science contrast)
+- Wallpapers (lantern delight + journals/tea; candle imagery removed)
+- Circadian switcher `eye-comfort-theme` (`--set` via switcher; full `--help`; `HOUR=` injectable)
+- Yazi flavors, nvim soft hooks, Ghostty via Omarchy SoT
+- `install.sh` for remote machines; optional user **timer/service** under `units/`
+- CI: schedule tests + package SoT check (SN-EC-2); standalone-only (SN-EC-1)
+
+**Session detail:** [[Projects/arch-machine/sessions/2026-07-14]]
 
 ## Remote install
 
