@@ -70,4 +70,16 @@ The result is lightweight, decision-focused, and explicitly built to support age
 - [[Resources/index]] — Index and references for assets (whitepapers, techpapers, etc.)
 - GitHub: https://github.com/p10ns11y/life-os
 
+## ensembly (digital clone — not this vault)
+
+This vault is the **clustered Projects/Areas memory** of what you started and organized over time.
+
+The **continuous digital clone / life swarm** (knows life from local data, removes digital friction, aims for frequent hooks/connectors, human joins as **pair** for physical + HITL) is a **separate product**:
+
+- Path: `~/Work/personal/ensembly`
+- Portfolio card: [[Projects/ensembly/README|ensembly]] · sessions under `Projects/ensembly/sessions/`
+- Boundary law (agents): `ensembly/docs/LIFE-OS-BOUNDARY.md`
+
+Do **not** turn this vault into the always-on connector host, and do **not** merge vault private notes into the ensembly git tree. Experiment and archive satellite projects freely; keep portfolio cards here.
+
 This vault improves itself. Every time the system is used to plan or review work, the knowledge compounds.

@@ -10,6 +10,7 @@ These are the active project notes (excluding the Map of Content itself and inte
 
 - **skills** (Career | agentic-reactor) — Relevance: 4/4, Progress: 58%, Energy target: 3
 - **Collab Finder** (Career | agentic-reactor) — Relevance: 4/4, Progress: 78%, Energy target: 3
+- **ensembly** (Systems | foundational-infra) — Relevance: 4/4, Progress: 62%, Energy target: 4 — digital clone / Game of Peram (`Projects/ensembly/`)
 - **devprofile** (Career | presence-career) — Relevance: 4/4, Progress: 50%, Energy target: 2
 - **arch-machine** (Systems | foundational-infra) — Relevance: 4/4, Progress: 60%, Energy target: 2
 - **thepulimaangani** (Creative | cultural-creative) — Relevance: 4/4, Progress: 40%, Energy target: 3

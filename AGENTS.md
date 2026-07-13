@@ -4,6 +4,16 @@ This is the central **Life OS** notes vault, organized with Projects, Areas, Res
 
 **Primary interfaces**: `Dashboard.md`, `Projects/Portfolio-MOC.md`, `Meta/bases/*.base`, `Meta/schema.md`.
 
+### Not the digital clone runtime
+
+| This vault (`~/life-os`) | ensembly (`~/Work/personal/ensembly`) |
+|--------------------------|----------------------------------------|
+| Clustered Projects/Areas **wiki / portfolio memory** | **Digital clone / continuous friction swarm** |
+| Schema, Eisenhower, energy, Archives | Turn, day plan, HITL, claim/complete, game, future hooks/connectors |
+| Human+agent *organize* what was started | Clone *runs* digital path; human **pairs** for physical + HITL |
+
+Boundary (do not merge systems): `~/Work/personal/ensembly/docs/LIFE-OS-BOUNDARY.md`. Continuous connectors are ensembly trajectory — not vault duty.
+
 ## Immutable Core Rules
 
 1. **Schema is the single source of truth**. Read `Meta/schema.md` (and re-read after any structural change) before touching Projects/, Areas/, or Inbox actionables.
