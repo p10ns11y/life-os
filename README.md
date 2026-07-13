@@ -82,4 +82,6 @@ The **continuous digital clone / life swarm** (knows life from local data, remov
 
 Do **not** turn this vault into the always-on connector host, and do **not** merge vault private notes into the ensembly git tree. Experiment and archive satellite projects freely; keep portfolio cards here.
 
+**Copilot (phase 1):** The clone may work portfolio code projects, keep ideas/schedules internally, surface proposals for your oversee, then open PRs. See `ensembly/docs/CLONE-COPILOT.md` and [[AGENTS]].
+
 This vault improves itself. Every time the system is used to plan or review work, the knowledge compounds.
