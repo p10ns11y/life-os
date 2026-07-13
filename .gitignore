@@ -13,6 +13,10 @@ Archives/
 **/*llm*
 **/*cv*
 **/*resume*
+
+# Exception: portfolio project cards may include "cv" in the slug (card only; no PDFs)
+!Projects/latex-cv/
+!Projects/latex-cv/**
 **/*personal*
 **/*family*
 **/*health*
