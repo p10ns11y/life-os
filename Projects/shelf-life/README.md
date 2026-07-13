@@ -9,7 +9,7 @@ urgency: 2
 progress: 20
 area: "[[Creative]]"
 next_action: "Build basic shelf view and awakening tracking in a simple prototype"
-review_date: 2026-07-12
+review_date: 2026-07-13
 effort: medium
 tags: [creative, shelf]
 ---
@@ -39,3 +39,13 @@ Inspired by personal reflections on books as living companions (see related poet
 Medium priority for its personal and motivational value. Use for reflection time.
 
 See [[Projects/Portfolio-MOC]] for full picture.
+## Structure
+
+- Project card: `Projects/shelf-life/README.md` (this note)
+- Sessions: `Projects/shelf-life/sessions/YYYY-MM-DD.md`
+- Convention: thin card + dated session detail (see [[Meta/schema]])
+
+
+## Session log
+
+- _No Grok/Cursor sessions mined in 2026-06-13 → 2026-07-13._

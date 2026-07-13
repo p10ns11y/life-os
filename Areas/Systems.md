@@ -21,11 +21,11 @@ tags: [automation, systems]
 - Documented boundaries and quick recovery
 
 **Current Focus / Active Projects**:
-- [[Projects/arch-machine]]
-- [[Projects/shellyxz]]
-- [[Projects/adaptate]]
-- [[Projects/elomaxz]]
-- [[Projects/premflow]]
+- [[Projects/arch-machine/README|arch-machine]]
+- [[Projects/shellyxz/README|shellyxz]]
+- [[Projects/adaptate/README|adaptate]]
+- [[Projects/elomaxz/README|elomaxz]]
+- [[Projects/premflow/README|premflow]]
 
 ## Review Log
 - 2026-07-06: Created from schema as canonical flat area note (originally "Home", renamed to Systems for clarity).

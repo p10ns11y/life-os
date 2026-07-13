@@ -21,8 +21,8 @@ tags: [creative, writing]
 - Progress on long-horizon creative work
 
 **Current Focus / Active Projects**:
-- [[Projects/thepulimaangani]]
-- [[Projects/shelf-life]]
+- [[Projects/thepulimaangani/README|thepulimaangani]]
+- [[Projects/shelf-life/README|shelf-life]]
 
 ## Review Log
 - 2026-07-06: Created from schema as canonical flat area note. (remapped Cultural / Creative variants here)

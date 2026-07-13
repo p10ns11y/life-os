@@ -45,15 +45,24 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 ## Links
 - Area: [[Areas/Career]]
 - Cluster map: [[Projects/Portfolio-MOC]]
-- Skills library (meta): [[Projects/skills]]
-- Devprofile CV: [[Projects/devprofile]]
+- Skills library (meta): [[Projects/skills/README|skills]]
+- Devprofile CV: [[Projects/devprofile/README|devprofile]]
 - Vault: [[Dashboard]]
 
 ## Connections (Obsidian)
-- Uses patterns from [[Projects/skills]]
-- Synergizes with [[Projects/devprofile]] for CV/presence
+- Uses patterns from [[Projects/skills/README|skills]]
+- Synergizes with [[Projects/devprofile/README|devprofile]] for CV/presence
 - See [[Projects/Portfolio-MOC]]
 
-## Session log (detail notes)
-- [[2026-07-08]] — CV packet persist + devprofile path + sidecar propose
-- [[2026-07-12]] — looper skill + impeccable UI polish + React optimize / XState eval
+## Structure
+
+- Project card: `Projects/collab-finder/README.md` (this note)
+- Sessions: `Projects/collab-finder/sessions/YYYY-MM-DD.md`
+- Convention: thin card + dated session detail (see [[Meta/schema]])
+
+
+## Session log
+
+- [[Projects/collab-finder/sessions/2026-07-08|2026-07-08]]
+- [[Projects/collab-finder/sessions/2026-07-11|2026-07-11]]
+- [[Projects/collab-finder/sessions/2026-07-12|2026-07-12]]

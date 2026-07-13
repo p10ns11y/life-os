@@ -9,7 +9,7 @@ urgency: 2
 progress: 70
 area: "[[Systems]]"
 next_action: "Deepen integration with shell-kernel-ontology skill and document boundaries"
-review_date: 2026-07-12
+review_date: 2026-07-13
 effort: medium
 tags: [shell, infra]
 ---
@@ -34,3 +34,21 @@ GitHub: https://github.com/p10ns11y/shellyxz.sh
 Steady maintenance. Important for productivity and agent work.
 
 See [[Projects/Portfolio-MOC]].
+## Structure
+
+- Project card: `Projects/shellyxz/README.md` (this note)
+- Sessions: `Projects/shellyxz/sessions/YYYY-MM-DD.md`
+- Convention: thin card + dated session detail (see [[Meta/schema]])
+
+
+## Session log
+
+- [[Projects/shellyxz/sessions/2026-06-13|2026-06-13]]
+- [[Projects/shellyxz/sessions/2026-06-14|2026-06-14]]
+- [[Projects/shellyxz/sessions/2026-06-15|2026-06-15]]
+- [[Projects/shellyxz/sessions/2026-06-16|2026-06-16]]
+- [[Projects/shellyxz/sessions/2026-06-17|2026-06-17]]
+- [[Projects/shellyxz/sessions/2026-06-18|2026-06-18]]
+- [[Projects/shellyxz/sessions/2026-06-19|2026-06-19]]
+- [[Projects/shellyxz/sessions/2026-06-22|2026-06-22]]
+- [[Projects/shellyxz/sessions/2026-07-03|2026-07-03]]

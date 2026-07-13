@@ -10,7 +10,7 @@ urgency: 3
 progress: 58
 area: "[[Career]]"
 next_action: "Symlink looper into ~/.cursor/skills if not already; add surplus example for structured loops; improve discovery docs"
-review_date: 2026-07-12
+review_date: 2026-07-13
 effort: high
 tags: [skills, meta]
 ---
@@ -27,10 +27,10 @@ Includes: ai-optimization, fusion-sage, looper, bdd-strategizer, higher-order-de
 - Practical, battle-tested playbooks
 
 ## Connections
-- Powers [[Projects/collab-finder]] (reactor, guards)
+- Powers [[Projects/collab-finder/README|collab-finder]] (reactor, guards)
 - Used across the entire portfolio for execution and planning
 - Related to [[agent-prompt-tuning-lab]] (data source)
-- **2026-07-12**: **looper** is in the skills library (`~/Work/personal/skills/looper` + `rules/looper.mdc`) — structured agent loops / multi-model routing; collab-finder keeps a project-local vendor under `.agents/skills/looper` (see [[Projects/collab-finder/2026-07-12]])
+- **2026-07-12**: **looper** is in the skills library (`~/Work/personal/skills/looper` + `rules/looper.mdc`) — structured agent loops / multi-model routing; collab-finder keeps a project-local vendor under `.agents/skills/looper` (see [[Projects/collab-finder/sessions/2026-07-12|2026-07-12]])
 
 ## Local / External
 - Source: ~/Work/personal/skills/
@@ -51,3 +51,13 @@ This compounds: the act of managing the portfolio improves the skills themselves
 
 ## Small docs improvement (same day)
 Added note: "See Portfolio Map of Content (Portfolio-MOC) for example of using these skills to track personal projects, energy allocation, and connections in Obsidian. Also useful for quick daily focus picks via Map of Content and energy gaps in frontmatter. Helps decide when to switch between Tier 1 projects based on remaining energy. For example, thepulimaangani's cultural value makes it high priority despite energy. Can also use the Base view to surface high-value items quickly."
+## Structure
+
+- Project card: `Projects/skills/README.md` (this note)
+- Sessions: `Projects/skills/sessions/YYYY-MM-DD.md`
+- Convention: thin card + dated session detail (see [[Meta/schema]])
+
+
+## Session log
+
+- [[Projects/skills/sessions/2026-07-12|2026-07-12]] — looper promoted into skills library
