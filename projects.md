@@ -50,6 +50,7 @@ flowchart TD
     %% Projects as nodes with relevance + progress
     skills["skills<br/>Relevance: 4/4<br/>Progress: 55%"]
     collab["Collab Finder<br/>Relevance: 4/4<br/>Progress: 78%"]
+    ensembly["ensembly<br/>Relevance: 4/4<br/>Progress: 62%"]
     dev["devprofile<br/>Relevance: 4/4<br/>Progress: 50%"]
     arch["arch-machine<br/>Relevance: 4/4<br/>Progress: 60%"]
     puli["thepulimaangani<br/>Relevance: 4/4<br/>Progress: 40%"]
@@ -66,6 +67,7 @@ flowchart TD
     skills --> AR
     collab --> AR
     tuning --> AR
+    ensembly --> DF
     arch --> DF
     shelly --> DF
     adapt --> DF
@@ -83,6 +85,7 @@ flowchart TD
     tuning --> Career
     dev --> Career
     latex --> Career
+    ensembly --> Systems
     arch --> Systems
     shelly --> Systems
     adapt --> Systems
@@ -97,7 +100,7 @@ flowchart TD
     classDef med fill:#fff9c4,stroke:#f9a825,stroke-width:2px
     classDef low fill:#eeeeee,stroke:#757575,stroke-width:1px
 
-    class skills,collab,dev,arch,puli high
+    class skills,collab,ensembly,dev,arch,puli high
     class tuning,latex,shelly,shelf med
     class adapt,elo,prem,proto low
 ```
@@ -117,6 +120,7 @@ flowchart TD
 
 - Data pulled directly from each project's frontmatter in the `Projects/` folder.
 - `Collab Finder` is the main project inside the `collab-finder/` subfolder.
+- `ensembly` project card lives at `Projects/ensembly/README.md`; Grok session detail under `Projects/ensembly/sessions/`.
 - For live filtering and updates, use the Bases views in `Meta/bases/`.
 - Update this graph when adding new projects or changing frontmatter (importance, cluster, area).
 
