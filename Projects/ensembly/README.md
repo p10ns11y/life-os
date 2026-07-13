@@ -8,9 +8,9 @@ area: "[[Systems]]"
 cluster: "foundational-infra"
 github: https://github.com/thecuriousts/ensembly
 weekly_energy_target: 4
-weekly_energy_logged: 4.5  # 2026-07-13: + clone copilot model (propose→PR)
+weekly_energy_logged: 4.75  # 2026-07-14: +0.25 routing eye-comfort → arch-machine; 07-13 wave retained
 next_action: "Dogfood turn/claim/complete; greenlight first copilot proposal→PR; keep private/clone ledger local-only."
-review_date: 2026-07-14
+review_date: 2026-07-15
 effort: high
 tags: [ensembly, life-swarm, digital-clone, game-of-peram, systems, copilot]
 ---
@@ -83,5 +83,6 @@ Operator opens turn or watch and **knows** the next body act and next authorizat
 - [[Projects/ensembly/sessions/2026-07-12|2026-07-12]]
 - [[Projects/ensembly/sessions/2026-07-13|2026-07-13]] — last-mile + MAP/PREMFLOW/wealth/cultural titles index
 - [[Projects/ensembly/sessions/2026-07-13-copilot|2026-07-13 copilot model]]
+- [[Projects/ensembly/sessions/2026-07-14|2026-07-14]] — eye-comfort traffic routed to arch-machine (no ensembly code tip change)
 
-*Last 30d mine (2026-07-13): Grok-heavy (ensembly cwd); Cursor had no ensembly agent-transcripts in window.*
+*Last mine 2026-07-14: Grok/Cursor titles; tip still `eb3a58f`.*

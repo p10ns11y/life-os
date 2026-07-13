@@ -4,12 +4,13 @@ status: "In Progress"
 cluster: "foundational-infra"
 github: https://github.com/p10ns11y/arch-machine
 weekly_energy_target: 2
+weekly_energy_logged: 3.5  # 2026-07-14: eye-comfort module + impeccable polish + PR #20
 importance: 4
 urgency: 3
-progress: 68
+progress: 78
 area: "[[Systems]]"
 next_action: "Merge feat/eye-comfort-theme → sentinel; optional profile hook"
-review_date: 2026-07-14
+review_date: 2026-07-15
 effort: high
 tags: [infra, arch, omarchy, theme]
 ---
@@ -53,6 +54,6 @@ See [[Projects/Portfolio-MOC]].
 ## Session log
 
 - [[Projects/arch-machine/sessions/2026-06-22|2026-06-22]]
-- 2026-07-14: packaged **eye-comfort** themes + circadian switcher under `modules/productivity/eye-comfort`; pushed `feat/eye-comfort-theme`
+- [[Projects/arch-machine/sessions/2026-07-14|2026-07-14]] — eye-comfort package, seven OKLCH phases, PR #20, timer docs
 
-*Last: eye-comfort module on remote branch; merge to sentinel when ready.*
+*Last: Grok brief + Cursor impeccable/PR babysit; merge to sentinel when ready.*

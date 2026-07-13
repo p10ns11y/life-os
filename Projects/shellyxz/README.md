@@ -4,12 +4,13 @@ status: "In Progress"
 cluster: "foundational-infra"
 github: https://github.com/p10ns11y/shellyxz.sh
 weekly_energy_target: 1.5
+weekly_energy_logged: 2.0  # 2026-07-14: agent-terminal gate removal + README intent + cockpit docs
 importance: 3
 urgency: 2
-progress: 70
+progress: 76
 area: "[[Systems]]"
 next_action: "Deepen integration with shell-kernel-ontology skill and document boundaries"
-review_date: 2026-07-13
+review_date: 2026-07-16
 effort: medium
 tags: [shell, infra]
 ---
@@ -52,5 +53,6 @@ See [[Projects/Portfolio-MOC]].
 - [[Projects/shellyxz/sessions/2026-06-19|2026-06-19]]
 - [[Projects/shellyxz/sessions/2026-06-22|2026-06-22]]
 - [[Projects/shellyxz/sessions/2026-07-03|2026-07-03]]
+- [[Projects/shellyxz/sessions/2026-07-14|2026-07-14]] — Cursor agent-terminal dogfood, PNPM_HOME cleanup, README intent-first, verification cockpit shots
 
-*Last 30d mine: Grok voice/wpctl 07-03; Cursor dense on shell 06-14→06-22 (ontology, PATH contract, verification cockpit, docs).*
+*Last mine 2026-07-14: `~/.grok` + `~/.cursor` titles; live tree commits through `e74f8f3`.*
