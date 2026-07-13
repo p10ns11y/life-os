@@ -33,7 +33,7 @@ CLI micro-capture tool. **One shared data tree** with ensembly and this vault.
 | Role | Path |
 |------|------|
 | **Byte SoT** | `~/.premflow/` (`todo.txt`, `log.txt`, `journal/`, `config.txt`) |
-| **Vault view (symlink)** | `Projects/premflow/capture` → `~/.premflow` (gitignored) |
+| **Vault view (symlink)** | `Projects/premflow/capture` → `../../../.premflow` (tracked link only; target private) |
 | **ensembly wrapper** | `node bin/swarm.js flow …` in ensembly (same SoT) |
 | **Native CLI** | `premflow …` |
 | **Code** | `~/Work/personal/premflow/` |
