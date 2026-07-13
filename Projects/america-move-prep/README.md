@@ -64,7 +64,7 @@ No applications filed from this card; research and decisions only.
 
 - [ ] **Target brief:** 1–3 cities/regions with why (roles, network, COL, climate, visa feasibility)
 - [ ] **Work path inventory:** list plausible categories to research (e.g. employer sponsorship, intracompany, exceptional ability, other) — *names of paths only*; verify with official sources later
-- [ ] **Cost envelope:** rough monthly burn + 3–6 month runway target for chosen city (use [[Projects/wealth-dd/README|wealth-dd]] privately)
+- [ ] **Cost envelope:** rough monthly burn + 3–6 month runway target for chosen city (use [[Projects/wealth-due-diligence/README|wealth-due-diligence]] privately)
 - [ ] **Career surface:** CV + LinkedIn/devprofile aligned to US role language ([[Projects/latex-cv/README|latex-cv]], [[Projects/devprofile/README|devprofile]], [[Projects/collab-finder/README|collab-finder]])
 - [ ] **Timeline sketch:** earliest realistic move window *if* an offer exists (not a deadline fantasy)
 - [ ] **Open questions list:** legal, tax dual-residency, SE exit logistics — for human expert later
@@ -102,7 +102,7 @@ See frontmatter `next_action`: **draft one-page US target brief** (1–3 cities 
 - Area: [[Areas/Career]] · [[Areas/Learning]]
 - Sibling: [[Projects/swedish-assimilation/README|swedish-assimilation]]
 - Career stack: [[Projects/collab-finder/README|collab-finder]] · [[Projects/latex-cv/README|latex-cv]] · [[Projects/devprofile/README|devprofile]]
-- Money: [[Projects/wealth-dd/README|wealth-dd]]
+- Money: [[Projects/wealth-due-diligence/README|wealth-due-diligence]]
 - Portfolio: [[Projects/Portfolio-MOC|Portfolio-MOC]] · cluster *cultural-integration*
 
 ## Session log

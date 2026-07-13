@@ -25,7 +25,7 @@ These are the active project **folders** (`Projects/{slug}/README.md` + `session
 - **cultural-integration** (Learning | cultural-integration) — Relevance: 4/4, Progress: 20%, Energy target: 1 — three-cultures coaching note (Tamil × SE × US)
 - **swedish-assimilation** (Learning | cultural-integration) — Relevance: 4/4, Progress: 5%, Energy target: 3 — Swedish read/speech/write + culture/history
 - **america-move-prep** (Career | cultural-integration) — Relevance: 3/4, Progress: 5%, Energy target: 2 — US move readiness (comms, civics, checklist)
-- **wealth-dd** (Finance | personal-finance) — Relevance: 4/4, Progress: 55%, Energy target: 2 — wealth-growth brief (debts, assets, hustles, tax SE/IN/US)
+- **wealth-due-diligence** (Finance | personal-finance) — Relevance: 4/4, Progress: 55%, Energy target: 2 — wealth-growth brief (debts, assets, hustles, tax SE/IN/US)
 
 Relevance score is primarily based on `importance` (1-4) from each project's frontmatter, combined with strategic value (cluster priority and energy allocation).
 

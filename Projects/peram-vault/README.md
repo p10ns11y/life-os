@@ -33,4 +33,4 @@ Local **post-quantum encrypted vault** (SoT) + **xAI Collections** dry-run expor
 
 ## Links
 
-- [[Areas/Systems]] · [[Projects/wealth-dd/README|wealth-dd]] (finance data stays vault-class deny)
+- [[Areas/Systems]] · [[Projects/wealth-due-diligence/README|wealth-due-diligence]] (finance data stays vault-class deny)

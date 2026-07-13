@@ -21,7 +21,7 @@ tags: [finance]
 - Clear budget and quarterly financial reviews
 
 **Current Focus / Active Projects**:
-- [[Projects/wealth-dd/README|wealth-dd]] — local wealth-growth brief: debts, credit, investments, RE, hustles, tax SE/IN/US (`~/Work/personal/wealth-dd`, `npm run brief`)
+- [[Projects/wealth-due-diligence/README|wealth-due-diligence]] — local wealth-growth brief: debts, credit, investments, RE, hustles, tax SE/IN/US (`~/Work/personal/wealth-due-diligence`, `npm run brief`)
 
 ## Review Log
 - 2026-07-06: Created from schema as canonical flat area note.

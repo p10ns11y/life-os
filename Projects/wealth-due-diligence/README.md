@@ -14,15 +14,15 @@ effort: low
 tags: [wealth, finance, debt-avalanche, runway, investments, tax, cli]
 ---
 
-# wealth-dd
+# wealth-due-diligence
 
 Local **wealth-growth** CLI — debts, credit, investments, real estate, side hustles, runway, tax awareness (SE · IN · future US).
 
 | | |
 |--|--|
-| Path | `~/Work/personal/wealth-dd` (renamed from finance-dd) |
+| Path | `~/Work/personal/wealth-due-diligence` (was `wealth-dd` ← `finance-dd`) |
 | Area | [[Finance]] |
-| Launch | `cd ~/Work/personal/wealth-dd && npm run brief` |
+| Launch | `cd ~/Work/personal/wealth-due-diligence && npm run brief` |
 | Tests | `npm test` |
 
 ## Why
@@ -38,21 +38,21 @@ Personal mountain: grow net worth and cash flow, attack high-APR debt, set multi
 ## Dogfood
 
 ```bash
-cd ~/Work/personal/wealth-dd
+cd ~/Work/personal/wealth-due-diligence
 npm test
 npm run brief
 cp fixtures/sample-ledger.json private/my-ledger.json
-node bin/wealth-dd.js --ledger private/my-ledger.json
+node bin/wealth-due-diligence.js --ledger private/my-ledger.json
 ```
 
 ## Structure
 
-- Project card: `Projects/wealth-dd/README.md` (this note)
-- Sessions: `Projects/wealth-dd/sessions/YYYY-MM-DD.md`
+- Project card: `Projects/wealth-due-diligence/README.md` (this note)
+- Sessions: `Projects/wealth-due-diligence/sessions/YYYY-MM-DD.md`
 
 ## Session log
 
-- [[Projects/wealth-dd/sessions/2026-07-13|2026-07-13]] — CLI spin-out from ensembly finance-dd work (titles-only mine)
+- [[Projects/wealth-due-diligence/sessions/2026-07-13|2026-07-13]] — CLI spin-out from ensembly finance-dd work (titles-only mine)
 
 See [[Projects/Portfolio-MOC]].
 

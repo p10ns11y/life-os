@@ -45,7 +45,7 @@ Language, culture, history, and move optionality (Sweden base + US willingness).
 - [[Projects/america-move-prep/README|america-move-prep]] — US communication, civics/culture, practical move checklist
 
 ### 4c. Personal Finance
-- [[Projects/wealth-dd/README|wealth-dd]] — wealth-growth CLI (debts, runway, tax SE/IN/US) · sessions [[Projects/wealth-dd/sessions/2026-07-13|2026-07-13]]
+- [[Projects/wealth-due-diligence/README|wealth-due-diligence]] — wealth-growth CLI (debts, runway, tax SE/IN/US) · sessions [[Projects/wealth-due-diligence/sessions/2026-07-13|2026-07-13]]
 
 ### 5. Research Prototypes
 Experiments for learning.
@@ -60,7 +60,7 @@ See Bases views in [[Meta/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-07-13, post 30d mine):** ensembly dogfood (turn/claim/complete + copilot) · collab-finder dogfood (dual-fit) · **wealth-dd** brief with private ledger · **premflow** capture/`flow` SoT · swedish-assimilation + america-move-prep practice · skills (looper) · shell when friction appears.
+**Current focus (2026-07-13, post 30d mine):** ensembly dogfood (turn/claim/complete + copilot) · collab-finder dogfood (dual-fit) · **wealth-due-diligence** brief with private ledger · **premflow** capture/`flow` SoT · swedish-assimilation + america-move-prep practice · skills (looper) · shell when friction appears.
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]
