@@ -10,7 +10,7 @@ github: https://github.com/thecuriousts/ensembly
 weekly_energy_target: 4
 weekly_energy_logged: 4.0  # 2026-07-13: next-action loop + claim/complete + watch sync + life-os boundary
 next_action: "Dogfood turn/claim/complete daily; next physical + next auth only; keep private wait-snapshot as truth; connectors stay trajectory not vault duty."
-review_date: 2026-07-14
+review_date: 2026-07-13
 effort: high
 tags: [ensembly, life-swarm, digital-clone, game-of-peram, systems]
 ---
@@ -63,10 +63,17 @@ Operator opens turn or watch and **knows** the next body act and next authorizat
 
 - Area: [[Areas/Systems]]
 - Cluster map: [[Projects/Portfolio-MOC]]
-- Career tools that pair with presence: [[Projects/collab-finder]], [[Projects/devprofile]]
-- Skills meta: [[Projects/skills]]
+- Career tools that pair with presence: [[Projects/collab-finder/README|collab-finder]], [[Projects/devprofile/README|devprofile]]
+- Skills meta: [[Projects/skills/README|skills]]
 - Local path: `~/Work/personal/ensembly`
+## Structure
+
+- Project card: `Projects/ensembly/README.md` (this note)
+- Sessions: `Projects/ensembly/sessions/YYYY-MM-DD.md`
+- Convention: thin card + dated session detail (see [[Meta/schema]])
+
 
 ## Session log
 
-- [[Projects/ensembly/sessions/2026-07-13|2026-07-13]] — Grok: Mermaid fix, next-action loop, claim/complete stickiness, Graph IR collapse, life-os vs ensembly boundary; push `4a6e203`
+- [[Projects/ensembly/sessions/2026-07-12|2026-07-12]]
+- [[Projects/ensembly/sessions/2026-07-13|2026-07-13]]

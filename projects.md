@@ -6,11 +6,11 @@ See [[Portfolio-MOC]] for the canonical cluster definitions and [[Dashboard]] fo
 
 ## Real Projects (from Projects/ folder)
 
-These are the active project notes (excluding the Map of Content itself and internal notes):
+These are the active project **folders** (`Projects/{slug}/README.md` + `sessions/`):
 
 - **skills** (Career | agentic-reactor) — Relevance: 4/4, Progress: 58%, Energy target: 3
-- **Collab Finder** (Career | agentic-reactor) — Relevance: 4/4, Progress: 78%, Energy target: 3
-- **ensembly** (Systems | foundational-infra) — Relevance: 4/4, Progress: 62%, Energy target: 4 — digital clone / Game of Peram (`Projects/ensembly/`)
+- **collab-finder** (Career | agentic-reactor) — Relevance: 4/4, Progress: 78%, Energy target: 3
+- **ensembly** (Systems | foundational-infra) — Relevance: 4/4, Progress: 62%, Energy target: 4 — digital clone / Game of Peram
 - **devprofile** (Career | presence-career) — Relevance: 4/4, Progress: 50%, Energy target: 2
 - **arch-machine** (Systems | foundational-infra) — Relevance: 4/4, Progress: 60%, Energy target: 2
 - **thepulimaangani** (Creative | cultural-creative) — Relevance: 4/4, Progress: 40%, Energy target: 3
@@ -118,10 +118,10 @@ flowchart TD
 
 ## Notes
 
-- Data pulled directly from each project's frontmatter in the `Projects/` folder.
-- `Collab Finder` is the main project inside the `collab-finder/` subfolder.
-- `ensembly` project card lives at `Projects/ensembly/README.md`; Grok session detail under `Projects/ensembly/sessions/`.
-- For live filtering and updates, use the Bases views in `Meta/bases/`.
+- Data from each project's frontmatter in `Projects/{slug}/README.md`.
+- **Layout (all projects):** `README.md` (card) + `sessions/YYYY-MM-DD.md` (detail). See [[Meta/schema]].
+- Agent backfill window: ~30 days of Grok (`~/.grok`) + Cursor (`~/.cursor/projects/.../agent-transcripts`) titles.
+- For live filtering, use Bases views in `Meta/bases/`.
 - Update this graph when adding new projects or changing frontmatter (importance, cluster, area).
 
 See [[AGENTS.md]] for how to work on these projects with AI assistance.

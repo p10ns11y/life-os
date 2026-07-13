@@ -72,3 +72,24 @@ Short names for clean display in tables and effective use. All 7 exist as flat .
 - `Inbox/` — Temporary capture only.
 
 This schema + Bases is the iron-peak durable kernel. Future changes should update this file first.
+
+## Project folder layout (canonical)
+
+Every long-lived project uses a **folder**, not a lone `Projects/foo.md`:
+
+```text
+Projects/{slug}/
+  README.md                 # type: project card (frontmatter + thin status)
+  sessions/
+    YYYY-MM-DD.md           # type: note — agent/human session detail for that day
+```
+
+Rules:
+1. **README.md** is the portfolio card (Eisenhower, energy, `next_action`). Keep it thin.
+2. **sessions/** holds dated logs from Grok, Cursor, and human dogfood. Prefer one file per calendar day.
+3. Do **not** put multi-day prose on the project card; link out: `[[Projects/{slug}/sessions/YYYY-MM-DD]]`.
+4. Obsidian wikilinks: `[[Projects/{slug}/README|{slug}]]` or folder note if configured.
+5. Migrate legacy `Projects/foo.md` → `Projects/foo/README.md` when touching a project.
+
+Window for automated agent backfill: rolling ~30 days of `~/.grok` + `~/.cursor` session indexes (titles only; no private vault dumps).
+

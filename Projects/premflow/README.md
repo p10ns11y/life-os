@@ -9,7 +9,7 @@ urgency: 1
 progress: 10
 area: "[[Systems]]"
 next_action: "Review redesign"
-review_date: 2026-07-20
+review_date: 2026-07-13
 effort: low
 tags: [daily, flow]
 ---
@@ -37,3 +37,13 @@ ln -s ~/Work/personal/premflow/notes Projects/premflow/notes
 ```
 
 Update frontmatter `area`, `next_action`, and review this note when the symlink happens. This keeps premflow's agentic output visible in Dashboard and Bases without duplicating content.
+## Structure
+
+- Project card: `Projects/premflow/README.md` (this note)
+- Sessions: `Projects/premflow/sessions/YYYY-MM-DD.md`
+- Convention: thin card + dated session detail (see [[Meta/schema]])
+
+
+## Session log
+
+- _No Grok/Cursor sessions mined in 2026-06-13 → 2026-07-13._

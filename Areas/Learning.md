@@ -21,9 +21,9 @@ tags: [learning]
 - Time logged in deliberate practice
 
 **Current Focus / Active Projects**:
-- [[Projects/skills]]
-- [[Projects/prototype-it-to-explain-itself]]
-- [[Projects/agent-prompt-tuning-lab]]
+- [[Projects/skills/README|skills]]
+- [[Projects/prototype-it-to-explain-itself/README|prototype-it-to-explain-itself]]
+- [[Projects/agent-prompt-tuning-lab/README|agent-prompt-tuning-lab]]
 
 ## Review Log
 - 2026-07-06: Created from schema as canonical flat area note. (Projects remapped here from prior non-canonical)

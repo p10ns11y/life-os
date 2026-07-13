@@ -27,7 +27,7 @@ Land (or be extremely well positioned for) a role at SpaceXAI (or similar) where
 - Research notes on culture + role expectations (see clippings + automation/grok.md)
 
 ## Notes & Links
-- Primary tooling: the [[Projects/collab-finder|collab finder]] for rapid high-quality applications
+- Primary tooling: the [[Projects/collab-finder/README|collab finder]] for rapid high-quality applications
 - Related area: [[Career]]
 
 > Focused campaign. Moved from Projects/ (long-term coding/major projects) to Actions/ because the goal is to land quickly.

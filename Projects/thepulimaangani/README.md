@@ -10,7 +10,7 @@ urgency: 2
 progress: 40
 area: "[[Creative]]"
 next_action: "Polish parser integration and add more prosody examples"
-review_date: 2026-07-08
+review_date: 2026-07-13
 effort: high
 tags: [cultural, prosody]
 ---
@@ -52,3 +52,13 @@ See [[Projects/Portfolio-MOC]].
 - Tiny: Updated parser docs with one more test case for modern venpa (see docs/prosody-examples.md).
 
 Next: more venpa examples and UI polish.
+## Structure
+
+- Project card: `Projects/thepulimaangani/README.md` (this note)
+- Sessions: `Projects/thepulimaangani/sessions/YYYY-MM-DD.md`
+- Convention: thin card + dated session detail (see [[Meta/schema]])
+
+
+## Session log
+
+- [[Projects/thepulimaangani/sessions/2026-06-22|2026-06-22]]

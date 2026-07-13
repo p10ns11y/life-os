@@ -9,7 +9,7 @@ urgency: 1
 progress: 10
 area: "[[Systems]]"
 next_action: "Explore MVU in C and see integration potential"
-review_date: 2026-07-20
+review_date: 2026-07-13
 effort: low
 tags: [daily, infra]
 ---
@@ -22,3 +22,13 @@ A modern hybrid Model-View-Update (MVU) framework for C.
 - GitHub: https://github.com/p10ns11y/elomaxz
 
 See [[Projects/Portfolio-MOC]].
+## Structure
+
+- Project card: `Projects/elomaxz/README.md` (this note)
+- Sessions: `Projects/elomaxz/sessions/YYYY-MM-DD.md`
+- Convention: thin card + dated session detail (see [[Meta/schema]])
+
+
+## Session log
+
+- _No Grok/Cursor sessions mined in 2026-06-13 → 2026-07-13._

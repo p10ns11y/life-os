@@ -127,3 +127,13 @@ Load the skills. Respect the schema. Verify before you declare victory.
 
 ## Communication Rule for All Agents
 Never use abbreviations without first providing the full term. Always spell out the full form on first use (example: "Personal Knowledge Management (PKM)" instead of bare "PKM"). After the initial introduction, the abbreviation may be used sparingly if it improves readability without sacrificing clarity. This applies to all responses, notes, and edits.
+
+## Project folder layout
+
+Canonical shape for every portfolio project:
+
+- `Projects/<slug>/README.md` — project card (`type: project`)
+- `Projects/<slug>/sessions/YYYY-MM-DD.md` — session detail
+
+See [[Meta/schema]] § Project folder layout. After agent work on a connected repo, update the card frontmatter and append/create that day's session note.
+

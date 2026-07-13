@@ -2,60 +2,58 @@
 
 This is the central map for all personal projects.
 
-See [[Dashboard]] for daily view and energy tracking. (Map of Content moved to Projects/ for folder simplification)
+See [[Dashboard]] for daily view and energy tracking.
 
-Use the Graph (filter to Projects/ or tag #project) and Bases views to see connections and time allocation.
+**Canonical project shape:** `Projects/{slug}/README.md` + `Projects/{slug}/sessions/YYYY-MM-DD.md` (see [[Meta/schema]]).
+
+Use the Graph (filter to Projects/) and Bases views for connections and energy.
 
 ## Clusters
 
 ### 1. Agentic Reactor / Self-Guarded Kernel
 Core tools for safe agents.
-- [[Projects/skills]] (meta library)
-- [[Projects/collab-finder]] — daily-driver job target reactor; **looper** skill + polished React shell (sessions [[Projects/collab-finder/2026-07-12|2026-07-12]])
-- [[Projects/agent-prompt-tuning-lab]]
+- [[Projects/skills/README|skills]] (meta library)
+- [[Projects/collab-finder/README|collab-finder]] — job-target reactor; looper + UI + React wave · sessions [[Projects/collab-finder/sessions/2026-07-12|2026-07-12]]
+- [[Projects/agent-prompt-tuning-lab/README|agent-prompt-tuning-lab]]
 
 ### 2. Presence + Career Leverage
 Tools for showing work and finding opportunities.
-- [[Projects/devprofile]]
-- [[Projects/collab-finder]]
-- [[Projects/latex-cv]]
+- [[Projects/devprofile/README|devprofile]]
+- [[Projects/collab-finder/README|collab-finder]]
+- [[Projects/latex-cv/README|latex-cv]]
 
 ### 3. Daily Foundations + Infra
 Daily tools and self-auditing systems.
-- [[Projects/ensembly/README|ensembly]] — **digital clone / Game of Peram** life swarm (pair for physical + HITL); sessions [[Projects/ensembly/sessions/2026-07-13|2026-07-13]]
-- [[Projects/elomaxz]]
-- [[Projects/premflow]] (https://github.com/thecuriousts/premflow)
-- [[Projects/adaptate]]
-- [[Projects/arch-machine]] (~/arch-machine)
-- shellyxz.sh (https://github.com/p10ns11y/shellyxz.sh, ~/.config/shell)
+- [[Projects/ensembly/README|ensembly]] — **digital clone / Game of Peram** · sessions [[Projects/ensembly/sessions/2026-07-13|2026-07-13]]
+- [[Projects/shellyxz/README|shellyxz]] (https://github.com/p10ns11y/shellyxz.sh, `~/.config/shell`)
+- [[Projects/arch-machine/README|arch-machine]] (~/arch-machine)
+- [[Projects/premflow/README|premflow]] (https://github.com/thecuriousts/premflow)
+- [[Projects/adaptate/README|adaptate]]
+- [[Projects/elomaxz/README|elomaxz]]
 
 ### 4. Cultural + Creative Root
 High personal meaning projects.
-- [[Projects/thepulimaangani]]
-- [[Projects/shelf-life]] (https://github.com/thecuriousts/shelf-life — personal philosophy for books as living things: shelf resting + awakening when read. Creative tool with soulful vision.)
+- [[Projects/thepulimaangani/README|thepulimaangani]]
+- [[Projects/shelf-life/README|shelf-life]] (https://github.com/thecuriousts/shelf-life)
 
 ### 5. Research Prototypes
 Experiments for learning.
-- [[Projects/prototype-it-to-explain-itself]]
+- [[Projects/prototype-it-to-explain-itself/README|prototype-it-to-explain-itself]]
 - Others in research/
 
 ### 6. Meta / Self-Amplification
-- [[Projects/skills]] (improves itself and the rest)
+- [[Projects/skills/README|skills]] (improves itself and the rest)
 
 ## Energy & Time
-See Bases views in [[Meta/bases/priority-matrix.base]] for energy balance and Eisenhower-style prioritization (importance for life/career value, urgency for timing).
+See Bases views in [[Meta/bases/priority-matrix.base]].
 
-Track weekly energy in each project note's frontmatter.
+Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-Current focus (example): Tier 1 on thepulimaangani + skills; **agentic-reactor** active on collab-finder dogfood (dual-fit) after looper/UI/React wave ([[Projects/collab-finder/2026-07-12]]); **foundational-infra** active on ensembly dogfood (turn/claim/complete) after 2026-07-13 Grok wave ([[Projects/ensembly/sessions/2026-07-13]]).
+**Current focus (2026-07-13):** collab-finder dogfood (dual-fit) · ensembly dogfood (turn/claim/complete) · skills library (looper) · shell when friction appears.
 
 ## Links
-- [[Areas/Career]]
-- [[Areas/Creative]] (Cultural / Creative)
-- [[Areas/Systems]]
-- Full plan in session notes or reviews/
-- Git repo for this vault (with .gitignore protecting private/ and drafts/)
+- [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]]
+- [[projects]] — visual graph of projects
+- Git: https://github.com/p10ns11y/life-os
 
-Add new projects here with [[wikilink]].
-
-Use Canvas for visual map of connections.
+Add new projects as folders under `Projects/` with `README.md` + `sessions/`.

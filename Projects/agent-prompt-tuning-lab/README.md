@@ -9,7 +9,7 @@ urgency: 2
 progress: 20
 area: "[[Career]]"
 next_action: "Use for skills improvement"
-review_date: 2026-07-20
+review_date: 2026-07-13
 effort: medium
 tags: [agentic, tuning]
 ---
@@ -22,3 +22,13 @@ Privacy-first toolkit to harvest, normalize, and split Cursor agent transcripts 
 - GitHub: https://github.com/p10ns11y/agent-prompt-tuning-lab
 
 See [[Projects/Portfolio-MOC]].
+## Structure
+
+- Project card: `Projects/agent-prompt-tuning-lab/README.md` (this note)
+- Sessions: `Projects/agent-prompt-tuning-lab/sessions/YYYY-MM-DD.md`
+- Convention: thin card + dated session detail (see [[Meta/schema]])
+
+
+## Session log
+
+- _No Grok/Cursor sessions mined in 2026-06-13 → 2026-07-13._

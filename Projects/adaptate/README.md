@@ -9,7 +9,7 @@ urgency: 1
 progress: 10
 area: "[[Systems]]"
 next_action: "Review Zod + OpenAPI validator"
-review_date: 2026-07-20
+review_date: 2026-07-13
 effort: low
 tags: [daily, infra]
 ---
@@ -22,3 +22,13 @@ Dynamic and adaptable model validator leveraging Zod, interoperable with OpenAPI
 - GitHub: https://github.com/p10ns11y/adaptate
 
 See [[Projects/Portfolio-MOC]].
+## Structure
+
+- Project card: `Projects/adaptate/README.md` (this note)
+- Sessions: `Projects/adaptate/sessions/YYYY-MM-DD.md`
+- Convention: thin card + dated session detail (see [[Meta/schema]])
+
+
+## Session log
+
+- _No Grok/Cursor sessions mined in 2026-06-13 → 2026-07-13._

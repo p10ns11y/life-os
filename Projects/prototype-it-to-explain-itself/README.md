@@ -9,7 +9,7 @@ urgency: 1
 progress: 15
 area: "[[Learning]]"
 next_action: "Explore the core idea and document what 'explain itself' means in practice"
-review_date: 2026-07-15
+review_date: 2026-07-13
 effort: low
 tags: [prototype, learning]
 ---
@@ -28,3 +28,13 @@ Located in Work/research/aiml/
 Low regular allocation. Good for occasional deep dives and inspiration.
 
 See [[Projects/Portfolio-MOC]].
+## Structure
+
+- Project card: `Projects/prototype-it-to-explain-itself/README.md` (this note)
+- Sessions: `Projects/prototype-it-to-explain-itself/sessions/YYYY-MM-DD.md`
+- Convention: thin card + dated session detail (see [[Meta/schema]])
+
+
+## Session log
+
+- _No Grok/Cursor sessions mined in 2026-06-13 → 2026-07-13._
