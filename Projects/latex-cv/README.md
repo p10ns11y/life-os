@@ -9,7 +9,7 @@ urgency: 2
 progress: 30
 area: "[[Career]]"
 next_action: "Polish CV generation"
-review_date: 2026-07-13
+review_date: 2026-07-20
 effort: medium
 tags: [career, cv]
 ---

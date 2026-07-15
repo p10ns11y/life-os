@@ -10,7 +10,7 @@ github: https://github.com/thecuriousts/ensembly
 weekly_energy_target: 4
 weekly_energy_logged: 4.75  # 2026-07-14: +0.25 routing eye-comfort → arch-machine; 07-13 wave retained
 next_action: "Dogfood turn/claim/complete; greenlight first copilot proposal→PR; keep private/clone ledger local-only."
-review_date: 2026-07-15
+review_date: 2026-07-20
 effort: high
 tags: [ensembly, life-swarm, digital-clone, game-of-peram, systems, copilot]
 ---
