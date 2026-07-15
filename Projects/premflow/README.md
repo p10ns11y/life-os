@@ -9,7 +9,7 @@ urgency: 1
 progress: 25
 area: "[[Systems]]"
 next_action: "Use capture/ symlink + ensembly flow wrapper; no second todo list"
-review_date: 2026-07-13
+review_date: 2026-07-20
 effort: low
 tags: [daily, flow]
 ---

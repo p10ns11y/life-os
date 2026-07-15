@@ -9,7 +9,7 @@ urgency: 1
 progress: 10
 area: "[[Systems]]"
 next_action: "Review Zod + OpenAPI validator"
-review_date: 2026-07-13
+review_date: 2026-07-20
 effort: low
 tags: [daily, infra]
 ---

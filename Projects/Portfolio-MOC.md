@@ -24,11 +24,11 @@ Tools for showing work and finding opportunities.
 
 ### 3. Daily Foundations + Infra
 Daily tools and self-auditing systems.
-- [[Projects/ensembly/README|ensembly]] — **digital clone / Game of Peram** · sessions [[Projects/ensembly/sessions/2026-07-14|2026-07-14]]
+- [[Projects/ensembly/README|ensembly]] — **digital clone / Game of Peram** · sessions [[Projects/ensembly/sessions/2026-07-15|2026-07-15]]
 - [[Projects/peram-vault/README|peram-vault]] — **local PQ vault SoT** + xAI Collections dry-run (code/path via private map; no public disk location)
-- [[Projects/shellyxz/README|shellyxz]] (https://github.com/p10ns11y/shellyxz.sh, `~/.config/shell`) · [[Projects/shellyxz/sessions/2026-07-14|2026-07-14]]
-- [[Projects/arch-machine/README|arch-machine]] — eye-comfort PR #20 · [[Projects/arch-machine/sessions/2026-07-14|2026-07-14]]
-- [[Projects/premflow/README|premflow]] — shared SoT · [[Projects/premflow/sessions/2026-07-13|2026-07-13]]
+- [[Projects/shellyxz/README|shellyxz]] (https://github.com/p10ns11y/shellyxz.sh, `~/.config/shell`) · [[Projects/shellyxz/sessions/2026-07-15|2026-07-15]]
+- [[Projects/arch-machine/README|arch-machine]] — eye-comfort on `sentinel` (#20+#21) · [[Projects/arch-machine/sessions/2026-07-15|2026-07-15]]
+- [[Projects/premflow/README|premflow]] — shared SoT · [[Projects/premflow/sessions/2026-07-15|2026-07-15]]
 - [[Projects/adaptate/README|adaptate]]
 - [[Projects/elomaxz/README|elomaxz]]
 
@@ -60,7 +60,7 @@ See Bases views in [[Meta/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-07-14):** merge **arch-machine** eye-comfort → `sentinel` · ensembly dogfood (turn/claim/complete + copilot) · shellyxz ontology when friction · collab-finder dual-fit dogfood · wealth-due-diligence private ledger · premflow capture/`flow` SoT · cultural practice tracks.
+**Current focus (2026-07-15):** ensembly dogfood (turn/claim/complete + copilot) · shellyxz ontology when friction · collab-finder dual-fit dogfood · wealth-due-diligence private ledger · premflow capture/`flow` SoT · cultural practice tracks. *(arch-machine eye-comfort: monitor-only.)*
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]
