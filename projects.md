@@ -12,7 +12,7 @@ These are the active project **folders** (`Projects/{slug}/README.md` + `session
 - **collab-finder** (Career | agentic-reactor) — Relevance: 4/4, Progress: 78%, Energy target: 3
 - **ensembly** (Systems | foundational-infra) — Relevance: 4/4, Progress: 62%, Energy target: 4 — digital clone / Game of Peram
 - **devprofile** (Career | presence-career) — Relevance: 4/4, Progress: 50%, Energy target: 2
-- **arch-machine** (Systems | foundational-infra) — Relevance: 4/4, Progress: 60%, Energy target: 2
+- **arch-machine** (Systems | foundational-infra) — Relevance: 4/4, Progress: 92%, Energy target: 2 · week 7.25e (keeper/archy/groxy)
 - **thepulimaangani** (Creative | cultural-creative) — Relevance: 4/4, Progress: 40%, Energy target: 3
 - **shellyxz** (Systems | foundational-infra) — Relevance: 3/4, Progress: 70%, Energy target: 1.5
 - **agent-prompt-tuning-lab** (Career | agentic-reactor) — Relevance: 3/4, Progress: 20%, Energy target: 1
@@ -56,7 +56,7 @@ flowchart TD
     collab["Collab Finder<br/>Relevance: 4/4<br/>Progress: 78%"]
     ensembly["ensembly<br/>Relevance: 4/4<br/>Progress: 62%"]
     dev["devprofile<br/>Relevance: 4/4<br/>Progress: 50%"]
-    arch["arch-machine<br/>Relevance: 4/4<br/>Progress: 60%"]
+    arch["arch-machine<br/>Relevance: 4/4<br/>Progress: 92%"]
     puli["thepulimaangani<br/>Relevance: 4/4<br/>Progress: 40%"]
     shelly["shellyxz<br/>Relevance: 3/4<br/>Progress: 70%"]
     tuning["agent-prompt-tuning-lab<br/>Relevance: 3/4<br/>Progress: 20%"]
