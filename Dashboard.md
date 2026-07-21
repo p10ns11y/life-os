@@ -1,6 +1,6 @@
 # Life Dashboard
 
-> Last reviewed: 2026-07-06 • **Run full matrix review weekly.** Use this as your primary launch point.
+> Last reviewed: 2026-07-21 • **Run full matrix review weekly.** Use this as your primary launch point.
 
 ## Eisenhower Priority Matrix (via Obsidian Bases)
 Edit `importance` (1-4) + `urgency` (1-4) on notes with `type: project|area|task`. See [[Meta/schema.md]] for all properties (incl. cluster, weekly_energy_*), formulas, and conventions.

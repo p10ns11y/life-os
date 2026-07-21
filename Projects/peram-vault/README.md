@@ -36,3 +36,4 @@ Local **post-quantum encrypted vault** (SoT) + **xAI Collections** dry-run expor
 ## Links
 
 - [[Areas/Systems]] · [[Projects/wealth-due-diligence/README|wealth-due-diligence]] (finance class = export deny)
+- Related (different SoT): [[Projects/arch-machine/README|arch-machine]] **keeper** — local MFA/break-glass threshold vault in the security module (PR #28 + open #33); not a substitute for `vault.sot`
