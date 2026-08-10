@@ -8,24 +8,24 @@ See [[Portfolio-MOC]] for the canonical cluster definitions and [[Dashboard]] fo
 
 These are the active project **folders** (`Projects/{slug}/README.md` + `sessions/`):
 
-- **skills** (Career | agentic-reactor) — Relevance: 4/4, Progress: 58%, Energy target: 3
-- **collab-finder** (Career | agentic-reactor) — Relevance: 4/4, Progress: 78%, Energy target: 3
-- **ensembly** (Systems | foundational-infra) — Relevance: 4/4, Progress: 62%, Energy target: 4 — digital clone / Game of Peram
-- **devprofile** (Career | presence-career) — Relevance: 4/4, Progress: 50%, Energy target: 2
-- **arch-machine** (Systems | foundational-infra) — Relevance: 4/4, Progress: 92%, Energy target: 2 · week 7.25e (keeper/archy/groxy)
-- **thepulimaangani** (Creative | cultural-creative) — Relevance: 4/4, Progress: 40%, Energy target: 3
-- **shellyxz** (Systems | foundational-infra) — Relevance: 3/4, Progress: 70%, Energy target: 1.5
-- **agent-prompt-tuning-lab** (Career | agentic-reactor) — Relevance: 3/4, Progress: 20%, Energy target: 1
-- **latex-cv** (Career | presence-career) — Relevance: 3/4, Progress: 30%, Energy target: 1
-- **shelf-life** (Creative | cultural-creative) — Relevance: 3/4, Progress: 20%, Energy target: 2
-- **adaptate** (Systems | daily-foundations) — Relevance: 2/4, Progress: 10%, Energy target: 1
-- **elomaxz** (Systems | daily-foundations) — Relevance: 2/4, Progress: 10%, Energy target: 1
-- **premflow** (Systems | daily-foundations) — Relevance: 2/4, Progress: 10%, Energy target: 1
-- **prototype-it-to-explain-itself** (Learning | research-prototypes) — Relevance: 2/4, Progress: 15%, Energy target: 1
-- **cultural-integration** (Learning | cultural-integration) — Relevance: 4/4, Progress: 20%, Energy target: 1 — three-cultures coaching note (Tamil × SE × US)
-- **swedish-assimilation** (Learning | cultural-integration) — Relevance: 4/4, Progress: 5%, Energy target: 3 — Swedish read/speech/write + culture/history
-- **america-move-prep** (Career | cultural-integration) — Relevance: 3/4, Progress: 5%, Energy target: 2 — US move readiness (comms, civics, checklist)
-- **wealth-due-diligence** (Finance | personal-finance) — Relevance: 4/4, Progress: 55%, Energy target: 2 — wealth-growth brief (debts, assets, hustles, tax SE/IN/US)
+- **skills** (Career | agentic-reactor) — Relevance: 4/4, Progress: 68%, Energy target: 1 (park authoring W33)
+- **collab-finder** (Career | agentic-reactor) — Relevance: 4/4, Progress: 88%, Energy target: 2 — applications submitted (details private)
+- **ensembly** (Systems | foundational-infra) — Relevance: 4/4, Progress: 62%, Energy target: 1 — park stretch W33
+- **devprofile** (Career | presence-career) — Relevance: 4/4, Progress: 62%, Energy target: 1 — `/focus`+`/profile` shipped
+- **arch-machine** (Systems | foundational-infra) — Relevance: 4/4, Progress: 94%, Energy target: 0.5 — PR #33 merged; dogfood-only
+- **wealth-due-diligence** (Finance | personal-finance) — Relevance: 4/4, Progress: 68%, Energy target: 3 — critical-path execution W33
+- **thepulimaangani** (Creative | cultural-creative) — Relevance: 4/4, Progress: 40%, Energy target: 0 (park W33)
+- **shellyxz** (Systems | foundational-infra) — Relevance: 3/4, Progress: 70%, Energy target: 0.5
+- **agent-prompt-tuning-lab** (Career | agentic-reactor) — Relevance: 3/4, Progress: 20%, Energy target: 0
+- **latex-cv** (Career | presence-career) — Relevance: 3/4, Progress: 30%, Energy target: 0
+- **shelf-life** (Creative | cultural-creative) — Relevance: 3/4, Progress: 20%, Energy target: 0
+- **adaptate** (Systems | daily-foundations) — Relevance: 2/4, Progress: 10%, Energy target: 0
+- **elomaxz** (Systems | daily-foundations) — Relevance: 2/4, Progress: 10%, Energy target: 0
+- **premflow** (Systems | daily-foundations) — Relevance: 2/4, Progress: 10%, Energy target: 0.5
+- **prototype-it-to-explain-itself** (Learning | research-prototypes) — Relevance: 2/4, Progress: 15%, Energy target: 0
+- **cultural-integration** (Learning | cultural-integration) — Relevance: 4/4, Progress: 20%, Energy target: 0.5
+- **swedish-assimilation** (Learning | cultural-integration) — Relevance: 4/4, Progress: 5%, Energy target: 1.5 — 3×20min slots
+- **america-move-prep** (Career | cultural-integration) — Relevance: 3/4, Progress: 5%, Energy target: 0 — park W33
 
 Relevance score is primarily based on `importance` (1-4) from each project's frontmatter, combined with strategic value (cluster priority and energy allocation).
 

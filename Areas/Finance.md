@@ -1,11 +1,11 @@
 ---
 type: area
 status: "In Progress"
-importance: 3
-urgency: 1
-progress: 30
+importance: 4
+urgency: 4
+progress: 45
 area: ""
-review_date: 2026-07-20
+review_date: 2026-08-17
 tags: [finance]
 ---
 
@@ -21,7 +21,9 @@ tags: [finance]
 - Clear budget and quarterly financial reviews
 
 **Current Focus / Active Projects**:
-- [[Projects/wealth-due-diligence/README|wealth-due-diligence]] — local wealth-growth brief (debts, assets, hustles, tax SE/IN/US); code/path via private map only
+- [[Projects/wealth-due-diligence/README|wealth-due-diligence]] — tooling + private ledger SoT
+- Private disk: `private/` critical-path + week ops (not on remote)
 
 ## Review Log
+- 2026-08-10: Weekly review — area elevated to DO FIRST; execution details on private disk only.
 - 2026-07-06: Created from schema as canonical flat area note.

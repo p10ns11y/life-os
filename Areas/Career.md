@@ -2,9 +2,9 @@
 type: area
 status: "In Progress"
 importance: 4
-urgency: 2
-progress: 65
-review_date: 2026-07-20
+urgency: 3
+progress: 72
+review_date: 2026-08-17
 tags: [career]
 ---
 
@@ -21,12 +21,12 @@ tags: [career]
 - Healthy pipeline of opportunities evaluated with the collab-finder tooling
 
 **Current Focus / Active Items**:
-- [[Projects/collab-finder/Collab Finder|Collab Finder]] (primary agentic job target tool)
-- [[Projects/america-move-prep/README|america-move-prep]] — US optionality (target brief, civics, move checklist; no filings from vault)
-- [[Projects/swedish-assimilation/README|swedish-assimilation]] — Swedish workplace/society language readiness
-- [[Actions/SpaceXAI-and-Tesla|SpaceXAI / Tesla positioning and applications]]
-- Vault-as-life-OS (this system)
+- [[Actions/SpaceXAI-and-Tesla|SpaceXAI]] — application submitted; await process
+- [[Projects/collab-finder/README|collab-finder]] — pipeline dogfood; next JD after private apply-phone ops ready
+- Application / phone specifics: private disk only (`private/career/`)
+- [[Projects/swedish-assimilation/README|swedish-assimilation]] — language slots (support track)
 
 ## Review Log
+- 2026-08-10: Primary applications submitted; apply gate cleared. Details on private disk. Finance remains DO FIRST.
 - 2026-07-13: Linked america-move-prep + swedish-assimilation (mobility / local integration).
 - 2026-07-05: Initialized structured Area with full properties + linked to priority matrix.

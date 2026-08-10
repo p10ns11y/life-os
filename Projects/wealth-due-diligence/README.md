@@ -3,13 +3,13 @@ type: project
 status: "In Progress"
 importance: 4
 urgency: 4
-progress: 55
+progress: 68
 area: "[[Finance]]"
 cluster: "personal-finance"
-weekly_energy_target: 2
-weekly_energy_logged: 2
-next_action: "Map code/data via private path map; copy sample fixture → gitignored private ledger; run brief (Rust wealth-core preferred for math SoT); act on next_target + tax reserve."
-review_date: 2026-07-20
+weekly_energy_target: 3
+weekly_energy_logged: 0  # reset 2026-08-10 week open; last week Operate SPA + private meetings + critical-path card
+next_action: "Execute private critical-path card on disk (private/); then wealth-core brief refresh."
+review_date: 2026-08-17
 effort: low
 tags: [wealth, finance, debt-avalanche, runway, investments, tax, cli]
 ---
@@ -47,6 +47,7 @@ npm run brief   # or: cargo run --brief … on wealth-core
 
 ## Session log
 
+- [[Projects/wealth-due-diligence/sessions/2026-08-10|2026-08-10]] — weekly review; critical-path carry-forward
 - [[Projects/wealth-due-diligence/sessions/2026-07-13|2026-07-13]]
 
 See [[Projects/Portfolio-MOC]].

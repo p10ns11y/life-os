@@ -49,11 +49,13 @@ Still refuse: unattended bank/email, vault `private/` commits, merging vault int
 
 **Non-goals / protected** (do not touch without explicit request):
 - `Resources/Clippings/` content
-- `private/`
+- `private/` and any `_private.*` / `_private/` paths (gitignored — local disk only)
 - `Resources/git.md`
 - `.obsidian/` (or other dot-config) beyond reading
 - Dated daily log body content (only frontmatter if needed)
 - Adding new top-level folders (reviews/, Daily/, etc.) unless the plan explicitly calls for it
+
+**Private disk rule:** Public / remote notes are **pointers only** (e.g. “see `private/`”). Creditor names, amounts, phone/carrier ops, legal-name checks, referral details, and similar PII go in `private/` or `_private.*` — never in Dashboard, Areas, Projects cards, or tracked sessions.
 
 ## Agentic Workflow & Skills
 

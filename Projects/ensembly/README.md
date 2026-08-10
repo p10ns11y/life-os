@@ -2,15 +2,15 @@
 type: project
 status: "In Progress"
 importance: 4
-urgency: 4
+urgency: 2
 progress: 62
 area: "[[Systems]]"
 cluster: "foundational-infra"
 github: https://github.com/thecuriousts/ensembly
-weekly_energy_target: 4
-weekly_energy_logged: 4.75  # 2026-07-14: +0.25 routing eye-comfort → arch-machine; 07-13 wave retained
-next_action: "Dogfood turn/claim/complete; greenlight first copilot proposal→PR; keep private/clone ledger local-only."
-review_date: 2026-07-20
+weekly_energy_target: 1
+weekly_energy_logged: 0  # reset 2026-08-10 — park stretch for finance + apply week
+next_action: "Park stretch features this week; optional dogfood turn/claim/complete only if finance + SpaceXAI submit are moving."
+review_date: 2026-08-17
 effort: high
 tags: [ensembly, life-swarm, digital-clone, game-of-peram, systems, copilot]
 ---

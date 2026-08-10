@@ -1,6 +1,29 @@
 # Life Dashboard
 
-> Last reviewed: 2026-07-21 • **Run full matrix review weekly.** Use this as your primary launch point.
+> Last reviewed: 2026-08-10 • **Run full matrix review weekly.** Use this as your primary launch point.
+
+## Week card (2026-W32 → W33)
+
+Detail archive (local): `Archives/` · Finance / career ops (local disk): `private/`
+
+### Last week done (2026-08-03 → 08-09)
+
+| Track | Shipped |
+|-------|---------|
+| Finance | wealth-core Operate SPA + Meetings; private ledger/meetings work; critical-path card on private disk |
+| Career / presence | collab-finder apply-pack / fit / hire board (#18); devprofile `/profile` deck + `/focus` EEaaS essays (#67–#71); CV layout polish |
+| Agentic kernel | skills + plugins: eva-emptiness, control-graph DualLoad/CLT; grok-build bash/tool-mix budgets + learning-cost roadmap |
+| Creative | thepulimaangani Venpaa `theni` rule-DAG spike (08-02, edge of window) |
+
+### This week focus (2026-08-10 → 08-16)
+
+1. **🔴 Finance spine** — execute private critical-path card on disk (`private/`). No creditor detail in this vault remote.
+2. **✅ Career apply (done 08-10)** — primary applications submitted; pipeline + apply-phone ops on private disk only.
+3. **🟢 Swedish** — 20 min read-aloud + 5-line diary (3× this week minimum).
+4. **🟢 Follow-ups** — await processes; no new essay scope.
+5. **⚪ Park** — ensembly stretch, arch-machine deep work (PR #33 already merged — dogfood only if capacity), thepulimaangani, adaptate/elomaxz · further JDs until apply-phone ready (private ops).
+
+**Capacity rule:** finance gates first. Career apply gate cleared this week.
 
 ## Eisenhower Priority Matrix (via Obsidian Bases)
 Edit `importance` (1-4) + `urgency` (1-4) on notes with `type: project|area|task`. See [[Meta/schema.md]] for all properties (incl. cluster, weekly_energy_*), formulas, and conventions.
@@ -29,7 +52,7 @@ Filter in the base on `urgency` / `urgency_label` (formula) or `next_action`. Us
 - Update project frontmatter: `cluster`, `weekly_energy_target`, `weekly_energy_logged`, `importance`, `progress`, `next_action`, `area`.
 - Bases: By Cluster, Energy Balance, Portfolio Projects (High Value).
 
-Current focus clusters: Agentic Reactor, Cultural/Creative, Foundations.
+Current focus clusters: Personal Finance (spine), Presence + Career, Cultural Integration.
 
 ## Life Areas (canonical)
 All areas live flat in Areas/ as .md. Use Area template + update frontmatter.
@@ -66,6 +89,6 @@ Tasks surface via the Todos view above (filter by area). See [[Meta/schema.md]].
 - [[Meta/schema.md]] (source of truth)
 - [[Meta/bases/priority-matrix.base]]
 - [[Projects/Portfolio-MOC]]
-- Inbox/ | Areas/ | Projects/ | Actions/ | private/ | Resources/Clippings/
+- Inbox/ | Areas/ | Projects/ | Actions/ | private/ (local) | Resources/Clippings/
 
 *Simple frontmatter + Bases + templates = durable prioritization and progress. Update schema first for changes.*
