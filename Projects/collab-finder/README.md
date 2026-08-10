@@ -2,16 +2,15 @@
 type: project
 status: "In Progress"
 importance: 4
-urgency: 3
-progress: 78
+urgency: 2
+progress: 88
 area: "[[Career]]"
 cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/collab-finder
-weekly_energy_target: 3
-weekly_energy_logged: 3.5  # 2026-07-12: looper skill + UI polish + React pure panels/sticky CV (~3.5); prior week CV wiring retained in session notes
-due: 2026-08-15
-next_action: "Dogfood dual-fit Analyze + Prep in desktop app; note any CV-packet/restore friction; hold XState until a multi-step cancelable client pipeline needs it."
-review_date: 2026-07-13
+weekly_energy_target: 2
+weekly_energy_logged: 1  # 2026-08-10: primary applications submitted (details private)
+next_action: "Applications already applied in local DB. Next JD only after private apply-phone ops ready; public phone stays off."
+review_date: 2026-08-17
 effort: high
 tags: [agentic, tauri, collab, job-tools, rust, react]
 ---
@@ -31,16 +30,17 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 - **Agent control plane**: `looper` skill (structured loops, multi-model routing, Loop Cards)
 - **Product UI system**: PRODUCT/DESIGN + shared viewport/panel/chip language
 - **React client quality**: pure status-enum panels (xAI, devprofile), sticky CV open, keyboard/rail pure helpers + verify runners
+- **Durable application pack export** (2026-07-16): `export_application_pack` → app-local `application_packs/opp_{id}/` + Discover **Export pack** CTA; mark Applied + hydrate unchanged; CV sidecar still non-mutating
 
 ## Current Focus / Open
-- Dogfood Analyze + Prep end-to-end in the app (trust the hero loop daily)
-- History/Data/Stats secondary paths when needed via palette
-- Full CV promote guard UX (diff + confirm + .bak) if gaps appear in dogfood
+- **2026-08-10:** primary applications submitted (company/opp detail on private disk + local DB)
+- Apply-phone / contact ops: private disk only; public contact stays opt-out
+- Next JD dogfood after private phone ops ready; History/Data/Stats via palette as needed
 - **Not** XState adoption yet (MVU owns domain; local reducers own Tauri forms)
 
 ## Next Actions
-- See `next_action` frontmatter (dogfood dual-fit)
-- Keep session detail in dated notes under this folder (thin main note)
+- See `next_action` frontmatter (dogfood full apply path)
+- Keep session detail in dated notes under this folder (thin main note); PII → `private/`
 
 ## Links
 - Area: [[Areas/Career]]
@@ -63,9 +63,11 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 
 ## Session log
 
+- [[Projects/collab-finder/sessions/2026-08-10|2026-08-10]] — applications submitted (public pointer)
+- [[Projects/collab-finder/sessions/2026-08-04|2026-08-04]] — Apply pack / fit modes / hire board (#18)
+- [[Projects/collab-finder/sessions/2026-07-17|2026-07-17]] — Submit-ready pack craft (opp detail private)
+
 - [[Projects/collab-finder/sessions/2026-07-08|2026-07-08]] — CV packet + devprofile + sidecar
 - [[Projects/collab-finder/sessions/2026-07-09|2026-07-09]] — life-os tracker / AGENTS links
 - [[Projects/collab-finder/sessions/2026-07-11|2026-07-11]] — CV mojibake + dual-fit gap analysis
 - [[Projects/collab-finder/sessions/2026-07-12|2026-07-12]] — looper + UI + React pure panels
-
-*Last 30d mine: Grok dominant 07-08→12; Cursor 07-12 PR review session.*
