@@ -3,14 +3,14 @@ type: project
 status: "In Progress"
 cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/skills
-weekly_energy_target: 3
-weekly_energy_logged: 2.5  # 2026-07-12: looper skill promoted into skills library from collab-finder
+weekly_energy_target: 1
+weekly_energy_logged: 0  # reset 2026-08-10; 08-01→02 DualLoad + eva-emptiness shipped
 importance: 4
-urgency: 3
-progress: 58
+urgency: 2
+progress: 68
 area: "[[Career]]"
-next_action: "Symlink looper into ~/.cursor/skills if not already; add surplus example for structured loops; improve discovery docs"
-review_date: 2026-07-13
+next_action: "Park new skill authoring this week; dogfood DualLoad/eva only if a blank-sheet or multi-step task appears."
+review_date: 2026-08-17
 effort: high
 tags: [skills, meta]
 ---
@@ -60,6 +60,5 @@ Added note: "See Portfolio Map of Content (Portfolio-MOC) for example of using t
 
 ## Session log
 
+- [[Projects/skills/sessions/2026-08-02|2026-08-02]] — DualLoad + eva-emptiness wave
 - [[Projects/skills/sessions/2026-07-12|2026-07-12]] — looper promoted into skills library
-
-*Last 30d mine: looper promotion 07-12 (session note); Cursor quiet on skills cwd; heavy use via collab-finder/ensembly hosts.*

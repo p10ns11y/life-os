@@ -3,13 +3,14 @@ type: project
 status: "In Progress"
 cluster: "presence-career"
 github: https://github.com/p10ns11y/devprofile
-weekly_energy_target: 2
+weekly_energy_target: 1
+weekly_energy_logged: 0  # reset 2026-08-10; last week ~4e /profile deck + /focus essays
 importance: 4
-urgency: 3
-progress: 50
+urgency: 2
+progress: 62
 area: "[[Career]]"
-next_action: "Add more Q&A examples and improve PDF generation polish"
-review_date: 2026-07-13
+next_action: "No new essay scope this week — only wire /focus or /profile URL into SpaceXAI packet if helpful; then park until apply lands."
+review_date: 2026-08-17
 effort: medium
 tags: [career, profile]
 ---
@@ -39,7 +40,6 @@ See [[Projects/Portfolio-MOC]].
 
 ## Session log
 
+- [[Projects/devprofile/sessions/2026-08-05|2026-08-05]] — `/profile` deck + `/focus` essays
 - [[Projects/devprofile/sessions/2026-06-19|2026-06-19]]
 - [[Projects/devprofile/sessions/2026-06-23|2026-06-23]]
-
-*Last 30d: Cursor 06-19 polish + 06-23; Grok quiet.*

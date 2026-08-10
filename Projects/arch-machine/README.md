@@ -3,14 +3,14 @@ type: project
 status: "In Progress"
 cluster: "foundational-infra"
 github: https://github.com/p10ns11y/arch-machine
-weekly_energy_target: 2
-weekly_energy_logged: 7.25  # week 2026-07-15→21: keeper #28+#33, archy #29, groxy #31+#32, eye-comfort #25/#30, avante host
+weekly_energy_target: 0.5
+weekly_energy_logged: 0  # reset 2026-08-10; PR #33 merged 2026-07-21 — park deep work
 importance: 4
-urgency: 2
-progress: 92
+urgency: 1
+progress: 94
 area: "[[Systems]]"
-next_action: "Merge PR #33 (keeper PATH/rebind/loop); dogfood keeper loop --practice + USB escrow drill"
-review_date: 2026-07-28
+next_action: "Park deep work; optional dogfood: keeper loop --practice + USB escrow drill if capacity after finance + apply."
+review_date: 2026-08-24
 effort: high
 tags: [infra, arch, omarchy, theme, keeper, groxy, archy]
 ---

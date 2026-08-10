@@ -2,6 +2,11 @@
 /private/
 /drafts/
 
+# Underscore-private notes/folders anywhere (never push)
+**/_private.*
+**/_private/
+**/_private/**
+
 # Shared premflow capture: track the *symlink* only (pointer to ~/.premflow).
 # Never pack private target contents if capture is ever a real directory.
 Projects/premflow/capture/**
