@@ -60,7 +60,7 @@ See Bases views in [[Meta/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-07-21):** merge arch-machine **PR #33** (keeper PATH/rebind/loop) + personal recover drill · ensembly dogfood · collab-finder dual-fit · wealth-due-diligence private ledger · premflow capture · cultural practice. *(eye-comfort: monitor-only; avante Grok ACP = host nvim overlay, not a Grok plugin.)*
+**Current focus (2026-08-10):** **finance spine** (private critical-path card on disk) · career apply **done** (details in `private/career/`) · Swedish practice slots · apply-phone ops private. Park: further JDs until phone ready · ensembly stretch · arch-machine deep work · thepulimaangani. See [[Dashboard]] week card; local archive under `Archives/`.
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]
