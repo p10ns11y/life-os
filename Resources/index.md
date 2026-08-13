@@ -21,6 +21,12 @@ This file provides a central index, lookup, and references for assets stored in 
 - Local files in `techpapers/` and `whitepapers/` are tracked (see `.gitignore` exceptions).
 - For clippings and other references, see the `Clippings/` subdirectory (individual .md files serve as their own notes).
 
+## Finance / economics literacy
+
+| Title | Local Path | Source / Reference URL | Notes |
+|-------|------------|------------------------|-------|
+| Economy first principles — wealth, market cap, geopolitics, digital money | [[economy-first-principles]] | Conversation 2026-08-13 (vault synthesis) | Canonical SoT for stock vs flow, market cap as last handshake × tickets, trader relay, pipes vs casino. Area [[Finance]]. Session [[Projects/wealth-due-diligence/sessions/2026-08-13]]. |
+
 ## Career / Sweden (AF)
 
 | Title | Local Path | Source / Reference URL | Notes |
@@ -33,4 +39,4 @@ This file provides a central index, lookup, and references for assets stored in 
 - [[Projects/Portfolio-MOC]] — Overall project and resource mapping
 - Root [[README]] for vault overview
 
-Last updated: 2026-08-12 (AF Support A–Z only in Career/Sweden section)
+Last updated: 2026-08-13 (economy first-principles literacy note)

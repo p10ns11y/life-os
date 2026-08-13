@@ -45,7 +45,8 @@ Language, culture, history, and move optionality (Sweden base + US willingness).
 - [[Projects/america-move-prep/README|america-move-prep]] — US communication, civics/culture, practical move checklist
 
 ### 4c. Personal Finance
-- [[Projects/wealth-due-diligence/README|wealth-due-diligence]] — wealth-growth CLI (debts, runway, tax SE/IN/US) · sessions [[Projects/wealth-due-diligence/sessions/2026-07-13|2026-07-13]]
+- [[Projects/wealth-due-diligence/README|wealth-due-diligence]] — wealth-growth CLI (debts, runway, tax SE/IN/US) · sessions [[Projects/wealth-due-diligence/sessions/2026-08-13|2026-08-13]]
+- [[Resources/economy-first-principles]] — first-principles literacy (wealth vs market cap vs pipes vs crypto)
 
 ### 5. Research Prototypes
 Experiments for learning.

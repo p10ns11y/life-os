@@ -7,7 +7,7 @@ progress: 68
 area: "[[Finance]]"
 cluster: "personal-finance"
 weekly_energy_target: 3
-weekly_energy_logged: 0  # reset 2026-08-10 week open; last week Operate SPA + private meetings + critical-path card
+weekly_energy_logged: 2.0  # 2026-08-13 economy first-principles literacy (market cap / pipes / crypto) → Resources note
 next_action: "Execute private finance critical-path card (verify/object claims; statutory notices; debt-advice appt); then wealth-core brief refresh."
 review_date: 2026-08-17
 effort: low
@@ -45,8 +45,13 @@ npm run brief   # or: cargo run --brief … on wealth-core
 # real numbers only under gitignored private/
 ```
 
+## Literacy (claims vs cash)
+
+[[Resources/economy-first-principles]] — how market cap, the trader relay, geopolitics, and digital money sit relative to the real river. Use before sizing tickets (stocks, Bitcoin) as if they were cash.
+
 ## Session log
 
+- [[Projects/wealth-due-diligence/sessions/2026-08-13|2026-08-13]] — economy first-principles capture (canonical: [[Resources/economy-first-principles]])
 - [[Projects/wealth-due-diligence/sessions/2026-08-11|2026-08-11]] — collector call + map (public pointer; detail on private disk)
 - [[Projects/wealth-due-diligence/sessions/2026-08-10|2026-08-10]] — weekly review; critical-path carry-forward
 - [[Projects/wealth-due-diligence/sessions/2026-07-13|2026-07-13]]
