@@ -21,10 +21,16 @@ This file provides a central index, lookup, and references for assets stored in 
 - Local files in `techpapers/` and `whitepapers/` are tracked (see `.gitignore` exceptions).
 - For clippings and other references, see the `Clippings/` subdirectory (individual .md files serve as their own notes).
 
+## Career / Sweden (AF)
+
+| Title | Local Path | Source / Reference URL | Notes |
+|-------|------------|------------------------|-------|
+| Arbetsförmedlingen — Support and programmes A–Z | [[Arbetsformedlingen-Support-A-Z]] | https://arbetsformedlingen.se/other-languages/english-engelska/additional-support/support-a-z | English catalogue of AF support/programmes; eligibility = individual assessment |
+
 ## Related
 
 - [[git]] — Git-related resources and workflows
 - [[Projects/Portfolio-MOC]] — Overall project and resource mapping
 - Root [[README]] for vault overview
 
-Last updated: 2026-07-08 (added index for tech/whitepapers assets with source references)
+Last updated: 2026-08-12 (AF Support A–Z only in Career/Sweden section)

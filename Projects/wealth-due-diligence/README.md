@@ -8,7 +8,7 @@ area: "[[Finance]]"
 cluster: "personal-finance"
 weekly_energy_target: 3
 weekly_energy_logged: 0  # reset 2026-08-10 week open; last week Operate SPA + private meetings + critical-path card
-next_action: "Execute private critical-path card on disk (private/); then wealth-core brief refresh."
+next_action: "Execute private finance critical-path card (verify/object claims; statutory notices; debt-advice appt); then wealth-core brief refresh."
 review_date: 2026-08-17
 effort: low
 tags: [wealth, finance, debt-avalanche, runway, investments, tax, cli]
@@ -47,6 +47,7 @@ npm run brief   # or: cargo run --brief … on wealth-core
 
 ## Session log
 
+- [[Projects/wealth-due-diligence/sessions/2026-08-11|2026-08-11]] — collector call + map (public pointer; detail on private disk)
 - [[Projects/wealth-due-diligence/sessions/2026-08-10|2026-08-10]] — weekly review; critical-path carry-forward
 - [[Projects/wealth-due-diligence/sessions/2026-07-13|2026-07-13]]
 

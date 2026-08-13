@@ -3,11 +3,11 @@ type: task
 status: "In Progress"
 importance: 4
 urgency: 2
-progress: 85
+progress: 70
 area: "[[Career]]"
 cluster: "presence-career"
 weekly_energy_target: 1
-next_action: "Await process; log any recruiter ping. Parallel SE applications: see private/career/."
+next_action: "Pipeline outcomes stay on private disk. Watch for next posting; keep SE pipeline via collab-finder + private/career/."
 review_date: 2026-08-24
 effort: high
 tags: [spacexai, career, tesla]
@@ -26,7 +26,8 @@ Land (or be extremely well positioned for) a role at SpaceXAI (or similar) where
 - Research notes on culture + role expectations (see clippings + automation/grok.md)
 
 ## Status
-- **2026-08-10:** Exceptional SWE application **submitted**. Pack/process detail on private disk + collab-finder local DB.
+- **2026-08-10:** Application activity logged. **Company names, role titles, and outcomes are private** — see local `private/career/` + collab-finder app DB only (never on remote vault).
+- Campaign continues for future frontier IC posts as openings appear.
 
 ## Notes & Links
 - Primary tooling: the [[Projects/collab-finder/README|collab finder]] for rapid high-quality applications
