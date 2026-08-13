@@ -5,7 +5,7 @@ importance: 4
 urgency: 1
 progress: 55
 area: ""
-review_date: 2026-07-20
+review_date: 2026-09-13
 tags: [learning]
 ---
 
@@ -28,7 +28,9 @@ tags: [learning]
 - [[Projects/skills/README|skills]]
 - [[Projects/prototype-it-to-explain-itself/README|prototype-it-to-explain-itself]]
 - [[Projects/agent-prompt-tuning-lab/README|agent-prompt-tuning-lab]]
+- [[Resources/economy-first-principles]] — economy / market-cap / geopolitics / digital-money synthesis (Finance-primary)
 
 ## Review Log
+- 2026-08-13: Filed first-principles economics conversation as [[Resources/economy-first-principles]] (area [[Finance]], session under wealth-due-diligence).
 - 2026-07-13: Added swedish-assimilation + america-move-prep (cultural integration tracks).
 - 2026-07-06: Created from schema as canonical flat area note. (Projects remapped here from prior non-canonical)

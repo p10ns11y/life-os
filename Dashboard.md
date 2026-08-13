@@ -1,6 +1,6 @@
 # Life Dashboard
 
-> Last reviewed: 2026-08-11 • **Run full matrix review weekly.** Use this as your primary launch point.
+> Last reviewed: 2026-08-13 • **Run full matrix review weekly.** Use this as your primary launch point.
 
 ## Week card (2026-W32 → W33)
 
@@ -21,7 +21,8 @@ Detail archive (local): `Archives/` · Finance / career ops (local disk): `priva
 2. **✅ Career apply (done 08-10)** — primary applications submitted; pipeline + apply-phone ops on private disk only.
 3. **🟢 Swedish** — 20 min read-aloud + 5-line diary (3× this week minimum).
 4. **🟢 Follow-ups** — application outcomes on private disk only; no new essay scope.
-5. **⚪ Park** — ensembly stretch, arch-machine deep work (PR #33 already merged — dogfood only if capacity), thepulimaangani, adaptate/elomaxz · further JDs until apply-phone ready (private ops).
+5. **🟢 Literacy (filed)** — [[Resources/economy-first-principles]] (Finance + Learning); session [[Projects/wealth-due-diligence/sessions/2026-08-13]].
+6. **⚪ Park** — ensembly stretch, arch-machine deep work (PR #33 already merged — dogfood only if capacity), thepulimaangani, adaptate/elomaxz · further JDs until apply-phone ready (private ops).
 
 **Capacity rule:** finance gates first. Career apply gate cleared this week.
 
