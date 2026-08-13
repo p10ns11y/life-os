@@ -4,7 +4,7 @@ status: "In Progress"
 importance: 4
 urgency: 3
 progress: 72
-review_date: 2026-08-17
+review_date: 2026-08-19
 tags: [career]
 ---
 
@@ -21,12 +21,14 @@ tags: [career]
 - Healthy pipeline of opportunities evaluated with the collab-finder tooling
 
 **Current Focus / Active Items**:
-- [[Actions/SpaceXAI-and-Tesla|SpaceXAI]] — application submitted; await process
-- [[Projects/collab-finder/README|collab-finder]] — pipeline dogfood; next JD after private apply-phone ops ready
-- Application / phone specifics: private disk only (`private/career/`)
+- [[Actions/SpaceXAI-and-Tesla|SpaceXAI]] — target campaign; **outcomes private** (`private/career/`)
+- [[Projects/collab-finder/README|collab-finder]] — pipeline dogfood; Mission + Sweden full screens; next JD after private apply-phone ops ready
+- [[Resources/Arbetsformedlingen-Support-A-Z|AF Support A–Z]] — English catalogue of AF programmes / extra support (eligibility = caseworker assessment)
+- Application / phone / employer outcomes: private disk only (`private/career/`) — never on remote
 - [[Projects/swedish-assimilation/README|swedish-assimilation]] — language slots (support track)
 
 ## Review Log
-- 2026-08-10: Primary applications submitted; apply gate cleared. Details on private disk. Finance remains DO FIRST.
+- 2026-08-10: Application outcomes updated on private disk only. Finance remains DO FIRST.
+- 2026-08-10: Primary applications submitted; apply gate cleared. Details on private disk.
 - 2026-07-13: Linked america-move-prep + swedish-assimilation (mobility / local integration).
 - 2026-07-05: Initialized structured Area with full properties + linked to priority matrix.

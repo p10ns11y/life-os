@@ -9,7 +9,7 @@ cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/collab-finder
 weekly_energy_target: 2
 weekly_energy_logged: 1  # 2026-08-10: primary applications submitted (details private)
-next_action: "Applications already applied in local DB. Next JD only after private apply-phone ops ready; public phone stays off."
+next_action: "Read top hunt JDs on private candidate list; lock 5 (3 honest + 2 stretch). ACP spawn for analyze still pending."
 review_date: 2026-08-17
 effort: high
 tags: [agentic, tauri, collab, job-tools, rust, react]
@@ -33,7 +33,7 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 - **Durable application pack export** (2026-07-16): `export_application_pack` → app-local `application_packs/opp_{id}/` + Discover **Export pack** CTA; mark Applied + hydrate unchanged; CV sidecar still non-mutating
 
 ## Current Focus / Open
-- **2026-08-10:** primary applications submitted (company/opp detail on private disk + local DB)
+- **2026-08-10:** application pipeline moved (employer outcomes → local DB + life-os `private/career/` only — not this remote note)
 - Apply-phone / contact ops: private disk only; public contact stays opt-out
 - Next JD dogfood after private phone ops ready; History/Data/Stats via palette as needed
 - **Not** XState adoption yet (MVU owns domain; local reducers own Tauri forms)
@@ -63,6 +63,7 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 
 ## Session log
 
+- [[Projects/collab-finder/sessions/2026-08-12|2026-08-12]] — dual-rail hunt + LLM route preference
 - [[Projects/collab-finder/sessions/2026-08-10|2026-08-10]] — applications submitted (public pointer)
 - [[Projects/collab-finder/sessions/2026-08-04|2026-08-04]] — Apply pack / fit modes / hire board (#18)
 - [[Projects/collab-finder/sessions/2026-07-17|2026-07-17]] — Submit-ready pack craft (opp detail private)

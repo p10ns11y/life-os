@@ -25,5 +25,6 @@ tags: [finance]
 - Private disk: `private/` critical-path + week ops (not on remote)
 
 ## Review Log
+- 2026-08-11: Private admin session; detail on private disk only.
 - 2026-08-10: Weekly review — area elevated to DO FIRST; execution details on private disk only.
 - 2026-07-06: Created from schema as canonical flat area note.
