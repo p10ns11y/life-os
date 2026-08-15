@@ -107,3 +107,5 @@ Tasks surface via the Todos view above (filter by area). See [[Meta/schema.md]].
 - Inbox/ | Areas/ | Projects/ | Actions/ | private/ (local) | Resources/Clippings/
 
 *Simple frontmatter + Bases + templates = durable prioritization and progress. Update schema first for changes.*
+
+**Compass:** [[Meta/north-star]] — finance now, SpaceXAI by compounding. Desktop nudge at :00 and :30.
