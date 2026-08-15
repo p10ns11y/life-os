@@ -61,7 +61,7 @@ See Bases views in [[Meta/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-08-10):** **finance spine** (private critical-path card on disk) · career apply **done** (details in `private/career/`) · Swedish practice slots · apply-phone ops private. Park: further JDs until phone ready · ensembly stretch · arch-machine deep work · thepulimaangani. See [[Dashboard]] week card; local archive under `Archives/`.
+**Current focus (2026-08-15):** **finance spine** (private) + **wealth-core dirty slice** · land collab-finder Quest persist · Swedish ×3 with a logged session · arch-machine back to `sentinel`. Park: theni spike · ensembly stretch · new essays. See [[Dashboard]] · [[Archives/2026-08-15-weekly-review]].
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]

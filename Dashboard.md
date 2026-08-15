@@ -1,30 +1,44 @@
 # Life Dashboard
 
-> Last reviewed: 2026-08-13 • **Run full matrix review weekly.** Use this as your primary launch point.
+> Last reviewed: 2026-08-15 • **Run full matrix review weekly.** Use this as your primary launch point.
 
-## Week card (2026-W32 → W33)
+## Week card (2026-W33 → W34)
 
-Detail archive (local): `Archives/` · Finance / career ops (local disk): `private/`
+Detail archive: [[Archives/2026-08-15-weekly-review]] · prior: [[Archives/2026-08-10-weekly-review]] · ops: `private/`
 
-### Last week done (2026-08-03 → 08-09)
+### Last week done (2026-08-10 → 08-15)
 
 | Track | Shipped |
 |-------|---------|
-| Finance | wealth-core Operate SPA + Meetings; private ledger/meetings work; critical-path card on private disk |
-| Career / presence | collab-finder apply-pack / fit / hire board (#18); devprofile `/profile` deck + `/focus` EEaaS essays (#67–#71); CV layout polish |
-| Agentic kernel | skills + plugins: eva-emptiness, control-graph DualLoad/CLT; grok-build bash/tool-mix budgets + learning-cost roadmap |
-| Creative | thepulimaangani Venpaa `theni` rule-DAG spike (08-02, edge of window) |
+| Finance | Economy first-principles literacy filed; wealth-core S3 hybrid web ∥ iced (08-12) — **board/viz still uncommitted** |
+| Career / presence | collab-finder hunt rails + Quest persist/restore (08-12→15); intro interview (private); devprofile phone opt-out |
+| Agentic kernel | skills control-feeder + grok-host-prep; plugins eva C tether (#5); grok-build local-grok docs + feed-filter |
+| Infra | ensembly hub constellation spacemap; **arch-machine quiet** (docs branch, no product commits) |
 
-### This week focus (2026-08-10 → 08-16)
+### This week focus (2026-08-17 → 08-23)
 
-1. **🔴 Finance spine** — critical-path + collector/debt map on private disk (`private/finance/`). No creditor detail in this vault remote.
-2. **✅ Career apply (done 08-10)** — primary applications submitted; pipeline + apply-phone ops on private disk only.
-3. **🟢 Swedish** — 20 min read-aloud + 5-line diary (3× this week minimum).
-4. **🟢 Follow-ups** — application outcomes on private disk only; no new essay scope.
-5. **🟢 Literacy (filed)** — [[Resources/economy-first-principles]] (Finance + Learning); session [[Projects/wealth-due-diligence/sessions/2026-08-13]].
-6. **⚪ Park** — ensembly stretch, arch-machine deep work (PR #33 already merged — dogfood only if capacity), thepulimaangani, adaptate/elomaxz · further JDs until apply-phone ready (private ops).
+1. **🔴 Finance spine** — private critical-path; then **commit or stash wealth-core dirty** (11 files).
+2. **🟢 Quest** — land `feat/quest-persist-restore`; dogfood restore-on-launch.
+3. **🟢 Swedish** — 20 min + 5-line diary ×3 **and log a session** (missed last week).
+4. **🟢 arch-machine** — checkout `sentinel`, pull (behind 1); treat untracked `.agents/` copies as noise.
+5. **⚪ Park** — thepulimaangani theni spike, ensembly stretch, new essays, further JDs until apply-phone ready (private).
 
-**Capacity rule:** finance gates first. Career apply gate cleared this week.
+**Capacity rule:** finance gates first. Career apply gate already cleared.
+
+### Dirty now (code vs noise)
+
+| Repo | Kind |
+|------|------|
+| `wealth-core` | **Real** — 11 modified (charts, claim-graph, act insights) |
+| `wealth-due-diligence` | **Real** — README + coming-next |
+| `agent-prompt-tuning-lab` | **Real** — 1 file; branch **ahead 5** |
+| `life-os` | Notes in flight (this review) |
+| `arch-machine` · `premflow` · `thepulimaangani` | Skill/rule **copies**, not product |
+| `collab-finder` | Untracked `.impeccable/` + leftover `agents/life-os/` |
+| `shelf-life` | Untracked PDFs/HTML |
+| `p10ns11y` / `peram-vault` | Junk (`READMEold.md`, `bin/test.js`) |
+
+**Clean:** skills, grok-build, plugins, ensembly, devprofile, elomaxz, adaptate, latex-cv.
 
 ## Eisenhower Priority Matrix (via Obsidian Bases)
 Edit `importance` (1-4) + `urgency` (1-4) on notes with `type: project|area|task`. See [[Meta/schema.md]] for all properties (incl. cluster, weekly_energy_*), formulas, and conventions.

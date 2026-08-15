@@ -4,13 +4,13 @@ status: "In Progress"
 cluster: "presence-career"
 github: https://github.com/p10ns11y/devprofile
 weekly_energy_target: 1
-weekly_energy_logged: 0  # reset 2026-08-10; last week ~4e /profile deck + /focus essays
+weekly_energy_logged: 0.3  # 2026-08-10 public phone opt-out; tree clean
 importance: 4
 urgency: 2
 progress: 62
 area: "[[Career]]"
-next_action: "No new essay scope this week — only wire /focus or /profile URL into SpaceXAI packet if helpful; then park until apply lands."
-review_date: 2026-08-17
+next_action: "Park new essays W34; keep public phone opt-out until carrier reactivation."
+review_date: 2026-08-24
 effort: medium
 tags: [career, profile]
 ---

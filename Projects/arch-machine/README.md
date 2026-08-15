@@ -4,13 +4,13 @@ status: "In Progress"
 cluster: "foundational-infra"
 github: https://github.com/p10ns11y/arch-machine
 weekly_energy_target: 0.5
-weekly_energy_logged: 0  # reset 2026-08-10; PR #33 merged 2026-07-21 — park deep work
+weekly_energy_logged: 0  # 2026-08-10→15: no product commits; docs branch only
 importance: 4
 urgency: 1
 progress: 94
 area: "[[Systems]]"
-next_action: "Park deep work; optional dogfood: keeper loop --practice + USB escrow drill if capacity after finance + apply."
-review_date: 2026-08-24
+next_action: "Checkout sentinel, pull (origin ahead 1); ignore or gitignore untracked .agents skill copies — not product dirty."
+review_date: 2026-08-22
 effort: high
 tags: [infra, arch, omarchy, theme, keeper, groxy, archy]
 ---

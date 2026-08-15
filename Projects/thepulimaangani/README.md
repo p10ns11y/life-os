@@ -3,14 +3,14 @@ type: project
 status: "In Progress"
 cluster: "cultural-creative"
 github: https://github.com/p10ns11y/thepulimaangani
-weekly_energy_target: 3
-weekly_energy_logged: 2.9  # 2026-07-05 (added test case + polish)
+weekly_energy_target: 0
+weekly_energy_logged: 0  # park W33–W34; theni spike still open, no new commits
 importance: 4
-urgency: 2
+urgency: 1
 progress: 40
 area: "[[Creative]]"
-next_action: "Polish parser integration and add more prosody examples"
-review_date: 2026-07-20
+next_action: "Park W34. Branch theni-venpaa-subtype-spike is clean except untracked .grok/skills copy."
+review_date: 2026-08-29
 effort: high
 tags: [cultural, prosody]
 ---

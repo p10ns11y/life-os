@@ -7,9 +7,9 @@ progress: 5
 area: "[[Learning]]"
 cluster: "cultural-integration"
 weekly_energy_target: 1.5
-weekly_energy_logged: 0  # reset 2026-08-10 — protect 3×20min slots despite finance spine
-next_action: "This week ×3: 20 min SVT Nyheter / easy Swedish (read aloud 5 sentences) + 5-line diary; log under sessions/."
-review_date: 2026-08-17
+weekly_energy_logged: 0  # 2026-08-10→15: no session logged — miss vs W33 plan
+next_action: "W34 ×3: 20 min SVT / easy Swedish (read aloud 5 sentences) + 5-line diary; write sessions/YYYY-MM-DD.md."
+review_date: 2026-08-22
 effort: medium
 tags: [swedish, language, culture, history, integration, assimilation, sfi]
 ---

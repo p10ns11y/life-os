@@ -14,6 +14,7 @@ tags: [finance, learning, economics, market-cap, geopolitics, crypto, wealth, fi
 
 **Areas:** [[Finance]] (primary) · [[Learning]] (synthesis)  
 **Project pointer:** [[Projects/wealth-due-diligence/README|wealth-due-diligence]] · session [[Projects/wealth-due-diligence/sessions/2026-08-13]]  
+**X article draft:** [[economy-first-principles-x-article]]  
 **Privacy:** public-figure and macro numbers only. No personal balances, creditors, or private-disk paths.
 
 ---

@@ -7,9 +7,9 @@ progress: 68
 area: "[[Finance]]"
 cluster: "personal-finance"
 weekly_energy_target: 3
-weekly_energy_logged: 2.0  # 2026-08-13 economy first-principles literacy (market cap / pipes / crypto) → Resources note
-next_action: "Execute private finance critical-path card (verify/object claims; statutory notices; debt-advice appt); then wealth-core brief refresh."
-review_date: 2026-08-17
+weekly_energy_logged: 2.5  # 2026-08-13 literacy; 08-12 wealth-core hybrid merge; board/viz still uncommitted
+next_action: "Private critical-path; then commit or stash wealth-core 11-file board/viz drift (plus README/coming-next in this repo)."
+review_date: 2026-08-22
 effort: low
 tags: [wealth, finance, debt-avalanche, runway, investments, tax, cli]
 ---
