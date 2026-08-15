@@ -5,7 +5,7 @@ importance: 4
 urgency: 2
 progress: 68
 area: ""
-review_date: 2026-08-17
+review_date: 2026-08-22
 tags: [automation, systems]
 ---
 
@@ -21,12 +21,13 @@ tags: [automation, systems]
 - Documented boundaries and quick recovery
 
 **Current Focus / Active Projects**:
-- [[Projects/skills/README|skills]] / plugins — DualLoad + eva-emptiness shipped; park new authoring this week
-- [[Projects/arch-machine/README|arch-machine]] — PR #33 merged; dogfood-only if capacity
-- [[Projects/ensembly/README|ensembly]] — park stretch until finance + apply clear
+- [[Projects/skills/README|skills]] — control-feeder + grok-host-prep (08-14); park new authoring
+- [[Projects/arch-machine/README|arch-machine]] — quiet week; return to `sentinel` (behind 1); untracked `.agents/` copies are noise
+- [[Projects/ensembly/README|ensembly]] — constellation docs 08-12; park stretch; tree clean
 - [[Projects/shellyxz/README|shellyxz]] · [[Projects/premflow/README|premflow]] · [[Projects/peram-vault/README|peram-vault]] — maintenance
 
 ## Review Log
+- 2026-08-15: Weekly review — grok-build/skills/plugins moved; arch-machine no product commits. Dirty: wealth-core (Finance-adjacent), not Systems kernel.
 - 2026-08-10: Weekly review — systems park for W33; harness/skills shipped prior days; finance + career take capacity.
 - 2026-07-21: arch-machine week — keeper (#28 + open #33 PATH/rebind/loop), archy #29, groxy #31–#32; eye-comfort monitor-only; avante Grok ACP stays host nvim config.
 - 2026-07-13: Linked peram-vault (PQ encrypted local SoT; Collections export satellite).

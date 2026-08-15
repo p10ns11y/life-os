@@ -8,9 +8,9 @@ area: "[[Systems]]"
 cluster: "foundational-infra"
 github: https://github.com/thecuriousts/ensembly
 weekly_energy_target: 1
-weekly_energy_logged: 0  # reset 2026-08-10 — park stretch for finance + apply week
-next_action: "Park stretch features this week; optional dogfood turn/claim/complete only if finance + SpaceXAI submit are moving."
-review_date: 2026-08-17
+weekly_energy_logged: 0.5  # 2026-08-12 hub constellation spacemap (docs only)
+next_action: "Park stretch W34; tree is clean — no code dirty."
+review_date: 2026-08-24
 effort: high
 tags: [ensembly, life-swarm, digital-clone, game-of-peram, systems, copilot]
 ---

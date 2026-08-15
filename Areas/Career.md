@@ -3,8 +3,8 @@ type: area
 status: "In Progress"
 importance: 4
 urgency: 3
-progress: 72
-review_date: 2026-08-19
+progress: 74
+review_date: 2026-08-22
 tags: [career]
 ---
 
@@ -22,12 +22,14 @@ tags: [career]
 
 **Current Focus / Active Items**:
 - [[Actions/SpaceXAI-and-Tesla|SpaceXAI]] — target campaign; **outcomes private** (`private/career/`)
-- [[Projects/collab-finder/README|collab-finder]] — pipeline dogfood; Mission + Sweden full screens; next JD after private apply-phone ops ready
+- [[Projects/collab-finder/README|collab-finder]] — Quest persist/restore on `feat/quest-persist-restore`; land/PR then ACP analyze
 - [[Resources/Arbetsformedlingen-Support-A-Z|AF Support A–Z]] — English catalogue of AF programmes / extra support (eligibility = caseworker assessment)
 - Application / phone / employer outcomes: private disk only (`private/career/`) — never on remote
-- [[Projects/swedish-assimilation/README|swedish-assimilation]] — language slots (support track)
+- [[Projects/swedish-assimilation/README|swedish-assimilation]] — language slots (missed log last week)
 
 ## Review Log
+- 2026-08-15: Weekly review — Quest persist/restore shipped (branch); intro interview still awaiting next stage (private). See [[Archives/2026-08-15-weekly-review]].
+- 2026-08-13: Intro interview logged on private disk only (`private/career/`). Awaiting next stage.
 - 2026-08-10: Application outcomes updated on private disk only. Finance remains DO FIRST.
 - 2026-08-10: Primary applications submitted; apply gate cleared. Details on private disk.
 - 2026-07-13: Linked america-move-prep + swedish-assimilation (mobility / local integration).

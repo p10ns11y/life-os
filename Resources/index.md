@@ -26,6 +26,7 @@ This file provides a central index, lookup, and references for assets stored in 
 | Title | Local Path | Source / Reference URL | Notes |
 |-------|------------|------------------------|-------|
 | Economy first principles — wealth, market cap, geopolitics, digital money | [[economy-first-principles]] | Conversation 2026-08-13 (vault synthesis) | Canonical SoT for stock vs flow, market cap as last handshake × tickets, trader relay, pipes vs casino. Area [[Finance]]. Session [[Projects/wealth-due-diligence/sessions/2026-08-13]]. |
+| X article — How the economy actually works — from sunlight to your Tuesday | [[economy-first-principles-x-article]] | Draft from the 2026-08-13 gist + conversation | Openable title. Full stack, not a share explainer. |
 
 ## Career / Sweden (AF)
 
@@ -39,4 +40,4 @@ This file provides a central index, lookup, and references for assets stored in 
 - [[Projects/Portfolio-MOC]] — Overall project and resource mapping
 - Root [[README]] for vault overview
 
-Last updated: 2026-08-13 (economy first-principles literacy note)
+Last updated: 2026-08-14 (economy X article draft)

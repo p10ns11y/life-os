@@ -4,13 +4,13 @@ status: "In Progress"
 cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/skills
 weekly_energy_target: 1
-weekly_energy_logged: 0  # reset 2026-08-10; 08-01→02 DualLoad + eva-emptiness shipped
+weekly_energy_logged: 1.5  # 2026-08-14: control-feeder + grok-host-prep
 importance: 4
 urgency: 2
-progress: 68
+progress: 72
 area: "[[Career]]"
-next_action: "Park new skill authoring this week; dogfood DualLoad/eva only if a blank-sheet or multi-step task appears."
-review_date: 2026-08-17
+next_action: "Park new skill authoring W34; dogfood control-feeder / DualLoad / eva on the next dumped-prompt or blank-sheet task."
+review_date: 2026-08-22
 effort: high
 tags: [skills, meta]
 ---

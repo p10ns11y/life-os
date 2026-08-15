@@ -3,14 +3,14 @@ type: project
 status: "In Progress"
 importance: 4
 urgency: 2
-progress: 88
+progress: 90
 area: "[[Career]]"
 cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/collab-finder
 weekly_energy_target: 2
-weekly_energy_logged: 1  # 2026-08-10: primary applications submitted (details private)
-next_action: "Read top hunt JDs on private candidate list; lock 5 (3 honest + 2 stretch). ACP spawn for analyze still pending."
-review_date: 2026-08-17
+weekly_energy_logged: 4.0  # 2026-08-10→15: hunt rails, Quest persist/restore, intro interview (private)
+next_action: "Land or PR feat/quest-persist-restore; dogfood restore-on-launch; ACP analyze spawn still pending."
+review_date: 2026-08-22
 effort: high
 tags: [agentic, tauri, collab, job-tools, rust, react]
 ---
@@ -63,6 +63,9 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 
 ## Session log
 
+- [[Projects/collab-finder/sessions/2026-08-15|2026-08-15]] — Quest persist/restore + SQLite v8
+- [[Projects/collab-finder/sessions/2026-08-14|2026-08-14]] — Quest Apply clap (`--disallowed-tools` once)
+- [[Projects/collab-finder/sessions/2026-08-13|2026-08-13]] — intro interview (public pointer; detail private)
 - [[Projects/collab-finder/sessions/2026-08-12|2026-08-12]] — dual-rail hunt + LLM route preference
 - [[Projects/collab-finder/sessions/2026-08-10|2026-08-10]] — applications submitted (public pointer)
 - [[Projects/collab-finder/sessions/2026-08-04|2026-08-04]] — Apply pack / fit modes / hire board (#18)
