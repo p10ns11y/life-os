@@ -40,7 +40,7 @@ Includes: ai-optimization, fusion-sage, looper, bdd-strategizer, higher-order-de
 ## Energy Note
 Highest leverage. Core focus area.
 
-See [[Projects/Portfolio-MOC]].
+See [[UI/Map]].
 
 ## Surplus Example (from daily use 2026-07-05)
 Used the skills library (ai-optimization for scouting projects, higher-order for energy decisions, fusion-sage for clustering) to build this very Portfolio Map of Content (Portfolio-MOC) and project notes.
@@ -55,7 +55,7 @@ Added note: "See Portfolio Map of Content (Portfolio-MOC) for example of using t
 
 - Project card: `Projects/skills/README.md` (this note)
 - Sessions: `Projects/skills/sessions/YYYY-MM-DD.md`
-- Convention: thin card + dated session detail (see [[Meta/schema]])
+- Convention: thin card + dated session detail (see [[Kernel/schema]])
 
 
 ## Session log

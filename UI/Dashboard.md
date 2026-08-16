@@ -4,7 +4,7 @@
 
 ## Week card (2026-W33 → W34)
 
-Detail: [[Meta/weekly-review-2026-08-15]] · prior: [[Meta/weekly-review-2026-08-10]] · ops: `private/` · `Archives/` is local attic only.
+Detail: [[UX/weekly-2026-08-15]] · prior: [[UX/weekly-2026-08-10]] · ops: `private/` · `Archives/` is local attic only.
 
 ### Last week done (2026-08-10 → 08-16)
 
@@ -41,29 +41,29 @@ Detail: [[Meta/weekly-review-2026-08-15]] · prior: [[Meta/weekly-review-2026-08
 **Clean:** skills, grok-build, plugins, ensembly, devprofile, elomaxz, adaptate, latex-cv.
 
 ## Eisenhower Priority Matrix (via Obsidian Bases)
-Edit `importance` (1-4) + `urgency` (1-4) on notes with `type: project|area|task`. See [[Meta/schema.md]] for all properties (incl. cluster, weekly_energy_*), formulas, and conventions.
+Edit `importance` (1-4) + `urgency` (1-4) on notes with `type: project|area|task`. See [[Kernel/schema.md]] for all properties (incl. cluster, weekly_energy_*), formulas, and conventions.
 
 ### 🔴 DO FIRST
-![[Meta/bases/priority-matrix.base#🔴 DO FIRST]]
+![[Kernel/bases/priority-matrix.base#🔴 DO FIRST]]
 
 ### 🟢 SCHEDULE
-![[Meta/bases/priority-matrix.base#🟢 SCHEDULE]]
+![[Kernel/bases/priority-matrix.base#🟢 SCHEDULE]]
 
 ### 🟡 DELEGATE
-![[Meta/bases/priority-matrix.base#🟡 DELEGATE]]
+![[Kernel/bases/priority-matrix.base#🟡 DELEGATE]]
 
 ### ⚪ ELIMINATE / Park
-![[Meta/bases/priority-matrix.base#⚪ ELIMINATE / Park]]
+![[Kernel/bases/priority-matrix.base#⚪ ELIMINATE / Park]]
 
-**Momentum**: ![[Meta/bases/priority-matrix.base#By Progress (All)]]
+**Momentum**: ![[Kernel/bases/priority-matrix.base#By Progress (All)]]
 
 ## 📋 All Todos & Actions
-![[Meta/bases/priority-matrix.base#📋 All Todos & Actions]]
+![[Kernel/bases/priority-matrix.base#📋 All Todos & Actions]]
 
 Filter in the base on `urgency` / `urgency_label` (formula) or `next_action`. Use templates for creation.
 
 ## Portfolio Overview
-- Open [[Projects/Portfolio-MOC]] (Portfolio Map of Content, clusters + energy).
+- Open [[UI/Map]] (Portfolio Map of Content, clusters + energy).
 - Update project frontmatter: `cluster`, `weekly_energy_target`, `weekly_energy_logged`, `importance`, `progress`, `next_action`, `area`.
 - Bases: By Cluster, Energy Balance, Portfolio Projects (High Value).
 
@@ -80,7 +80,7 @@ All areas live flat in Areas/ as .md. Use Area template + update frontmatter.
 - [[Areas/Systems]]
 - [[Areas/Creative]]
 
-Tasks surface via the Todos view above (filter by area). See [[Meta/schema.md]].
+Tasks surface via the Todos view above (filter by area). See [[Kernel/schema.md]].
 
 ## Weekly Review Ritual (5-15 min)
 1. Open Dashboard.
@@ -92,20 +92,20 @@ Tasks surface via the Todos view above (filter by area). See [[Meta/schema.md]].
 **Quarterly**: use fusion-sage on Bases data for surplus reviews.
 
 ## Active Projects
-![[Meta/bases/active-projects.base]]
+![[Kernel/bases/active-projects.base]]
 
 ## Quick Start
 - New: Templates → Project or Area
 - Properties pane for fast edits
-- Full rules: [[Meta/schema.md]]
+- Full rules: [[Kernel/schema.md]]
 - Inbox/ only for capture (process in review)
 
 ## Links
-- [[Meta/schema.md]] (source of truth)
-- [[Meta/bases/priority-matrix.base]]
-- [[Projects/Portfolio-MOC]]
+- [[Kernel/schema.md]] (source of truth)
+- [[Kernel/bases/priority-matrix.base]]
+- [[UI/Map]]
 - Inbox/ | Areas/ | Projects/ | Actions/ | private/ (local) | Resources/Clippings/
 
 *Simple frontmatter + Bases + templates = durable prioritization and progress. Update schema first for changes.*
 
-**Compass:** [[Meta/north-star]] · [[Meta/focus-now]] — four slots; SpaceXAI filters cash. Desktop nudge at :00 and :30.
+**Compass:** [[UX/north-star]] · [[UX/focus-now]] — four slots; SpaceXAI filters cash. Desktop nudge at :00 and :30.

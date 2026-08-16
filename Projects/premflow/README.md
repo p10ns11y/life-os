@@ -66,7 +66,7 @@ Open `capture/todo.txt` or `capture/log.txt` in Obsidian — you are editing the
 | This product’s energy / next_action / progress | **this README** frontmatter |
 | Session narrative after product work | `sessions/YYYY-MM-DD.md` |
 
-See [[Projects/Portfolio-MOC]].
+See [[UI/Map]].
 
 ## Structure
 

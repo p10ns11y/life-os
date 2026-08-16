@@ -37,7 +37,7 @@ Rust WASM parser + modern web UI (TanStack/TS/React).
 ## Energy Note
 Core Tier 1. Cultural anchor + technical excellence.
 
-See [[Projects/Portfolio-MOC]].
+See [[UI/Map]].
 
 ## Prosody Example (small progress 2026-07-05)
 - Added basic support for asai (அசை) and seer (சீர்) segmentation in the Rust WASM parser (see rust-parser-prototype/src/).
@@ -56,7 +56,7 @@ Next: more venpa examples and UI polish.
 
 - Project card: `Projects/thepulimaangani/README.md` (this note)
 - Sessions: `Projects/thepulimaangani/sessions/YYYY-MM-DD.md`
-- Convention: thin card + dated session detail (see [[Meta/schema]])
+- Convention: thin card + dated session detail (see [[Kernel/schema]])
 
 
 ## Session log

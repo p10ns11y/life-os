@@ -14,7 +14,7 @@ review_date: 2026-08-22
 
 | Layer | Meaning |
 |-------|---------|
-| **Immediate** | Four living slots only — [[Meta/focus-now]]. Calendar: Sweden window (September). Cash/career (SpaceXAI **filter**). Son = off-laptop. Debt = one private act then stop. |
+| **Immediate** | Four living slots only — [[UX/focus-now]]. Calendar: Sweden window (September). Cash/career (SpaceXAI **filter**). Son = off-laptop. Debt = one private act then stop. |
 | **Horizon** | **SpaceXAI acceptance** — unknown duration. Every slot-2 tick must be visible to a hiring loop. |
 | **Park** | New Wayland/GTK overlays · ensembly stretch · theni · skill tourism · second chat inboxes |
 
@@ -22,4 +22,4 @@ review_date: 2026-08-22
 
 **Agent contract:** every reply names **one next step** in slot 1, 2, or 4 (or “protect slot 3 — close laptop”). Never pile. If the user is building infra to avoid the slot, say so.
 
-Pointers: [[Dashboard]] · [[Meta/weekly-review-2026-08-15]] · [[Meta/focus-now]]
+Pointers: [[Dashboard]] · [[UX/weekly-2026-08-15]] · [[UX/focus-now]]

@@ -37,7 +37,7 @@ This file provides a central index, lookup, and references for assets stored in 
 ## Related
 
 - [[git]] — Git-related resources and workflows
-- [[Projects/Portfolio-MOC]] — Overall project and resource mapping
+- [[UI/Map]] — Overall project and resource mapping
 - Root [[README]] for vault overview
 
 Last updated: 2026-08-14 (economy X article draft)

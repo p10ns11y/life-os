@@ -21,12 +21,12 @@ Privacy-first toolkit to harvest, normalize, and split Cursor agent transcripts 
 ## Links
 - GitHub: https://github.com/p10ns11y/agent-prompt-tuning-lab
 
-See [[Projects/Portfolio-MOC]].
+See [[UI/Map]].
 ## Structure
 
 - Project card: `Projects/agent-prompt-tuning-lab/README.md` (this note)
 - Sessions: `Projects/agent-prompt-tuning-lab/sessions/YYYY-MM-DD.md`
-- Convention: thin card + dated session detail (see [[Meta/schema]])
+- Convention: thin card + dated session detail (see [[Kernel/schema]])
 
 
 ## Session log

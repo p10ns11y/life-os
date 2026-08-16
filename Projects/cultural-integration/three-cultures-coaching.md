@@ -337,6 +337,6 @@ That is cultural harmony without forced acting. That is freedom with other peopl
 - [[Projects/america-move-prep/README|america-move-prep]] — US readiness without capture  
 - [[Projects/thepulimaangani/README|thepulimaangani]] — Tamil craft as ballast  
 - [[Areas/Learning]] · [[Areas/Relationships]] · [[Areas/Career]]  
-- [[Projects/Portfolio-MOC|Portfolio-MOC]] · cluster cultural integration  
+- [[UI/Map]] · cluster cultural integration  
 
 *Living note — revise after real frictions; do not revise to please a fashion in identity politics.*

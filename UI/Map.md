@@ -1,10 +1,10 @@
-# Portfolio Map of Content (Portfolio-MOC)
+# Portfolio map
 
 This is the central map for all personal projects.
 
-See [[Dashboard]] for daily view and energy tracking.
+See [[UI/Dashboard]] for daily view and energy tracking.
 
-**Canonical project shape:** `Projects/{slug}/README.md` + `Projects/{slug}/sessions/YYYY-MM-DD.md` (see [[Meta/schema]]).
+**Canonical project shape:** `Projects/{slug}/README.md` + `Projects/{slug}/sessions/YYYY-MM-DD.md` (see [[Kernel/schema]]).
 
 Use the Graph (filter to Projects/) and Bases views for connections and energy.
 
@@ -57,11 +57,11 @@ Experiments for learning.
 - [[Projects/skills/README|skills]] (improves itself and the rest)
 
 ## Energy & Time
-See Bases views in [[Meta/bases/priority-matrix.base]].
+See Bases views in [[Kernel/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-08-16):** **finance spine** (private) + **wealth-core dirty slice** · dogfood collab-finder apply workspace (#19–#22 landed) · Swedish ×3 with a logged session · arch-machine back to `sentinel` (quiet week). Park: theni spike · ensembly stretch · new essays. See [[Dashboard]] · [[Meta/weekly-review-2026-08-15]].
+**Current focus (2026-08-16):** **finance spine** (private) + **wealth-core dirty slice** · dogfood collab-finder apply workspace (#19–#22 landed) · Swedish ×3 with a logged session · arch-machine back to `sentinel` (quiet week). Park: theni spike · ensembly stretch · new essays. See [[Dashboard]] · [[UX/weekly-2026-08-15]].
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]

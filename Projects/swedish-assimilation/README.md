@@ -123,7 +123,7 @@ Log under `sessions/YYYY-MM-DD.md` (minutes + what + one friction).
 - Hub: [[Projects/cultural-integration/README|cultural-integration]]
 - Area: [[Areas/Learning]] · [[Areas/Career]]
 - Sibling: [[Projects/america-move-prep/README|america-move-prep]]
-- Portfolio: [[Projects/Portfolio-MOC|Portfolio-MOC]] · cluster *cultural-integration*
+- Portfolio: [[UI/Map]] · cluster *cultural-integration*
 
 ## Session log
 

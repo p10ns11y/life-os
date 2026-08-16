@@ -29,7 +29,7 @@ tags: [career]
 
 ## Review Log
 - 2026-08-15: External-portal application submitted (thanks page received). Employer / portal IDs on private disk only (`private/career/`).
-- 2026-08-15: Weekly review — Quest persist/restore shipped (branch); intro interview still awaiting next stage (private). See [[Meta/weekly-review-2026-08-15]].
+- 2026-08-15: Weekly review — Quest persist/restore shipped (branch); intro interview still awaiting next stage (private). See [[UX/weekly-2026-08-15]].
 - 2026-08-13: Intro interview logged on private disk only (`private/career/`). Awaiting next stage.
 - 2026-08-10: Application outcomes updated on private disk only. Finance remains DO FIRST.
 - 2026-08-10: Primary applications submitted; apply gate cleared. Details on private disk.

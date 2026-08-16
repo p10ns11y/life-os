@@ -40,7 +40,7 @@ formulas:
 - **Eisenhower is the primary prioritization lens**. Progress tracks execution momentum.
 - Prefer wikilinks for `area` so graph and backlinks work.
 - `next_action` should be small enough to do in one sitting.
-- For a flat list of todos/actions: use the **📋 All Todos & Actions** view in `Meta/bases/priority-matrix.base`. It uses formula columns (`urgency_label`) so you can filter/sort on urgency easily in the UI (e.g. urgency >= 3 or by the label). See Dashboard.md for embed + usage.
+- For a flat list of todos/actions: use the **📋 All Todos & Actions** view in `Kernel/bases/priority-matrix.base`. It uses formula columns (`urgency_label`) so you can filter/sort on urgency easily in the UI (e.g. urgency >= 3 or by the label). See Dashboard.md for embed + usage.
 
 ## Life Areas (starter list — evolve in Areas/ and this doc)
 - Career
@@ -60,17 +60,23 @@ Short names for clean display in tables and effective use. All 7 exist as flat .
 4. For pure urgency-focused filtering on actions/todos: open the base or the embedded view and use the Filter UI on `urgency` / `urgency_label` columns (formulas make nice labels + filtering).
 
 ## Related
-- Dashboard.md
-- Meta/bases/priority-matrix.base
-- templates/Project.md + Area.md
-- `Meta/weekly-review-YYYY-MM-DD.md` — current week close (tracked). `Archives/` is gitignored local attic — never put an active weekly review there.
+- [[UI/Dashboard]]
+- [[Kernel/bases/priority-matrix.base]]
+- [[Kernel/templates/Project]] · [[Kernel/templates/Area]]
+- [[UX/weekly-2026-08-15]] — current week close. `Archives/` is attic.
 
 ## Folder Conventions
-- `Projects/` — Long-term coding projects and major multi-step endeavors. Use `type: project`, full portfolio fields (cluster, weekly_energy_*, importance for life impact).
-- `Actions/` — Short-term, bounded tasks and actions. Prefer `type: task`. These surface in the "📋 All Todos & Actions" view. Do not put ongoing responsibilities or long-horizon work here.
-- `Areas/` — The 7 canonical ongoing responsibility areas (flat).
-- `Inbox/` — Temporary capture only.
-- `Meta/` — Schema, compass, live weekly close. Not `Archives/`.
+The vault **is** the OS.
+
+| Layer | Path | Job |
+|-------|------|-----|
+| Kernel | `Kernel/` | Schema, templates, bases |
+| Shell | vault root + [[Shell/README]] | [[AGENTS]] · `Inbox/` stdin · `Actions/` commands |
+| UI | `UI/` | Dashboard, Welcome, Map, Graph |
+| UX | `UX/` | Compass + weekly close |
+| Userland | `Projects/` `Areas/` | Long processes |
+| Attic | `Archives/` | Local only, gitignored |
+| Secrets | `private/` | Never git |
 
 This schema + Bases is the iron-peak durable kernel. Future changes should update this file first.
 

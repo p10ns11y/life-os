@@ -6,24 +6,27 @@ This is my central **Life OS** — combining areas of responsibility, active pro
 
 ## Quick Start
 
-- Open [[Dashboard]] for the daily view (Eisenhower matrix + progress)
-- Browse [[Projects/Portfolio-MOC]] for the project map (Portfolio Map of Content)
-- See [[Meta/schema.md]] for the canonical property rules and area list
-- Use [[AGENTS.md]] when working with AI agents or coding in connected projects
+- Open [[UI/Dashboard]] for the daily view
+- Browse [[UI/Map]] for the project map
+- See [[Kernel/schema]] for the property rules
+- Use [[AGENTS.md]] when working with agents
 
-## Structure
+## Structure (Unix layers)
 
-- **Areas/** — 7 flat canonical life areas (Career, Health, Finance, Learning, Relationships, Systems, Creative)
-- **Projects/** — Long-term coding projects and major endeavors (full frontmatter, clusters, energy tracking)
-- **Actions/** — Short-term tasks and bounded actions (type: task)
-- **Inbox/** — Capture + review tasks only
-- **Meta/** — Schema, templates, and Obsidian Bases views
-- **Resources/** — Clippings and reference material
-- **Archives/** — Inactive / historical notes (local only)
+- **Kernel/** — schema, templates, bases
+- **Shell/** — how you invoke ([[AGENTS]] at root, Inbox, Actions)
+- **UI/** — Dashboard, Welcome, Map, Graph
+- **UX/** — north-star, focus-now, weekly close
+- **Areas/** · **Projects/** — userland
+- **Actions/** — one-shot commands
+- **Inbox/** — stdin / capture
+- **Resources/** — reference
+- **Archives/** — attic (local only)
+- **private/** — never git
 
 ## Core Practices
 
-- Every actionable item uses the properties defined in `Meta/schema.md`
+- Every actionable item uses the properties defined in `Kernel/schema.md`
 - Eisenhower prioritization via `importance` (1-4) + `urgency` (1-4)
 - Weekly energy logging on projects
 - Regular review of `review_date` and `next_action`
@@ -31,7 +34,7 @@ This is my central **Life OS** — combining areas of responsibility, active pro
 
 ## Projects
 
-See [[projects]] for a visual graph of projects, clusters, areas, and connections.
+See [[UI/Graph]] for a visual graph of projects, clusters, areas, and connections.
 
 Current focus clusters (from Portfolio Map of Content):
 - Agentic Reactor / Self-Guarded Kernel
@@ -63,9 +66,9 @@ The result is lightweight, decision-focused, and explicitly built to support age
 
 ## Links
 
-- [[Dashboard]]
-- [[Projects/Portfolio-MOC]]
-- [[Meta/schema.md]]
+- [[UI/Dashboard]]
+- [[UI/Map]]
+- [[Kernel/schema]]
 - [[AGENTS.md]]
 - [[Resources/index]] — Index and references for assets (whitepapers, techpapers, etc.)
 - GitHub: https://github.com/p10ns11y/life-os
