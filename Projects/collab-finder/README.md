@@ -8,8 +8,8 @@ area: "[[Career]]"
 cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/collab-finder
 weekly_energy_target: 2
-weekly_energy_logged: 4.0  # 2026-08-10→15: hunt rails, Quest persist/restore, intro interview (private)
-next_action: "Land or PR feat/quest-persist-restore; dogfood restore-on-launch; ACP analyze spawn still pending."
+weekly_energy_logged: 6.0  # 2026-08-10→16: hunt #19/#20, Quest #21, apply artifacts #22
+next_action: "Dogfood apply workspace on next JD; analyze-via-agent still open. Outcomes stay on private disk."
 review_date: 2026-08-22
 effort: high
 tags: [agentic, tauri, collab, job-tools, rust, react]
@@ -33,10 +33,10 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 - **Durable application pack export** (2026-07-16): `export_application_pack` → app-local `application_packs/opp_{id}/` + Discover **Export pack** CTA; mark Applied + hydrate unchanged; CV sidecar still non-mutating
 
 ## Current Focus / Open
-- **2026-08-10:** application pipeline moved (employer outcomes → local DB + life-os `private/career/` only — not this remote note)
-- Apply-phone / contact ops: private disk only; public contact stays opt-out
-- Next JD dogfood after private phone ops ready; History/Data/Stats via palette as needed
-- **Not** XState adoption yet (MVU owns domain; local reducers own Tauri forms)
+- **2026-08-16:** [#19](https://github.com/p10ns11y/collab-finder/pull/19)–[#22](https://github.com/p10ns11y/collab-finder/pull/22) on `main` — hunt rails, Quest persist/restore, apply artifacts + JobTech JD + email draft. Session [[Projects/collab-finder/sessions/2026-08-16]].
+- Employer outcomes / apply-phone: private disk only
+- Next: dogfood apply workspace; analyze-via-agent still open
+- **Not** XState adoption yet (MVU owns domain)
 
 ## Next Actions
 - See `next_action` frontmatter (dogfood full apply path)
@@ -63,6 +63,7 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 
 ## Session log
 
+- [[Projects/collab-finder/sessions/2026-08-15-apply|2026-08-15 apply]] — external portal apply completed (public pointer)
 - [[Projects/collab-finder/sessions/2026-08-15|2026-08-15]] — Quest persist/restore + SQLite v8
 - [[Projects/collab-finder/sessions/2026-08-14|2026-08-14]] — Quest Apply clap (`--disallowed-tools` once)
 - [[Projects/collab-finder/sessions/2026-08-13|2026-08-13]] — intro interview (public pointer; detail private)

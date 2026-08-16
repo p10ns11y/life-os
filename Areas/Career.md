@@ -28,6 +28,7 @@ tags: [career]
 - [[Projects/swedish-assimilation/README|swedish-assimilation]] — language slots (missed log last week)
 
 ## Review Log
+- 2026-08-15: External-portal application submitted (thanks page received). Employer / portal IDs on private disk only (`private/career/`).
 - 2026-08-15: Weekly review — Quest persist/restore shipped (branch); intro interview still awaiting next stage (private). See [[Archives/2026-08-15-weekly-review]].
 - 2026-08-13: Intro interview logged on private disk only (`private/career/`). Awaiting next stage.
 - 2026-08-10: Application outcomes updated on private disk only. Finance remains DO FIRST.

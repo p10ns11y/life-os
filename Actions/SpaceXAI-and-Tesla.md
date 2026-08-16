@@ -26,6 +26,7 @@ Land (or be extremely well positioned for) a role at SpaceXAI (or similar) where
 - Research notes on culture + role expectations (see clippings + automation/grok.md)
 
 ## Status
+- **2026-08-15:** Another SE pipeline application submitted via external ATS. **Company names, role titles, portal IDs, and thanks URLs are private** — `private/career/2026-08-15-applications.md` + collab-finder DB.
 - **2026-08-10:** Application activity logged. **Company names, role titles, and outcomes are private** — see local `private/career/` + collab-finder app DB only (never on remote vault).
 - Campaign continues for future frontier IC posts as openings appear.
 

@@ -1,19 +1,19 @@
 # Life Dashboard
 
-> Last reviewed: 2026-08-15 • **Run full matrix review weekly.** Use this as your primary launch point.
+> Last reviewed: 2026-08-16 • **Run full matrix review weekly.** Use this as your primary launch point.
 
 ## Week card (2026-W33 → W34)
 
 Detail archive: [[Archives/2026-08-15-weekly-review]] · prior: [[Archives/2026-08-10-weekly-review]] · ops: `private/`
 
-### Last week done (2026-08-10 → 08-15)
+### Last week done (2026-08-10 → 08-16)
 
 | Track | Shipped |
 |-------|---------|
-| Finance | Economy first-principles literacy filed; wealth-core S3 hybrid web ∥ iced (08-12) — **board/viz still uncommitted** |
-| Career / presence | collab-finder hunt rails + Quest persist/restore (08-12→15); intro interview (private); devprofile phone opt-out |
-| Agentic kernel | skills control-feeder + grok-host-prep; plugins eva C tether (#5); grok-build local-grok docs + feed-filter |
-| Infra | ensembly hub constellation spacemap; **arch-machine quiet** (docs branch, no product commits) |
+| Finance | Economy first-principles literacy; wealth-core S3 hybrid web ∥ iced (08-12) — **board/viz still 11-file dirty** |
+| Career / presence | collab-finder [#19](https://github.com/p10ns11y/collab-finder/pull/19)–[#22](https://github.com/p10ns11y/collab-finder/pull/22) (hunt, Quest persist, apply artifacts); devprofile [#73](https://github.com/p10ns11y/devprofile/pull/73)/[#74](https://github.com/p10ns11y/devprofile/pull/74) |
+| Agentic kernel | skills control-feeder + grok-host-prep; plugins [#5](https://github.com/p10ns11y/plugins/pull/5) eva tether + [#6](https://github.com/p10ns11y/plugins/pull/6) mission-map; grok-build local-grok + feed-filter docs |
+| Infra | ensembly hub spacemap (08-12); **arch-machine: no product commits** |
 
 ### This week focus (2026-08-17 → 08-23)
 
@@ -108,4 +108,4 @@ Tasks surface via the Todos view above (filter by area). See [[Meta/schema.md]].
 
 *Simple frontmatter + Bases + templates = durable prioritization and progress. Update schema first for changes.*
 
-**Compass:** [[Meta/north-star]] — finance now, SpaceXAI by compounding. Desktop nudge at :00 and :30.
+**Compass:** [[Meta/north-star]] · [[Meta/focus-now]] — four slots; SpaceXAI filters cash. Desktop nudge at :00 and :30.

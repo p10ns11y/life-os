@@ -4,12 +4,12 @@ status: "In Progress"
 cluster: "presence-career"
 github: https://github.com/p10ns11y/devprofile
 weekly_energy_target: 1
-weekly_energy_logged: 0.3  # 2026-08-10 public phone opt-out; tree clean
+weekly_energy_logged: 0.6  # 2026-08-10 phone opt-out #73; 08-15 CV overlay #74
 importance: 4
 urgency: 2
-progress: 62
+progress: 64
 area: "[[Career]]"
-next_action: "Park new essays W34; keep public phone opt-out until carrier reactivation."
+next_action: "Checkout main and pull (#74 merged). Park new essays W34."
 review_date: 2026-08-24
 effort: medium
 tags: [career, profile]

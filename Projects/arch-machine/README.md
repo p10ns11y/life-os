@@ -4,12 +4,12 @@ status: "In Progress"
 cluster: "foundational-infra"
 github: https://github.com/p10ns11y/arch-machine
 weekly_energy_target: 0.5
-weekly_energy_logged: 0  # 2026-08-10→15: no product commits; docs branch only
+weekly_energy_logged: 0  # 2026-08-10→16: no product commits; docs branch + .agents copies only
 importance: 4
 urgency: 1
 progress: 94
 area: "[[Systems]]"
-next_action: "Checkout sentinel, pull (origin ahead 1); ignore or gitignore untracked .agents skill copies — not product dirty."
+next_action: "Checkout sentinel, pull; ignore or gitignore untracked .agents copies — not product dirty."
 review_date: 2026-08-22
 effort: high
 tags: [infra, arch, omarchy, theme, keeper, groxy, archy]
@@ -39,7 +39,7 @@ Turns a fresh install into a secure, profile-based fortress with agents and sent
 - `~/arch-machine` — **SoT for installable modules**
 - Public on GitHub (p10ns11y/arch-machine)
 - Default trunk: **`sentinel`** (not legacy `master`)
-- Open: [PR #33](https://github.com/p10ns11y/arch-machine/pull/33) keeper PATH / rebind / interactive loop
+- Last ship wave: Jul 2026 ([#28](https://github.com/p10ns11y/arch-machine/pull/28)–[#36](https://github.com/p10ns11y/arch-machine/pull/36)). This week: no product commits. Session [[Projects/arch-machine/sessions/2026-08-16]].
 
 ## Week 2026-07-15 → 21 (high signal)
 
@@ -49,10 +49,10 @@ Turns a fresh install into a secure, profile-based fortress with agents and sent
 | #29 | archy Eagle/TEA Ratatui plane |
 | #31–#32 | groxy inject + ACP + docs |
 | #25/#30 | eye-comfort session/Waybar races |
-| #33 (open) | keeper install PATH, rebind, `keeper loop` |
+| #33 | keeper install PATH, rebind, `keeper loop` (merged 07-21) |
 
 ## Energy Note
-High leverage for everything else. This week above target (vault + control plane + remote). Next: merge #33 and personal recover drill — not more surface area.
+High leverage when active. **W33 energy 0** — no product commits. Next: `sentinel` + pull, not more surface area.
 
 See [[Projects/Portfolio-MOC]].
 ## Structure
@@ -64,6 +64,7 @@ See [[Projects/Portfolio-MOC]].
 
 ## Session log
 
+- [[Projects/arch-machine/sessions/2026-08-16|2026-08-16]] — quiet week
 - [[Projects/arch-machine/sessions/2026-06-22|2026-06-22]]
 - [[Projects/arch-machine/sessions/2026-07-14|2026-07-14]] — eye-comfort package, seven OKLCH phases, PR #20, timer docs
 - [[Projects/arch-machine/sessions/2026-07-15|2026-07-15]] — #21 on sentinel; CI #23; TN timer + Waybar dogfooded

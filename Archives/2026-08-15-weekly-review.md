@@ -14,7 +14,7 @@ review_date: 2026-08-24
 **Prior archive:** [[Archives/2026-08-10-weekly-review]]  
 **Finance / career ops (private disk):** `private/` — pointers only below.
 
-Calendar window: **2026-08-10 → 08-15** (Sunday 08-16 still in ISO week; review written Saturday).
+Calendar window: **2026-08-10 → 08-16** (addendum written Sunday).
 
 ## Last week (2026-08-10 → 08-15) — evidence
 
@@ -24,19 +24,19 @@ Calendar window: **2026-08-10 → 08-15** (Sunday 08-16 still in ISO week; revie
 - **wealth-core** shipped S3 hybrid web ∥ iced act (08-12 merge) then **left dirty**: board charts, claim-graph viz, act insights (see dirty list).
 
 ### Career / presence
-- **collab-finder**: hunt rails + local Quest (#19/#20, 08-12→13); intro interview pointer [[Projects/collab-finder/sessions/2026-08-13]] (detail private); Quest clap fix (08-14); **Quest persist/restore + SQLite v8** (08-15, branch `feat/quest-persist-restore`).
-- **devprofile**: public phone opt-out until carrier reactivation (08-10). Clean tree.
+- **collab-finder**: [#19](https://github.com/p10ns11y/collab-finder/pull/19)–[#22](https://github.com/p10ns11y/collab-finder/pull/22) on `main` — hunt rails, Quest persist/restore, apply artifacts + JobTech JD + email draft. Session [[Projects/collab-finder/sessions/2026-08-16]].
+- **devprofile**: phone opt-out [#73](https://github.com/p10ns11y/devprofile/pull/73) (08-10); CV overlay blurbs [#74](https://github.com/p10ns11y/devprofile/pull/74) (08-15). Local checkout still on the #74 branch — pull `main`.
 - Apply-phone / employer names: `private/career/` only.
 
 ### Agentic kernel / harness
-- **skills**: control-feeder + grok-host-prep published (08-14, `feat/cg-eva-dmdu-token-path`). Working tree clean.
-- **plugins**: eva-emptiness C tether + git-push Ask (PR #5, 08-10). Clean.
+- **skills**: control-feeder + grok-host-prep (08-14). north-star-compass added then **reverted** (08-15). Session [[Projects/skills/sessions/2026-08-16]].
+- **plugins**: eva-emptiness C tether [#5](https://github.com/p10ns11y/plugins/pull/5) (08-10); mission-map [#6](https://github.com/p10ns11y/plugins/pull/6) (08-15).
 - **grok-build** (`local`): clipboard Linux fix; local-grok install notes; author vs inceptor + feed-filter docs (08-13→14). Clean vs `origin/local`.
 - **ensembly**: hub constellation spacemap + pain-vs-build lock (08-12). Clean.
 
 ### Creative / infra
 - **thepulimaangani**: no new commits this window; still on `theni-venpaa-subtype-spike`. Untracked `.grok/skills` copy only.
-- **arch-machine**: **no commits this week.** Checkout is `docs/readme-archy-logo-funreadme` (pushed). Trunk `sentinel` is **1 commit behind** origin. Untracked `.agents/rules` + four skill folders (copy noise, not product work).
+- **arch-machine**: **no commits this week.** Checkout is `docs/readme-archy-logo-funreadme`. Untracked `.agents` copies only. Session [[Projects/arch-machine/sessions/2026-08-16]].
 
 ### Gaps vs W33 plan
 - Swedish 3×20 min: **not logged** on [[Projects/swedish-assimilation/README|swedish-assimilation]] (energy still 0).

@@ -4,12 +4,12 @@ status: "In Progress"
 cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/skills
 weekly_energy_target: 1
-weekly_energy_logged: 1.5  # 2026-08-14: control-feeder + grok-host-prep
+weekly_energy_logged: 2.0  # 2026-08-10→16: feeder/host-prep; plugins #5+#6
 importance: 4
 urgency: 2
-progress: 72
+progress: 73
 area: "[[Career]]"
-next_action: "Park new skill authoring W34; dogfood control-feeder / DualLoad / eva on the next dumped-prompt or blank-sheet task."
+next_action: "Park new skill authoring W34; dogfood control-feeder / DualLoad / eva on the next dumped prompt."
 review_date: 2026-08-22
 effort: high
 tags: [skills, meta]
@@ -60,5 +60,6 @@ Added note: "See Portfolio Map of Content (Portfolio-MOC) for example of using t
 
 ## Session log
 
+- [[Projects/skills/sessions/2026-08-16|2026-08-16]] — control-feeder + grok-host-prep; plugins #5/#6; north-star revert
 - [[Projects/skills/sessions/2026-08-02|2026-08-02]] — DualLoad + eva-emptiness wave
 - [[Projects/skills/sessions/2026-07-12|2026-07-12]] — looper promoted into skills library
