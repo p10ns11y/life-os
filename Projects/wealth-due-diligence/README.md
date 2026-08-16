@@ -7,7 +7,7 @@ progress: 68
 area: "[[Finance]]"
 cluster: "personal-finance"
 weekly_energy_target: 3
-weekly_energy_logged: 2.5  # 2026-08-13 literacy; 08-12 wealth-core hybrid merge; board/viz still uncommitted
+weekly_energy_logged: 2.5  # 2026-08-12 hybrid merge; 08-13 literacy; board/viz still uncommitted 08-16
 next_action: "Private critical-path; then commit or stash wealth-core 11-file board/viz drift (plus README/coming-next in this repo)."
 review_date: 2026-08-22
 effort: low

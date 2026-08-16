@@ -14,12 +14,12 @@ review_date: 2026-08-22
 
 | Layer | Meaning |
 |-------|---------|
-| **Immediate** | Finance / debt **critical path** on private disk. Then the next *digital* blocker on that path (today: uncommitted wealth-core board/viz). |
-| **Horizon** | **SpaceXAI acceptance** — unknown duration. Do not wait for a date. Compound one honest step that a hiring loop can see (collab-finder Quest/pipeline, presence, proof). |
-| **Park** | theni spike, ensembly stretch, new essays, skill-authoring tourism. |
+| **Immediate** | Four living slots only — [[Meta/focus-now]]. Calendar: Sweden window (September). Cash/career (SpaceXAI **filter**). Son = off-laptop. Debt = one private act then stop. |
+| **Horizon** | **SpaceXAI acceptance** — unknown duration. Every slot-2 tick must be visible to a hiring loop. |
+| **Park** | New Wayland/GTK overlays · ensembly stretch · theni · skill tourism · second chat inboxes |
 
-**Nudge line (desktop):** Finance now. SpaceXAI by compounding. Open Dashboard. Do the red line.
+**Nudge line (desktop):** Four slots via Walker (Super+Ctrl+semicolon). SpaceXAI filters slot 2. Do the live slot.
 
-**Agent contract:** every reply names **one next step** on Immediate or Horizon (not both as a pile). If the user is distracted, say the nudge line first, then one action.
+**Agent contract:** every reply names **one next step** in slot 1, 2, or 4 (or “protect slot 3 — close laptop”). Never pile. If the user is building infra to avoid the slot, say so.
 
 Pointers: [[Dashboard]] · [[Archives/2026-08-15-weekly-review]]
