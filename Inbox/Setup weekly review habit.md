@@ -14,6 +14,6 @@ tags: [habit, review]
 
 # Setup weekly review habit
 
-**Installed 2026-08-10:** [[Dashboard]] Week card. Live close: [[Meta/weekly-review-2026-08-15]]. `Archives/` is gitignored attic — do not file current reviews there.
+**Installed 2026-08-10:** [[Dashboard]] Week card. Live closes: [[Meta/weekly-review-2026-08-10]] · [[Meta/weekly-review-2026-08-15]]. `Archives/` is gitignored attic — do not file current reviews there.
 
 Remaining: optional Daily Notes template link; keep Monday ritual ≤15 min.
