@@ -4,7 +4,7 @@
 
 ## Week card (2026-W33 → W34)
 
-Detail archive: [[Archives/2026-08-15-weekly-review]] · prior: [[Archives/2026-08-10-weekly-review]] · ops: `private/`
+Detail: [[Meta/weekly-review-2026-08-15]] · ops: `private/` · `Archives/` is local attic only.
 
 ### Last week done (2026-08-10 → 08-16)
 
