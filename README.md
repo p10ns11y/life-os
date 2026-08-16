@@ -16,7 +16,8 @@ This is my central **Life OS** — combining areas of responsibility, active pro
 - **Kernel/** — schema, templates, bases
 - **Shell/** — how you invoke ([[AGENTS]] at root, Inbox, Actions)
 - **UI/** — Dashboard, Welcome, Map, Graph
-- **UX/** — north-star, focus-now, weekly close
+- **UX/** — north-star, focus-now
+- **Reviews/** — week / quarter close
 - **Areas/** · **Projects/** — userland
 - **Actions/** — one-shot commands
 - **Inbox/** — stdin / capture

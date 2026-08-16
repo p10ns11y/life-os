@@ -63,7 +63,7 @@ Short names for clean display in tables and effective use. All 7 exist as flat .
 - [[UI/Dashboard]]
 - [[Kernel/bases/priority-matrix.base]]
 - [[Kernel/templates/Project]] · [[Kernel/templates/Area]]
-- [[UX/weekly-2026-08-15]] — current week close. `Archives/` is attic.
+- [[Reviews/weekly-2026-08-15]] — current week close. `Archives/` is attic.
 
 ## Folder Conventions
 The vault **is** the OS.
@@ -73,7 +73,8 @@ The vault **is** the OS.
 | Kernel | `Kernel/` | Schema, templates, bases |
 | Shell | vault root + [[Shell/README]] | [[AGENTS]] · `Inbox/` stdin · `Actions/` commands |
 | UI | `UI/` | Dashboard, Welcome, Map, Graph |
-| UX | `UX/` | Compass + weekly close |
+| UX | `UX/` | Compass (north-star, focus-now) |
+| Reviews | `Reviews/` | Week / quarter close |
 | Userland | `Projects/` `Areas/` | Long processes |
 | Attic | `Archives/` | Local only, gitignored |
 | Secrets | `private/` | Never git |

@@ -61,7 +61,7 @@ See Bases views in [[Kernel/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-08-16):** **finance spine** (private) + **wealth-core dirty slice** · dogfood collab-finder apply workspace (#19–#22 landed) · Swedish ×3 with a logged session · arch-machine back to `sentinel` (quiet week). Park: theni spike · ensembly stretch · new essays. See [[Dashboard]] · [[UX/weekly-2026-08-15]].
+**Current focus (2026-08-16):** **finance spine** (private) + **wealth-core dirty slice** · dogfood collab-finder apply workspace (#19–#22 landed) · Swedish ×3 with a logged session · arch-machine back to `sentinel` (quiet week). Park: theni spike · ensembly stretch · new essays. See [[UI/Dashboard]] · [[Reviews/weekly-2026-08-15]].
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]

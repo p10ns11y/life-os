@@ -22,4 +22,4 @@ review_date: 2026-08-22
 
 **Agent contract:** every reply names **one next step** in slot 1, 2, or 4 (or “protect slot 3 — close laptop”). Never pile. If the user is building infra to avoid the slot, say so.
 
-Pointers: [[Dashboard]] · [[UX/weekly-2026-08-15]] · [[UX/focus-now]]
+Pointers: [[UI/Dashboard]] · [[Reviews/weekly-2026-08-15]] · [[UX/focus-now]]

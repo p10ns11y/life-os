@@ -53,7 +53,7 @@ Still refuse: unattended bank/email, vault `private/` commits, merging vault int
 - `Resources/git.md`
 - `.obsidian/` (or other dot-config) beyond reading
 - Dated daily log body content (only frontmatter if needed)
-- Adding new top-level folders (reviews/, Daily/, etc.) unless the plan explicitly calls for it
+- Adding new top-level folders (`Daily/`, etc.) unless the plan explicitly calls for it. `Reviews/` is allowed (week / quarter close).
 
 **Private disk rule:** Public / remote notes are **pointers only** (e.g. “see `private/`”). Creditor names, amounts, phone/carrier ops, legal-name checks, referral details, and similar PII go in `private/` or `_private.*` — never in Dashboard, Areas, Projects cards, or tracked sessions.
 
