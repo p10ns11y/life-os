@@ -54,12 +54,12 @@ Turns a fresh install into a secure, profile-based fortress with agents and sent
 ## Energy Note
 High leverage when active. **W33 energy 0** — no product commits. Next: `sentinel` + pull, not more surface area.
 
-See [[Projects/Portfolio-MOC]].
+See [[UI/Map]].
 ## Structure
 
 - Project card: `Projects/arch-machine/README.md` (this note)
 - Sessions: `Projects/arch-machine/sessions/YYYY-MM-DD.md`
-- Convention: thin card + dated session detail (see [[Meta/schema]])
+- Convention: thin card + dated session detail (see [[Kernel/schema]])
 - Progress-only notes (not code SoT): e.g. eye-comfort-theme.md
 
 ## Session log

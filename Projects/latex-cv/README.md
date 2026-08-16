@@ -21,12 +21,12 @@ CV build using LaTeX.
 ## Links
 - GitHub: https://github.com/p10ns11y/latex-cv
 
-See [[Projects/Portfolio-MOC]].
+See [[UI/Map]].
 ## Structure
 
 - Project card: `Projects/latex-cv/README.md` (this note)
 - Sessions: `Projects/latex-cv/sessions/YYYY-MM-DD.md`
-- Convention: thin card + dated session detail (see [[Meta/schema]])
+- Convention: thin card + dated session detail (see [[Kernel/schema]])
 
 
 ## Session log

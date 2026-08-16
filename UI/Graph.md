@@ -2,7 +2,7 @@
 
 This page lists the **real projects** defined in the `Projects/` folder and provides a clear visual graph of their relevance and connections.
 
-See [[Portfolio-MOC]] for the canonical cluster definitions and [[Dashboard]] for live prioritization.
+See [[UI/Map]] for cluster definitions and [[UI/Dashboard]] for live prioritization.
 
 ## Real Projects (from Projects/ folder)
 
@@ -123,9 +123,9 @@ flowchart TD
 ## Notes
 
 - Data from each project's frontmatter in `Projects/{slug}/README.md`.
-- **Layout (all projects):** `README.md` (card) + `sessions/YYYY-MM-DD.md` (detail). See [[Meta/schema]].
+- **Layout (all projects):** `README.md` (card) + `sessions/YYYY-MM-DD.md` (detail). See [[Kernel/schema]].
 - Agent backfill window: ~30 days of Grok (`~/.grok`) + Cursor (`~/.cursor/projects/.../agent-transcripts`) titles.
-- For live filtering, use Bases views in `Meta/bases/`.
+- For live filtering, use Bases views in `Kernel/bases/`.
 - Update this graph when adding new projects or changing frontmatter (importance, cluster, area).
 
 See [[AGENTS.md]] for how to work on these projects with AI assistance.

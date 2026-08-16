@@ -27,12 +27,12 @@ Located in Work/research/aiml/
 ## Energy Note
 Low regular allocation. Good for occasional deep dives and inspiration.
 
-See [[Projects/Portfolio-MOC]].
+See [[UI/Map]].
 ## Structure
 
 - Project card: `Projects/prototype-it-to-explain-itself/README.md` (this note)
 - Sessions: `Projects/prototype-it-to-explain-itself/sessions/YYYY-MM-DD.md`
-- Convention: thin card + dated session detail (see [[Meta/schema]])
+- Convention: thin card + dated session detail (see [[Kernel/schema]])
 
 
 ## Session log

@@ -44,7 +44,7 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 
 ## Links
 - Area: [[Areas/Career]]
-- Cluster map: [[Projects/Portfolio-MOC]]
+- Cluster map: [[UI/Map]]
 - Skills library (meta): [[Projects/skills/README|skills]]
 - Devprofile CV: [[Projects/devprofile/README|devprofile]]
 - Vault: [[Dashboard]]
@@ -52,13 +52,13 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 ## Connections (Obsidian)
 - Uses patterns from [[Projects/skills/README|skills]]
 - Synergizes with [[Projects/devprofile/README|devprofile]] for CV/presence
-- See [[Projects/Portfolio-MOC]]
+- See [[UI/Map]]
 
 ## Structure
 
 - Project card: `Projects/collab-finder/README.md` (this note)
 - Sessions: `Projects/collab-finder/sessions/YYYY-MM-DD.md`
-- Convention: thin card + dated session detail (see [[Meta/schema]])
+- Convention: thin card + dated session detail (see [[Kernel/schema]])
 
 
 ## Session log

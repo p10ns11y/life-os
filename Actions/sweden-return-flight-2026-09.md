@@ -43,4 +43,4 @@ Two booking codes. A remark says they travel together. Check-in, delays, bassine
 - [ ] After issue: read infant **surname** on the e-ticket the same day
 - [ ] Bassinet only if still ≤11 kg; request on the **adult** file
 
-Related: [[Projects/swedish-assimilation/README|swedish-assimilation]] (after arrival) · [[Meta/focus-now]] slot 1 Sweden window.
+Related: [[Projects/swedish-assimilation/README|swedish-assimilation]] (after arrival) · [[UX/focus-now]] slot 1 Sweden window.

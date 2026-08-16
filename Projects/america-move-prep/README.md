@@ -103,7 +103,7 @@ See frontmatter `next_action`: **draft one-page US target brief** (1–3 cities 
 - Sibling: [[Projects/swedish-assimilation/README|swedish-assimilation]]
 - Career stack: [[Projects/collab-finder/README|collab-finder]] · [[Projects/latex-cv/README|latex-cv]] · [[Projects/devprofile/README|devprofile]]
 - Money: [[Projects/wealth-due-diligence/README|wealth-due-diligence]]
-- Portfolio: [[Projects/Portfolio-MOC|Portfolio-MOC]] · cluster *cultural-integration*
+- Portfolio: [[UI/Map]] · cluster *cultural-integration*
 
 ## Session log
 

@@ -33,7 +33,7 @@ Today’s **one** laptop step lives in 1, 2, or 4. Slot 3 is off-laptop.
 
 | Surface | Owns | Does not own |
 |---------|------|----------------|
-| This note + [[Meta/north-star]] | Which slot is live | Ledgers |
+| This note + [[UX/north-star]] | Which slot is live | Ledgers |
 | [[Dashboard]] | Week card | Day kernel |
 | **ensembly** turn/claim | Physical + HITL ticks when you *play* | A second todo database |
 | Mako + north-star timer | Ring | A new Wayland toolkit |

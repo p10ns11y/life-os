@@ -11,8 +11,8 @@ These agents run indefinitely, monitor the vault, pick up work, execute tasks, a
 Run this loop continuously (with appropriate sleep/polling intervals):
 
 1. **Monitor & Discover**
-   - Open and scan `[[Dashboard]]` (especially the Eisenhower views and "All Todos & Actions").
-   - Query `Meta/bases/priority-matrix.base` for high-urgency / high-importance items.
+   - Open and scan `[[UI/Dashboard]]` (Eisenhower views and "All Todos & Actions").
+   - Query `Kernel/bases/priority-matrix.base` for high-urgency / high-importance items.
    - Scan `Projects/` for items with:
      - Stale `review_date` (more than 14 days old and not Done).
      - High `importance` (3-4) with incomplete `next_action`.
@@ -27,7 +27,7 @@ Run this loop continuously (with appropriate sleep/polling intervals):
      - 🟡 DELEGATE (importance <3 + urgency ≥3)
      - ⚪ ELIMINATE (low/low)
    - Prefer tasks that:
-     - Are in high-relevance clusters (see [[projects]] graph).
+     - Are in high-relevance clusters (see [[UI/Graph]]).
      - Have clear `next_action`.
      - Align with current energy focus (e.g. Tier 1 projects like `skills` + `thepulimaangani`).
    - Claim a task by updating its frontmatter:
@@ -48,10 +48,10 @@ Run this loop continuously (with appropriate sleep/polling intervals):
 
 4. **Define New Features / Projects When Needed**
    - If a task reveals missing capability:
-     - Propose and create a new project using `Meta/templates/Project.md`.
+     - Propose and create a new project using `Kernel/templates/Project.md`.
      - Assign appropriate `area` (one of the 7 canonical: Career, Health, Finance, Learning, Relationships, Systems, Creative).
      - Assign `cluster` from existing Portfolio Map of Content (Portfolio-MOC) clusters (agentic-reactor, presence-career, daily-foundations, foundational-infra, cultural-creative, research-prototypes).
-     - Add to `[[Projects/Portfolio-MOC]]` and update the graph in `[[projects]]`.
+     - Add to [[UI/Map]] and update [[UI/Graph]].
    - Use `higher-order-decision-architect` and `stellar-roadmap` skills when scoping new work.
    - Never create new top-level folders without explicit plan.
 
@@ -63,16 +63,16 @@ Run this loop continuously (with appropriate sleep/polling intervals):
    - Feed improvements back into the vault (this system improves itself).
 
 6. **Continuous Health**
-   - Periodically regenerate or review `[[projects]]` graph and Portfolio Map of Content (Portfolio-MOC) when connections change.
+   - Periodically review [[UI/Graph]] and [[UI/Map]] when connections change.
    - Contribute to `skills` when you discover better patterns.
    - Respect the planned premflow integration (see `Projects/premflow.md`) — once symlinked, use premflow's notes/tasks/journal as additional task sources.
 
 ## Key Interfaces for Autonomous Agents
 
-- **Task Sources**: `Dashboard.md`, `Meta/bases/priority-matrix.base`, project `next_action` + `review_date` fields, `Inbox/`.
-- **Project Map**: `[[Projects/Portfolio-MOC]]` (Portfolio Map of Content) + `[[projects]]` (Mermaid graph with relevance and connections).
-- **Rules**: `[[Meta/schema.md]]`, `[[AGENTS.md]]`.
-- **Templates**: `Meta/templates/Project.md` and `Area.md`.
+- **Task Sources**: `UI/Dashboard.md`, `Kernel/bases/priority-matrix.base`, project `next_action` + `review_date`, `Inbox/`.
+- **Project Map**: [[UI/Map]] + [[UI/Graph]].
+- **Rules**: `[[Kernel/schema.md]]`, `[[AGENTS.md]]`.
+- **Templates**: `Kernel/templates/Project.md` and `Area.md`.
 - **Skills Library**: `~/Work/personal/skills/`.
 - **Flow Tool**: `~/Work/personal/premflow/` (CLI for agent flows).
 

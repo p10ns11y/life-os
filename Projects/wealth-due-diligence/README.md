@@ -56,4 +56,4 @@ npm run brief   # or: cargo run --brief … on wealth-core
 - [[Projects/wealth-due-diligence/sessions/2026-08-10|2026-08-10]] — weekly review; critical-path carry-forward
 - [[Projects/wealth-due-diligence/sessions/2026-07-13|2026-07-13]]
 
-See [[Projects/Portfolio-MOC]].
+See [[UI/Map]].

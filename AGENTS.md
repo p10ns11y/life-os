@@ -2,7 +2,7 @@
 
 This is the central **Life OS** notes vault, organized with Projects, Areas, Resources, and Archives, for structured prioritization, project tracking, energy logging, and agent-augmented workflows.
 
-**Primary interfaces**: `Dashboard.md`, `Projects/Portfolio-MOC.md`, `Meta/bases/*.base`, `Meta/schema.md`.
+**Primary interfaces**: `UI/Dashboard.md`, `UI/Map.md`, `Kernel/bases/*.base`, `Kernel/schema.md`. Layers: [[Kernel/README]] · [[Shell/README]] · [[UI/README]] · [[UX/README]].
 
 ### Not the digital clone runtime
 
@@ -30,7 +30,7 @@ Still refuse: unattended bank/email, vault `private/` commits, merging vault int
 
 ## Immutable Core Rules
 
-1. **Schema is the single source of truth**. Read `Meta/schema.md` (and re-read after any structural change) before touching Projects/, Areas/, or Inbox actionables.
+1. **Schema is the single source of truth**. Read `Kernel/schema.md` (and re-read after any structural change) before touching Projects/, Areas/, or Inbox actionables.
 2. **Areas are strictly flat** with exactly these 7 short canonical names (no subdirectories, no other names):
    - `Career`
    - `Health`
@@ -41,8 +41,8 @@ Still refuse: unattended bank/email, vault `private/` commits, merging vault int
    - `Creative`
    Every `area:` frontmatter **must** be a wikilink to one of these (e.g. `[[Systems]]`).
 3. **Templates rule creation and updates**. Match the frontmatter emitted by:
-   - `Meta/templates/Project.md`
-   - `Meta/templates/Area.md`
+   - `Kernel/templates/Project.md`
+   - `Kernel/templates/Area.md`
 4. **Full frontmatter on every actionable** (type: project|area|task). Required keys (see schema): `type`, `status`, `importance` (1-4), `urgency` (1-4), `progress`, `area`, `next_action`, `review_date`, plus portfolio fields (`cluster`, `weekly_energy_target`, `weekly_energy_logged`) where relevant.
 5. **Eisenhower is primary**. `importance` + `urgency` drive quadrants in the Bases views. Never bypass by editing only the .base files.
 6. **Update on touch**. Bump `review_date`, `progress`, `next_action`, status as appropriate. Log energy where applicable.
@@ -106,7 +106,7 @@ When an agent session touches this vault or connected projects (collab-finder, p
 **Current plan (documented, not yet executed)**: Symlink premflow's `notes/`, `tasks/`, `journal/` (and key designs/artifacts) into this vault so its output participates in:
 - Eisenhower / priority matrix
 - Energy tracking (`weekly_energy_*`)
-- Portfolio Map of Content (Portfolio-MOC) and Dashboard
+- [[UI/Map]] and [[UI/Dashboard]]
 - Unified weekly review
 
 See the dedicated section in `Projects/premflow.md` for the exact symlink intention and next_action.
@@ -127,15 +127,15 @@ Golden loop (inspired by premflow rules + skills):
 - Prefer **frontmatter + link** changes over rewriting prose in project descriptions.
 - When you must edit body text, keep the original voice and intent.
 - New projects/areas → use the templates.
-- After any area rename or mass frontmatter change: update `Meta/schema.md`, `Dashboard.md`, `Welcome.md`, `Projects/Portfolio-MOC.md` (Portfolio Map of Content), and the templates if they contain examples.
+- After any area rename or mass frontmatter change: update `Kernel/schema.md`, `UI/Dashboard.md`, `UI/Welcome.md`, `UI/Map.md`, and the templates if they contain examples.
 - Commit message should explain *why* (mission alignment, energy, surplus), not just a file list.
 
 ## Quick Orientation for Agents
 
-- Start here: `Dashboard.md` + `Meta/schema.md`
-- Map: `Projects/Portfolio-MOC.md` (Portfolio Map of Content)
-- Current focus clusters: see Portfolio Map of Content (Portfolio-MOC) (agentic-reactor, cultural-creative, daily-foundations, foundational-infra, presence-career, research-prototypes)
-- Daily driver: open Dashboard → All Todos & Actions view → filter urgency.
+- Start here: `UI/Dashboard.md` + `Kernel/schema.md`
+- Map: `UI/Map.md`
+- Current focus clusters: see [[UI/Map]] (agentic-reactor, cultural-creative, daily-foundations, foundational-infra, presence-career, research-prototypes)
+- Daily driver: open [[UI/Dashboard]] → All Todos & Actions → filter urgency.
 
 This vault improves itself. Every time you use the skills to work inside it, you are also feeding the skills project.
 
@@ -151,5 +151,5 @@ Canonical shape for every portfolio project:
 - `Projects/<slug>/README.md` — project card (`type: project`)
 - `Projects/<slug>/sessions/YYYY-MM-DD.md` — session detail
 
-See [[Meta/schema]] § Project folder layout. After agent work on a connected repo, update the card frontmatter and append/create that day's session note.
+See [[Kernel/schema]] § Project folder layout. After agent work on a connected repo, update the card frontmatter and append/create that day's session note.
 

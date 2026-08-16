@@ -30,12 +30,12 @@ Modern Next.js portfolio with AI Q&A (grounded in CV data), interactive docs, an
 ## Energy Note
 Important for career visibility. Medium-high allocation.
 
-See [[Projects/Portfolio-MOC]].
+See [[UI/Map]].
 ## Structure
 
 - Project card: `Projects/devprofile/README.md` (this note)
 - Sessions: `Projects/devprofile/sessions/YYYY-MM-DD.md`
-- Convention: thin card + dated session detail (see [[Meta/schema]])
+- Convention: thin card + dated session detail (see [[Kernel/schema]])
 
 
 ## Session log

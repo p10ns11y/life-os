@@ -34,12 +34,12 @@ GitHub: https://github.com/p10ns11y/shellyxz.sh
 ## Energy Note
 Steady maintenance. Important for productivity and agent work.
 
-See [[Projects/Portfolio-MOC]].
+See [[UI/Map]].
 ## Structure
 
 - Project card: `Projects/shellyxz/README.md` (this note)
 - Sessions: `Projects/shellyxz/sessions/YYYY-MM-DD.md`
-- Convention: thin card + dated session detail (see [[Meta/schema]])
+- Convention: thin card + dated session detail (see [[Kernel/schema]])
 
 
 ## Session log

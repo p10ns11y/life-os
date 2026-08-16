@@ -67,7 +67,7 @@ Operator opens turn or watch and **knows** the next body act and next authorizat
 ## Links
 
 - Area: [[Areas/Systems]]
-- Cluster map: [[Projects/Portfolio-MOC]]
+- Cluster map: [[UI/Map]]
 - Career tools that pair with presence: [[Projects/collab-finder/README|collab-finder]], [[Projects/devprofile/README|devprofile]]
 - Skills meta: [[Projects/skills/README|skills]]
 - Local path: `~/Work/personal/ensembly`
@@ -75,7 +75,7 @@ Operator opens turn or watch and **knows** the next body act and next authorizat
 
 - Project card: `Projects/ensembly/README.md` (this note)
 - Sessions: `Projects/ensembly/sessions/YYYY-MM-DD.md`
-- Convention: thin card + dated session detail (see [[Meta/schema]])
+- Convention: thin card + dated session detail (see [[Kernel/schema]])
 
 
 ## Session log

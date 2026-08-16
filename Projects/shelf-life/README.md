@@ -38,12 +38,12 @@ Inspired by personal reflections on books as living companions (see related poet
 ## Energy Note
 Medium priority for its personal and motivational value. Use for reflection time.
 
-See [[Projects/Portfolio-MOC]] for full picture.
+See [[UI/Map]] for full picture.
 ## Structure
 
 - Project card: `Projects/shelf-life/README.md` (this note)
 - Sessions: `Projects/shelf-life/sessions/YYYY-MM-DD.md`
-- Convention: thin card + dated session detail (see [[Meta/schema]])
+- Convention: thin card + dated session detail (see [[Kernel/schema]])
 
 
 ## Session log

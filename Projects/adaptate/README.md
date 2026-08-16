@@ -21,12 +21,12 @@ Dynamic and adaptable model validator leveraging Zod, interoperable with OpenAPI
 ## Links
 - GitHub: https://github.com/p10ns11y/adaptate
 
-See [[Projects/Portfolio-MOC]].
+See [[UI/Map]].
 ## Structure
 
 - Project card: `Projects/adaptate/README.md` (this note)
 - Sessions: `Projects/adaptate/sessions/YYYY-MM-DD.md`
-- Convention: thin card + dated session detail (see [[Meta/schema]])
+- Convention: thin card + dated session detail (see [[Kernel/schema]])
 
 
 ## Session log
