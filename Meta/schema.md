@@ -63,13 +63,14 @@ Short names for clean display in tables and effective use. All 7 exist as flat .
 - Dashboard.md
 - Meta/bases/priority-matrix.base
 - templates/Project.md + Area.md
-- reviews/ (quarterly surplus notes)
+- `Meta/weekly-review-YYYY-MM-DD.md` — current week close (tracked). `Archives/` is gitignored local attic — never put an active weekly review there.
 
 ## Folder Conventions
 - `Projects/` — Long-term coding projects and major multi-step endeavors. Use `type: project`, full portfolio fields (cluster, weekly_energy_*, importance for life impact).
 - `Actions/` — Short-term, bounded tasks and actions. Prefer `type: task`. These surface in the "📋 All Todos & Actions" view. Do not put ongoing responsibilities or long-horizon work here.
 - `Areas/` — The 7 canonical ongoing responsibility areas (flat).
 - `Inbox/` — Temporary capture only.
+- `Meta/` — Schema, compass, live weekly close. Not `Archives/`.
 
 This schema + Bases is the iron-peak durable kernel. Future changes should update this file first.
 

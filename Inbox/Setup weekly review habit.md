@@ -6,7 +6,7 @@ urgency: 2
 progress: 80
 area: "[[Career]]"
 due: 2026-08-17
-next_action: "Monday 2026-08-17: open Dashboard Week card; W33 archive already at Archives/2026-08-15-weekly-review.md"
+next_action: "Monday 2026-08-17: open Dashboard Week card; W33 close is Meta/weekly-review-2026-08-15.md"
 review_date: 2026-08-24
 effort: low
 tags: [habit, review]
@@ -14,6 +14,6 @@ tags: [habit, review]
 
 # Setup weekly review habit
 
-**Installed 2026-08-10:** [[Dashboard]] Week card. Archives: [[Archives/2026-08-10-weekly-review]] · [[Archives/2026-08-15-weekly-review]].
+**Installed 2026-08-10:** [[Dashboard]] Week card. Live close: [[Meta/weekly-review-2026-08-15]]. `Archives/` is gitignored attic — do not file current reviews there.
 
 Remaining: optional Daily Notes template link; keep Monday ritual ≤15 min.

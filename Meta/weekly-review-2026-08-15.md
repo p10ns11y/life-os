@@ -11,7 +11,7 @@ review_date: 2026-08-24
 # Weekly review — 2026-08-15 (W33 close → W34 open)
 
 **Launch:** [[Dashboard]] · **Clusters map:** [[Projects/Portfolio-MOC]]  
-**Prior archive:** [[Archives/2026-08-10-weekly-review]]  
+**Prior (local attic only):** `Archives/2026-08-10-weekly-review.md` — not in git.  
 **Finance / career ops (private disk):** `private/` — pointers only below.
 
 Calendar window: **2026-08-10 → 08-16** (addendum written Sunday).
