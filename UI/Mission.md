@@ -19,7 +19,7 @@ Submit one relevant application this week — do not wait for replies. submit th
 Detailed named graph (this machine only, not on git): [[UI/_private.Mission]].
 Contact mail and posting URLs: `~/.grok/mission-maps/contacts.md`.
 
-**Updated:** 2026-08-17T12:51:51+0530  
+**Updated:** 2026-08-17T18:54:14+0530  
 **On the path?** **on-path**
 
 | | |
@@ -30,8 +30,12 @@ Contact mail and posting URLs: `~/.grok/mission-maps/contacts.md`.
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
 | **Longest remaining chain** | 4.383333 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
+| **This tick cosθ** | 0.4 |
+| **This tick did** | hire-loop presentation (public profile, downloadable cockpit, heading skill) |
+| **Named Do (still)** | one relevant application this week |
 
 This week's act is on the path to a start date.
+
 
 ## How to push
 
