@@ -21,7 +21,7 @@ Detail: [[Reviews/weekly-2026-08-15]] · prior: [[Reviews/weekly-2026-08-10]] ·
 2. **🟢 Quest** — land `feat/quest-persist-restore`; dogfood restore-on-launch.
 3. **🟢 Swedish** — 20 min + 5-line diary ×3 **and log a session** (missed last week).
 4. **🟢 arch-machine** — checkout `sentinel`, pull (behind 1); treat untracked `.agents/` copies as noise.
-5. **⚪ Park** — thepulimaangani theni spike, ensembly stretch, new essays, further JDs until apply-phone ready (private).
+5. **⚪ Park** — thepulimaangani theni spike, ensembly stretch, new essays, spray / wrong-stack JDs. **Not parked:** one more relevant apply (Sweden summer is slow).
 
 **Capacity rule:** finance gates first. Career apply gate already cleared.
 
