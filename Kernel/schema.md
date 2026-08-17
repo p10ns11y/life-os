@@ -77,7 +77,7 @@ The vault **is** the OS.
 | Reviews | `Reviews/` | Week / quarter close |
 | Userland | `Projects/` `Areas/` | Long processes |
 | Attic | `Archives/` | Local only, gitignored |
-| Secrets | `private/` | Never git |
+| Secrets | `private/` · `_private.*` | Never git. No live hiring/legal process detail on remote. |
 
 This schema + Bases is the iron-peak durable kernel. Future changes should update this file first.
 
