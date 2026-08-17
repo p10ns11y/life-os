@@ -22,14 +22,15 @@ tags: [career]
 
 **Current Focus / Active Items**:
 - [[Actions/SpaceXAI-and-Tesla|SpaceXAI]] — target campaign; **outcomes private** (`private/career/`)
-- Apply gate: Vend pack **Done** (2026-08-15). Mission remaining: keep Sweden intro warm; wait interview calendars; park further JDs until apply-phone.
+- Apply gate: one pack **Done** (2026-08-15). **Do not wait** on Sweden summer calendars — next tick is another relevant apply (1–2/week). Same-day reply if an intro writes. Spray / wrong-stack stay Park.
 - [[Projects/collab-finder/README|collab-finder]] — Quest persist/restore on `feat/quest-persist-restore`; land/PR then ACP analyze
 - [[Resources/Arbetsformedlingen-Support-A-Z|AF Support A–Z]] — English catalogue of AF programmes / extra support (eligibility = caseworker assessment)
 - Application / phone / employer outcomes: private disk only (`private/career/`) — never on remote
 - [[Projects/swedish-assimilation/README|swedish-assimilation]] — language slots (missed log last week)
 
 ## Review Log
-- 2026-08-17: Confirmed S1 apply already logged [[Projects/collab-finder/sessions/2026-08-15-apply|2026-08-15 apply]]. Mission-map remaining DAG is Wait + keep-intro-warm (no new JD this tick).
+- 2026-08-17: Replan — S3 (next relevant apply) is **Do**. S0 is Wait + same-day reply. SE summer Wait bands widened. Sitting on inbox is off \(\hat{u}_G\).
+- 2026-08-17: Confirmed S1 apply already logged [[Projects/collab-finder/sessions/2026-08-15-apply|2026-08-15 apply]].
 - 2026-08-15: External-portal application submitted (thanks page received). Employer / portal IDs on private disk only (`private/career/`).
 - 2026-08-15: Weekly review — Quest persist/restore shipped (branch); intro interview still awaiting next stage (private). See [[Reviews/weekly-2026-08-15]].
 - 2026-08-13: Intro interview logged on private disk only (`private/career/`). Awaiting next stage.

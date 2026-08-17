@@ -12,24 +12,28 @@ review_date: 2026-08-17
 
 Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b overwrite.
 
-**Updated:** 2026-08-17T11:17:15+0530  
-**Verdict:** **on-path**
+**Updated:** 2026-08-17T12:09:52+0530  
+**Verdict:** **replan**
 
 | Field | Value |
 |-------|--------|
 | **G** | started a decent Sweden/Nordics/EU full-time role |
 | **heading** | on-path |
 | **cosθ** | 1 |
-| **next_do** | S0 |
-| **critical** | S0 -> S4 -> S5 |
-| **residual** | S0 -> S4 -> S5 -> G |
-| **path_te** (wk) | 7.933333 |
+| **next_do** | S3 |
+| **critical** | S1 -> S3 -> S4 -> S5 |
+| **residual** | S3 -> S4 -> S5 -> G |
+| **path_te** (wk) | 12.083333 |
 | **path_te_was** | 7.933333 |
-| **delta_te** | 0.000000 |
+| **delta_te** | 4.150000 |
 | **completed** | — |
-| **parked** | S3,P1,P2,P3 |
+| **parked** | P1,P2,P3 |
 
-Heading along û_G.
+Remaining T grew (delta_te=4.150000) after a DAG/band replan — still on û_G. Not a Park.
+
+## Push rule
+
+Do not sit on Sweden summer Wait. Ship 1–2 relevant applies per week while intros/packs are unanswered. Drop extra applies only the day a calendar lands. Spray / wrong-stack / dead resend stay Park.
 
 ## Key
 
@@ -37,11 +41,11 @@ Ids are handles. `what` is the public-safe label (no amounts, tickets, or case I
 
 | id | class | what |
 |----|-------|------|
-| S0 | Do | keep Sweden intro warm |
+| S0 | Wait | keep Sweden intro warm (same-day reply) |
 | S1 | Done | apply pack submitted |
 | S2 | Risk | stretch product-SWE apps |
-| S3 | Park | further cash JD (parked) |
-| S4 | Wait | interview calendars |
+| S3 | Do | next relevant apply (do not wait) |
+| S4 | Wait | interview calendars (SE summer slow) |
 | S5 | Wait | start date |
 | P1 | Park | wrong-stack role |
 | P2 | Park | dead-process resend |
@@ -53,11 +57,11 @@ Ids are handles. `what` is the public-safe label (no amounts, tickets, or case I
 flowchart TB
   x["x now"]
   G["G: started a decent Sweden/Nordics/EU full-time role"]
-  S0["S0 keep Sweden intro warm · Do"]
+  S0["S0 keep Sweden intro warm (same-day reply) · Wait"]
   S1["S1 apply pack submitted · Done"]
   S2["S2 stretch product-SWE apps · Risk"]
-  S3["S3 further cash JD (parked) · Park"]
-  S4["S4 interview calendars · Wait"]
+  S3["S3 next relevant apply (do not wait) · Do"]
+  S4["S4 interview calendars (SE summer slow) · Wait"]
   S5["S5 start date · Wait"]
   P1["P1 wrong-stack role · Park"]
   P2["P2 dead-process resend · Park"]
@@ -65,9 +69,10 @@ flowchart TB
   x --> S0
   x --> S1
   S1 --> S2
-  S1 --> S3
-  S0 -->|"û_G"| S4
-  S1 --> S4
+  S1 -->|"û_G"| S3
+  S0 --> S4
+  S1 -->|"û_G"| S4
+  S3 -->|"û_G"| S4
   S4 -->|"û_G"| S5
   x -.->|"cosθ=0"| P1
   x -.->|"cosθ=0"| P2
@@ -79,9 +84,9 @@ flowchart TB
   classDef done fill:#2d2d2d,stroke:#6c757d,color:#adb5bd
   classDef goal fill:#5a189a,stroke:#c77dff,color:#fff
   class G goal
-  class S0 do
-  class S4,S5 wait
-  class S3,P1,P2,P3 park
+  class S3 do
+  class S0,S4,S5 wait
+  class P1,P2,P3 park
   class S1 done
 ```
 
