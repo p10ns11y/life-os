@@ -22,7 +22,7 @@ tags: [career]
 
 **Current Focus / Active Items**:
 - [[Actions/SpaceXAI-and-Tesla|SpaceXAI]] — target campaign; **outcomes private** (`private/career/`)
-- Apply gate: **four** applications submitted. **Do not wait** on Sweden summer calendars — next tick is another relevant apply (1–2/week). Same-day reply if an intro writes. Spray / wrong-stack stay Park. Named threads stay on `private/` and `UI/_private.Mission`.
+- Apply gate: **three** applications waiting on screens; **one specific role** at the frontier campaign is closed (other roles there may still fit — do not resend that title). Next tick: another relevant apply. Named threads: `private/` + `UI/_private.Mission`.
 - [[Projects/collab-finder/README|collab-finder]] — Quest persist/restore on `feat/quest-persist-restore`; land/PR then ACP analyze
 - [[Resources/Arbetsformedlingen-Support-A-Z|AF Support A–Z]] — English catalogue of AF programmes / extra support (eligibility = caseworker assessment)
 - Application / phone / employer outcomes: private disk only (`private/career/`) — never on remote
