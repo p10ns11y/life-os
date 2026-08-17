@@ -12,7 +12,13 @@ review_date: 2026-08-17
 
 Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b overwrite.
 
-**Updated:** 2026-08-17T12:11:33+0530  
+**Do this now:** next relevant apply (do not wait)
+
+next relevant apply (do not wait). submit this week (2026-08-17). Also: Sweden TS intro (same-day reply) — nudge if silent 2026-08-20.
+
+Emails and posting URLs: local `~/.grok/mission-maps/contacts.md` (not this page).
+
+**Updated:** 2026-08-17T12:16:02+0530  
 **Verdict:** **on-path**
 
 | Field | Value |
@@ -37,19 +43,19 @@ Do not sit on Sweden summer Wait. Ship 1–2 relevant applies per week while int
 
 ## Key
 
-Ids are handles. `what` is the public-safe label (no amounts, tickets, or case IDs).
+Ids are handles. Follow-up stage is what to do next. Emails are local-only.
 
-| id | class | what |
-|----|-------|------|
-| S0 | Wait | Sweden TS intro (same-day reply) |
-| S1 | Done | apply pack submitted |
-| S2 | Risk | stretch product-SWE apps |
-| S3 | Do | next relevant apply (do not wait) |
-| S4 | Wait | interview calendars (SE summer slow) |
-| S5 | Wait | start date |
-| P1 | Park | wrong-stack role |
-| P2 | Park | dead-process resend |
-| P3 | Park | side-plugin / city-brief escape |
+| id | class | what | follow-up | when |
+|----|-------|------|-----------|------|
+| S0 | Wait | Sweden TS intro (same-day reply) | nudge if silent | 2026-08-20 |
+| S1 | Done | apply pack submitted | await screen | — |
+| S2 | Risk | stretch product-SWE apps | — | — |
+| S3 | Do | next relevant apply (do not wait) | submit this week | 2026-08-17 |
+| S4 | Wait | interview calendars (SE summer slow) | — | — |
+| S5 | Wait | start date | — | — |
+| P1 | Park | wrong-stack role | — | — |
+| P2 | Park | dead-process resend | — | — |
+| P3 | Park | side-plugin / city-brief escape | — | — |
 
 ## Graph
 
