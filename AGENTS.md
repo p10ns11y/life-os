@@ -74,6 +74,8 @@ Public git is readable by **anyone**. Do not publish facts that let a third part
 
 If unsure, **omit**. Prefer a pointer over a revealing sentence. This rule outranks “be helpful / be specific” on public surfaces.
 
+**Cluster:** life-os, collab-finder, mission-map, focus-now, premflow, ensembly are **sibling apps**. Shared local data is readable; writes stay with the owner. Law: `~/Work/personal/ensembly/docs/SATELLITE-CLUSTER.md`. Do not merge them. Do not put a second hiring UI in ensembly.
+
 ## Agentic Workflow & Skills
 
 **Always load the skills library first** for non-trivial work.
