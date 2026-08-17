@@ -12,8 +12,8 @@ review_date: 2026-08-17
 
 Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b overwrite.
 
-**Updated:** 2026-08-17T12:09:52+0530  
-**Verdict:** **replan**
+**Updated:** 2026-08-17T12:11:33+0530  
+**Verdict:** **on-path**
 
 | Field | Value |
 |-------|--------|
@@ -24,12 +24,12 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 | **critical** | S1 -> S3 -> S4 -> S5 |
 | **residual** | S3 -> S4 -> S5 -> G |
 | **path_te** (wk) | 12.083333 |
-| **path_te_was** | 7.933333 |
-| **delta_te** | 4.150000 |
+| **path_te_was** | 12.083333 |
+| **delta_te** | 0.000000 |
 | **completed** | — |
 | **parked** | P1,P2,P3 |
 
-Remaining T grew (delta_te=4.150000) after a DAG/band replan — still on û_G. Not a Park.
+Heading along û_G.
 
 ## Push rule
 
@@ -41,7 +41,7 @@ Ids are handles. `what` is the public-safe label (no amounts, tickets, or case I
 
 | id | class | what |
 |----|-------|------|
-| S0 | Wait | keep Sweden intro warm (same-day reply) |
+| S0 | Wait | Sweden TS intro (same-day reply) |
 | S1 | Done | apply pack submitted |
 | S2 | Risk | stretch product-SWE apps |
 | S3 | Do | next relevant apply (do not wait) |
@@ -57,7 +57,7 @@ Ids are handles. `what` is the public-safe label (no amounts, tickets, or case I
 flowchart TB
   x["x now"]
   G["G: started a decent Sweden/Nordics/EU full-time role"]
-  S0["S0 keep Sweden intro warm (same-day reply) · Wait"]
+  S0["S0 Sweden TS intro (same-day reply) · Wait"]
   S1["S1 apply pack submitted · Done"]
   S2["S2 stretch product-SWE apps · Risk"]
   S3["S3 next relevant apply (do not wait) · Do"]

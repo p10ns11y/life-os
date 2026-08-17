@@ -29,6 +29,7 @@ tags: [career]
 - [[Projects/swedish-assimilation/README|swedish-assimilation]] — language slots (missed log last week)
 
 ## Review Log
+- 2026-08-17: Sweden TS fullstack intro (private): thanks sent; still awaiting next stage; posting still open. Do **not** wait — next tick is another relevant apply. Details `private/career/`.
 - 2026-08-17: Replan — S3 (next relevant apply) is **Do**. S0 is Wait + same-day reply. SE summer Wait bands widened. Sitting on inbox is off \(\hat{u}_G\).
 - 2026-08-17: Confirmed S1 apply already logged [[Projects/collab-finder/sessions/2026-08-15-apply|2026-08-15 apply]].
 - 2026-08-15: External-portal application submitted (thanks page received). Employer / portal IDs on private disk only (`private/career/`).
