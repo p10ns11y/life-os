@@ -2,7 +2,7 @@
 
 This is the central map for all personal projects.
 
-See [[UI/Dashboard]] for daily view and energy tracking.
+See [[UI/Dashboard]] for daily view and energy tracking. Cash-path heading (û_G / cosθ): [[UI/Mission]].
 
 **Canonical project shape:** `Projects/{slug}/README.md` + `Projects/{slug}/sessions/YYYY-MM-DD.md` (see [[Kernel/schema]]).
 

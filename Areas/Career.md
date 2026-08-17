@@ -4,7 +4,7 @@ status: "In Progress"
 importance: 4
 urgency: 3
 progress: 74
-review_date: 2026-08-22
+review_date: 2026-08-24
 tags: [career]
 ---
 
@@ -22,12 +22,14 @@ tags: [career]
 
 **Current Focus / Active Items**:
 - [[Actions/SpaceXAI-and-Tesla|SpaceXAI]] — target campaign; **outcomes private** (`private/career/`)
+- Apply gate: Vend pack **Done** (2026-08-15). Mission remaining: keep Sweden intro warm; wait interview calendars; park further JDs until apply-phone.
 - [[Projects/collab-finder/README|collab-finder]] — Quest persist/restore on `feat/quest-persist-restore`; land/PR then ACP analyze
 - [[Resources/Arbetsformedlingen-Support-A-Z|AF Support A–Z]] — English catalogue of AF programmes / extra support (eligibility = caseworker assessment)
 - Application / phone / employer outcomes: private disk only (`private/career/`) — never on remote
 - [[Projects/swedish-assimilation/README|swedish-assimilation]] — language slots (missed log last week)
 
 ## Review Log
+- 2026-08-17: Confirmed S1 apply already logged [[Projects/collab-finder/sessions/2026-08-15-apply|2026-08-15 apply]]. Mission-map remaining DAG is Wait + keep-intro-warm (no new JD this tick).
 - 2026-08-15: External-portal application submitted (thanks page received). Employer / portal IDs on private disk only (`private/career/`).
 - 2026-08-15: Weekly review — Quest persist/restore shipped (branch); intro interview still awaiting next stage (private). See [[Reviews/weekly-2026-08-15]].
 - 2026-08-13: Intro interview logged on private disk only (`private/career/`). Awaiting next stage.

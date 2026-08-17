@@ -63,6 +63,7 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 
 ## Session log
 
+- [[Projects/collab-finder/sessions/2026-08-17|2026-08-17]] — S1 apply already Done; mission remaining = Wait + keep intro warm
 - [[Projects/collab-finder/sessions/2026-08-15-apply|2026-08-15 apply]] — external portal apply completed (public pointer)
 - [[Projects/collab-finder/sessions/2026-08-15|2026-08-15]] — Quest persist/restore + SQLite v8
 - [[Projects/collab-finder/sessions/2026-08-14|2026-08-14]] — Quest Apply clap (`--disallowed-tools` once)
