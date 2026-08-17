@@ -3,10 +3,10 @@ type: task
 status: "In Progress"
 importance: 4
 urgency: 4
-progress: 40
+progress: 70
 area: "[[Relationships]]"
 due: 2026-09-18
-next_action: "QR: infant on wife's same 6-letter booking as Special Service Request infant (SSR INFT). If they only offer a second passenger name record (PNR) + merge, stop and book Emirates 1-stop."
+next_action: "Confirm infant surname on e-ticket same day; bassinet only if still ≤11 kg on the adult file."
 review_date: 2026-08-17
 effort: medium
 tags: [travel, sweden, family, qatar, infant]
@@ -16,12 +16,11 @@ tags: [travel, sweden, family, qatar, infant]
 
 **Public card.** Passport strings and name-field experiments: `private/travel/2026-08-16-maa-arn-qatar-infant.md`.
 
-## Facts (16 Aug 2026)
+## Facts (17 Aug 2026)
 
 - **Fly date:** 2026-09-18 (Chennai / southern India → Stockholm Arlanda).
-- **Party:** 2 adults + 1 lap infant (~1 year).
-- **Qatar Airways:** wife booked the **adults**. Infant **not** on that file yet. Desk offered a **second passenger name record (PNR)** and a **merge / link**. That is **not** the same as one family booking.
-- Website **blocks** the infant name when parent names are concatenated. Emirates **accepted** the same family inbound to India.
+- **Party:** self + wife + son (2 adults + 1 lap infant) — **Qatar booked for all three** (captured 17 Aug 2026).
+- **Prior (16 Aug):** adults on Qatar; infant still open; desk had offered a second passenger name record (PNR) + merge (declined path). Website blocked infant when parent names were concatenated; Emirates had accepted the same family inbound to India.
 
 ## What “merge two PNRs” means
 
@@ -39,8 +38,8 @@ Two booking codes. A remark says they travel together. Check-in, delays, bassine
 
 ## Open
 
-- [ ] Infant on wife’s **same** Qatar booking (SSR INFT) **or** family on Emirates
-- [ ] After issue: read infant **surname** on the e-ticket the same day
+- [x] Qatar booked for self + wife + son (17 Aug 2026)
+- [ ] Read infant **surname** on the e-ticket the same day (verify)
 - [ ] Bassinet only if still ≤11 kg; request on the **adult** file
 
 Related: [[Projects/swedish-assimilation/README|swedish-assimilation]] (after arrival) · [[UX/focus-now]] slot 1 Sweden window.
