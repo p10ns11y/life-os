@@ -19,7 +19,7 @@ Submit one relevant application this week — do not wait for replies. submit th
 Detailed named graph (this machine only, not on git): [[UI/_private.Mission]].
 Contact mail and posting URLs: `~/.grok/mission-maps/contacts.md`.
 
-**Updated:** 2026-08-17T12:41:24+0530  
+**Updated:** 2026-08-17T12:45:42+0530  
 **On the path?** **on-path**
 
 | | |
@@ -42,8 +42,8 @@ Plain language. No S0/S1 codes. Emails are local-only.
 | What | Status | Next follow-up | When |
 |------|--------|----------------|------|
 | Reply the same day if a live introduction writes | waiting on them | nudge if silent | 2026-08-20 |
-| Four applications submitted — waiting on screens (one already closed) | already done | await screen (submitted) | — |
-| Later stretch applications (after this week's pack) | later / stretch | — | — |
+| Three applications waiting on screens; one specific role closed (other roles there may still fit) | already done | do not resend the closed req; await the other three | — |
+| Watch other frontier IC roles — not the closed title; better fit may exist | later / stretch | only new postings that match agents/infra; never resend the closed req | — |
 | Submit one relevant application this week — do not wait for replies | do now | submit this week's pack | 2026-08-17 |
 | Interview calendars — Sweden summer is slow | waiting on them | — | — |
 | Employment start date | waiting on them | — | — |
@@ -58,8 +58,8 @@ flowchart TB
   x["Where you are"]
   G["Arrive: started a decent Sweden/Nordics/EU full-time role"]
   S0["Reply the same day if a live introduction writes (waiting on them)"]
-  S1["Four applications submitted — waiting on screens (one already closed) (already done)"]
-  S2["Later stretch applications (after this week's pack) (later / stretch)"]
+  S1["Three applications waiting on screens; one specific role closed (other roles there may still fit) (already done)"]
+  S2["Watch other frontier IC roles — not the closed title; better fit may exist (later / stretch)"]
   S3["Submit one relevant application this week — do not wait for replies (do now)"]
   S4["Interview calendars — Sweden summer is slow (waiting on them)"]
   S5["Employment start date (waiting on them)"]
