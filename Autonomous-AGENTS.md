@@ -80,6 +80,7 @@ Run this loop continuously (with appropriate sleep/polling intervals):
 
 Follow all protected areas and rules from AGENTS.md exactly. In particular:
 - Never touch `private/`, `Resources/Clippings/` content, `.obsidian/`, or dated daily log bodies.
+- **Process-safety:** never write live employer names, job ids, apply emails, interviewer names, or “applied / waiting / interview DATE” onto remote notes. See AGENTS.md § Process-safety.
 - Do not add new top-level folders unless explicitly planned.
 - Always prefer frontmatter + link updates over heavy prose changes.
 

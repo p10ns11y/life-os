@@ -57,6 +57,23 @@ Still refuse: unattended bank/email, vault `private/` commits, merging vault int
 
 **Private disk rule:** Public / remote notes are **pointers only** (e.g. “see `private/`”). Creditor names, amounts, phone/carrier ops, legal-name checks, referral details, and similar PII go in `private/` or `_private.*` — never in Dashboard, Areas, Projects cards, or tracked sessions.
 
+### Process-safety (hiring, cash, legal) — do not help anyone block the path
+
+Public git is readable by **anyone**. Do not publish facts that let a third party **interfere** with a live process (hiring, collectors, travel, family), even if they are not classic PII.
+
+**Never on remote** (`Dashboard`, `Areas/`, `Actions/` public cards, `Projects/**` sessions, `UI/Mission.md`, commit messages):
+
+- Live employer / ATS / job-id / posting URL / apply mailbox / interviewer
+- “Applied / thanks sent / still open / rejected / interview on DATE” tied to a named org
+- Pack slugs, portal “thanks page” brands, or collab-finder opp numbers
+- Anything a recruiter, another candidate, or a hostile reader could use to stall, spoof, or pre-empt the loop
+
+**Allowed on remote:** generic verbs only — “one pack submitted”, “next relevant apply”, “live intro: same-day reply”, “outcomes on `private/career/`”.
+
+**Local only:** `private/`, `_private.*`, `~/.grok/mission-maps/` (contacts, pipeline, JSON). Nightly `mm-lifeos-graph` must not copy company names or emails into `UI/Mission.md`.
+
+If unsure, **omit**. Prefer a pointer over a revealing sentence. This rule outranks “be helpful / be specific” on public surfaces.
+
 ## Agentic Workflow & Skills
 
 **Always load the skills library first** for non-trivial work.
