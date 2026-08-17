@@ -30,7 +30,7 @@ tags: [career]
 
 ## Review Log
 - 2026-08-17: Live intro still open (private). Do **not** wait — next tick is another relevant apply. Details `private/career/`.
-- 2026-08-17: Replan — S3 (next relevant apply) is **Do**. S0 is Wait + same-day reply. SE summer Wait bands widened. Sitting on inbox is off \(\hat{u}_G\).
+- 2026-08-17: Replan — this week's act is another relevant application. A live introduction is wait-and-reply-same-day. Sweden summer calendars are slow; sitting on inbox is off the path.
 - 2026-08-17: Confirmed S1 apply already logged [[Projects/collab-finder/sessions/2026-08-15-apply|2026-08-15 apply]].
 - 2026-08-15: External-portal application submitted (thanks page received). Employer / portal IDs on private disk only (`private/career/`).
 - 2026-08-15: Weekly review — Quest persist/restore shipped (branch); intro interview still awaiting next stage (private). See [[Reviews/weekly-2026-08-15]].

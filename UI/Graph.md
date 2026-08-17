@@ -2,7 +2,7 @@
 
 This page lists the **real projects** defined in the `Projects/` folder and provides a clear visual graph of their relevance and connections.
 
-See [[UI/Map]] for cluster definitions and [[UI/Dashboard]] for live prioritization.
+See [[UI/Map]] for cluster definitions, [[UI/Dashboard]] for live prioritization, and [[UI/Mission]] for the cash-path heading (plain-language next act, not S0/S1 codes).
 
 ## Real Projects (from Projects/ folder)
 
