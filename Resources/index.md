@@ -32,6 +32,7 @@ This file provides a central index, lookup, and references for assets stored in 
 
 | Title | Local Path | Source / Reference URL | Notes |
 |-------|------------|------------------------|-------|
+| Hiring posture — verify, not theater | [[hiring-posture]] | (operator preference; not on GitHub profile) | Warm-thread stance: one strong-dev talk or 1–2 week paid trial; market pay quote is a filter. Named threads stay `private/career/`. |
 | Arbetsförmedlingen — Support and programmes A–Z | [[Arbetsformedlingen-Support-A-Z]] | https://arbetsformedlingen.se/other-languages/english-engelska/additional-support/support-a-z | English catalogue of AF support/programmes; eligibility = individual assessment |
 
 ## Related
@@ -40,4 +41,4 @@ This file provides a central index, lookup, and references for assets stored in 
 - [[UI/Map]] — Overall project and resource mapping
 - Root [[README]] for vault overview
 
-Last updated: 2026-08-14 (economy X article draft)
+Last updated: 2026-08-17 (hiring posture moved from Areas/)

@@ -25,7 +25,7 @@ tags: [career]
 - Apply gate: **three** applications waiting on screens; **one specific role** at the frontier campaign is closed (other roles there may still fit — do not resend that title). Next tick: another relevant apply. Named threads: `private/` + `UI/_private.Mission`.
 - [[Projects/collab-finder/README|collab-finder]] — Quest persist/restore on `feat/quest-persist-restore`; land/PR then ACP analyze
 - [[Resources/Arbetsformedlingen-Support-A-Z|AF Support A–Z]] — English catalogue of AF programmes / extra support (eligibility = caseworker assessment)
-- [[Areas/hiring-posture|Hiring posture]] — verify via strongest-dev talk or 1–2 week paid trial; market pay quote is not a red flag. Not on the GitHub profile.
+- [[Resources/hiring-posture|Hiring posture]] — verify via strongest-dev talk or 1–2 week paid trial; market pay quote is not a red flag. Not on the GitHub profile.
 - Application / phone / employer outcomes: private disk only (`private/career/`) — never on remote
 - [[Projects/swedish-assimilation/README|swedish-assimilation]] — language slots (missed log last week)
 
