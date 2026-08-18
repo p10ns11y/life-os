@@ -8,9 +8,9 @@ area: "[[Career]]"
 cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/collab-finder
 weekly_energy_target: 2
-weekly_energy_logged: 6.0  # 2026-08-10→16: hunt #19/#20, Quest #21, apply artifacts #22
-next_action: "Dogfood apply workspace on next JD; analyze-via-agent still open. Outcomes stay on private disk."
-review_date: 2026-08-22
+weekly_energy_logged: 7.0  # +2026-08-18 durability ranker v1
+next_action: "Restart kanithanj.ai; Mission Pull then confirm Data shows mission_pull rows; click one card for local match. Outcomes private."
+review_date: 2026-08-25
 effort: high
 tags: [agentic, tauri, collab, job-tools, rust, react]
 ---
@@ -63,6 +63,8 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 
 ## Session log
 
+- [[Projects/collab-finder/sessions/2026-08-18|2026-08-18]] — Firm durability ranker v1 (public IR; SQLite snapshot; theatre-SaaS gated)
+- [[Projects/collab-finder/sessions/2026-08-17-heading-waybar|2026-08-17 heading]] — Waybar Apply → Heading (hydrate no longer steals Discover; hash + Meta+1)
 - [[Projects/collab-finder/sessions/2026-08-17|2026-08-17]] — S1 apply already Done; mission remaining = Wait + keep intro warm
 - [[Projects/collab-finder/sessions/2026-08-15-apply|2026-08-15 apply]] — external portal apply completed (public pointer)
 - [[Projects/collab-finder/sessions/2026-08-15|2026-08-15]] — Quest persist/restore + SQLite v8
