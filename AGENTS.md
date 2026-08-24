@@ -46,6 +46,7 @@ Still refuse: unattended bank/email, vault `private/` commits, merging vault int
 4. **Full frontmatter on every actionable** (type: project|area|task). Required keys (see schema): `type`, `status`, `importance` (1-4), `urgency` (1-4), `progress`, `area`, `next_action`, `review_date`, plus portfolio fields (`cluster`, `weekly_energy_target`, `weekly_energy_logged`) where relevant.
 5. **Eisenhower is primary**. `importance` + `urgency` drive quadrants in the Bases views. Never bypass by editing only the .base files.
 6. **Update on touch**. Bump `review_date`, `progress`, `next_action`, status as appropriate. Log energy where applicable.
+7. **Voice is the operator’s.** Do not write agent ranking onto Dashboard / Map / Mission as if it were the operator’s. Ask if in doubt. Rules: [[Kernel/agent-voice]].
 
 **Non-goals / protected** (do not touch without explicit request):
 - `Resources/Clippings/` content
@@ -144,7 +145,7 @@ Golden loop (inspired by premflow rules + skills):
 ## Editing This Vault
 
 - Prefer **frontmatter + link** changes over rewriting prose in project descriptions.
-- When you must edit body text, keep the original voice and intent.
+- When you must edit body text, keep the original voice and intent. Do not add parks, Do-nows, or “this week” lines the operator did not confirm ([[Kernel/agent-voice]]).
 - New projects/areas → use the templates.
 - After any area rename or mass frontmatter change: update `Kernel/schema.md`, `UI/Dashboard.md`, `UI/Welcome.md`, `UI/Map.md`, and the templates if they contain examples.
 - Commit message should explain *why* (mission alignment, energy, surplus), not just a file list.
@@ -161,7 +162,7 @@ This vault improves itself. Every time you use the skills to work inside it, you
 Load the skills. Respect the schema. Verify before you declare victory.
 
 ## Communication Rule for All Agents
-Never use abbreviations without first providing the full term. Always spell out the full form on first use (example: "Personal Knowledge Management (PKM)" instead of bare "PKM"). After the initial introduction, the abbreviation may be used sparingly if it improves readability without sacrificing clarity. This applies to all responses, notes, and edits.
+Never use abbreviations without first providing the full term. Always spell out the full form on first use (example: "Personal Knowledge Management (PKM)" instead of bare "PKM"). After the initial introduction, the abbreviation may be used sparingly if it improves readability without sacrificing clarity. This applies to all responses, notes, and edits. Do not put agent wording in the operator’s mouth; full voice rules: [[Kernel/agent-voice]].
 
 ## Project folder layout
 

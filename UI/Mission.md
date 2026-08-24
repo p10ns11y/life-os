@@ -19,7 +19,7 @@ Submit one relevant application this week — do not wait for replies. submit th
 Detailed named graph (this machine only, not on git): [[UI/_private.Mission]].
 Contact mail and posting URLs: `~/.grok/mission-maps/contacts.md`.
 
-**Updated:** 2026-08-25T00:31:34+0530  
+**Updated:** 2026-08-25T01:05:07+0530  
 **On the path?** **on-path**
 
 | | |
@@ -61,7 +61,6 @@ Plain language. No S0/S1 codes. Emails are local-only.
 | Skip roles on the wrong tech stack | parked | — | — |
 | Do not resend a closed process | parked | — | — |
 | Do not start a side project instead of applying | parked | — | — |
-| Do not spend this week on Grok Bot roster, mesh SKU, or clone stretch | parked | — | — |
 
 ## Graph
 
@@ -79,7 +78,6 @@ flowchart TB
   P1["Skip roles on the wrong tech stack (parked)"]
   P2["Do not resend a closed process (parked)"]
   P3["Do not start a side project instead of applying (parked)"]
-  P4["Do not spend this week on Grok Bot roster, mesh SKU, or clone stretch (parked)"]
   x --> S0
   x --> S1
   S1 --> S2
@@ -90,7 +88,6 @@ flowchart TB
   x -.->|"skip this week"| P1
   x -.->|"skip this week"| P2
   x -.->|"skip this week"| P3
-  x -.->|"skip this week"| P4
   S5 --> G
   classDef do fill:#1b4332,stroke:#95d5b2,color:#fff
   classDef wait fill:#1d3557,stroke:#a8dadc,color:#fff
@@ -100,7 +97,7 @@ flowchart TB
   class G goal
   class S3 do
   class S0,S4,S4b,S5 wait
-  class P1,P2,P3,P4 park
+  class P1,P2,P3 park
   class S1 done
 ```
 
