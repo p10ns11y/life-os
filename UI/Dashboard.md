@@ -1,29 +1,28 @@
 # Life Dashboard
 
-> Last reviewed: 2026-08-16 • **Run full matrix review weekly.** Use this as your primary launch point.
+> Last reviewed: 2026-08-25 • **Run full matrix review weekly.** Use this as your primary launch point.
 
-## Week card (2026-W33 → W34)
+## Week card (2026-W35)
 
-Detail: [[Reviews/weekly-2026-08-15]] · prior: [[Reviews/weekly-2026-08-10]] · heading: [[UI/Mission]] · ops: `private/` · `Archives/` is attic.
+Heading: [[UI/Mission]] · ops: `private/` · prior close: [[Reviews/weekly-2026-08-15]] · `Archives/` is attic.
 
-### Last week done (2026-08-10 → 08-16)
+### Carry-in (not done since W34)
 
-| Track | Shipped |
-|-------|---------|
-| Finance | Economy first-principles literacy; wealth-core S3 hybrid web ∥ iced (08-12) — **board/viz still 11-file dirty** |
-| Career / presence | collab-finder [#19](https://github.com/p10ns11y/collab-finder/pull/19)–[#22](https://github.com/p10ns11y/collab-finder/pull/22) (hunt, Quest persist, apply artifacts); devprofile [#73](https://github.com/p10ns11y/devprofile/pull/73)/[#74](https://github.com/p10ns11y/devprofile/pull/74) |
-| Agentic kernel | skills control-feeder + grok-host-prep; plugins [#5](https://github.com/p10ns11y/plugins/pull/5) eva tether + [#6](https://github.com/p10ns11y/plugins/pull/6) mission-map; grok-build local-grok + feed-filter docs |
-| Infra | ensembly hub spacemap (08-12); **arch-machine: no product commits** |
+- Named hire-loop Do (**one relevant apply**) missed the 17 Aug tick — still open. Live intro: no calendar, no reply after thanks; treat as dying unless they write.
+- Finance W34 leftover: one private invoice/portal check (20 min), then stop. Amounts stay on `private/finance/`.
+- wealth-core still **11-file dirty** (verified 25 Aug).
 
-### This week focus (2026-08-17 → 08-23)
+### This week focus (2026-08-24 → 08-30)
 
-1. **🔴 Finance spine** — private critical-path; then **commit or stash wealth-core dirty** (11 files).
-2. **🟢 Quest** — land `feat/quest-persist-restore`; dogfood restore-on-launch.
-3. **🟢 Swedish** — 20 min + 5-line diary ×3 **and log a session** (missed last week).
-4. **🟢 arch-machine** — checkout `sentinel`, pull (behind 1); treat untracked `.agents/` copies as noise.
-5. **⚪ Park** — thepulimaangani theni spike, ensembly stretch, new essays, spray / wrong-stack JDs. **Not parked:** one more relevant apply (Sweden summer is slow).
+1. **🔴 One relevant application this week** — due Fri 29 Aug. Live-check the posting on [Jobanni](https://jobanni.com) (direct company ATS, not a job-board copy), then submit once. Outcomes on `private/career/`.
+2. **🔴 Finance leftover (20 min)** — Kivra/portal check from W34; log; stop. Not a second spine week.
+3. **🟢 Swedish** — 20 min + 5-line diary ×3 **and log a session** (still unlogged).
+4. **🟢 wealth-core** — after the pack: commit a slice **or** stash. Do not let dirty stand in for cash.
+5. **⚪ Park** — Grok Bot roster, mesh SKU, ensembly stretch, theni spike, spray / wrong-stack JDs, extra nudge on the silent intro, resend of a closed process.
 
-**Capacity rule:** finance gates first. Career apply gate already cleared.
+**Capacity rule:** slot 2 (cash/career) owns the week. Family morning/evening blocks stay. Hiring hours ~8–12. Finance is one leftover act, not a new week plan.
+
+**Kernel (not a destiny date):** remaining chain typical \(t_e \approx 4.28\) weeks if existing screens move; p90 ~5.6. If those also die, a new apply starts a longer loop (\(t_e \approx 5.7\), p90 ~6.9). \(\Delta t_e = -0.10\) this replan (dying intro off the critical chain).
 
 ### Dirty now (code vs noise)
 

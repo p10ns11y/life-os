@@ -9,8 +9,8 @@ cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/collab-finder
 weekly_energy_target: 2
 weekly_energy_logged: 7.0  # +2026-08-18 durability ranker v1
-next_action: "Restart kanithanj.ai; Mission Pull then confirm Data shows mission_pull rows; click one card for local match. Outcomes private."
-review_date: 2026-08-25
+next_action: "Submit this week's relevant pack (due Fri 29). Outcomes private. CI/binary after the pack."
+review_date: 2026-09-01
 effort: high
 tags: [agentic, tauri, collab, job-tools, rust, react]
 ---
@@ -37,6 +37,7 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 - Employer outcomes / apply-phone: private disk only
 - Next: dogfood apply workspace; analyze-via-agent still open
 - **Not** XState adoption yet (MVU owns domain)
+- **Later (do not start now):** make collab-finder more configurable (boards, durability waves, places, launch) — remember, do not scope-creep the v0.2.0 tag
 
 ## Next Actions
 - See `next_action` frontmatter (dogfood full apply path)
@@ -63,6 +64,7 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 
 ## Session log
 
+- [[Projects/collab-finder/sessions/2026-08-19|2026-08-19]] — Agent context diet + verify SoT (`AGENTS.md` router; no phantom lint)
 - [[Projects/collab-finder/sessions/2026-08-18|2026-08-18]] — Firm durability ranker v1 (public IR; SQLite snapshot; theatre-SaaS gated)
 - [[Projects/collab-finder/sessions/2026-08-17-heading-waybar|2026-08-17 heading]] — Waybar Apply → Heading (hydrate no longer steals Discover; hash + Meta+1)
 - [[Projects/collab-finder/sessions/2026-08-17|2026-08-17]] — S1 apply already Done; mission remaining = Wait + keep intro warm

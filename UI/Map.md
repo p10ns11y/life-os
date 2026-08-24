@@ -28,6 +28,7 @@ Daily tools and self-auditing systems.
 - [[Projects/peram-vault/README|peram-vault]] — **local PQ vault SoT** + xAI Collections dry-run (code/path via private map; no public disk location)
 - [[Projects/shellyxz/README|shellyxz]] (https://github.com/p10ns11y/shellyxz.sh, `~/.config/shell`) · [[Projects/shellyxz/sessions/2026-07-15|2026-07-15]]
 - [[Projects/arch-machine/README|arch-machine]] — keeper #28+#33 · archy #29 · groxy #31+#32 · eye-comfort closed · [[Projects/arch-machine/sessions/2026-07-21|2026-07-21]]
+- [[Projects/mesh/README|mesh]] — local machine allowlist for untrusted agents (internals off this vault)
 - [[Projects/premflow/README|premflow]] — shared SoT · [[Projects/premflow/sessions/2026-07-15|2026-07-15]]
 - [[Projects/adaptate/README|adaptate]]
 - [[Projects/elomaxz/README|elomaxz]]
@@ -61,7 +62,7 @@ See Bases views in [[Kernel/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-08-16):** **finance spine** (private) + **wealth-core dirty slice** · dogfood collab-finder apply workspace (#19–#22 landed) · Swedish ×3 with a logged session · arch-machine back to `sentinel` (quiet week). Park: theni spike · ensembly stretch · new essays. See [[UI/Dashboard]] · [[Reviews/weekly-2026-08-15]].
+**Current focus (2026-08-25, W35):** **one relevant apply** (due Fri 29) · 20 min finance leftover on `private/` · Swedish ×3 with a logged session · wealth-core commit-or-stash *after* the pack. Park: Grok Bot roster · mesh SKU · ensembly stretch · theni. See [[UI/Dashboard]] · [[UI/Mission]].
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]
