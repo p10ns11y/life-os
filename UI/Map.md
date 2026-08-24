@@ -62,7 +62,7 @@ See Bases views in [[Kernel/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-08-25, W35):** **one relevant apply** (due Fri 29) · 20 min finance leftover on `private/` · Swedish ×3 with a logged session · wealth-core commit-or-stash *after* the pack. Park: Grok Bot roster · mesh SKU · ensembly stretch · theni. See [[UI/Dashboard]] · [[UI/Mission]].
+**Current focus (2026-08-25, W35):** **one relevant apply** (due Fri 29) · 20 min finance leftover on `private/` · Swedish ×3 with a logged session · wealth-core commit-or-stash *after* the pack. See [[UI/Dashboard]] · [[UI/Mission]].
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]

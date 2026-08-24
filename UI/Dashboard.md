@@ -18,7 +18,7 @@ Heading: [[UI/Mission]] · ops: `private/` · prior close: [[Reviews/weekly-2026
 2. **🔴 Finance leftover (20 min)** — Kivra/portal check from W34; log; stop. Not a second spine week.
 3. **🟢 Swedish** — 20 min + 5-line diary ×3 **and log a session** (still unlogged).
 4. **🟢 wealth-core** — after the pack: commit a slice **or** stash. Do not let dirty stand in for cash.
-5. **⚪ Park** — Grok Bot roster, mesh SKU, ensembly stretch, theni spike, spray / wrong-stack JDs, extra nudge on the silent intro, resend of a closed process.
+5. **⚪ Park** — spray / wrong-stack JDs, resend of a closed process, theni spike.
 
 **Capacity rule:** slot 2 (cash/career) owns the week. Family morning/evening blocks stay. Hiring hours ~8–12. Finance is one leftover act, not a new week plan.
 
