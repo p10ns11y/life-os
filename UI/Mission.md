@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-08-17
+review_date: 2026-08-25
 ---
 
 # Mission heading
@@ -14,12 +14,12 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 
 **Do this now:** Submit one relevant application this week — do not wait for replies
 
-Submit one relevant application this week — do not wait for replies. submit this week's pack (2026-08-17). Also: Reply the same day if a live introduction writes — nudge if silent 2026-08-20.
+Submit one relevant application this week — do not wait for replies. submit this week's pack (ready sitting) (2026-08-29). Also: Same-day reply if the live introduction writes — do not chase; treat as dying unless they write — same-day reply only if they write — no extra nudge.
 
 Detailed named graph (this machine only, not on git): [[UI/_private.Mission]].
 Contact mail and posting URLs: `~/.grok/mission-maps/contacts.md`.
 
-**Updated:** 2026-08-17T18:54:14+0530  
+**Updated:** 2026-08-25T00:31:34+0530  
 **On the path?** **on-path**
 
 | | |
@@ -28,10 +28,10 @@ Contact mail and posting URLs: `~/.grok/mission-maps/contacts.md`.
 | **Do this now** | Submit one relevant application this week — do not wait for replies |
 | **Live thread (intro already happened)** | 4.38 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
-| **Longest remaining chain** | 4.383333 weeks (kernel; not a destiny date) |
+| **Longest remaining chain** | 4.283333 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
-| **This tick cosθ** | 0.4 |
-| **This tick did** | hire-loop presentation (public profile, downloadable cockpit, heading skill) |
+| **This tick cosθ** | 0.0 |
+| **This tick did** | replan after ghost signpost (inbox+calendar empty of next-round) |
 | **Named Do (still)** | one relevant application this week |
 
 This week's act is on the path to a start date.
@@ -39,11 +39,11 @@ This week's act is on the path to a start date.
 
 ## How to push
 
-Do not sit on a live introduction. A started Swedish process that is dying usually goes quiet within about one week — that is not a twelve-week wait. Keep shipping one relevant application per week until a calendar is booked.
+Keep shipping one relevant application per week until a calendar is booked. Same-day reply if a live introduction writes. Do not chase after ~1 week of silence — that is not a twelve-week wait. Drop extra applies only the day a calendar lands.
 
 ## How long (Sweden rounds)
 
-Sweden SWE hiring (late August, people back from leave) is usually 3–4 rounds: intro (done on the live thread) → technical (about 0.5–2 weeks to schedule and sit) → team or hiring manager (about 0.5–2 weeks) → offer and start. Unemployed start is often 1–4 weeks, not a 3-month notice. Headline remaining time is the live thread, not a new application stacked in front of interviews.
+Sweden SWE hiring (late August). Live intro was done; no calendar and no reply after thanks (14 Aug). Ghost signpost (silent ~1 week / no slot by 20 Aug) fired — treat that thread as dying unless they write. Remaining Wait chain is screens already sent → technical → team → start if they move. A new apply is parallel insurance and this week's Do; it is not stacked in front of a live interview. Unemployed start is often 1–4 weeks, not a 3-month notice.
 
 ## Stages
 
@@ -51,16 +51,17 @@ Plain language. No S0/S1 codes. Emails are local-only.
 
 | What | Status | Next follow-up | When |
 |------|--------|----------------|------|
-| Reply the same day if a live introduction writes | waiting on them | nudge if silent | 2026-08-20 |
-| Three applications waiting on screens; one specific role closed (other roles there may still fit) | already done | do not resend the closed req; await the other three | — |
+| Same-day reply if the live introduction writes — do not chase; treat as dying unless they write | waiting on them | same-day reply only if they write — no extra nudge | — |
+| Three applications waiting on screens; one specific role closed (other roles there may still fit) | already done | await screen (submitted) | — |
 | Watch other frontier IC roles — not the closed title; better fit may exist | later / stretch | only new postings that match agents/infra; never resend the closed req | — |
-| Submit one relevant application this week — do not wait for replies | do now | submit this week's pack | 2026-08-17 |
-| Technical round — usually 3–10 days to book if they are moving; dead if silent ~1 week | waiting on them | if no slot by 20 Aug, treat this thread as dying | — |
+| Submit one relevant application this week — do not wait for replies | do now | submit this week's pack (ready sitting) | 2026-08-29 |
+| Technical round — usually 3–10 days to book if they are moving; dead if silent ~1 week | waiting on them | if a screen books, show up that day; if still silent by 29 Aug, treat remaining screens as dying too | — |
 | Team or hiring-manager round (typical Swedish SWE loop) | waiting on them | — | — |
 | Offer and start — unemployed, no long notice period | waiting on them | — | — |
 | Skip roles on the wrong tech stack | parked | — | — |
 | Do not resend a closed process | parked | — | — |
 | Do not start a side project instead of applying | parked | — | — |
+| Do not spend this week on Grok Bot roster, mesh SKU, or clone stretch | parked | — | — |
 
 ## Graph
 
@@ -68,7 +69,7 @@ Plain language. No S0/S1 codes. Emails are local-only.
 flowchart TB
   x["Where you are"]
   G["Arrive: started a decent Sweden/Nordics/EU full-time role"]
-  S0["Reply the same day if a live introduction writes (waiting on them)"]
+  S0["Same-day reply if the live introduction writes — do not chase; treat as dying unless they write (waiting on them)"]
   S1["Three applications waiting on screens; one specific role closed (other roles there may still fit) (already done)"]
   S2["Watch other frontier IC roles — not the closed title; better fit may exist (later / stretch)"]
   S3["Submit one relevant application this week — do not wait for replies (do now)"]
@@ -78,17 +79,18 @@ flowchart TB
   P1["Skip roles on the wrong tech stack (parked)"]
   P2["Do not resend a closed process (parked)"]
   P3["Do not start a side project instead of applying (parked)"]
+  P4["Do not spend this week on Grok Bot roster, mesh SKU, or clone stretch (parked)"]
   x --> S0
   x --> S1
   S1 --> S2
   S1 --> S3
-  S0 -->|"toward start"| S4
-  S1 --> S4
+  S1 -->|"toward start"| S4
   S4 -->|"toward start"| S4b
   S4b -->|"toward start"| S5
   x -.->|"skip this week"| P1
   x -.->|"skip this week"| P2
   x -.->|"skip this week"| P3
+  x -.->|"skip this week"| P4
   S5 --> G
   classDef do fill:#1b4332,stroke:#95d5b2,color:#fff
   classDef wait fill:#1d3557,stroke:#a8dadc,color:#fff
@@ -98,7 +100,7 @@ flowchart TB
   class G goal
   class S3 do
   class S0,S4,S4b,S5 wait
-  class P1,P2,P3 park
+  class P1,P2,P3,P4 park
   class S1 done
 ```
 
