@@ -1,26 +1,30 @@
 # Life Dashboard
 
-> Last reviewed: 2026-08-25 • **Run full matrix review weekly.** Use this as your primary launch point.
+> Last reviewed: 2026-08-28 • **Run full matrix review weekly.** Use this as your primary launch point.
 
-## Week card (2026-W35)
+## Week card (2026-W35) — last day Fri 29 Aug
 
 Heading: [[UI/Mission]] · ops: `private/` · prior close: [[Reviews/weekly-2026-08-15]] · `Archives/` is attic.
 
+Operator plan for **tomorrow (Fri 29)** — named sitting: `private/career/2026-08-29-tomorrow.md`.
+
 ### Carry-in (not done since W34)
 
-- Named hire-loop Do (**one relevant apply**) missed the 17 Aug tick — still open. Live intro: no calendar, no reply after thanks; treat as dying unless they write.
+- Hire-loop Do still open (week apply not confirmed submitted). Live intro: no calendar, no reply after thanks; treat as dying unless they write.
 - Finance W34 leftover: one private invoice/portal check (20 min), then stop. Amounts stay on `private/finance/`.
 - wealth-core still **11-file dirty** (verified 25 Aug).
 
-### This week focus (2026-08-24 → 08-30)
+### Tomorrow sequence (2026-08-29)
 
-1. **🔴 One relevant application this week** — due Fri 29 Aug. Live-check the posting on [Jobanni](https://jobanni.com) (direct company ATS, not a job-board copy), then submit once. Outcomes on `private/career/`.
-2. **🔴 Finance leftover (20 min)** — Kivra/portal check from W34; log; stop. Not a second spine week.
-3. **🟢 Swedish** — 20 min + 5-line diary ×3 **and log a session** (still unlogged).
-4. **🟢 wealth-core** — after the pack: commit a slice **or** stash. Do not let dirty stand in for cash.
-5. **⚪ Park** — spray / wrong-stack JDs, resend of a closed process, theni spike.
+1. **🔴 2–3 relevant applies** — live-check on [Jobanni](https://jobanni.com) (direct ATS), then submit. Cap 2–3, not spray. Outcomes on `private/career/`. Same-day reply **only if** the intro writes.
+2. **🔴 Sweden return checklist** — public card [[Actions/sweden-return-flight-2026-09]]; passport/name fields stay `private/travel/`. Fly date 18 Sep.
+3. **🟡 One Grok Bot** — iPhone HITL; hire-loop drafts only; you still submit. Playbook `private/grok-bot-setup.md`.
+4. **🟢 Swedish** — 20 min + 5-line diary ×3 **and log a session** (still unlogged).
+5. **⚪ Park** — spray / wrong-stack JDs, resend of a closed process, mesh SKU, extra Bots, theni spike.
 
-**Capacity rule:** slot 2 (cash/career) owns the week. Family morning/evening blocks stay. Hiring hours ~8–12. Finance is one leftover act, not a new week plan.
+**Capacity rule:** slot 2 (cash/career) owns the morning. Family morning/evening blocks stay. Hiring hours ~8–12. Travel list after thanks pages. Bot is evening, not a substitute for submit.
+
+**AI vs Sweden:** country still runs; SWE **funnel** is distorted (juniors / generic IC / ATS volume). Evidence: [[Resources/ai-hiring-sweden]]. Do not wait for an “AI recovery.”
 
 **Kernel (not a destiny date):** remaining chain typical \(t_e \approx 4.28\) weeks if existing screens move; p90 ~5.6. If those also die, a new apply starts a longer loop (\(t_e \approx 5.7\), p90 ~6.9). \(\Delta t_e = -0.10\) this replan (dying intro off the critical chain).
 

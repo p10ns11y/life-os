@@ -5,7 +5,7 @@ importance: 3
 urgency: 2
 area: "[[Career]]"
 tags: [career, hiring]
-review_date: 2026-08-24
+review_date: 2026-08-29
 ---
 
 # Hiring posture
@@ -27,8 +27,12 @@ Quoting a number from **public salary statistics** is normal. A company that fli
 
 ## How this sits on the map
 
-- **Do:** still ship the next relevant apply (the named tick).
+- **Do:** still ship the next relevant apply (this sitting: 2–3, not spray).
 - **When they write:** offer the short paid trial *if* the product is small enough. Do not demand they skip process at SpaceXAI-scale.
 - **Park:** arguing with HR on LinkedIn about checklists.
 
 Named threads and numbers stay on `private/career/`.
+
+## AI vs the Swedish funnel (2026)
+
+Sweden the country still runs. The SWE **process** is noisier: more AI-written applications, slower replies, fewer no-experience openings in exposed occupations, employers asking for specialists who can ship with AI. Country-level employment is not gone. Evidence and sources: [[ai-hiring-sweden]]. Apply as a specialist; do not sit out waiting for a recovery.
