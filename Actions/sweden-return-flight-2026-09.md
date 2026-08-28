@@ -6,8 +6,8 @@ urgency: 4
 progress: 70
 area: "[[Relationships]]"
 due: 2026-09-18
-next_action: "Confirm infant surname on e-ticket same day; bassinet only if still ≤11 kg on the adult file."
-review_date: 2026-08-17
+next_action: "Fri 29: write/confirm the return checklist (infant surname on e-ticket; bassinet on adult file if still ≤11 kg). Names stay private."
+review_date: 2026-08-29
 effort: medium
 tags: [travel, sweden, family, qatar, infant]
 ---
@@ -39,7 +39,12 @@ Two booking codes. A remark says they travel together. Check-in, delays, bassine
 ## Open
 
 - [x] Qatar booked for self + wife + son (17 Aug 2026)
-- [ ] Read infant **surname** on the e-ticket the same day (verify)
+- [ ] Read infant **surname** on the e-ticket (still open — do this Fri 29)
 - [ ] Bassinet only if still ≤11 kg; request on the **adult** file
+- [ ] APIS / online check-in window (typically 24–48h before)
+- [ ] Documents pouch (passports + tickets + insurance) — no strings on this card
+- [ ] Cabin / layover: stroller gate-check, food, battery; car-seat decision
+
+Fri 29 sitting (named list): `private/travel/2026-08-29-sweden-return-checklist.md`.
 
 Related: [[Projects/swedish-assimilation/README|swedish-assimilation]] (after arrival) · [[UX/focus-now]] slot 1 Sweden window.
