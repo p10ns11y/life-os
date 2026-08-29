@@ -72,6 +72,7 @@ The result is lightweight, decision-focused, and explicitly built to support age
 - [[Kernel/schema]]
 - [[AGENTS.md]]
 - [[Resources/index]] — Index and references for assets (whitepapers, techpapers, etc.)
+- [[Resources/operator-public-signal]] — public GitHub / GitRoll self-read (not ATS copy) · [profile README](https://github.com/p10ns11y/p10ns11y)
 - GitHub: https://github.com/p10ns11y/life-os
 
 ## ensembly (digital clone — not this vault)

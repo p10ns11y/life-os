@@ -47,7 +47,7 @@ Sweden “functioning as usual” and “SWE hiring feels broken” can both be 
 ## How to apply (operator)
 
 - Frame: **domain + systems + agents/infra**, not junior CRUD.
-- Live-check on Jobanni (direct ATS), then submit. Outcomes on `private/career/`.
+- Live-check the employer’s own apply form, then submit. Outcomes on `private/career/`.
 - Same-day reply if a live intro writes. Do not chase a week of silence.
 
 ## Sources (public)
