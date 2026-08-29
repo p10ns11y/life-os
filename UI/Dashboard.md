@@ -1,6 +1,6 @@
 # Life Dashboard
 
-> Last reviewed: 2026-08-28 • **Run full matrix review weekly.** Use this as your primary launch point.
+> Last reviewed: 2026-08-29 • **Run full matrix review weekly.** Use this as your primary launch point.
 
 ## Week card (2026-W35) — last day Fri 29 Aug
 
@@ -16,7 +16,7 @@ Operator plan for **tomorrow (Fri 29)** — named sitting: `private/career/2026-
 
 ### Tomorrow sequence (2026-08-29)
 
-1. **🔴 2–3 relevant applies** — live-check on [Jobanni](https://jobanni.com) (direct ATS), then submit. Cap 2–3, not spray. Outcomes on `private/career/`. Same-day reply **only if** the intro writes.
+1. **🔴 4 cash-first Sweden IC applies** — honest TS/React; stretch/xAI parked. Cap **4**, not spray. Outcomes on `private/career/`. Same-day reply **only if** the intro writes.
 2. **🔴 Sweden return checklist** — public card [[Actions/sweden-return-flight-2026-09]]; passport/name fields stay `private/travel/`. Fly date 18 Sep.
 3. **🟡 One Grok Bot** — iPhone HITL; hire-loop drafts only; you still submit. Playbook `private/grok-bot-setup.md`.
 4. **🟢 Swedish** — 20 min + 5-line diary ×3 **and log a session** (still unlogged).

@@ -9,7 +9,7 @@ cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/collab-finder
 weekly_energy_target: 2
 weekly_energy_logged: 7.0  # +2026-08-18 durability ranker v1
-next_action: "Fri 29: live-check then 2–3 submits. Outcomes private. CI/binary after the sitting."
+next_action: "Fri 29 cash-first: send 4 Sweden honest TS/React roles. Stretch/xAI parked. Outcomes private."
 review_date: 2026-09-01
 effort: high
 tags: [agentic, tauri, collab, job-tools, rust, react]

@@ -12,34 +12,34 @@ review_date: 2026-08-29
 
 Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b overwrite.
 
-**Do this now:** Submit 2–3 relevant applications (Fri 29) — do not wait for replies
+**Do this now:** Submit 4 cash-first Sweden IC applications (Fri 29) — do not wait for replies
 
-Operator sitting: 2–3 live applies, then Sweden-return checklist, then one Grok Bot for hire-loop drafts. Same-day reply if the live introduction writes — do not chase; treat as dying unless they write. Named sitting: `private/career/2026-08-29-tomorrow.md`.
+Operator sitting: 4 Sweden TS/React IC applies; stretch parked. Same-day reply if the live introduction writes — do not chase. Named sitting: `private/career/` only.
 
 Detailed named graph (this machine only, not on git): [[UI/_private.Mission]].
 Contact mail and posting URLs: `~/.grok/mission-maps/contacts.md`.
 
-**Updated:** 2026-08-28  
+**Updated:** 2026-08-29  
 **On the path?** **on-path**
 
 | | |
 |--|--|
 | **Arrive when** | started a decent Sweden/Nordics/EU full-time role |
-| **Do this now** | Submit 2–3 relevant applications (Fri 29) — do not wait for replies |
+| **Do this now** | Submit 4 cash-first Sweden IC applications (Fri 29) — do not wait for replies |
 | **Live thread (intro already happened)** | 4.38 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
 | **Longest remaining chain** | 4.283333 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 | **This tick cosθ** | 0.0 |
-| **This tick did** | operator plan for Fri 29: 2–3 applies + travel list + one Bot |
-| **Named Do (still)** | 2–3 relevant applications this week |
+| **This tick did** | sitting replan: 4 cash-first Sweden IC; stretch parked |
+| **Named Do (still)** | 4 cash-first Sweden IC applications this sitting |
 
 This week's act is on the path to a start date.
 
 
 ## How to push
 
-Keep shipping relevant applications until a calendar is booked (this sitting: 2–3, not spray). Same-day reply if a live introduction writes. Do not chase after ~1 week of silence — that is not a twelve-week wait. Drop extra applies only the day a calendar lands. Sweden still functions; the SWE funnel is distorted — [[Resources/ai-hiring-sweden]]. Do not wait for an AI recovery.
+Keep shipping relevant applications until a calendar is booked (this sitting: 4 cash-first Sweden IC, not spray). Same-day reply if a live introduction writes. Do not chase after ~1 week of silence — that is not a twelve-week wait. Drop extra applies only the day a calendar lands. Sweden still functions; the SWE funnel is distorted — [[Resources/ai-hiring-sweden]]. Do not wait for an AI recovery.
 
 ## How long (Sweden rounds)
 
@@ -54,7 +54,7 @@ Plain language. No S0/S1 codes. Emails are local-only.
 | Same-day reply if the live introduction writes — do not chase; treat as dying unless they write | waiting on them | same-day reply only if they write — no extra nudge | — |
 | Three applications waiting on screens; one specific role closed (other roles there may still fit) | already done | await screen (submitted) | — |
 | Watch other frontier IC roles — not the closed title; better fit may exist | later / stretch | only new postings that match agents/infra; never resend the closed req | — |
-| Submit 2–3 relevant applications this week — do not wait for replies | do now | live-check then submit (sitting) | 2026-08-29 |
+| Submit 4 cash-first Sweden IC applications this sitting — do not wait for replies | do now | live-check then submit (sitting) | 2026-08-29 |
 | Technical round — usually 3–10 days to book if they are moving; dead if silent ~1 week | waiting on them | if a screen books, show up that day; if still silent by 29 Aug, treat remaining screens as dying too | — |
 | Team or hiring-manager round (typical Swedish SWE loop) | waiting on them | — | — |
 | Offer and start — unemployed, no long notice period | waiting on them | — | — |
@@ -71,7 +71,7 @@ flowchart TB
   S0["Same-day reply if the live introduction writes — do not chase; treat as dying unless they write (waiting on them)"]
   S1["Three applications waiting on screens; one specific role closed (other roles there may still fit) (already done)"]
   S2["Watch other frontier IC roles — not the closed title; better fit may exist (later / stretch)"]
-  S3["Submit 2–3 relevant applications this week — do not wait for replies (do now)"]
+  S3["Submit 4 cash-first Sweden IC applications this sitting — do not wait for replies (do now)"]
   S4["Technical round — usually 3–10 days to book if they are moving; dead if silent ~1 week (waiting on them)"]
   S4b["Team or hiring-manager round (typical Swedish SWE loop) (waiting on them)"]
   S5["Offer and start — unemployed, no long notice period (waiting on them)"]
