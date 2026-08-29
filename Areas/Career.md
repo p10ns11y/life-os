@@ -6,6 +6,11 @@ urgency: 3
 progress: 74
 review_date: 2026-08-29
 tags: [career]
+# pulse-memory (admitted sitting — not a dump)
+hint_time: 2026-08-29
+hint_status: user-stated
+hint_kind: memory
+hint_lock: open
 ---
 
 # Career
@@ -22,16 +27,19 @@ tags: [career]
 
 **Current Focus / Active Items**:
 - [[Actions/SpaceXAI-and-Tesla|SpaceXAI]] — target campaign; **outcomes private** (`private/career/`)
-- Apply gate: screens already sent; **one specific role** at the frontier campaign is closed (do not resend that title). **Fri 29:** 2–3 relevant applies (operator), then travel list, then one Grok Bot. Named threads: `private/` + `UI/_private.Mission`.
+- Apply gate: screens already sent; **one specific role** at the frontier campaign is closed (do not resend that title). **Fri 29 sitting:** 4 cash-first Sweden IC submits; stretch/xAI parked. Details `private/career/`. Named threads: `private/` + `UI/_private.Mission`.
 - Sweden still functions; SWE **hiring funnel** is distorted (volume, junior squeeze, experience premium) — [[Resources/ai-hiring-sweden]]. Do not wait for an AI recovery.
 - [[Projects/collab-finder/README|collab-finder]] — Quest persist/restore on `feat/quest-persist-restore`; land/PR then ACP analyze
 - [[Resources/Arbetsformedlingen-Support-A-Z|AF Support A–Z]] — English catalogue of AF programmes / extra support (eligibility = caseworker assessment)
 - [[Resources/hiring-posture|Hiring posture]] — verify via strongest-dev talk or 1–2 week paid trial; market pay quote is not a red flag. Not on the GitHub profile.
+- [[Resources/sweden-career-breaks|Career breaks]] — types, statutes, recruiter practice (generic). Short lucka: [[Resources/sweden-sabbatical-cv]]. Operator frame: `private/career/` only.
 - Application / phone / employer outcomes: private disk only (`private/career/`) — never on remote
 - [[Projects/swedish-assimilation/README|swedish-assimilation]] — language slots (missed log last week)
 
 ## Review Log
-- 2026-08-28: Operator plan for Fri 29 — 2–3 applies, Sweden-return checklist, one Grok Bot (hire-loop drafts; HITL submit). AI disruption note filed [[Resources/ai-hiring-sweden]]. Sitting `private/career/2026-08-29-tomorrow.md`.
+- 2026-08-29: pulse-memory — sitting **4 cash-first Sweden IC** (supersedes 2–3 / 10-mix). Stretch parked. Public SoT: this card + [[UI/Dashboard]] + [[UI/Map]]. Details `private/career/`.
+- 2026-08-29: Sweden lucka practice (generic) [[Resources/sweden-sabbatical-cv]]. Operator frame private.
+- 2026-08-28: *(archive)* Operator plan was 2–3 applies — **superseded** 29 Aug. Sitting `private/career/` only.
 - 2026-08-17: Live intro still open (private). Do **not** wait — next tick is another relevant apply. Details `private/career/`.
 - 2026-08-17: Replan — this week's act is another relevant application. A live introduction is wait-and-reply-same-day. Sweden summer calendars are slow; sitting on inbox is off the path.
 - 2026-08-17: Confirmed S1 apply already logged [[Projects/collab-finder/sessions/2026-08-15-apply|2026-08-15 apply]].

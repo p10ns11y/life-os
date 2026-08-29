@@ -6,6 +6,10 @@ urgency: 2
 area: "[[Career]]"
 tags: [career, hiring]
 review_date: 2026-08-29
+hint_time: 2026-08-29
+hint_status: user-stated
+hint_kind: memory
+hint_lock: open
 ---
 
 # Hiring posture
@@ -27,7 +31,7 @@ Quoting a number from **public salary statistics** is normal. A company that fli
 
 ## How this sits on the map
 
-- **Do:** still ship the next relevant apply (this sitting: 2–3, not spray).
+- **Do:** still ship the next relevant apply (this sitting: 4 cash-first Sweden IC, not spray). Generic lucka practice: [[sweden-sabbatical-cv]]. Operator letter frame: `private/career/` only.
 - **When they write:** offer the short paid trial *if* the product is small enough. Do not demand they skip process at SpaceXAI-scale.
 - **Park:** arguing with HR on LinkedIn about checklists.
 
