@@ -48,8 +48,6 @@ Use the English column in English-language ATS. Keep the Swedish word in parenth
 | Försäkringskassan (FK) | **Social Insurance Agency** | |
 | tillsvidare vs lucka | You want a **permanent IC role**; the unpaid interval is an **employment gap** you label, not leave of absence | |
 
-English letter: “employment gap for family care and independent product work” + “available for a permanent senior fullstack role.”
-
 Two layers always:
 
 1. **Law** — what you may demand from an *existing* employer, and what a *hiring* employer may not use as a reason to reject you.
@@ -70,7 +68,7 @@ A long unpaid interval **after you already left a job** is usually **not** tjän
 | **Närståendevård** | Lag (1988:1465); SFB 47 kap. | Yes while entitled to närståendepenning. | FK. | Treated like family care. Name it briefly. |
 | **Sickness** | Sjuklönelagen + SFB sjukpenning | Employed: sjuklön then FK. | SGI-based. | Health is private. “Sjukskrivning, now fit” if asked. No diagnosis in a letter. |
 | **Redundancy / uppsägning arbetsbrist** | LAS (1982:80) sakliga skäl | Notice by tenure (1–6 months). | A-kassa if member + villkor; TRR/omställning if kollektivavtal. | Ordinary. Do not apologize. |
-| **Quit (egen uppsägning)** | LAS | You may quit. | A-kassa: typically **45 days avstängning** + karens (you caused the unemployment). | Recruiter asks *why*. One sentence: family + product work, not “the job was beneath me.” |
+| **Quit (egen uppsägning)** | LAS | You may quit. | A-kassa: typically **45 days avstängning** + karens (you caused the unemployment). | Recruiter asks *why*. One true sentence; do not insult the last job. |
 | **Unemployment / job search** | ALF / a-kasseregler (inkomstvillkor tightened Oct 2025) | N/A | **A-kassa is insurance**, not socialbidrag. Member 12 months for income-related; inkomstvillkor (Unionen 2026: ≥120 k in ramtid and ≥11 k/mo in ≥4 months). Karens (Unionen: 2 days; some guides still say 6 — **ask your kassa**). Max ~300 days then AF programme. | Completely normal. Using it is not a stain. |
 | **Försörjningsstöd** (ekonomiskt bistånd) | Socialtjänstlagen 4 kap. | N/A | Last-resort municipal aid. Must exhaust other benefits, savings; AF registration; from 1 Jul 2026 **aktivitetskrav** in many kommuner. | Different from a-kassa. Not a CV topic unless asked. |
 | **Independent building (already left the job)** | No leave statute | You are not “on leave.” You are between jobs or self-employed. | Savings, contract, or nothing. Company + a-kassa: you usually **cannot** take a-kassa while the firm is your main occupation (Unionen: no stacking). | **This is the one that needs proof.** Recruiter cannot see your belief. They can see GitHub, a shipped binary, users. |
@@ -79,8 +77,8 @@ Shorter than 3 months: rarely a CV paragraph. Longer than ~6 months: 2–3 hones
 
 ## What the law does *not* do
 
-- It does **not** force a new employer to prefer a parent, a builder, or someone who declined benefits.
-- Diskrimineringslagen (2008:567) lists sex, ethnicity, religion, disability, sexual orientation, gender identity, **age** — not “took a long unpaid gap” and not “refused a-kassa.”
+- It does **not** force a new employer to prefer a parent or a self-funded builder.
+- Diskrimineringslagen (2008:567) lists sex, ethnicity, religion, disability, sexual orientation, gender identity, **age** — not “took a long unpaid gap.”
 - Föräldraledighetslagen **does** protect **applicants** against missgynnande *tied to parental leave*. A correspondence test still found a large interview penalty when leave was *signalled*.
 - A functional CV (skills-first) is allowed in Sweden (GU job-seeker guide) if chronology is messy. Chronological + one labelled row is more common for seniors.
 
@@ -99,14 +97,13 @@ Shorter than 3 months: rarely a CV paragraph. Longer than ~6 months: 2–3 hones
 
 They do not score virtue. They score:
 
-1. Can this person ship **our** stack in 90 days? (TS/React/fullstack for this sitting.)
+1. Can this person ship **our** stack in 90 days?
 2. Is there **public technical signal in the last 60–90 days**?
 3. Will they vanish into another year of “building”?
 4. Age/parental-leave bias (illegal; still present).
 
-**Proof beats narrative.** Shipped product, GitHub cadence, a live app used for real work > “I stayed current with AI.”  
-**Catalogue of 70 repos** < **one product they can click.**
+**Proof beats narrative.** Shipped product, GitHub cadence, a live app used for real work > “I stayed current with AI.” One product they can click beats a long repository catalogue.
 
-Do **not** lead a letter with: I took personal financial risk; I avoided state systems; I believed a long break would help. That sounds like a manifesto. It is true for *you*; it is not a hiring criterion. Put it, if at all, in one clause: family care + independent products, GitHub is the ledger.
+Operator letter line and household frame: `private/career/` only.
 
 Related: [[sweden-sabbatical-cv]] (short) · [[ai-hiring-sweden]] · [[hiring-posture]] · [[Arbetsformedlingen-Support-A-Z]].

@@ -32,9 +32,10 @@ hint_lock: open
 - [[Projects/collab-finder/README|collab-finder]] — Quest persist/restore on `feat/quest-persist-restore`; land/PR then ACP analyze
 - [[Resources/Arbetsformedlingen-Support-A-Z|AF Support A–Z]] — English catalogue of AF programmes / extra support (eligibility = caseworker assessment)
 - [[Resources/hiring-posture|Hiring posture]] — verify via strongest-dev talk or 1–2 week paid trial; market pay quote is not a red flag. Not on the GitHub profile.
+- [[Resources/operator-public-signal|Public signal]] — evidence-tagged self-read (GitHub, GitRoll-as-context, X). Not ATS copy. Ledger: [profile README](https://github.com/p10ns11y/p10ns11y).
 - [[Resources/sweden-career-breaks|Career breaks]] — types, statutes, recruiter practice (generic). Short lucka: [[Resources/sweden-sabbatical-cv]]. Operator frame: `private/career/` only.
 - Application / phone / employer outcomes: private disk only (`private/career/`) — never on remote
-- [[Projects/swedish-assimilation/README|swedish-assimilation]] — language slots (missed log last week)
+- [[Projects/swedish-assimilation/README|swedish-assimilation]] — language slots (missed log last week). Culture refs live on that project (not `private/career/`).
 
 ## Review Log
 - 2026-08-29: pulse-memory — sitting **4 cash-first Sweden IC** (supersedes 2–3 / 10-mix). Stretch parked. Public SoT: this card + [[UI/Dashboard]] + [[UI/Map]]. Details `private/career/`.

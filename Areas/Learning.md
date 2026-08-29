@@ -23,7 +23,7 @@ tags: [learning]
 **Current Focus / Active Projects**:
 - [[Projects/cultural-integration/three-cultures-coaching|Three fields, one sovereignty]] — Tamil × Sweden × America coaching (freedom without forced acting)
 - [[Projects/cultural-integration/README|cultural-integration]] — hub
-- [[Projects/swedish-assimilation/README|swedish-assimilation]] — Swedish read/speech/write + culture/history → integration
+- [[Projects/swedish-assimilation/README|swedish-assimilation]] — Swedish read/speech/write + culture/history → integration · [[Projects/swedish-assimilation/founders-payroll|founders-payroll]] · [[Projects/swedish-assimilation/sweden-speech-labour-codes|speech/labour codes]]
 - [[Projects/america-move-prep/README|america-move-prep]] — US move prep (communication, civics/culture, practical checklist)
 - [[Projects/skills/README|skills]]
 - [[Projects/prototype-it-to-explain-itself/README|prototype-it-to-explain-itself]]
@@ -31,6 +31,7 @@ tags: [learning]
 - [[Resources/economy-first-principles]] — economy / market-cap / geopolitics / digital-money synthesis (Finance-primary)
 
 ## Review Log
+- 2026-08-29: swedish-assimilation culture refs (founders-payroll, speech/labour codes) live on the project — not a new Area.
 - 2026-08-15: Swedish practice **not logged** last week; keep ×3 this week. Economy literacy already on Finance.
 - 2026-08-13: Filed first-principles economics conversation as [[Resources/economy-first-principles]] (area [[Finance]], session under wealth-due-diligence).
 - 2026-07-13: Added swedish-assimilation + america-move-prep (cultural integration tracks).

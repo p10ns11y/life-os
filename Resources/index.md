@@ -33,6 +33,7 @@ This file provides a central index, lookup, and references for assets stored in 
 | Title | Local Path | Source / Reference URL | Notes |
 |-------|------------|------------------------|-------|
 | Hiring posture — verify, not theater | [[hiring-posture]] | (operator preference; not on GitHub profile) | Warm-thread stance: one strong-dev talk or 1–2 week paid trial; market pay quote is a filter. Named threads stay `private/career/`. |
+| Operator public signal | [[operator-public-signal]] | [profile README](https://github.com/p10ns11y/p10ns11y) · GitRoll scan 29 Aug 2026 | Tool-verified self-read. GitRoll **uu** = Uppsala University (studied there; DiVA on the README). Not ATS copy. |
 | AI and Swedish hiring (Aug 2026) | [[ai-hiring-sweden]] | AI-Econ Lab Monitor, Lodefalk et al., IMF, AF spring 2026, Manpower 2026 | Country still runs; SWE funnel distorted (juniors / ATS volume / specialist premium). No live employer names. |
 | Arbetsförmedlingen — Support and programmes A–Z | [[Arbetsformedlingen-Support-A-Z]] | https://arbetsformedlingen.se/other-languages/english-engelska/additional-support/support-a-z | English catalogue of AF support/programmes; eligibility = individual assessment |
 

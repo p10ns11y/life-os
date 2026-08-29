@@ -75,7 +75,8 @@ How Swedes coordinate life — learn by observation + small experiments.
 
 | Theme | Practice |
 |-------|----------|
-| **Lagom / Jantelagen awareness** | Notice understatement in meetings; practice short, factual turns instead of hard sell |
+| **Lagom / Jantelagen awareness** | Notice understatement in meetings; practice short, factual turns instead of hard sell. Preference, not a ban on large employers — [[Projects/swedish-assimilation/founders-payroll|founders-payroll]] |
+| **Speech / labour codes** | Civic reference (RF, LAS, MBL, privacy). Not Applicant Tracking System copy — [[Projects/swedish-assimilation/sweden-speech-labour-codes|sweden-speech-labour-codes]] |
 | **Punctuality & queues** | Arrive early; treat time boxes as social contracts |
 | **Coffee / fika** | Use fika as relationship time, not only caffeine |
 | **Nature & outdoor default** | One outdoor walk/week as cultural habit, not “exercise only” |
@@ -121,12 +122,14 @@ Log under `sessions/YYYY-MM-DD.md` (minutes + what + one friction).
 
 - **Deep coaching:** [[Projects/cultural-integration/three-cultures-coaching|Three fields, one sovereignty]] (Tamil × Sweden × America — freedom without forced acting)
 - Hub: [[Projects/cultural-integration/README|cultural-integration]]
-- Area: [[Areas/Learning]] · [[Areas/Career]]
+- Area: [[Areas/Learning]] · [[Areas/Career]] (work Swedish). There is **no** Area named Swedish — schema is the seven flats only.
+- Culture refs: [[Projects/swedish-assimilation/founders-payroll|founders-payroll]] · [[Projects/swedish-assimilation/sweden-speech-labour-codes|sweden-speech-labour-codes]]
 - Sibling: [[Projects/america-move-prep/README|america-move-prep]]
 - Portfolio: [[UI/Map]] · cluster *cultural-integration*
 
 ## Session log
 
+- [[Projects/swedish-assimilation/sessions/2026-08-29|2026-08-29]] — culture notes moved off hiring private
 - [[Projects/swedish-assimilation/sessions/2026-07-13|2026-07-13]] — project kickoff
 
 *Last 30d mine: opened 2026-07-13 (ensembly cultural titles).*

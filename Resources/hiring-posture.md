@@ -35,7 +35,7 @@ Quoting a number from **public salary statistics** is normal. A company that fli
 - **When they write:** offer the short paid trial *if* the product is small enough. Do not demand they skip process at SpaceXAI-scale.
 - **Park:** arguing with HR on LinkedIn about checklists.
 
-Named threads and numbers stay on `private/career/`.
+Named threads and numbers stay on `private/career/`. Public self-read (GitHub / GitRoll-as-context / X), not for cold letters: [[operator-public-signal]].
 
 ## AI vs the Swedish funnel (2026)
 
