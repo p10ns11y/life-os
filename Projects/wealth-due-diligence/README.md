@@ -8,7 +8,7 @@ area: "[[Finance]]"
 cluster: "personal-finance"
 weekly_energy_target: 3
 weekly_energy_logged: 2.5  # 2026-08-12 hybrid merge; 08-13 literacy; board/viz still uncommitted 08-16
-next_action: "W35 leftover: 20 min private invoice/portal check then stop. After this week's apply: commit or stash wealth-core 11-file drift."
+next_action: "After this week's apply: 20 min private invoice/portal check then stop. Then commit or stash wealth-core 11-file drift."
 review_date: 2026-09-01
 effort: low
 tags: [wealth, finance, debt-avalanche, runway, investments, tax, cli]

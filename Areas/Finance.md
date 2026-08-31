@@ -5,7 +5,7 @@ importance: 4
 urgency: 4
 progress: 45
 area: ""
-review_date: 2026-08-22
+review_date: 2026-09-01
 tags: [finance]
 ---
 
@@ -26,6 +26,7 @@ tags: [finance]
 - Private disk: `private/` critical-path + week ops (not on remote)
 
 ## Review Log
+- 2026-08-31: W35 leftover still open (one private invoice/portal check, then stop). wealth-core still 11-file dirty (re-verified). After this week's apply. [[Reviews/weekly-2026-08-30]].
 - 2026-08-15: Weekly review — literacy stands; wealth-core hybrid merged 08-12 with **uncommitted** board/viz. Critical-path still private.
 - 2026-08-13: Captured economy / market-cap / geopolitics / digital-money synthesis as [[Resources/economy-first-principles]] (session [[Projects/wealth-due-diligence/sessions/2026-08-13]]). Private ops unchanged.
 - 2026-08-11: Debt/collector map + action checklist on private disk only (`private/finance/`). Ledger refreshed via wealth-core.

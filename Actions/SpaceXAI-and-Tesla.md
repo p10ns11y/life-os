@@ -8,7 +8,7 @@ area: "[[Career]]"
 cluster: "presence-career"
 weekly_energy_target: 1
 next_action: "Do not resend the closed req. Watch a better-fit IC posting (agents / inference / infra). Outcomes on private disk."
-review_date: 2026-08-24
+review_date: 2026-09-01
 effort: high
 tags: [spacexai, career, tesla]
 ---

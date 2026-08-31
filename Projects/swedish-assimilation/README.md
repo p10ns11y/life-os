@@ -7,8 +7,8 @@ progress: 5
 area: "[[Learning]]"
 cluster: "cultural-integration"
 weekly_energy_target: 1.5
-weekly_energy_logged: 0  # 2026-08-10→15: no session logged — miss vs W33 plan
-next_action: "W35 ×3: 20 min SVT / easy Swedish (read aloud 5 sentences) + 5-line diary; write sessions/YYYY-MM-DD.md (still unlogged)."
+weekly_energy_logged: 0.3  # 2026-08-29 culture notes onto project — language practice still unlogged
+next_action: "W36 ×3: 20 min SVT / easy Swedish (read aloud 5 sentences) + 5-line diary; write sessions/YYYY-MM-DD.md (still unlogged)."
 review_date: 2026-09-01
 effort: medium
 tags: [swedish, language, culture, history, integration, assimilation, sfi]

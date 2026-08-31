@@ -4,13 +4,13 @@ status: "In Progress"
 cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/skills
 weekly_energy_target: 1
-weekly_energy_logged: 2.0  # 2026-08-10→16: feeder/host-prep; plugins #5+#6
+weekly_energy_logged: 3.0  # 2026-08-29 pulse-memory; 08-31 LCV + pstack-map (plugins)
 importance: 4
 urgency: 2
-progress: 73
+progress: 75
 area: "[[Career]]"
-next_action: "Park new skill authoring W34; dogfood control-feeder / DualLoad / eva on the next dumped prompt."
-review_date: 2026-08-22
+next_action: "Park new skill authoring until this week's apply is in; dogfood LCV on the hire site already shipped."
+review_date: 2026-09-01
 effort: high
 tags: [skills, meta]
 ---
@@ -60,6 +60,7 @@ Added note: "See Portfolio Map of Content (Portfolio-MOC) for example of using t
 
 ## Session log
 
+- [[Projects/skills/sessions/2026-08-31|2026-08-31]] — plugins LCV #11 + pstack-map; pulse-memory (29 Aug)
 - [[Projects/skills/sessions/2026-08-16|2026-08-16]] — control-feeder + grok-host-prep; plugins #5/#6; north-star revert
 - [[Projects/skills/sessions/2026-08-02|2026-08-02]] — DualLoad + eva-emptiness wave
 - [[Projects/skills/sessions/2026-07-12|2026-07-12]] — looper promoted into skills library

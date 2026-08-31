@@ -63,7 +63,7 @@ Short names for clean display in tables and effective use. All 7 exist as flat .
 - [[UI/Dashboard]]
 - [[Kernel/bases/priority-matrix.base]]
 - [[Kernel/templates/Project]] · [[Kernel/templates/Area]]
-- [[Reviews/weekly-2026-08-15]] — current week close. `Archives/` is attic.
+- [[Reviews/weekly-2026-08-30]] — current week close (W35 → W36). [[Reviews/weekly-2026-08-15]] prior. `Archives/` is attic.
 
 ## Folder Conventions
 The vault **is** the OS.
