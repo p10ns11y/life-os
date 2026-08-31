@@ -40,6 +40,7 @@ See [[UI/Map]].
 
 ## Session log
 
+- [[Projects/devprofile/sessions/2026-09-01|2026-09-01]] — unit + e2e green after hire-site Playwright retarget
 - [[Projects/devprofile/sessions/2026-08-31|2026-08-31]] — hire-first homepage + profile deck + building atlas
 - [[Projects/devprofile/sessions/2026-08-16|2026-08-16]] — CV overlay keep-complete blurbs (#74)
 - [[Projects/devprofile/sessions/2026-08-05|2026-08-05]] — `/profile` deck + `/focus` essays
