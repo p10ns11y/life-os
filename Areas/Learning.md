@@ -31,6 +31,7 @@ tags: [learning]
 - [[Resources/economy-first-principles]] — economy / market-cap / geopolitics / digital-money synthesis (Finance-primary)
 
 ## Review Log
+- 2026-08-31: W35 — culture refs filed; **language practice still unlogged**. Keep ×3 this week + session file. [[Reviews/weekly-2026-08-30]].
 - 2026-08-29: swedish-assimilation culture refs (founders-payroll, speech/labour codes) live on the project — not a new Area.
 - 2026-08-15: Swedish practice **not logged** last week; keep ×3 this week. Economy literacy already on Finance.
 - 2026-08-13: Filed first-principles economics conversation as [[Resources/economy-first-principles]] (area [[Finance]], session under wealth-due-diligence).

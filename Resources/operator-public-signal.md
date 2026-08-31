@@ -14,7 +14,7 @@ hint_lock: open
 
 # Operator public signal (evidence, not a manifesto)
 
-For **self and life-os**. Not a cold cover letter. Operator is a **Swedish citizen** — not an outsider ranking “Swedes.” Sitting SoT stays [[Areas/Career]] + [[UI/Dashboard]]: **4 cash-first Sweden IC** this sitting; stretch parked.
+For **self and life-os**. Not a cold cover letter. Operator is a **Swedish citizen** — not an outsider ranking “Swedes.” Sitting SoT stays [[Areas/Career]] + [[UI/Dashboard]]: **one relevant application this week**; stretch parked.
 
 Public ledger: [github.com/p10ns11y](https://github.com/p10ns11y) — the [profile README](https://github.com/p10ns11y/p10ns11y). Vault map: [[README]].
 
@@ -106,6 +106,6 @@ hint:
   lock:   open
 ```
 
-Senior product engineer (TS/React, public Rust/C), long GitHub life, 2015 orchestration lineage. GitRoll S 7.93 / “above 89%” / **Top 1% in uu** (Uppsala University) is **vendor context for self**, not ATS copy. Swedish citizen, first generation (arrived in the 20s). Argue with **funnel inefficiency** and hold lawful opinions on lagom / kollektivavtal; do not rank a people. This sitting: 4 cash-first Sweden IC; stretch parked.
+Senior product engineer (TS/React, public Rust/C), long GitHub life, 2015 orchestration lineage. GitRoll S 7.93 / “above 89%” / **Top 1% in uu** (Uppsala University) is **vendor context for self**, not ATS copy. Swedish citizen, first generation (arrived in the 20s). Argue with **funnel inefficiency** and hold lawful opinions on lagom / kollektivavtal; do not rank a people. This sitting: one relevant application this week; stretch parked.
 
 Related: [profile README](https://github.com/p10ns11y/p10ns11y) · [[README]] · [[hiring-posture]] · [[ai-hiring-sweden]] · [[sweden-career-breaks]] · [[Projects/swedish-assimilation/README]] · [[Projects/collab-finder/README]]

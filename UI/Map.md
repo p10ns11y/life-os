@@ -62,7 +62,7 @@ See Bases views in [[Kernel/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-08-29):** **Fri 29** — 4 cash-first Sweden IC applies · Sweden-return checklist · one Grok Bot (drafts only). Stretch/xAI parked. Evidence: [[Resources/ai-hiring-sweden]]. Ops: `private/career/`. See [[UI/Dashboard]] · [[UI/Mission]].
+**Current focus (2026-08-31):** **Tue 1 Sep** — one relevant apply this week (due Fri 4). Remaining chain \(t_e \approx 5.37\) after screens-silent replan (\(\Delta t_e=+1.08\)). Presence shipped today; that is not the thanks page. See [[UI/Dashboard]] · [[UI/Mission]] · [[Reviews/weekly-2026-08-30]].
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]

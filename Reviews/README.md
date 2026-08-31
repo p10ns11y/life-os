@@ -4,8 +4,9 @@ Week and quarter closes. Evidence of what ran — not the compass, not the scree
 
 | File | Job |
 |------|-----|
-| [[Reviews/weekly-2026-08-15]] | Current week close |
-| [[Reviews/weekly-2026-08-10]] | Prior week close |
+| [[Reviews/weekly-2026-08-30]] | Current week close (W35 → W36) |
+| [[Reviews/weekly-2026-08-15]] | Prior week close |
+| [[Reviews/weekly-2026-08-10]] | Earlier close |
 
 Name new files `weekly-YYYY-MM-DD.md` or `quarter-YYYY-Qn.md`. Public pointers only.
 

@@ -5,7 +5,7 @@ importance: 4
 urgency: 1
 progress: 40
 area: ""
-review_date: 2026-07-20
+review_date: 2026-09-01
 tags: [health]
 ---
 
@@ -22,6 +22,8 @@ tags: [health]
 
 **Current Focus / Active Projects**:
 - Establish baseline routines that support high-agency work (tied to Career).
+- Skin / dermatology notes: `private/health/` only (in-person care, not vault work).
 
 ## Review Log
+- 2026-08-29: Skin research captured then moved off remote. Public card stays a pointer. No diagnosis on git.
 - 2026-07-06: Created from schema as canonical flat area note.
