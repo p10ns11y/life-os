@@ -1,6 +1,6 @@
 # Life Dashboard
 
-> Last reviewed: 2026-08-31 • **Run full matrix review weekly.** Use this as your primary launch point.
+> Last reviewed: 2026-09-01 • **Run full matrix review weekly.** Use this as your primary launch point.
 
 ## Week card (2026-W36) — Mon 31 Aug → Sun 6 Sep
 
@@ -21,18 +21,19 @@ Presence and rails — **not** a thanks page. Slot 2 was live; the apply did not
 - **collab-finder:** gitignored hunt packs + CV how-to. Session [[Projects/collab-finder/sessions/2026-08-31]].
 - **plugins:** layout-content-view + pstack-map. Session [[Projects/skills/sessions/2026-08-31]].
 
-### Tomorrow (Tue 1 Sep)
+### Rest of W36 (Tue 1 → Sun 6)
 
-1. **🔴 One relevant apply this week** — human submits; outcomes on `private/career/`. Same-day reply **only if** the intro writes.
-2. **🟢 Sweden return checklist** — [[Actions/sweden-return-flight-2026-09]]; names stay `private/travel/`. Fly 18 Sep.
-3. **🟢 Swedish** — 20 min + 5-line diary **and log a session** (still unlogged).
-4. **⚪ Park** — spray / wrong-stack JDs, resend of a closed process, side project instead of applying. No second hire-site spike before the pack is in.
+- [x] One relevant apply this week — submitted 2026-09-01. Outcomes `private/career/`.
+- [ ] Same-day reply **only if** a screen or the intro writes — do not chase
+- [ ] Sweden return checklist — [[Actions/sweden-return-flight-2026-09]] (unblocked; names `private/travel/`)
+- [ ] Swedish — 20 min + 5-line diary **and log a session**
+- [ ] Week 37 apply — **not this week.** Live-check then submit by Fri 11 Sep
 
-**Capacity rule:** slot 2 (cash/career) owns the morning. Family morning/evening blocks stay. Hiring hours ~8–12. Travel list after the thanks page. Today's site work does not replace submit.
+**Capacity rule:** slot 2 owns the morning. Family blocks stay. Hiring hours ~8–12. No second pack today. Travel list is unblocked now that the pack is in.
 
 **AI vs Sweden:** country still runs; SWE **funnel** is distorted. Evidence: [[Resources/ai-hiring-sweden]]. Do not wait for an “AI recovery.”
 
-**Kernel (not a destiny date):** remaining chain typical \(t_e \approx 5.37\) weeks (apply → technical → team → start). Was 4.28 before the 29 Aug screens-silent signpost; \(\Delta t_e = +1.08\). Monte Carlo p90 ~6.9. A new apply is this week's Do.
+**Kernel (not a destiny date):** remaining chain typical \(t_e \approx 4.28\) weeks (technical → team → start). Was 5.37 before today's apply landed; \(\Delta t_e = -1.08\). Monte Carlo p90 ~5.7. Next Do: week 37 apply (due Fri 11 Sep).
 
 ### Dirty now (code vs noise)
 

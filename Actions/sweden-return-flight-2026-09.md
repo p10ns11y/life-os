@@ -45,6 +45,6 @@ Two booking codes. A remark says they travel together. Check-in, delays, bassine
 - [ ] Documents pouch (passports + tickets + insurance) — no strings on this card
 - [ ] Cabin / layover: stroller gate-check, food, battery; car-seat decision
 
-This week's checklist (names private): `private/travel/` — Fri 29 named list still the local file; the act is open.
+This week's checklist (names private): `private/travel/` — hire-loop no longer blocks this sitting (W36 apply is in). Open item is still the infant surname on the e-ticket.
 
 Related: [[Projects/swedish-assimilation/README|swedish-assimilation]] (after arrival) · [[UX/focus-now]] slot 1 Sweden window.
