@@ -8,9 +8,9 @@ area: "[[Career]]"
 cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/collab-finder
 weekly_energy_target: 2
-weekly_energy_logged: 8.0  # +2026-08-30/31 CV XDG + hunt packs (rails, not submit)
-next_action: "Tue 1: submit this week's pack (human). Rails shipped; outcomes private."
-review_date: 2026-09-01
+weekly_energy_logged: 8.5  # +2026-09-01 W36 apply logged (human submit; agent notes)
+next_action: "Week 37: next relevant apply (human). W36 pack in; outcomes private."
+review_date: 2026-09-08
 effort: high
 tags: [agentic, tauri, collab, job-tools, rust, react]
 ---
@@ -35,12 +35,12 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 ## Current Focus / Open
 - **2026-08-16:** [#19](https://github.com/p10ns11y/collab-finder/pull/19)–[#22](https://github.com/p10ns11y/collab-finder/pull/22) on `main` — hunt rails, Quest persist/restore, apply artifacts + JobTech JD + email draft. Session [[Projects/collab-finder/sessions/2026-08-16]].
 - Employer outcomes / apply-phone: private disk only
-- Next: dogfood apply workspace; analyze-via-agent still open
+- Next: week 37 apply (human); analyze-via-agent still open
 - **Not** XState adoption yet (MVU owns domain)
 - **Later (do not start now):** make collab-finder more configurable (boards, durability waves, places, launch) — remember, do not scope-creep the v0.2.0 tag
 
 ## Next Actions
-- See `next_action` frontmatter (dogfood full apply path)
+- See `next_action` frontmatter (week 37 apply; W36 pack in)
 - Keep session detail in dated notes under this folder (thin main note); PII → `private/`
 
 ## Links
@@ -64,6 +64,7 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 
 ## Session log
 
+- [[Projects/collab-finder/sessions/2026-09-01|2026-09-01]] — application submitted (public pointer)
 - [[Projects/collab-finder/sessions/2026-08-31|2026-08-31]] — hunt packs from gitignored rails; CV how-to; not a submit
 - [[Projects/collab-finder/sessions/2026-08-29|2026-08-29]] — 4 cash-first Sweden IC (stretch parked)
 - [[Projects/collab-finder/sessions/2026-08-19|2026-08-19]] — Agent context diet + verify SoT (`AGENTS.md` router; no phantom lint)
