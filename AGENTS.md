@@ -4,6 +4,8 @@ This is the central **Life OS** notes vault, organized with Projects, Areas, Res
 
 **Primary interfaces**: `UI/Dashboard.md`, `UI/Map.md`, `Kernel/bases/*.base`, `Kernel/schema.md`. Layers: [[Kernel/README]] · [[Shell/README]] · [[UI/README]] · [[UX/README]].
 
+**Not deployed apps:** `UI/Dashboard`, `UI/Map`, and `UI/Mission` are **Obsidian markdown notes** in this vault — not web apps, Eve sessions, or separate repositories. The continuous clone runtime is **ensembly** (`~/Work/personal/ensembly`); Eve remote control is ensembly trajectory, not a vault entrypoint.
+
 ### Not the digital clone runtime
 
 | This vault (`~/life-os`) | ensembly (`~/Work/personal/ensembly`) |
@@ -117,21 +119,15 @@ When an agent session touches this vault or connected projects (collab-finder, p
 - Always close the loop by updating the life-os project card (frontmatter + brief session outcome).
 1. Read the relevant skill(s).
 2. Use them (especially for planning, surplus, refactors, verification).
-3. Record the usage + outcome in the project note or daily log (see "Surplus Example" pattern in `Projects/skills.md`).
+3. Record the usage + outcome in the project note or daily log (see "Surplus Example" pattern in `Projects/skills/README.md`).
 
 ## premflow Connection
 
-`premflow` (command line interface / agent flow tool) lives at `~/Work/personal/premflow/`.
+`premflow` (command line interface / agent flow tool) lives at `~/Work/personal/premflow/`. Byte-level capture source of truth is `~/.premflow/` (private, never push).
 
-**Current plan (documented, not yet executed)**: Symlink premflow's `notes/`, `tasks/`, `journal/` (and key designs/artifacts) into this vault so its output participates in:
-- Eisenhower / priority matrix
-- Energy tracking (`weekly_energy_*`)
-- [[UI/Map]] and [[UI/Dashboard]]
-- Unified weekly review
+**Vault view (shipped):** `Projects/premflow/capture` is a tracked symlink to `~/.premflow`. Open `capture/todo.txt` or `capture/log.txt` in Obsidian to edit the same files the CLI writes. Portfolio Eisenhower / energy for premflow still live on [[Projects/premflow/README|the project card]] — do not duplicate a second todo list on the card.
 
-See the dedicated section in `Projects/premflow.md` for the exact symlink intention and next_action.
-
-When implementing later, keep the original source of truth in the premflow tree; the vault provides the aggregated Life OS view.
+Full paths, privacy rules, and ensembly wrapper: [[Projects/premflow/README]]. Keep the byte source of truth in the premflow tree; this vault holds portfolio memory and the Obsidian view only.
 
 ## Verification & "Done"
 

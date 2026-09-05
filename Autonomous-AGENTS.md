@@ -65,7 +65,7 @@ Run this loop continuously (with appropriate sleep/polling intervals):
 6. **Continuous Health**
    - Periodically review [[UI/Graph]] and [[UI/Map]] when connections change.
    - Contribute to `skills` when you discover better patterns.
-   - Respect the planned premflow integration (see `Projects/premflow.md`) — once symlinked, use premflow's notes/tasks/journal as additional task sources.
+   - Optional capture source: `Projects/premflow/capture` (symlink to `~/.premflow`). Eisenhower fields stay on [[Projects/premflow/README|the premflow project card]] — see AGENTS.md § premflow Connection.
 
 ## Key Interfaces for Autonomous Agents
 
