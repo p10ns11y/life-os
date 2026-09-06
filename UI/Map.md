@@ -62,7 +62,7 @@ See Bases views in [[Kernel/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-09-01):** **W36 apply submitted.** Remaining chain \(t_e \approx 4.28\) (\(\Delta t_e=-1.08\)). Next Do: week 37 apply (due Fri 11 Sep). Same-day reply only if a screen writes. Travel checklist is unblocked. See [[UI/Dashboard]] · [[UI/Mission]].
+**Current focus (2026-09-06):** **W36 closed — right sailing** (apply submitted 2026-09-01; \(\Delta t_e=-1.08\), cosθ=1). **W37 open:** week 37 apply due Fri 11 Sep. Kernel snapshot 2026-09-01 (\(t_e \approx 4.28\)). Same-day reply only if a screen writes. Travel checklist still open. See [[UI/Dashboard]] · [[UI/Mission]] · [[Reviews/weekly-2026-09-06]].
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]
