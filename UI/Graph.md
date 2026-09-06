@@ -9,13 +9,13 @@ See [[UI/Map]] for cluster definitions, [[UI/Dashboard]] for live prioritization
 These are the active project **folders** (`Projects/{slug}/README.md` + `sessions/`):
 
 - **skills** (Career | agentic-reactor) — Relevance: 4/4, Progress: 72%, Energy logged: 1.5 (control-feeder 08-14)
-- **collab-finder** (Career | agentic-reactor) — Relevance: 4/4, Progress: 90%, Energy logged: 4.0 — Quest persist/restore
-- **ensembly** (Systems | foundational-infra) — Relevance: 4/4, Progress: 62% — constellation docs; park stretch
-- **devprofile** (Career | presence-career) — Relevance: 4/4, Progress: 62% — phone opt-out; tree clean
+- **collab-finder** (Career | agentic-reactor) — Relevance: 4/4, Progress: 92%, Energy logged: 4.0 — W36 wave merged (#43–#48); #49 firm-list open
+- **ensembly** (Systems | foundational-infra) — Relevance: 4/4, Progress: 65% — kingsparrow monopoly #3 + public-copy law; CI #14 billing-parked
+- **devprofile** (Career | presence-career) — Relevance: 4/4, Progress: 65% — hire-site tests green; walkthroughs unslop; ensembly off /shipped
 - **arch-machine** (Systems | foundational-infra) — Relevance: 4/4, Progress: 94% — quiet week; sentinel behind 1
-- **wealth-due-diligence** (Finance | personal-finance) — Relevance: 4/4, Progress: 68% — literacy filed; wealth-core dirty
+- **wealth-due-diligence** (Finance | personal-finance) — Relevance: 4/4, Progress: 68% — literacy filed; wealth-core re-verify
 - **thepulimaangani** (Creative | cultural-creative) — Relevance: 4/4, Progress: 40% — park theni spike
-- **swedish-assimilation** (Learning | cultural-integration) — Relevance: 4/4, Progress: 5% — W33 practice not logged
+- **swedish-assimilation** (Learning | cultural-integration) — Relevance: 4/4, Progress: 5% — W36 practice not logged
 - **shellyxz** (Systems | foundational-infra) — Relevance: 3/4, Progress: 70%, Energy target: 0.5
 - **agent-prompt-tuning-lab** (Career | agentic-reactor) — Relevance: 3/4, Progress: 20%, Energy target: 0
 - **latex-cv** (Career | presence-career) — Relevance: 3/4, Progress: 30%, Energy target: 0
@@ -52,11 +52,11 @@ flowchart TD
     end
 
     %% Projects as nodes with relevance + progress
-    skills["skills<br/>Relevance: 4/4<br/>Progress: 55%"]
-    collab["Collab Finder<br/>Relevance: 4/4<br/>Progress: 78%"]
-    ensembly["ensembly<br/>Relevance: 4/4<br/>Progress: 62%"]
-    dev["devprofile<br/>Relevance: 4/4<br/>Progress: 50%"]
-    arch["arch-machine<br/>Relevance: 4/4<br/>Progress: 92%"]
+    skills["skills<br/>Relevance: 4/4<br/>Progress: 72%"]
+    collab["Collab Finder<br/>Relevance: 4/4<br/>Progress: 92%"]
+    ensembly["ensembly<br/>Relevance: 4/4<br/>Progress: 65%"]
+    dev["devprofile<br/>Relevance: 4/4<br/>Progress: 65%"]
+    arch["arch-machine<br/>Relevance: 4/4<br/>Progress: 94%"]
     puli["thepulimaangani<br/>Relevance: 4/4<br/>Progress: 40%"]
     shelly["shellyxz<br/>Relevance: 3/4<br/>Progress: 70%"]
     tuning["agent-prompt-tuning-lab<br/>Relevance: 3/4<br/>Progress: 20%"]

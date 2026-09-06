@@ -4,7 +4,8 @@ Week and quarter closes. Evidence of what ran — not the compass, not the scree
 
 | File | Job |
 |------|-----|
-| [[Reviews/weekly-2026-08-30]] | Current week close (W35 → W36) |
+| [[Reviews/weekly-2026-09-06]] | Current week close (W36 → W37) |
+| [[Reviews/weekly-2026-08-30]] | Prior week close (W35 → W36) |
 | [[Reviews/weekly-2026-08-15]] | Prior week close |
 | [[Reviews/weekly-2026-08-10]] | Earlier close |
 
