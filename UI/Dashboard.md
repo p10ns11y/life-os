@@ -1,10 +1,37 @@
 # Life Dashboard
 
-> Last reviewed: 2026-09-06 • **Run full matrix review weekly.** Use this as your primary launch point.
+> Last reviewed: 2026-09-07 (IST) • **Run full matrix review weekly.** Use this as your primary launch point.
+
+## Operator plate (2026-09-07)
+
+**Four slots (unchanged charter):** [[UX/focus-now]] · compass [[UX/north-star]]. ensembly **product** is not a fifth slot.
+
+| # | Slot | Today |
+|---|------|-------|
+| 1 | Sweden window | AF synpunkter **Wed 9 Sep**; return checklist still open |
+| 2 | Cash / career | **P0 for operator attention** — week 37 apply due Fri 11 Sep (G0 critical path) |
+| 3 | Son / body | Human-only — agents do not tick |
+| 4 | Debt / Kivra | Digital Mailbox Desk reminds; operator acts one statutory item then stops |
+
+**PARKED** = off the operator’s time/attention/energy to look things up — **not** “stop all work.” Agents (CoS/Steward/etc.) keep HOOTL under token budget. Hiring/collab-increasing: operator involves. Rest: Chief of Staff decides continuously (~14%/day token budget).
+
+**Wealth DAG (Steward):** `ops/wealth/sweden-wealth-dag.md` — gates G0–G4; no creditor/PII on git.
+
+### Bots on the plate (roles only)
+
+| Desk | Role |
+|------|------|
+| **Kanithanj Desk** | collab-finder hunt + prune/reliability until job lands |
+| **Fleet Desk** | ensembly-aware fleet status + start/stop/reroute; **product parked** |
+| **Steward** | Grok Bot computer + mzapan + packedbox/voice/ensembly kernel ops |
+| **Digital Mailbox Desk** | Kivra / Swedish paperwork (slot 4) |
+| **Chief of Staff** | plate + token budget; decides under budget |
+
+**Minted this week:** Kanithanj Desk · Fleet Desk. **Shipped:** packedbox Phase 4 merged (NavigationView) — [[Projects/packedbox/README|packedbox]].
 
 ## Week card (2026-W37) — Mon 7 Sep → Sun 13 Sep
 
-Heading: [[UI/Mission]] · ops: `private/` · W36 close: [[Reviews/weekly-2026-09-06]] · `Archives/` is attic.
+Heading: [[UI/Mission]] · ops: `private/` · W36 close: [[Reviews/weekly-2026-09-06]] · plate day: [[Reviews/plate-2026-09-07]] · `Archives/` is attic.
 
 ### Last week (W36) — what ran
 
@@ -15,12 +42,14 @@ Heading: [[UI/Mission]] · ops: `private/` · W36 close: [[Reviews/weekly-2026-0
 
 ### This week (W37)
 
-- [ ] Week 37 apply — live-check then submit by **Fri 11 Sep**
+- [ ] Week 37 apply — live-check then submit by **Fri 11 Sep** (**slot 2 P0**)
+- [ ] AF synpunkter — **Wed 9 Sep** (slot 1)
 - [ ] Same-day reply **only if** a screen or the intro writes — do not chase
 - [ ] Sweden return checklist — [[Actions/sweden-return-flight-2026-09]] (unblocked; names `private/travel/`)
 - [ ] Swedish — 20 min + 5-line diary **and log a session**
+- [ ] Slot 4 — one Kivra/statutory act when Mailbox Desk pings; then stop
 
-**Capacity rule:** slot 2 owns the morning. Family blocks stay. Hiring hours ~8–12. No second pack until W37 apply lands.
+**Capacity rule:** slot 2 owns the morning. Family blocks stay. Hiring hours ~8–12. No second pack until W37 apply lands. Product rails (ensembly, packedbox kernel) = **PARKED** for operator — Steward/Fleet under CoS budget.
 
 **AI vs Sweden:** country still runs; SWE **funnel** is distorted. Evidence: [[Resources/ai-hiring-sweden]]. Do not wait for an “AI recovery.”
 
@@ -34,8 +63,9 @@ Heading: [[UI/Mission]] · ops: `private/` · W36 close: [[Reviews/weekly-2026-0
 | `wealth-due-diligence` | **Real** — README + coming-next |
 | `collab-finder` | Feature wave **merged** (#43–#48). #49 firm-list draft/open |
 | `devprofile` | Hire-site tests green; walkthroughs unslop — branch status re-verify |
-| `ensembly` | kingsparrow monopoly #3 + public-copy law; CI #14 billing-parked |
-| `life-os` | Notes in flight (this review) |
+| `ensembly` | **Product parked** on plate; Fleet Desk + Steward keep HOOTL; CI #14 billing-parked |
+| `packedbox` | Phase 4 merged (NavigationView); Steward kernel ops |
+| `life-os` | Plate + verify path (this PR) |
 | `arch-machine` · `premflow` · `thepulimaangani` | Skill/rule **copies**, not product |
 
 **Clean enough:** skills library tree, grok-build, elomaxz, adaptate, latex-cv. collab-finder main after #43–#48 merge.
@@ -67,7 +97,7 @@ Filter in the base on `urgency` / `urgency_label` (formula) or `next_action`. Us
 - Update project frontmatter: `cluster`, `weekly_energy_target`, `weekly_energy_logged`, `importance`, `progress`, `next_action`, `area`.
 - Bases: By Cluster, Energy Balance, Portfolio Projects (High Value).
 
-Current focus clusters: Personal Finance (spine), Presence + Career, Cultural Integration.
+Current focus (2026-09-07): **slot 2 P0** (week 37 apply) · AF synpunkter Wed 9 Sep · Kanithanj/Fleet Desk minted · packedbox Phase 4 merged · ensembly product parked. Clusters: Personal Finance (spine), Presence + Career, Cultural Integration.
 
 ## Life Areas (canonical)
 All areas live flat in Areas/ as .md. Use Area template + update frontmatter.

@@ -5,7 +5,7 @@ importance: 4
 urgency: 4
 progress: 45
 area: ""
-review_date: 2026-09-01
+review_date: 2026-09-07
 tags: [finance]
 ---
 
@@ -22,10 +22,13 @@ tags: [finance]
 
 **Current Focus / Active Projects**:
 - [[Projects/wealth-due-diligence/README|wealth-due-diligence]] — tooling + private ledger SoT
+- **Wealth DAG (public gate map):** `ops/wealth/sweden-wealth-dag.md` — G0–G4; Steward box
+- **Digital Mailbox Desk** — slot 4 Kivra/Swedish paperwork reminders
 - [[Resources/economy-first-principles]] — first-principles literacy (wealth vs market cap vs pipes vs crypto)
 - Private disk: `private/` critical-path + week ops (not on remote)
 
 ## Review Log
+- 2026-09-07: Wealth DAG pointer on git; slot 4 = Debt/Kivra + Mailbox Desk. [[Reviews/plate-2026-09-07]].
 - 2026-08-31: W35 leftover still open (one private invoice/portal check, then stop). wealth-core still 11-file dirty (re-verified). After this week's apply. [[Reviews/weekly-2026-08-30]].
 - 2026-08-15: Weekly review — literacy stands; wealth-core hybrid merged 08-12 with **uncommitted** board/viz. Critical-path still private.
 - 2026-08-13: Captured economy / market-cap / geopolitics / digital-money synthesis as [[Resources/economy-first-principles]] (session [[Projects/wealth-due-diligence/sessions/2026-08-13]]). Private ops unchanged.

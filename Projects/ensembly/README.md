@@ -2,15 +2,15 @@
 type: project
 status: "In Progress"
 importance: 4
-urgency: 2
+urgency: 1
 progress: 62
 area: "[[Systems]]"
 cluster: "foundational-infra"
 github: https://github.com/thecuriousts/ensembly
-weekly_energy_target: 1
-weekly_energy_logged: 0.5  # 2026-08-12 hub constellation spacemap (docs only)
-next_action: "Park stretch W34; tree is clean — no code dirty."
-review_date: 2026-08-24
+weekly_energy_target: 0.5
+weekly_energy_logged: 0  # product parked on plate 2026-09-07
+next_action: "Product PARKED on operator plate — Fleet Desk + Steward HOOTL under CoS budget."
+review_date: 2026-09-07
 effort: high
 tags: [ensembly, life-swarm, digital-clone, game-of-peram, systems, copilot]
 ---
@@ -54,7 +54,8 @@ Operator opens turn or watch and **knows** the next body act and next authorizat
 
 ## Current focus / open
 
-- Daily dogfood of turn → claim/complete → approve/deny
+- **Product parked on operator plate (2026-09-07)** — not a fifth life-OS slot. Fleet Desk + Steward keep HOOTL (~14%/day token budget).
+- Daily dogfood of turn → claim/complete → approve/deny (when operator plays)
 - **Copilot phase 1:** proposals overseen; PRs when greenlit ([CLONE-COPILOT](https://github.com/thecuriousts/ensembly/blob/master/docs/CLONE-COPILOT.md))
 - Continuous hooks/connectors = **trajectory** (not vault daemons)
 - Eve bridge later as production remote host (not kernel rewrite)
