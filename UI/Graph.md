@@ -11,7 +11,7 @@ These are the active project **folders** (`Projects/{slug}/README.md` + `session
 - **skills** (Career | agentic-reactor) — Relevance: 4/4, Progress: 72%, Energy logged: 1.5 (control-feeder 08-14)
 - **collab-finder** (Career | agentic-reactor) — Kanithanj Desk; week 37 apply P0
 - **packedbox** (Systems | foundational-infra) — Phase 4 NavigationView merged; Steward ops
-- **ensembly** (Systems | foundational-infra) — product parked on plate; Fleet Desk HOOTL
+- **ensembly** (Systems | foundational-infra) — crew HOOTL; operator arch check-ins only; Fleet Desk keeps shipping
 - **devprofile** (Career | presence-career) — Relevance: 4/4, Progress: 65% — hire-site tests green; walkthroughs unslop; ensembly off /shipped
 - **arch-machine** (Systems | foundational-infra) — Relevance: 4/4, Progress: 94% — quiet week; sentinel behind 1
 - **wealth-due-diligence** (Finance | personal-finance) — Relevance: 4/4, Progress: 68% — literacy filed; wealth-core re-verify

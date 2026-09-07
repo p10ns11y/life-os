@@ -8,8 +8,8 @@ area: "[[Systems]]"
 cluster: "foundational-infra"
 github: https://github.com/thecuriousts/ensembly
 weekly_energy_target: 0.5
-weekly_energy_logged: 0  # product parked on plate 2026-09-07
-next_action: "Product PARKED on operator plate — Fleet Desk + Steward HOOTL under CoS budget."
+weekly_energy_logged: 0  # crew HOOTL; operator arch check-ins only 2026-09-07
+next_action: "Crew HOOTL — Fleet Desk + Steward keep shipping; operator arch check-ins only (not a fifth slot)."
 review_date: 2026-09-07
 effort: high
 tags: [ensembly, life-swarm, digital-clone, game-of-peram, systems, copilot]
@@ -54,7 +54,7 @@ Operator opens turn or watch and **knows** the next body act and next authorizat
 
 ## Current focus / open
 
-- **Product parked on operator plate (2026-09-07)** — not a fifth life-OS slot. Fleet Desk + Steward keep HOOTL (~14%/day token budget).
+- **Crew HOOTL (2026-09-07)** — not a fifth operator attention slot. Fleet Desk + Steward keep shipping (~14%/day token budget). Operator arch check-ins only.
 - Daily dogfood of turn → claim/complete → approve/deny (when operator plays)
 - **Copilot phase 1:** proposals overseen; PRs when greenlit ([CLONE-COPILOT](https://github.com/thecuriousts/ensembly/blob/master/docs/CLONE-COPILOT.md))
 - Continuous hooks/connectors = **trajectory** (not vault daemons)

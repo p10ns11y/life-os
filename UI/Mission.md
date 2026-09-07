@@ -31,7 +31,7 @@ Contact mail and posting URLs: `~/.grok/mission-maps/contacts.md`.
 | **Longest remaining chain** | 4.283333 weeks (kernel snapshot 2026-09-01; not a destiny date) |
 | **Change since last snapshot** | -1.083333 (at W36 apply; snapshot 2026-09-01) |
 | **This tick cosθ** | 1.0 |
-| **This tick did** | Plate refresh 2026-09-07: Kanithanj/Fleet Desk minted; packedbox Phase 4; ensembly product parked |
+| **This tick did** | Plate refresh 2026-09-07: Kanithanj/Fleet Desk minted; packedbox Phase 4; ensembly crew HOOTL (not a fifth slot) |
 | **Named Do (still)** | week 37 apply |
 
 Remaining T shortened at W36 apply (delta_te=-1.083333, snapshot 2026-09-01). No newer map JSON in-repo.
