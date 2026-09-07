@@ -12,7 +12,7 @@ review_date: 2026-09-07
 
 **Problem this solves:** entropy + escapism from *too many trackers*. Not another project list.
 
-**Law:** at most **four** slots. If a fifth appears, it parks or it *replaces* one. SpaceXAI is **not** a fifth slot — it is the **quality filter** on slot 2 (cash / career). **ensembly product** is also **not** a fifth slot.
+**Law:** at most **four** slots. If a fifth appears, it parks or it *replaces* one. SpaceXAI is **not** a fifth slot — it is the **quality filter** on slot 2 (cash / career). ensembly is also **not** a fifth slot (operator attention); crew HOOTL.
 
 Ops, amounts, tickets, school, addresses: `private/` only.
 
@@ -38,7 +38,7 @@ Today’s **one** laptop step lives in 1, 2, or 4. Slot 3 is off-laptop.
 | Desk | Role |
 |------|------|
 | **Kanithanj Desk** | collab-finder hunt + prune/reliability until job lands |
-| **Fleet Desk** | ensembly-aware fleet status + start/stop/reroute; **product parked** |
+| **Fleet Desk** | ensembly-aware fleet status + start/stop/reroute; crew HOOTL; operator arch check-ins only |
 | **Steward** | Grok Bot computer + mzapan + packedbox/voice/ensembly kernel ops |
 | **Digital Mailbox Desk** | Kivra / Swedish paperwork (slot 4) |
 | **Chief of Staff** | plate + token budget; decides under budget |
@@ -55,7 +55,7 @@ Wealth gate map (Steward): `ops/wealth/sweden-wealth-dag.md` — G0–G4 generic
 | Mako + north-star timer | Ring | A new Wayland toolkit |
 | Hyprland / Waybar | `custom/focus-now` chip | A game HUD |
 
-**Refuse (escapism dressed as infra):** new GTK/QML overlay, second pending store on X/Telegram, ensembly **product** stretch on operator plate, arch-machine widget crate, “watch every window forever” without an allowlist.
+**Refuse (escapism dressed as infra):** new GTK/QML overlay, second pending store on X/Telegram, treating ensembly as a fifth operator attention slot, arch-machine widget crate, “watch every window forever” without an allowlist.
 
 ## Waste watchdog (shipped)
 

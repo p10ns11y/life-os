@@ -4,7 +4,7 @@
 
 ## Operator plate (2026-09-07)
 
-**Four slots (unchanged charter):** [[UX/focus-now]] · compass [[UX/north-star]]. ensembly **product** is not a fifth slot.
+**Four slots (unchanged charter):** [[UX/focus-now]] · compass [[UX/north-star]]. ensembly is **not** a fifth slot (operator attention); crew HOOTL; operator arch check-ins only.
 
 | # | Slot | Today |
 |---|------|-------|
@@ -22,7 +22,7 @@
 | Desk | Role |
 |------|------|
 | **Kanithanj Desk** | collab-finder hunt + prune/reliability until job lands |
-| **Fleet Desk** | ensembly-aware fleet status + start/stop/reroute; **product parked** |
+| **Fleet Desk** | ensembly-aware fleet status + start/stop/reroute; crew HOOTL; operator arch check-ins only |
 | **Steward** | Grok Bot computer + mzapan + packedbox/voice/ensembly kernel ops |
 | **Digital Mailbox Desk** | Kivra / Swedish paperwork (slot 4) |
 | **Chief of Staff** | plate + token budget; decides under budget |
@@ -49,7 +49,7 @@ Heading: [[UI/Mission]] · ops: `private/` · W36 close: [[Reviews/weekly-2026-0
 - [ ] Swedish — 20 min + 5-line diary **and log a session**
 - [ ] Slot 4 — one Kivra/statutory act when Mailbox Desk pings; then stop
 
-**Capacity rule:** slot 2 owns the morning. Family blocks stay. Hiring hours ~8–12. No second pack until W37 apply lands. Product rails (ensembly, packedbox kernel) = **PARKED** for operator — Steward/Fleet under CoS budget.
+**Capacity rule:** slot 2 owns the morning. Family blocks stay. Hiring hours ~8–12. No second pack until W37 apply lands. ensembly crew HOOTL (not a fifth operator slot); packedbox kernel under Steward/CoS budget.
 
 **AI vs Sweden:** country still runs; SWE **funnel** is distorted. Evidence: [[Resources/ai-hiring-sweden]]. Do not wait for an “AI recovery.”
 
@@ -63,7 +63,7 @@ Heading: [[UI/Mission]] · ops: `private/` · W36 close: [[Reviews/weekly-2026-0
 | `wealth-due-diligence` | **Real** — README + coming-next |
 | `collab-finder` | Feature wave **merged** (#43–#48). #49 firm-list draft/open |
 | `devprofile` | Hire-site tests green; walkthroughs unslop — branch status re-verify |
-| `ensembly` | **Product parked** on plate; Fleet Desk + Steward keep HOOTL; CI #14 billing-parked |
+| `ensembly` | crew HOOTL; Fleet Desk + Steward keep shipping; operator arch check-ins only; CI #14 billing-parked |
 | `packedbox` | Phase 4 merged (NavigationView); Steward kernel ops |
 | `life-os` | Plate + verify path (this PR) |
 | `arch-machine` · `premflow` · `thepulimaangani` | Skill/rule **copies**, not product |
@@ -97,7 +97,7 @@ Filter in the base on `urgency` / `urgency_label` (formula) or `next_action`. Us
 - Update project frontmatter: `cluster`, `weekly_energy_target`, `weekly_energy_logged`, `importance`, `progress`, `next_action`, `area`.
 - Bases: By Cluster, Energy Balance, Portfolio Projects (High Value).
 
-Current focus (2026-09-07): **slot 2 P0** (week 37 apply) · AF synpunkter Wed 9 Sep · Kanithanj/Fleet Desk minted · packedbox Phase 4 merged · ensembly product parked. Clusters: Personal Finance (spine), Presence + Career, Cultural Integration.
+Current focus (2026-09-07): **slot 2 P0** (week 37 apply) · AF synpunkter Wed 9 Sep · Kanithanj/Fleet Desk minted · packedbox Phase 4 merged · ensembly crew HOOTL (not a fifth slot). Clusters: Personal Finance (spine), Presence + Career, Cultural Integration.
 
 ## Life Areas (canonical)
 All areas live flat in Areas/ as .md. Use Area template + update frontmatter.
