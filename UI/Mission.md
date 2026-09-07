@@ -5,21 +5,21 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-09-06
+review_date: 2026-09-07
 ---
 
 # Mission heading
 
 Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b overwrite.
 
-**Do this now:** Week 37 apply — live-check then submit by Fri 11 Sep
+**Do this now:** Week 37 apply — live-check then submit by Fri 11 Sep (**slot 2 P0**)
 
-Week 37 apply — live-check then submit by Fri 11 Sep (2026-09-11). Also: Same-day reply if the live introduction writes — do not chase; treat as dying unless they write — same-day reply only if they write — no extra nudge.
+Week 37 apply — live-check then submit by Fri 11 Sep (2026-09-11). Also: AF synpunkter Wed 9 Sep (slot 1). Same-day reply if the live introduction writes — do not chase; treat as dying unless they write — same-day reply only if they write — no extra nudge.
 
 Detailed named graph (this machine only, not on git): [[UI/_private.Mission]].
 Contact mail and posting URLs: `~/.grok/mission-maps/contacts.md`.
 
-**Updated:** 2026-09-06T18:00:00+0530  
+**Updated:** 2026-09-07T12:00:00+0530  
 **On the path?** **on-path**
 
 | | |
@@ -31,7 +31,7 @@ Contact mail and posting URLs: `~/.grok/mission-maps/contacts.md`.
 | **Longest remaining chain** | 4.283333 weeks (kernel snapshot 2026-09-01; not a destiny date) |
 | **Change since last snapshot** | -1.083333 (at W36 apply; snapshot 2026-09-01) |
 | **This tick cosθ** | 1.0 |
-| **This tick did** | W36 closed; W36 apply submitted 2026-09-01 (collab-finder marked applied) |
+| **This tick did** | Plate refresh 2026-09-07: Kanithanj/Fleet Desk minted; packedbox Phase 4; ensembly product parked |
 | **Named Do (still)** | week 37 apply |
 
 Remaining T shortened at W36 apply (delta_te=-1.083333, snapshot 2026-09-01). No newer map JSON in-repo.

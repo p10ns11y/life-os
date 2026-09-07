@@ -24,7 +24,8 @@ Tools for showing work and finding opportunities.
 
 ### 3. Daily Foundations + Infra
 Daily tools and self-auditing systems.
-- [[Projects/ensembly/README|ensembly]] — **digital clone / Game of Peram** · sessions [[Projects/ensembly/sessions/2026-07-15|2026-07-15]]
+- [[Projects/ensembly/README|ensembly]] — **digital clone / Game of Peram** · **product parked on plate** (Fleet Desk + Steward HOOTL) · sessions [[Projects/ensembly/sessions/2026-07-15|2026-07-15]]
+- [[Projects/packedbox/README|packedbox]] — NavigationView Phase 4 merged; Steward kernel ops (not a fifth slot)
 - [[Projects/peram-vault/README|peram-vault]] — **local PQ vault SoT** + xAI Collections dry-run (code/path via private map; no public disk location)
 - [[Projects/shellyxz/README|shellyxz]] (https://github.com/p10ns11y/shellyxz.sh, `~/.config/shell`) · [[Projects/shellyxz/sessions/2026-07-15|2026-07-15]]
 - [[Projects/arch-machine/README|arch-machine]] — keeper #28+#33 · archy #29 · groxy #31+#32 · eye-comfort closed · [[Projects/arch-machine/sessions/2026-07-21|2026-07-21]]
@@ -62,7 +63,7 @@ See Bases views in [[Kernel/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-09-06):** **W36 closed — right sailing** (apply submitted 2026-09-01; \(\Delta t_e=-1.08\), cosθ=1). **W37 open:** week 37 apply due Fri 11 Sep. Kernel snapshot 2026-09-01 (\(t_e \approx 4.28\)). Same-day reply only if a screen writes. Travel checklist still open. See [[UI/Dashboard]] · [[UI/Mission]] · [[Reviews/weekly-2026-09-06]].
+**Current focus (2026-09-07):** **W37 open** — slot **2 P0** (week 37 apply due Fri 11 Sep). AF synpunkter Wed 9 Sep. Kanithanj Desk + Fleet Desk minted. packedbox Phase 4 merged (NavigationView). ensembly **product parked** (not a fifth slot). Kernel snapshot 2026-09-01 (\(t_e \approx 4.28\)). Wealth DAG: `ops/wealth/sweden-wealth-dag.md`. See [[UI/Dashboard]] · [[UI/Mission]] · [[Reviews/plate-2026-09-07]].
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]

@@ -9,8 +9,8 @@ cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/collab-finder
 weekly_energy_target: 2
 weekly_energy_logged: 8.5  # +2026-09-01 W36 apply logged (human submit; agent notes)
-next_action: "Week 37: next relevant apply (human). W36 pack in; outcomes private."
-review_date: 2026-09-08
+next_action: "Kanithanj Desk: hunt/prune/reliability. Human: week 37 apply (slot 2 P0)."
+review_date: 2026-09-07
 effort: high
 tags: [agentic, tauri, collab, job-tools, rust, react]
 ---
@@ -33,7 +33,7 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 - **Durable application pack export** (2026-07-16): `export_application_pack` → app-local `application_packs/opp_{id}/` + Discover **Export pack** CTA; mark Applied + hydrate unchanged; CV sidecar still non-mutating
 
 ## Current Focus / Open
-- **2026-08-16:** [#19](https://github.com/p10ns11y/collab-finder/pull/19)–[#22](https://github.com/p10ns11y/collab-finder/pull/22) on `main` — hunt rails, Quest persist/restore, apply artifacts + JobTech JD + email draft. Session [[Projects/collab-finder/sessions/2026-08-16]].
+- **Kanithanj Desk** (2026-09-07): hunt + prune/reliability until job lands; operator on week 37 apply only.
 - Employer outcomes / apply-phone: private disk only
 - Next: week 37 apply (human); analyze-via-agent still open
 - **Not** XState adoption yet (MVU owns domain)
