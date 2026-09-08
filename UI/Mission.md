@@ -5,36 +5,37 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-09-07
+review_date: 2026-09-08
 ---
 
 # Mission heading
 
 Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b overwrite.
 
-**Do this now:** Week 37 apply — live-check then submit by Fri 11 Sep (**slot 2 P0**)
+**Do this now:** Submit one relevant application next week — do not wait for replies
 
-Week 37 apply — live-check then submit by Fri 11 Sep (2026-09-11). Also: AF synpunkter Wed 9 Sep (slot 1). Same-day reply if the live introduction writes — do not chase; treat as dying unless they write — same-day reply only if they write — no extra nudge.
+Submit one relevant application next week — do not wait for replies. live-check then submit next week's pack (2026-09-18). Also: Same-day reply if the live introduction writes — do not chase; treat as dying unless they write — same-day reply only if they write — no extra nudge.
 
 Detailed named graph (this machine only, not on git): [[UI/_private.Mission]].
 Contact mail and posting URLs: `~/.grok/mission-maps/contacts.md`.
 
-**Updated:** 2026-09-07T12:00:00+0530  
+**Updated:** 2026-09-08T20:00:06+0530  
 **On the path?** **on-path**
 
 | | |
 |--|--|
 | **Arrive when** | started a decent Sweden/Nordics/EU full-time role |
-| **Do this now** | Week 37 apply — live-check then submit by Fri 11 Sep |
+| **Do this now** | Submit one relevant application next week — do not wait for replies |
 | **Live thread (intro already happened)** | 4.38 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
-| **Longest remaining chain** | 4.283333 weeks (kernel snapshot 2026-09-01; not a destiny date) |
-| **Change since last snapshot** | -1.083333 (at W36 apply; snapshot 2026-09-01) |
+| **Longest remaining chain** | 4.283333 weeks (kernel; not a destiny date) |
+| **Change since last snapshot** | 0.000000 |
 | **This tick cosθ** | 1.0 |
-| **This tick did** | Plate refresh 2026-09-07: Kanithanj/Fleet Desk minted; packedbox Phase 4; ensembly crew HOOTL (not a fifth slot) |
-| **Named Do (still)** | week 37 apply |
+| **This tick did** | W37 batch submitted (CF #533–538); collab-finder marked applied/waiting |
+| **Named Do (still)** | one relevant application next week |
 
-Remaining T shortened at W36 apply (delta_te=-1.083333, snapshot 2026-09-01). No newer map JSON in-repo.
+This week's act is on the path to a start date.
+
 
 ## How to push
 
@@ -42,7 +43,7 @@ Keep shipping one relevant application per week until a calendar is booked. Same
 
 ## How long (Sweden rounds)
 
-Sweden SWE hiring (week 37). W36 apply is in. Live intro: no calendar; same-day reply only if they write. Ghost signpost already fired. Remaining-screens silent-by-29-Aug signpost also fired — dying unless they write. Technical wait now sits on submitted packs (including W36), not in front of a live interview. Next Do is week 37 apply (parallel insurance). Unemployed start is often 1–4 weeks, not a 3-month notice.
+Sweden SWE hiring (week 37). W37 batch is in: five applied 2026-09-04…09-07 (CF #533–538, all waiting). One Lever lane parked (CAPTCHA). Live intro: no calendar; same-day reply only if they write. Ghost signpost already fired. Older screens silent-by-29-Aug signpost also fired — dying unless they write. Horizon US pack exists on disk — not G; do not spend this tick there. Technical wait now includes the W37 pool. Next Do is week 38 apply (parallel insurance). Unemployed start is often 1–4 weeks, not a 3-month notice.
 
 ## Stages
 
@@ -51,10 +52,10 @@ Plain language. No S0/S1 codes. Emails are local-only.
 | What | Status | Next follow-up | When |
 |------|--------|----------------|------|
 | Same-day reply if the live introduction writes — do not chase; treat as dying unless they write | waiting on them | same-day reply only if they write — no extra nudge | — |
-| Four applications waiting on screens; one specific role closed (other roles there may still fit) | already done | await screen (submitted) | — |
+| W37 batch plus older pool waiting on screens; one older closed req | already done | await screen (submitted) | — |
 | Watch other frontier IC roles — not the closed title; better fit may exist | later / stretch | only new postings that match agents/infra; never resend the closed req | — |
-| Week 37 apply — live-check then submit by Fri 11 Sep | do now | live-check then submit next week's pack | 2026-09-11 |
-| Technical round — usually 3–10 days to book if a submitted pack is moving; older screens dying unless they write | waiting on them | if a submitted pack books, show up that day; older screens: same-day reply only if they write — no extra nudge | — |
+| Submit one relevant application next week — do not wait for replies | do now | live-check then submit next week's pack | 2026-09-18 |
+| Technical round — usually 3–10 days to book if a submitted pack is moving; one W37 lane stated 3–4d reply; older screens dying unless they write | waiting on them | if a submitted pack books, show up that day; older screens: same-day reply only if they write — no extra nudge | — |
 | Team or hiring-manager round (typical Swedish SWE loop) | waiting on them | — | — |
 | Offer and start — unemployed, no long notice period | waiting on them | — | — |
 | Skip roles on the wrong tech stack | parked | — | — |
@@ -68,10 +69,10 @@ flowchart TB
   x["Where you are"]
   G["Arrive: started a decent Sweden/Nordics/EU full-time role"]
   S0["Same-day reply if the live introduction writes — do not chase; treat as dying unless they write (waiting on them)"]
-  S1["Four applications waiting on screens; one specific role closed (other roles there may still fit) (already done)"]
+  S1["W37 batch plus older pool waiting on screens; one older closed req (already done)"]
   S2["Watch other frontier IC roles — not the closed title; better fit may exist (later / stretch)"]
-  S3["Week 37 apply — live-check then submit by Fri 11 Sep (do now)"]
-  S4["Technical round — usually 3–10 days to book if a submitted pack is moving; older screens dying unless they write (waiting on them)"]
+  S3["Submit one relevant application next week — do not wait for replies (do now)"]
+  S4["Technical round — usually 3–10 days to book if a submitted pack is moving; one W37 lane stated 3–4d reply; older screens dying unless they write (waiting on them)"]
   S4b["Team or hiring-manager round (typical Swedish SWE loop) (waiting on them)"]
   S5["Offer and start — unemployed, no long notice period (waiting on them)"]
   P1["Skip roles on the wrong tech stack (parked)"]

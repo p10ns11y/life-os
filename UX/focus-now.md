@@ -24,14 +24,14 @@ Ops, amounts, tickets, school, addresses: `private/` only.
 
 | # | Slot | What “tick” means | Not this |
 |---|------|-------------------|----------|
-| 1 | **Sweden window (September)** | One prep done (ticket, document, packing act, pause/resume paperwork, AF synpunkter). | Browsing Sweden aesthetics |
+| 1 | **Season (calendar)** | One prep done (ticket, document, packing act, pause/resume paperwork, AF synpunkter). | Browsing Sweden aesthetics |
 | 2 | **Cash / career** | One compounding step a hiring loop can see (apply, Quest, proof). **G0 critical path.** Filter: *does this move SpaceXAI?* | Random repo tourism |
 | 3 | **Son / body world** | Protected block actually happened. Agent cannot tick this. Human only. | Digitizing parenting |
 | 4 | **Debt / Kivra** | One statutory/admin act on private critical-path (Mailbox Desk reminds), then **stop**. Tick = rumination off. | Rechecking the mountain |
 
 Today’s **one** laptop step lives in 1, 2, or 4. Slot 3 is off-laptop.
 
-**Live today (2026-09-07, Monday):** **slot 2 — Cash / career (P0).** AF synpunkter Wed 9 Sep in slot 1. Horizon: SpaceXAI filters slot 2. Slot 3 = protect human block.
+**Live today (2026-09-09, Wednesday):** **slot 2 — Cash / career.** Set via Omarchy menu (chip click or Super+Ctrl+semicolon). Horizon: SpaceXAI filters slot 2. Slot 3 = close laptop.
 
 ## Bots on the plate (roles only)
 
