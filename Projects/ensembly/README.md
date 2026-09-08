@@ -87,3 +87,5 @@ Operator opens turn or watch and **knows** the next body act and next authorizat
 - [[Projects/ensembly/sessions/2026-07-14|2026-07-14]] — eye-comfort traffic routed to arch-machine (no ensembly code tip change)
 
 *Last mine 2026-07-14: Grok/Cursor titles; tip still `eb3a58f`.*
+
+- [[Projects/ensembly/sessions/2026-09-08-nemoclaw-fuse|2026-09-08]] — NemoClaw memory-driven CoS patterns fused (evidence/knowledge/action; intent gate; audit)
