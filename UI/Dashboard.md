@@ -8,7 +8,7 @@
 
 | # | Slot | Today |
 |---|------|-------|
-| 1 | Sweden window | AF synpunkter **Wed 9 Sep**; return checklist still open |
+| 1 | Season | AF synpunkter **Wed 9 Sep**; return checklist still open |
 | 2 | Career | **P0 for operator attention** — week 37 apply due Fri 11 Sep |
 | 3 | Son / body | Human-only — agents do not tick |
 | 4 | Kivra admin | Digital Mailbox Desk reminds; operator acts one statutory item then stops |

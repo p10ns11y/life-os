@@ -47,4 +47,4 @@ Two booking codes. A remark says they travel together. Check-in, delays, bassine
 
 This week's checklist (names private): `private/travel/` — hire-loop no longer blocks this sitting (W36 apply is in). Open item is still the infant surname on the e-ticket.
 
-Related: [[Projects/swedish-assimilation/README|swedish-assimilation]] (after arrival) · [[UX/focus-now]] slot 1 Sweden window.
+Related: [[Projects/swedish-assimilation/README|swedish-assimilation]] (after arrival) · [[UX/focus-now]] slot 1 Season.
