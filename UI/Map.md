@@ -63,7 +63,7 @@ See Bases views in [[Kernel/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-09-07):** **W37 open** — slot **2 P0** (week 37 apply due Fri 11 Sep). AF synpunkter Wed 9 Sep. Kanithanj Desk + Fleet Desk minted. packedbox Phase 4 merged (NavigationView). ensembly **crew HOOTL** (not a fifth slot). Kernel snapshot 2026-09-01 (\(t_e \approx 4.28\)). Wealth DAG: `ops/wealth/sweden-wealth-dag.md`. See [[UI/Dashboard]] · [[UI/Mission]] · [[Reviews/plate-2026-09-07]].
+**Current focus (2026-09-13):** **Cash path Wait** — convert waiting packs toward first interview; no new apply Do this tick unless operator expands hunt. Kanithanj Desk + Fleet Desk on rails. ensembly **crew HOOTL** (not a fifth slot). See [[UI/Dashboard]] · [[UI/Mission]] · [[Reviews/weekly-2026-09-13]].
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]
