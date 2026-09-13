@@ -16,7 +16,7 @@ tags: [packedbox, voice, navigation, systems]
 
 # packedbox
 
-Voice + navigation shell for operator devices. Steward maintains kernel ops (mzapan, packedbox, ensembly integration).
+Voice + navigation shell for operator devices. Steward maintains kernel ops (laptop-1, packedbox, ensembly integration).
 
 ## Goal / Outcome
 
@@ -28,7 +28,7 @@ Reliable on-device navigation and voice affordances without a second life-OS slo
 
 ## Current focus
 
-- Steward box: Grok Bot computer + mzapan + packedbox/voice/ensembly kernel ops.
+- Steward box: Grok Bot computer + laptop-1 + packedbox/voice/ensembly kernel ops.
 - **Not** a fifth life-OS slot — see [[UX/focus-now]].
 
 ## Links

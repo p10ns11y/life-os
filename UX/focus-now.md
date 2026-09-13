@@ -39,7 +39,7 @@ Today’s **one** laptop step lives in 1, 2, or 4. Slot 3 is off-laptop.
 |------|------|
 | **Kanithanj Desk** | collab-finder hunt + prune/reliability until job lands |
 | **Fleet Desk** | ensembly-aware fleet status + start/stop/reroute; crew HOOTL; operator arch check-ins only |
-| **Steward** | Grok Bot computer + mzapan + packedbox/voice/ensembly kernel ops |
+| **Steward** | Grok Bot computer + laptop-1 + packedbox/voice/ensembly kernel ops |
 | **Digital Mailbox Desk** | Kivra / Swedish paperwork (slot 4) |
 | **Chief of Staff** | plate + token budget; decides under budget |
 
