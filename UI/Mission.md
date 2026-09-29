@@ -17,12 +17,12 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 Submit the three ready applications. submit before the postings pass one week old (by 30 Sep). Also: Technical interview in a live process — attend Fri 2 Oct.
 
 
-**Updated:** 2026-09-29T21:08:59+0200  
+**Updated:** 2026-09-29T21:10:13+0200  
 **On the path?** **on-path**
 
 | | |
 |--|--|
-| **Arrive when** | A paid role or income stream starting around early October 2026 |
+| **Arrive when** | A new role starting around early October 2026 |
 | **Do this now** | Submit the three ready applications |
 | **Live thread (intro already happened)** | 4.69 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
@@ -41,7 +41,7 @@ Submit fresh postings the same week they appear. Reply the same day when a live 
 
 ## How long (Sweden rounds)
 
-One live process has a technical interview this week. Three fresh applications are ready to submit. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; an unemployed start can be 1-4 weeks after an offer.
+One live process has a technical interview this week. Three fresh applications are ready to submit. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
@@ -53,10 +53,10 @@ Plain language. No S0/S1 codes. Emails are local-only.
 | Technical interview in a live process | waiting on them | attend | Fri 2 Oct |
 | Decision or next round after the technical interview | waiting on them | reply the same day if they write | — |
 | Team or hiring-manager round | waiting on them | — | — |
-| Offer and start (no notice period) | waiting on them | — | — |
+| Offer and start | waiting on them | — | — |
 | Screens from the new applications | waiting on them | reply the same day if they write | — |
 | Older applications, silent - reply only if they write | waiting on them | no nudge | — |
-| Pay may not match; decide when a number is on the table | later / stretch | — | — |
+| Terms to settle when an offer arrives | later / stretch | — | — |
 | Several processes closed at the first screen | already done | — | — |
 | Roles blocked or on hold | parked | — | — |
 | Side projects until after this week's interview | parked | — | — |
@@ -67,15 +67,15 @@ Plain language. No S0/S1 codes. Emails are local-only.
 ```mermaid
 flowchart TB
   x["Where you are"]
-  G["Arrive: A paid role or income stream starting around early October 2026"]
+  G["Arrive: A new role starting around early October 2026"]
   S3["Submit the three ready applications (do now)"]
   S0["Technical interview in a live process (waiting on them)"]
   S4["Decision or next round after the technical interview (waiting on them)"]
   S4b["Team or hiring-manager round (waiting on them)"]
-  S5["Offer and start (no notice period) (waiting on them)"]
+  S5["Offer and start (waiting on them)"]
   S6["Screens from the new applications (waiting on them)"]
   S1["Older applications, silent - reply only if they write (waiting on them)"]
-  R1["Pay may not match; decide when a number is on the table (later / stretch)"]
+  R1["Terms to settle when an offer arrives (later / stretch)"]
   D1["Several processes closed at the first screen (already done)"]
   P1["Roles blocked or on hold (parked)"]
   P2["Side projects until after this week's interview (parked)"]
