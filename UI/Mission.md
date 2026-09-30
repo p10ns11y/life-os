@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-09-29
+review_date: 2026-09-30
 ---
 
 # Mission heading
@@ -14,10 +14,10 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 
 **Do this now:** Submit the three ready applications
 
-Submit the three ready applications. submit before the postings pass one week old (by 30 Sep). Also: Technical interview in a live process — attend Fri 2 Oct.
+Submit the three ready applications. submit while the postings are still open (now). Also: Technical interview in a live process — attend Fri 2 Oct.
 
 
-**Updated:** 2026-09-29T21:10:13+0200  
+**Updated:** 2026-09-30T20:05:10+0200  
 **On the path?** **on-path**
 
 | | |
@@ -29,7 +29,7 @@ Submit the three ready applications. submit before the postings pass one week ol
 | **Longest remaining chain** | 4.686667 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Map rebuilt from the current state |
+| **This tick did** | Evening check — next step unchanged |
 | **Named Do (still)** | Submit the three ready applications |
 
 This week's act is on the path to a start date.
@@ -41,7 +41,7 @@ Submit fresh postings the same week they appear. Reply the same day when a live 
 
 ## How long (Sweden rounds)
 
-One live process has a technical interview this week. Three fresh applications are ready to submit. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
+One live process has a technical interview this week. Three fresh applications are still ready and not yet submitted — the same-week submit window for them has passed. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
@@ -49,7 +49,7 @@ Plain language. No S0/S1 codes. Emails are local-only.
 
 | What | Status | Next follow-up | When |
 |------|--------|----------------|------|
-| Submit the three ready applications | do now | submit before the postings pass one week old | by 30 Sep |
+| Submit the three ready applications | do now | submit while the postings are still open | now |
 | Technical interview in a live process | waiting on them | attend | Fri 2 Oct |
 | Decision or next round after the technical interview | waiting on them | reply the same day if they write | — |
 | Team or hiring-manager round | waiting on them | — | — |
