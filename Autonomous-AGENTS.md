@@ -27,16 +27,16 @@ Run this loop continuously (with appropriate sleep/polling intervals):
      - 🟡 DELEGATE (importance <3 + urgency ≥3)
      - ⚪ ELIMINATE (low/low)
    - Prefer tasks that:
+     - Match the live slot in [[UX/focus-now]] before other cluster work. Hiring next step: see [[UI/Mission]].
      - Are in high-relevance clusters (see [[UI/Graph]]).
      - Have clear `next_action`.
-     - Align with current energy focus (e.g. Tier 1 projects like `skills` + `thepulimaangani`).
    - Claim a task by updating its frontmatter:
      - Set or refine `next_action`
      - Bump `review_date` to a reasonable future date
      - Log start in the note body or Review Log
 
 3. **Execute Work**
-   - **Always load relevant skills** from `~/Work/personal/skills/` first (see AGENTS.md for key ones: ai-optimization, fusion-sage, higher-order-decision-architect, verification, stellar-roadmap, etc.).
+   - **Always load relevant skills** from `~/.grok/skills/` first (see AGENTS.md: ai-optimization, fusion-sage, higher-order-decision-architect, verification-cockpit, stellar-spacemap, control-graph).
    - Work inside the project note or create supporting artifacts.
    - For code work on connected projects (collab-finder, premflow, arch-machine, shellyxz, skills, etc.): follow the project's own conventions and run verification/build steps.
    - Update frontmatter in real time:
@@ -50,9 +50,9 @@ Run this loop continuously (with appropriate sleep/polling intervals):
    - If a task reveals missing capability:
      - Propose and create a new project using `Kernel/templates/Project.md`.
      - Assign appropriate `area` (one of the 7 canonical: Career, Health, Finance, Learning, Relationships, Systems, Creative).
-     - Assign `cluster` from existing Portfolio Map of Content (Portfolio-MOC) clusters (agentic-reactor, presence-career, daily-foundations, foundational-infra, cultural-creative, research-prototypes).
+     - Assign `cluster` from [[UI/Map]] (agentic-reactor, presence-career, daily-foundations, foundational-infra, cultural-creative, cultural-integration, personal-finance, research-prototypes).
      - Add to [[UI/Map]] and update [[UI/Graph]].
-   - Use `higher-order-decision-architect` and `stellar-roadmap` skills when scoping new work.
+   - Use `higher-order-decision-architect` and `stellar-spacemap` when scoping new work (`stellar-roadmap` only redirects).
    - Never create new top-level folders without explicit plan.
 
 5. **Verify & Close**
@@ -65,7 +65,7 @@ Run this loop continuously (with appropriate sleep/polling intervals):
 6. **Continuous Health**
    - Periodically review [[UI/Graph]] and [[UI/Map]] when connections change.
    - Contribute to `skills` when you discover better patterns.
-   - Optional capture source: `Projects/premflow/capture` (symlink to `~/.premflow`). Eisenhower fields stay on [[Projects/premflow/README|the premflow project card]] — see AGENTS.md § premflow Connection.
+   - Optional capture source: `Projects/premflow/capture` (symlink to the premflow ledger). Eisenhower fields stay on [[Projects/premflow/README|the premflow project card]] — see AGENTS.md § premflow Connection.
 
 ## Key Interfaces for Autonomous Agents
 
@@ -73,8 +73,8 @@ Run this loop continuously (with appropriate sleep/polling intervals):
 - **Project Map**: [[UI/Map]] + [[UI/Graph]].
 - **Rules**: `[[Kernel/schema.md]]`, `[[AGENTS.md]]`.
 - **Templates**: `Kernel/templates/Project.md` and `Area.md`.
-- **Skills Library**: `~/Work/personal/skills/`.
-- **Flow Tool**: `~/Work/personal/premflow/` (CLI for agent flows).
+- **Skills library**: `~/.grok/skills/` (library: skills repo).
+- **Flow tool**: premflow repo; `premflow` command on `PATH`.
 
 ## Safety & Non-Goals
 
@@ -89,10 +89,10 @@ Follow all protected areas and rules from AGENTS.md exactly. In particular:
 An autonomous agent might:
 - Wake every 15-60 minutes.
 - Scan Dashboard for DO FIRST items.
-- Pick the highest relevance unfinished task in a Tier 1 cluster.
+- Pick the highest relevance unfinished task that matches the live slot.
 - Load `ai-optimization` + `fusion-sage`.
 - Execute, update the project note with progress/energy.
-- If the task suggests a new capability, create a small project, update Portfolio Map of Content (Portfolio-MOC) and the graph.
+- If the task suggests a new capability, create a small project, update [[UI/Map]] and the graph.
 - Verify, log, sleep.
 
 This vault is the single source of truth. Autonomous agents should treat it as their memory, task queue, and improvement log.

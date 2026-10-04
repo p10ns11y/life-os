@@ -5,7 +5,7 @@ importance: 4
 urgency: 4
 area: "[[Career]]"
 tags: [north-star, compass, nudge, plate]
-review_date: 2026-09-07
+review_date: 2026-10-04
 ---
 
 # North star (public compass)
@@ -14,11 +14,11 @@ review_date: 2026-09-07
 
 | Layer | Meaning |
 |-------|---------|
-| **Immediate** | Four living slots only — [[UX/focus-now]]. Season (calendar; AF synpunkter Wed 9 Sep). Career **P0** (SpaceXAI **filter**). Son = off-laptop. Kivra admin = one private act then stop (Mailbox Desk reminds). |
-| **Horizon** | **SpaceXAI acceptance** — unknown duration. Every slot-2 tick must be visible to a hiring loop. |
+| **Immediate** | Four living slots only — [[UX/focus-now]]. Season is the calendar slot. Career is the live slot, filtered by frontier labs (mainly SpaceXAI or even bigger efforts of Elon). Son = off-laptop. Kivra admin = one private act then stop (Mailbox Desk reminds). |
+| **Horizon** | **Acceptance at frontier labs** — unknown duration. Every slot-2 tick must be visible to a hiring loop. |
 | **Park** | **PARKED** = off operator lookup time — agents keep HOOTL (~14%/day token budget). New Wayland/GTK overlays · ensembly as fifth operator slot · theni · skill tourism · second chat inboxes |
 
-**Nudge line (desktop):** Four slots via Omarchy menu (chip click or Super+Ctrl+semicolon). SpaceXAI filters slot 2. Do the live slot.
+**Nudge line (desktop):** Four slots via Omarchy menu (chip click or Super+Ctrl+semicolon). Frontier labs filter slot 2. Do the live slot.
 
 **Agent contract:** every reply names **one next step** in slot 1, 2, or 4 (or “protect slot 3 — close laptop”). Never pile. If the user is building infra to avoid the slot, say so.
 

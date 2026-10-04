@@ -15,7 +15,7 @@ This is my central **Life OS** — combining areas of responsibility, active pro
 
 - **Kernel/** — schema, templates, bases
 - **Shell/** — how you invoke ([[AGENTS]] at root, Inbox, Actions)
-- **UI/** — Dashboard, Welcome, Map, Graph
+- **UI/** — Dashboard, Welcome, Map, Graph, Mission
 - **UX/** — north-star, focus-now
 - **Reviews/** — week / quarter close
 - **Areas/** · **Projects/** — userland
@@ -31,17 +31,13 @@ This is my central **Life OS** — combining areas of responsibility, active pro
 - Eisenhower prioritization via `importance` (1-4) + `urgency` (1-4)
 - Weekly energy logging on projects
 - Regular review of `review_date` and `next_action`
-- Agentic work follows the guidance in `AGENTS.md` and loads skills from `~/Work/personal/skills/`
+- Agentic work follows the guidance in `AGENTS.md` and loads skills from `~/.grok/skills/` (library: skills repo)
 
 ## Projects
 
 See [[UI/Graph]] for a visual graph of projects, clusters, areas, and connections.
 
-Current focus clusters (from Portfolio Map of Content):
-- Agentic Reactor / Self-Guarded Kernel
-- Presence + Career Leverage
-- Daily Foundations + Infra
-- Cultural + Creative Root
+Current focus (2026-10-04): slot 2. Hiring next step: see [[UI/Mission]] (career heading). Clusters in play: Personal Finance (spine), Presence + Career, Cultural Integration. Full cluster list: [[UI/Map]].
 
 ## Tech & Tooling
 
@@ -69,6 +65,7 @@ The result is lightweight, decision-focused, and explicitly built to support age
 
 - [[UI/Dashboard]]
 - [[UI/Map]]
+- [[UI/Mission]]
 - [[Kernel/schema]]
 - [[AGENTS.md]]
 - [[Resources/index]] — Index and references for assets (whitepapers, techpapers, etc.)
@@ -81,12 +78,12 @@ This vault is the **clustered Projects/Areas memory** of what you started and or
 
 The **continuous digital clone / life swarm** (knows life from local data, removes digital friction, aims for frequent hooks/connectors, human joins as **pair** for physical + HITL) is a **separate product**:
 
-- Path: `~/Work/personal/ensembly`
+- Repo: ensembly
 - Portfolio card: [[Projects/ensembly/README|ensembly]] · sessions under `Projects/ensembly/sessions/`
-- Boundary law (agents): `ensembly/docs/LIFE-OS-BOUNDARY.md`
+- Boundary law (agents): ensembly repo, `docs/LIFE-OS-BOUNDARY.md`
 
 Do **not** turn this vault into the always-on connector host, and do **not** merge vault private notes into the ensembly git tree. Experiment and archive satellite projects freely; keep portfolio cards here.
 
-**Copilot (phase 1):** The clone may work portfolio code projects, keep ideas/schedules internally, surface proposals for your oversee, then open PRs. See `ensembly/docs/CLONE-COPILOT.md` and [[AGENTS]].
+**Copilot (phase 1):** The clone may work portfolio code projects, keep ideas/schedules internally, surface proposals for your oversee, then open PRs. See ensembly repo, `docs/CLONE-COPILOT.md`, and [[AGENTS]].
 
 This vault improves itself. Every time the system is used to plan or review work, the knowledge compounds.

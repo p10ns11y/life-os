@@ -14,4 +14,4 @@ Use schema + bases + templates for value. Update frontmatter on review. Eisenhow
 
 See [[Kernel/schema.md]] first.
 
-For AI agents / Cursor / Grok sessions working in this vault: read `[[AGENTS.md]]` (and load skills from `~/Work/personal/skills/`).
+For AI agents / Cursor / Grok sessions working in this vault: read `[[AGENTS.md]]` and load skills from `~/.grok/skills/` (library: skills repo). Grok Build’s user guide (skills chapter) is the load-path source of truth.

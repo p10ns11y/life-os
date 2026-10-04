@@ -2,7 +2,7 @@
 
 This is the central map for all personal projects.
 
-See [[UI/Dashboard]] for daily view and energy tracking. Cash-path heading (û_G / cosθ): [[UI/Mission]].
+See [[UI/Dashboard]] for daily view and energy tracking. Career heading (û_G / cosθ): [[UI/Mission]].
 
 **Canonical project shape:** `Projects/{slug}/README.md` + `Projects/{slug}/sessions/YYYY-MM-DD.md` (see [[Kernel/schema]]).
 
@@ -13,7 +13,7 @@ Use the Graph (filter to Projects/) and Bases views for connections and energy.
 ### 1. Agentic Reactor / Self-Guarded Kernel
 Core tools for safe agents.
 - [[Projects/skills/README|skills]] (meta library)
-- [[Projects/collab-finder/README|collab-finder]] — job-target reactor; looper + UI + React wave · sessions [[Projects/collab-finder/sessions/2026-07-12|2026-07-12]]
+- [[Projects/collab-finder/README|collab-finder]] — job-target reactor; control-graph + UI + React wave (`looper` is the old name) · sessions [[Projects/collab-finder/sessions/2026-07-12|2026-07-12]]
 - [[Projects/agent-prompt-tuning-lab/README|agent-prompt-tuning-lab]]
 
 ### 2. Presence + Career Leverage
@@ -27,7 +27,7 @@ Daily tools and self-auditing systems.
 - [[Projects/ensembly/README|ensembly]] — **digital clone / Game of Peram** · crew HOOTL (Fleet Desk + Steward keep shipping; not a fifth operator slot) · sessions [[Projects/ensembly/sessions/2026-07-15|2026-07-15]]
 - [[Projects/packedbox/README|packedbox]] — NavigationView Phase 4 merged; Steward kernel ops (not a fifth slot)
 - [[Projects/peram-vault/README|peram-vault]] — **local PQ vault SoT** + xAI Collections dry-run (code/path via private map; no public disk location)
-- [[Projects/shellyxz/README|shellyxz]] (https://github.com/p10ns11y/shellyxz.sh, `~/.config/shell`) · [[Projects/shellyxz/sessions/2026-07-15|2026-07-15]]
+- [[Projects/shellyxz/README|shellyxz]] (https://github.com/p10ns11y/shellyxz.sh) · [[Projects/shellyxz/sessions/2026-07-15|2026-07-15]]
 - [[Projects/arch-machine/README|arch-machine]] — keeper #28+#33 · archy #29 · groxy #31+#32 · eye-comfort closed · [[Projects/arch-machine/sessions/2026-07-21|2026-07-21]]
 - [[Projects/mesh/README|mesh]] — local machine allowlist for untrusted agents (internals off this vault)
 - [[Projects/premflow/README|premflow]] — shared SoT · [[Projects/premflow/sessions/2026-07-15|2026-07-15]]
@@ -63,11 +63,11 @@ See Bases views in [[Kernel/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-09-07):** **W37 open** — slot **2 P0** (week 37 apply due Fri 11 Sep). AF synpunkter Wed 9 Sep. Kanithanj Desk + Fleet Desk minted. packedbox Phase 4 merged (NavigationView). ensembly **crew HOOTL** (not a fifth slot). Kernel snapshot 2026-09-01 (\(t_e \approx 4.28\)). Wealth DAG: `ops/wealth/sweden-wealth-dag.md`. See [[UI/Dashboard]] · [[UI/Mission]] · [[Reviews/plate-2026-09-07]].
+**Current focus (2026-10-04):** slot **2** live. Hiring next step: see [[UI/Mission]]. Kernel: see [[UI/Mission]] (nightly). ensembly **crew HOOTL** (not a fifth slot). Wealth DAG: `ops/wealth/sweden-wealth-dag.md`. See [[UI/Dashboard]] · [[UI/Mission]] · [[UX/focus-now]].
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]
-- [[projects]] — visual graph of projects
+- [[UI/Graph]] — visual graph of projects
 - Git: https://github.com/p10ns11y/life-os
 
 Add new projects as folders under `Projects/` with `README.md` + `sessions/`.
