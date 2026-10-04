@@ -12,7 +12,7 @@ review_date: 2026-10-04
 
 **Problem this solves:** entropy + escapism from *too many trackers*. Not another project list.
 
-**Law:** at most **four** slots. If a fifth appears, it parks or it *replaces* one. SpaceXAI is **not** a fifth slot — it is the **quality filter** on slot 2 (career). ensembly is also **not** a fifth slot (operator attention); crew HOOTL.
+**Law:** at most **four** slots. If a fifth appears, it parks or it *replaces* one. Frontier labs (mainly SpaceXAI or even bigger efforts of Elon) are **not** a fifth slot — they are the **quality filter** on slot 2 (career). ensembly is also **not** a fifth slot (operator attention); crew HOOTL.
 
 Ops, amounts, tickets, school, addresses: `private/` only.
 
@@ -25,13 +25,13 @@ Ops, amounts, tickets, school, addresses: `private/` only.
 | # | Slot | What “tick” means | Not this |
 |---|------|-------------------|----------|
 | 1 | **Season (calendar)** | One prep done (ticket, document, packing act, pause/resume paperwork, statutory paperwork). | Browsing Sweden aesthetics |
-| 2 | **Career** | One compounding step a hiring loop can see (apply, Quest, proof). Filter: *does this move SpaceXAI?* | Random repo tourism |
+| 2 | **Career** | One compounding step a hiring loop can see (apply, Quest, proof). Filter: *does this move frontier labs?* | Random repo tourism |
 | 3 | **Son / body world** | Protected block actually happened. Agent cannot tick this. Human only. | Digitizing parenting |
 | 4 | **Kivra admin** | One statutory/admin act on private critical-path (Mailbox Desk reminds), then **stop**. Tick = rumination off. | Rechecking it |
 
 Today’s **one** laptop step lives in 1, 2, or 4. Slot 3 is off-laptop.
 
-**Live (checked 2026-10-04):** **slot 2 — Career.** Set via Omarchy menu (chip click or Super+Ctrl+semicolon). Horizon: SpaceXAI filters slot 2. Slot 3 = close laptop.
+**Live (checked 2026-10-04):** **slot 2 — Career.** Set via Omarchy menu (chip click or Super+Ctrl+semicolon). Horizon: frontier labs filter slot 2. Slot 3 = close laptop.
 
 ## Bots on the plate (roles only)
 
@@ -63,7 +63,7 @@ User systemd `focus-now-watchdog.timer` (minutely). Reads `hyprctl activewindow 
 
 Waybar: `custom/focus-now` in the user Waybar config (survives as user config; `omarchy refresh waybar` would wipe it — re-add after refresh).
 
-## Micro-move rule (SpaceXAI)
+## Micro-move rule (frontier labs)
 
 Every laptop session: **one** tick in slot 1, 2, or 4. Slot 2 ticks must be *visible to a hiring loop* or they are waste even if they feel like “systems.”
 
