@@ -99,5 +99,5 @@ Rules:
 4. Obsidian wikilinks: `[[Projects/{slug}/README|{slug}]]` or folder note if configured.
 5. Migrate legacy `Projects/foo.md` → `Projects/foo/README.md` when touching a project.
 
-Window for automated agent backfill: rolling ~30 days of `~/.grok` + `~/.cursor` session indexes (titles only; no private vault dumps).
+Window for automated agent backfill: rolling ~30 days of Grok + Cursor session indexes (titles only; no private vault dumps).
 

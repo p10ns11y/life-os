@@ -9,7 +9,7 @@ importance: 4
 urgency: 1
 progress: 94
 area: "[[Systems]]"
-next_action: "Checkout sentinel, pull; ignore or gitignore untracked .agents copies — not product dirty."
+next_action: "Checkout sentinel, pull; ignore or gitignore untracked .agents skill copies."
 review_date: 2026-08-22
 effort: high
 tags: [infra, arch, omarchy, theme, keeper, groxy, archy]
@@ -33,10 +33,10 @@ Turns a fresh install into a secure, profile-based fortress with agents and sent
 - Related to shellyxz.sh for full daily environment
 - Ties to [[elomaxz]] and other infra experiments
 - Theme detail note: [[Projects/arch-machine/eye-comfort-theme]]
-- Host Neovim/avante Grok ACP: `~/.config/nvim/lua/plugins/avante-grok.lua` (not a Grok plugin package)
+- Host Neovim/avante Grok ACP: the host Neovim config (`lua/plugins/avante-grok.lua`) (not a Grok plugin package)
 
 ## Local / External
-- `~/arch-machine` — **SoT for installable modules**
+- the local arch-machine clone — **SoT for installable modules**
 - Public on GitHub (p10ns11y/arch-machine)
 - Default trunk: **`sentinel`** (not legacy `master`)
 - Last ship wave: Jul 2026 ([#28](https://github.com/p10ns11y/arch-machine/pull/28)–[#36](https://github.com/p10ns11y/arch-machine/pull/36)). This week: no product commits. Session [[Projects/arch-machine/sessions/2026-08-16]].

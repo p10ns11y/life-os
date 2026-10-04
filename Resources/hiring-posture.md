@@ -31,8 +31,8 @@ Quoting a number from **public salary statistics** is normal. A company that fli
 
 ## How this sits on the map
 
-- **Do:** still ship the next relevant apply (week 37; W36 pack is in — do not spray a second this week). Generic lucka practice: [[sweden-sabbatical-cv]]. Operator letter frame: `private/career/` only.
-- **When they write:** offer the short paid trial *if* the product is small enough. Do not demand they skip process at SpaceXAI-scale.
+- **Do:** the next hiring step on [[UI/Mission]] — do not spray extra applies. Generic lucka practice: [[sweden-sabbatical-cv]]. Operator letter frame: `private/career/` only.
+- **When they write:** offer the short paid trial *if* the product is small enough. Do not demand they skip process at the scale of frontier labs (mainly SpaceXAI or even bigger efforts of Elon).
 - **Park:** arguing with HR on LinkedIn about checklists.
 
 Named threads and numbers stay on `private/career/`. Public self-read (GitHub / GitRoll-as-context / X), not for cold letters: [[operator-public-signal]].

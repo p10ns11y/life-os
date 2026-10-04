@@ -91,7 +91,7 @@ Use them when a strong engineer asks how you think. Lead letters with **collab-f
 - Process-as-identity gauntlets (you will leak impatience with extra loops).
 - Roles that want a quiet ticket-taker and no independent product during a gap.
 - Research-scientist / PhD-shaped ads (wrong proof).
-- Frontier title-as-identity **this sitting** (parked; cash-first).
+- Frontier title-as-identity **this sitting** (parked; income-first).
 
 That is **room match**, not a ranking of a people. The operator is Swedish. Many rooms here are already the first list; some are not. Fit-based rejection is fine. Privacy invasion, indirect attack, or “anti-social” framing for lawful dissent is not.
 

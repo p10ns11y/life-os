@@ -32,7 +32,7 @@ Hub for **identity sovereignty** across Tamil/India roots, Swedish place-life, a
 
 ## Bio frame (anchors)
 
-Born **1987**, **Thanjavur, Tamil Nadu**; ~**23 years** in India; **Sweden from ~2010**; international study; **English-primary** multinational work.
+Grew up in South India; moved to Sweden as an adult; international study; **English-primary** multinational work.
 
 ## Session log
 

@@ -29,7 +29,7 @@ GitHub: https://github.com/p10ns11y/shellyxz.sh
 - Supports running agents and tools reliably
 
 ## Local
-~/.config/shell (the live config)
+The live shell config on the host.
 
 ## Energy Note
 Steady maintenance. Important for productivity and agent work.
@@ -55,4 +55,4 @@ See [[UI/Map]].
 - [[Projects/shellyxz/sessions/2026-07-03|2026-07-03]]
 - [[Projects/shellyxz/sessions/2026-07-14|2026-07-14]] — Cursor agent-terminal dogfood, PNPM_HOME cleanup, README intent-first, verification cockpit shots
 
-*Last mine 2026-07-14: `~/.grok` + `~/.cursor` titles; live tree commits through `e74f8f3`.*
+*Last mine 2026-07-14: Grok + Cursor titles; live tree commits through `e74f8f3`.*

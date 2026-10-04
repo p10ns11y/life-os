@@ -8,7 +8,7 @@ tags: [infra, omarchy, theme, eye-comfort, circadian]
 
 # Eye-comfort theme (progress note)
 
-**SoT / code:** [`~/arch-machine`](https://github.com/p10ns11y/arch-machine) module  
+**SoT / code:** [arch-machine](https://github.com/p10ns11y/arch-machine) module  
 `modules/productivity/eye-comfort` · branch `feat/eye-comfort-theme`  
 PR: https://github.com/p10ns11y/arch-machine/pull/20
 

@@ -24,7 +24,7 @@ tags: [automation, systems]
 - **Plate bots:** Fleet Desk (ensembly fleet; crew HOOTL) · Steward (packedbox/voice/kernel) · Chief of Staff (token budget) — roles on [[UI/Dashboard]]
 - [[Projects/packedbox/README|packedbox]] — Phase 4 NavigationView merged; Steward ops
 - [[Projects/skills/README|skills]] — control-feeder + grok-host-prep (08-14); park new authoring
-- [[Projects/arch-machine/README|arch-machine]] — quiet week; return to `sentinel` (behind 1); untracked `.agents/` copies are noise
+- [[Projects/arch-machine/README|arch-machine]] — quiet week; return to `sentinel` (behind 1); untracked `.agents/` skill copies
 - [[Projects/ensembly/README|ensembly]] — crew HOOTL; operator arch check-ins only; Fleet Desk + Steward keep shipping
 - [[Projects/shellyxz/README|shellyxz]] · [[Projects/premflow/README|premflow]] · [[Projects/peram-vault/README|peram-vault]] — maintenance
 
