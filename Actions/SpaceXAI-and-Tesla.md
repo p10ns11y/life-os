@@ -10,15 +10,15 @@ weekly_energy_target: 1
 next_action: "Do not resend the closed req. Watch a better-fit IC posting (agents / inference / infra). Outcomes on private disk."
 review_date: 2026-09-01
 effort: high
-tags: [career, frontier]
+tags: [spacexai, career, tesla]
 ---
 
-# Frontier-lab campaign
+# SpaceXAI and Tesla
 
 Target: Senior IC roles focused on inference, agents, or high-leverage infra.
 
 ## Goal / Outcome
-Land (or be extremely well positioned for) a role at a frontier AI lab where I can ship truth-seeking systems at the frontier.
+Land (or be extremely well positioned for) a role at SpaceXAI (or similar) where I can ship truth-seeking systems at the frontier.
 
 ## Key Prep Items
 - Strong mission-aligned CV + one-pager

@@ -17,7 +17,7 @@ hint_lock: open
 
 **Responsibilities** (ongoing):
 - Maintain high-signal professional presence and continuous skill compounding in agentic systems, Rust/TS, local AI infra.
-- Strategic job search / positioning for roles at high-agency AI labs or frontier tooling.
+- Strategic job search / positioning for roles at SpaceXAI, high-agency AI labs, or frontier tooling.
 - Ship personal projects that demonstrate production readiness (Tauri agents, collab tools, etc.).
 
 **Standards / Metrics**:
@@ -26,7 +26,7 @@ hint_lock: open
 - Healthy pipeline of opportunities evaluated with the collab-finder tooling
 
 **Current Focus / Active Items**:
-- [[Actions/frontier-lab-campaign|Frontier-lab campaign]] — target campaign; **outcomes private** (`private/career/`)
+- [[Actions/SpaceXAI-and-Tesla|SpaceXAI]] — target campaign; **outcomes private** (`private/career/`)
 - Apply gate: screens already sent; **one specific role** at the frontier campaign is closed (do not resend that title). **Next Do:** see [[UI/Mission]]. Details and named threads: `private/` only.
 - **Kanithanj Desk** — collab-finder hunt + prune/reliability until job lands (operator on apply; desk on rails).
 - Sweden still functions; SWE **hiring funnel** is distorted (volume, junior squeeze, experience premium) — [[Resources/ai-hiring-sweden]]. Do not wait for an AI recovery.

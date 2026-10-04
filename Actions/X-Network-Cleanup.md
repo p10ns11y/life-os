@@ -162,12 +162,12 @@ Using available X tools I pulled:
 
 - Multiple pages of your recent posts + RTs + quotes (original content + ~20 engaged accounts).
 - Profile lookups (bio, metrics, created_at) for engaged accounts.
-- Classification against your clusters, the frontier-lab campaign (high importance career target), recent original threads (cultural design, AI inference hardware, Grok tooling), and agentic/Life OS focus.
+- Classification against your clusters, SpaceXAI-and-Tesla Action (high importance career target), recent original threads (cultural design, AI inference hardware, Grok tooling), and agentic/Life OS focus.
 
 **Key signals from your actual recent activity**:
 
 - Strong original content on **multi-national cultural design** and **AI inference hardware** (discussions of GPU/CUDA limitations vs alternative architectures for low-latency inference).
-- Heavy RTs on Tesla/energy/AI optimization topics (aligns with the dedicated [[Actions/frontier-lab-campaign|frontier-lab campaign]] targeting roles in inference/agents/infra).
+- Heavy RTs on Tesla/energy/AI optimization topics (aligns with dedicated [[Actions/SpaceXAI-and-Tesla]] Action targeting roles in inference/agents/infra).
 - Some RTs on economics/policy/philosophy and broad debate content (maps to political and policy debate categories).
 - Mentions of local AI/ML events and communities, science education content, and AI spend/jobs analysis papers.
 
@@ -201,7 +201,7 @@ This is a **small programmatic batch** from your live activity. Specific high-va
 - Run the search batches below in [https://x.com/Peramanathan/following](https://x.com/Peramanathan/following) (or scroll Followers).
 - Copy 10-50 @handles at a time (e.g. from one search result page).
 - Paste them here with any notes (e.g. "from crypto search").
-- I will research each (bio, recent posts, metrics, relevance score to your agentic/AI-infra/cultural/career clusters + frontier-lab target).
+- I will research each (bio, recent posts, metrics, relevance score to your agentic/AI-infra/cultural/career clusters + SpaceXAI target).
 - I will add to the appropriate list below with reason.
 - Repeat. For your 243 followers, batches are especially useful.
 
@@ -209,13 +209,13 @@ This is a **small programmatic batch** from your live activity. Specific high-va
 
 ### Keep List (Do Not Purge - High Relevance)
 
-These accounts align with your clusters (Agentic Reactor/skills, AI Infra, Daily Foundations, Cultural Creative, frontier-lab career target, Life OS).
+These accounts align with your clusters (Agentic Reactor/skills, AI Infra, Daily Foundations, Cultural Creative, SpaceXAI/Tesla career target, Life OS).
 
 - **@wafer_ai** — AI chip software optimization, fast open LLMs. Directly contributed to your strong inference thread. Score: 5/5. Keep + engage.
 - **@sairahul1** — Building with AI, open-sourced agent-skills (high stars), Gemini eng background. Extremely strong match for skills project. Score: 5/5.
 - **@JonathanRoss321** — Groq founder, LPU/hardware architecture. Core to your recent deep technical content. Score: 5/5.
 - **@0xBADB01E** — Provided key interconnect insights you quoted. Relevant to inference optimization. Score: 4/5.
-- **@SawyerMerritt** — Focused Tesla/EV/space/tech news. Directly supports the frontier-lab career campaign. Score: 4/5.
+- **@SawyerMerritt** — Focused Tesla/EV/space/tech news. Directly supports SpaceXAI-and-Tesla career action. Score: 4/5.
 - **@XFreeze** — Tesla energy/storage deployments and progress. Career + energy relevance. Score: 4/5.
 - **@adithya_s_k** — Scaling RL @ Hugging Face, Bangalore AI events. Good AI/ML + cultural (India) signal. Score: 4/5.
 - **@jjfleagle** — Head of AI @ Netsync. Writes on enterprise AI agents, workflows, infrastructure, moving AI to production. High overlap with agentic reactor and career. Score: 5/5.
@@ -245,7 +245,7 @@ Low relevance to your core work. Focus on **categories and types** below for rep
 These categories draw from:
 
 - Recent activity patterns (political commentary, climate/policy debates, high-volume news).
-- Your vault focus (Agentic Reactor/skills/premflow/arch-machine/shellyxz, AI infra & inference, Cultural + Creative root including thepulimaangani and multi-national design, Daily Foundations + infra, Presence/Career leverage, frontier-lab targets, and the 7 canonical Areas).
+- Your vault focus (Agentic Reactor/skills/premflow/arch-machine/shellyxz, AI infra & inference, Cultural + Creative root including thepulimaangani and multi-national design, Daily Foundations + infra, Presence/Career leverage, SpaceXAI-and-Tesla targets, and the 7 canonical Areas).
 
 Prioritize categories with zero or negative alignment to these.
 

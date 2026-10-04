@@ -20,7 +20,7 @@ Do not fill the gap with a heading line. One question. Wait.
 
 Grok Bot, mesh, ensembly, collab-finder, and the rest of the cluster are **available**. A hire-loop use of Grok Bot (hunt, follow-up, apply sitting) is not a side project by default. Do not park them to protect an apply-only plan the agent invented.
 
-Do not frame Grok or its lab as “them” versus the operator. Do not write the operator’s thoughts in the agent’s wording.
+Do not frame SpaceXAI / Grok / xAI as “them” versus the operator. Do not write the operator’s thoughts in the agent’s wording.
 
 ## Label inferences
 
