@@ -13,7 +13,7 @@ Use the Graph (filter to Projects/) and Bases views for connections and energy.
 ### 1. Agentic Reactor / Self-Guarded Kernel
 Core tools for safe agents.
 - [[Projects/skills/README|skills]] (meta library)
-- [[Projects/collab-finder/README|collab-finder]] — job-target reactor; looper + UI + React wave · sessions [[Projects/collab-finder/sessions/2026-07-12|2026-07-12]]
+- [[Projects/collab-finder/README|collab-finder]] — job-target reactor; control-graph + UI + React wave (`looper` is the old name) · sessions [[Projects/collab-finder/sessions/2026-07-12|2026-07-12]]
 - [[Projects/agent-prompt-tuning-lab/README|agent-prompt-tuning-lab]]
 
 ### 2. Presence + Career Leverage
@@ -63,7 +63,7 @@ See Bases views in [[Kernel/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-09-07):** **W37 open** — slot **2 P0** (week 37 apply due Fri 11 Sep). AF synpunkter Wed 9 Sep. Kanithanj Desk + Fleet Desk minted. packedbox Phase 4 merged (NavigationView). ensembly **crew HOOTL** (not a fifth slot). Kernel snapshot 2026-09-01 (\(t_e \approx 4.28\)). Wealth DAG: `ops/wealth/sweden-wealth-dag.md`. See [[UI/Dashboard]] · [[UI/Mission]] · [[Reviews/plate-2026-09-07]].
+**Current focus (2026-10-04):** slot **2** still live (chip set 2026-09-22). Do: one relevant application; the 18 Sep date has passed. ensembly **crew HOOTL** (not a fifth slot). Kernel unchanged since 2026-09-07 (\(t_e \approx 4.28\), \(\Delta t_e = 0\)). Wealth DAG: `ops/wealth/sweden-wealth-dag.md`. See [[UI/Dashboard]] · [[UI/Mission]] · [[UX/focus-now]].
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]

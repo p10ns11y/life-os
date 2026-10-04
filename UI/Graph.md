@@ -9,14 +9,14 @@ See [[UI/Map]] for cluster definitions, [[UI/Dashboard]] for live prioritization
 These are the active project **folders** (`Projects/{slug}/README.md` + `sessions/`):
 
 - **skills** (Career | agentic-reactor) — Relevance: 4/4, Progress: 72%, Energy logged: 1.5 (control-feeder 08-14)
-- **collab-finder** (Career | agentic-reactor) — Kanithanj Desk; week 37 apply P0
+- **collab-finder** (Career | agentic-reactor) — Kanithanj Desk; hiring Do is [[UI/Mission]], not a dated week-37 line
 - **packedbox** (Systems | foundational-infra) — Phase 4 NavigationView merged; Steward ops
 - **ensembly** (Systems | foundational-infra) — crew HOOTL; operator arch check-ins only; Fleet Desk keeps shipping
 - **devprofile** (Career | presence-career) — Relevance: 4/4, Progress: 65% — hire-site tests green; walkthroughs unslop; ensembly off /shipped
 - **arch-machine** (Systems | foundational-infra) — Relevance: 4/4, Progress: 94% — quiet week; sentinel behind 1
 - **wealth-due-diligence** (Finance | personal-finance) — Relevance: 4/4, Progress: 68% — literacy filed; wealth-core re-verify
 - **thepulimaangani** (Creative | cultural-creative) — Relevance: 4/4, Progress: 40% — park theni spike
-- **swedish-assimilation** (Learning | cultural-integration) — Relevance: 4/4, Progress: 5% — W36 practice not logged
+- **swedish-assimilation** (Learning | cultural-integration) — Relevance: 4/4, Progress: 5% — last note: W36 practice not logged; not re-checked 2026-10-04
 - **shellyxz** (Systems | foundational-infra) — Relevance: 3/4, Progress: 70%, Energy target: 0.5
 - **agent-prompt-tuning-lab** (Career | agentic-reactor) — Relevance: 3/4, Progress: 20%, Energy target: 0
 - **latex-cv** (Career | presence-career) — Relevance: 3/4, Progress: 30%, Energy target: 0
@@ -26,7 +26,7 @@ These are the active project **folders** (`Projects/{slug}/README.md` + `session
 - **premflow** (Systems | daily-foundations) — Relevance: 2/4, Progress: 10%, Energy target: 0.5
 - **prototype-it-to-explain-itself** (Learning | research-prototypes) — Relevance: 2/4, Progress: 15%, Energy target: 0
 - **cultural-integration** (Learning | cultural-integration) — Relevance: 4/4, Progress: 20%, Energy target: 0.5
-- **america-move-prep** (Career | cultural-integration) — Relevance: 3/4, Progress: 5%, Energy target: 0 — park W34
+- **america-move-prep** (Career | cultural-integration) — Relevance: 3/4, Progress: 5%, Energy target: 0 — parked since W34; not re-checked 2026-10-04
 
 Relevance score is primarily based on `importance` (1-4) from each project's frontmatter, combined with strategic value (cluster priority and energy allocation).
 

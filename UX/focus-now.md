@@ -5,7 +5,7 @@ importance: 4
 urgency: 4
 area: "[[Systems]]"
 tags: [focus, flow, north-star, hyprland, plate]
-review_date: 2026-09-07
+review_date: 2026-10-04
 ---
 
 # Focus now — four living slots (public)
@@ -31,7 +31,7 @@ Ops, amounts, tickets, school, addresses: `private/` only.
 
 Today’s **one** laptop step lives in 1, 2, or 4. Slot 3 is off-laptop.
 
-**Live today (2026-09-09, Wednesday):** **slot 2 — Cash / career.** Set via Omarchy menu (chip click or Super+Ctrl+semicolon). Horizon: SpaceXAI filters slot 2. Slot 3 = close laptop.
+**Live (checked 2026-10-04):** **slot 2 — Cash / career.** Chip set 2026-09-22 and still slot 2 (`~/.config/focus-now/live.json`). Set via Omarchy menu (chip click or Super+Ctrl+semicolon). Horizon: SpaceXAI filters slot 2. Slot 3 = close laptop.
 
 ## Bots on the plate (roles only)
 

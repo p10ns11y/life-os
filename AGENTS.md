@@ -2,19 +2,19 @@
 
 This is the central **Life OS** notes vault, organized with Projects, Areas, Resources, and Archives, for structured prioritization, project tracking, energy logging, and agent-augmented workflows.
 
-**Primary interfaces**: `UI/Dashboard.md`, `UI/Map.md`, `Kernel/bases/*.base`, `Kernel/schema.md`. Layers: [[Kernel/README]] · [[Shell/README]] · [[UI/README]] · [[UX/README]].
+**Primary interfaces**: `UI/Dashboard.md`, `UI/Map.md`, `UI/Mission.md`, `Kernel/bases/*.base`, `Kernel/schema.md`. Live slot: [[UX/focus-now]]. Layers: [[Kernel/README]] · [[Shell/README]] · [[UI/README]] · [[UX/README]].
 
-**Not deployed apps:** `UI/Dashboard`, `UI/Map`, and `UI/Mission` are **Obsidian markdown notes** in this vault — not web apps, Eve sessions, or separate repositories. The continuous clone runtime is **ensembly** (`~/Work/personal/ensembly`); Eve remote control is ensembly trajectory, not a vault entrypoint.
+**Not deployed apps:** `UI/Dashboard`, `UI/Map`, and `UI/Mission` are **Obsidian markdown notes** in this vault — not web apps, Eve sessions, or separate repositories. The continuous clone runtime is **ensembly** (`~/dev/agentic-reactor/ensembly`); Eve remote control is ensembly trajectory, not a vault entrypoint.
 
 ### Not the digital clone runtime
 
-| This vault (`~/life-os`) | ensembly (`~/Work/personal/ensembly`) |
+| This vault (`~/life-os`) | ensembly (`~/dev/agentic-reactor/ensembly`) |
 |--------------------------|----------------------------------------|
 | Clustered Projects/Areas **wiki / portfolio memory** | **Digital clone / continuous friction swarm** |
 | Schema, Eisenhower, energy, Archives | Turn, day plan, HITL, claim/complete, game, future hooks/connectors |
 | Human+agent *organize* what was started | Clone *runs* digital path; human **pairs** for physical + HITL |
 
-Boundary (do not merge systems): `~/Work/personal/ensembly/docs/LIFE-OS-BOUNDARY.md`. Continuous connectors are ensembly trajectory — not vault duty.
+Boundary (do not merge systems): `~/dev/agentic-reactor/ensembly/docs/LIFE-OS-BOUNDARY.md`. Continuous connectors are ensembly trajectory — not vault duty.
 
 ### Digital clone as portfolio copilot (phase 1 — supervised)
 
@@ -27,7 +27,7 @@ The clone is **free to work on this vault’s portfolio code projects as a copil
 | **Open PRs** when proposal is greenlit (or standing OK for that class) | Review / merge; no silent force to main |
 | Update this vault’s project **card + sessions/** after ship | Archive projects only by intent |
 
-Full law: `~/Work/personal/ensembly/docs/CLONE-COPILOT.md`.  
+Full law: `~/dev/agentic-reactor/ensembly/docs/CLONE-COPILOT.md`.  
 Still refuse: unattended bank/email, vault `private/` commits, merging vault into product git.
 
 ## Immutable Core Rules
@@ -77,7 +77,7 @@ Public git is readable by **anyone**. Do not publish facts that let a third part
 
 If unsure, **omit**. Prefer a pointer over a revealing sentence. This rule outranks “be helpful / be specific” on public surfaces.
 
-**Cluster:** life-os, collab-finder, mission-map, focus-now, premflow, ensembly are **sibling apps**. Shared local data is readable; writes stay with the owner. Law: `~/Work/personal/ensembly/docs/SATELLITE-CLUSTER.md`. Do not merge them. Do not put a second hiring UI in ensembly.
+**Cluster:** life-os, collab-finder, mission-map, focus-now, premflow, ensembly are **sibling apps**. Shared local data is readable; writes stay with the owner. Law: `~/dev/agentic-reactor/ensembly/docs/SATELLITE-CLUSTER.md`. Do not merge them. Do not put a second hiring UI in ensembly.
 
 ## Agentic Workflow & Skills
 
@@ -98,21 +98,18 @@ It covers:
 
 Always cross-reference back to the core rules in this file (`AGENTS.md`).
 
-The canonical, battle-tested skills live here:
+Grok Build loads personal skills from `~/.grok/skills/` (user guide `~/.grok/docs/user-guide/08-skills.md`, checked 2026-10-04). The library checkout is `~/dev/agentic-reactor/skills/`. Many `~/.grok/skills/<name>` entries are symlinks into that checkout or into a plugin. `~/Work/personal/skills/` is not on this machine. Do not load plugins from `~/dev/agentic-reactor/plugins/` for daily Grok use; the installed copies are the marketplace cache.
 
-```
-~/Work/personal/skills/
-```
-
-Key skills you will almost always want (in rough order of use):
+Key skills that resolve under `~/.grok/skills/` (in rough order of use):
 - `ai-optimization` — token-efficient context, pruning, compression
 - `fusion-sage` — higher-order synthesis, surplus generation, cross-cutting abstraction
 - `higher-order-decision-architect` — first-principles, multi-order consequences, inversion, systems thinking
-- `verification` / `verify-before-done` patterns — run real checks, capture output, do not claim done without proof
-- `stellar-roadmap` — evidence-driven backlogs, blueprint cards
-- `bdd-strategizer`, `git-worktrees`, `explore-repo-readonly`, etc. as needed
+- `verification-cockpit` — project verify layouts. Still run the real check and capture output before calling done
+- `stellar-spacemap` — evidence-driven backlogs, blueprint cards (`stellar-roadmap` is a deprecated alias)
+- `control-graph` — outer loop (`looper` is a deprecated alias)
+- `git-worktrees`, `explore-then-edit`, `structured-repo-explore` as needed
 
-These are intended to be available globally (`~/.cursor/skills`, `~/.grok/skills`, symlinked, or explicitly loaded via path).
+`bdd-strategizer` and `explore-repo-readonly` still sit in the checkout. They are not linked under `~/.grok/skills/`, so a Grok session does not load them.
 
 When an agent session touches this vault or connected projects (collab-finder, premflow, arch-machine, shellyxz, skills, thepulimaangani, etc.):
 - For a connected coding project, first read its local `AGENTS.md` (e.g. collab-finder/AGENTS.md) + consult/update the corresponding `Projects/<name>/` note in this vault for session scope / next_action.
@@ -123,7 +120,7 @@ When an agent session touches this vault or connected projects (collab-finder, p
 
 ## premflow Connection
 
-`premflow` (command line interface / agent flow tool) lives at `~/Work/personal/premflow/`. Byte-level capture source of truth is `~/.premflow/` (private, never push).
+`premflow` code lives at `~/dev/foundations-infra/premflow/`. The command on `PATH` is `~/.local/bin/premflow`. Byte-level capture source of truth is `~/.premflow/` (private, never push).
 
 **Vault view (shipped):** `Projects/premflow/capture` is a tracked symlink to `~/.premflow`. Open `capture/todo.txt` or `capture/log.txt` in Obsidian to edit the same files the CLI writes. Portfolio Eisenhower / energy for premflow still live on [[Projects/premflow/README|the project card]] — do not duplicate a second todo list on the card.
 

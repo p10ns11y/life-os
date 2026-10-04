@@ -1,15 +1,17 @@
 # Life Dashboard
 
-> Last reviewed: 2026-09-07 (IST) • **Run full matrix review weekly.** Use this as your primary launch point.
+> Last reviewed: 2026-10-04 • **Run full matrix review weekly.** Use this as your primary launch point.
 
-## Operator plate (2026-09-07)
+## Operator plate (2026-10-04, week 40)
 
 **Four slots (unchanged charter):** [[UX/focus-now]] · compass [[UX/north-star]]. ensembly is **not** a fifth slot (operator attention); crew HOOTL; operator arch check-ins only.
 
+Live chip: **slot 2 — Cash / career**, set 2026-09-22, still slot 2. Source: `~/.config/focus-now/live.json`.
+
 | # | Slot | Today |
 |---|------|-------|
-| 1 | Season | AF synpunkter **Wed 9 Sep**; return checklist still open |
-| 2 | Career | **P0 for operator attention** — week 37 apply due Fri 11 Sep |
+| 1 | Season | Calendar slot. The 9 Sep paperwork date has passed; do not treat it as today's act |
+| 2 | Career | **Live slot.** One relevant application. The 18 Sep follow-up date has passed; the act is still open. Heading: [[UI/Mission]] |
 | 3 | Son / body | Human-only — agents do not tick |
 | 4 | Kivra admin | Digital Mailbox Desk reminds; operator acts one statutory item then stops |
 
@@ -27,35 +29,25 @@
 | **Digital Mailbox Desk** | Kivra / Swedish paperwork (slot 4) |
 | **Chief of Staff** | plate + token budget; decides under budget |
 
-**Minted this week:** Kanithanj Desk · Fleet Desk. **Shipped:** packedbox Phase 4 merged (NavigationView) — [[Projects/packedbox/README|packedbox]].
+**Desks already on the plate:** Kanithanj Desk · Fleet Desk. **Shipped earlier:** packedbox Phase 4 merged (NavigationView) — [[Projects/packedbox/README|packedbox]].
 
-## Week card (2026-W37) — Mon 7 Sep → Sun 13 Sep
+## Week card (2026-W40) — Mon 28 Sep → Sun 4 Oct
 
-Heading: [[UI/Mission]] · ops: `private/` · W36 close: [[Reviews/weekly-2026-09-06]] · plate day: [[Reviews/plate-2026-09-07]] · `Archives/` is attic.
+Heading: [[UI/Mission]] · ops: `private/` · earlier plate: [[Reviews/plate-2026-09-07]] · `Archives/` is attic.
 
-### Last week (W36) — what ran
+### This week
 
-- **W36 apply submitted 2026-09-01.** collab-finder marked applied. Outcomes `private/career/`.
-- Kernel: remaining chain \(t_e \approx 4.28\) weeks (\(\Delta t_e = -1.08\) vs pre-apply). **Right sailing** — last snapshot 2026-09-01.
-- Rails: collab-finder wave merged (#43–#48); #49 firm-list draft/open. ensembly/kingsparrow monopoly #3 + public-copy law. devprofile hire-site tests green.
-- Missed: Sweden-return checklist · Swedish language log · wealth-core re-verify · Distru CAPTCHA → Ashby.
-
-### This week (W37)
-
-- [ ] Week 37 apply — live-check then submit by **Fri 11 Sep** (**slot 2 P0**)
-- [ ] AF synpunkter — **Wed 9 Sep** (slot 1)
+- [ ] One relevant application — the 18 Sep date has passed; still the Do (**slot 2**)
 - [ ] Same-day reply **only if** a screen or the intro writes — do not chase
-- [ ] Sweden return checklist — [[Actions/sweden-return-flight-2026-09]] (unblocked; names `private/travel/`)
-- [ ] Swedish — 20 min + 5-line diary **and log a session**
 - [ ] Slot 4 — one Kivra/statutory act when Mailbox Desk pings; then stop
 
-**Capacity rule:** slot 2 owns the morning. Family blocks stay. Hiring hours ~8–12. No second pack until W37 apply lands. ensembly crew HOOTL (not a fifth operator slot); packedbox kernel under Steward/CoS budget.
+**Capacity rule:** slot 2 owns the laptop tick. Family blocks stay. ensembly crew HOOTL (not a fifth operator slot).
 
 **AI vs Sweden:** country still runs; SWE **funnel** is distorted. Evidence: [[Resources/ai-hiring-sweden]]. Do not wait for an “AI recovery.”
 
-**Kernel (not a destiny date):** remaining chain typical \(t_e \approx 4.28\) weeks (technical → team → start). Last kernel snapshot **2026-09-01** (\(\Delta t_e = -1.08\) at apply). Monte Carlo p90 ~5.7. Next Do: week 37 apply (due Fri 11 Sep).
+**Kernel (not a destiny date):** remaining chain typical \(t_e \approx 4.28\) weeks. Nightly rewrite on 2026-10-04 did not move the chain (\(\Delta t_e = 0\) since the 2026-09-07 snapshot).
 
-### Dirty now (code vs noise)
+### Last code scan (2026-09-07, not re-scanned)
 
 | Repo | Kind |
 |------|------|
@@ -97,7 +89,7 @@ Filter in the base on `urgency` / `urgency_label` (formula) or `next_action`. Us
 - Update project frontmatter: `cluster`, `weekly_energy_target`, `weekly_energy_logged`, `importance`, `progress`, `next_action`, `area`.
 - Bases: By Cluster, Energy Balance, Portfolio Projects (High Value).
 
-Current focus (2026-09-07): **slot 2 P0** (week 37 apply) · AF synpunkter Wed 9 Sep · Kanithanj/Fleet Desk minted · packedbox Phase 4 merged · ensembly crew HOOTL (not a fifth slot). Clusters: Personal Finance (spine), Presence + Career, Cultural Integration.
+Current focus (2026-10-04): **slot 2** (one relevant application; 18 Sep date has passed) · ensembly crew HOOTL (not a fifth slot). Clusters: Personal Finance (spine), Presence + Career, Cultural Integration.
 
 ## Life Areas (canonical)
 All areas live flat in Areas/ as .md. Use Area template + update frontmatter.
