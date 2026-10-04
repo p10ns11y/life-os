@@ -132,4 +132,4 @@ Tasks surface via the Todos view above (filter by area). See [[Kernel/schema.md]
 
 *Simple frontmatter + Bases + templates = durable prioritization and progress. Update schema first for changes.*
 
-**Compass:** [[UX/north-star]] · [[UX/focus-now]] — four slots; SpaceXAI filters cash. Desktop nudge at :00 and :30.
+**Compass:** [[UX/north-star]] · [[UX/focus-now]] — four slots; the horizon filter applies to slot 2. Desktop nudge at :00 and :30.

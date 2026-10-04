@@ -2,7 +2,7 @@
 
 This is the central map for all personal projects.
 
-See [[UI/Dashboard]] for daily view and energy tracking. Cash-path heading (û_G / cosθ): [[UI/Mission]].
+See [[UI/Dashboard]] for daily view and energy tracking. Career heading (û_G / cosθ): [[UI/Mission]].
 
 **Canonical project shape:** `Projects/{slug}/README.md` + `Projects/{slug}/sessions/YYYY-MM-DD.md` (see [[Kernel/schema]]).
 
@@ -27,7 +27,7 @@ Daily tools and self-auditing systems.
 - [[Projects/ensembly/README|ensembly]] — **digital clone / Game of Peram** · crew HOOTL (Fleet Desk + Steward keep shipping; not a fifth operator slot) · sessions [[Projects/ensembly/sessions/2026-07-15|2026-07-15]]
 - [[Projects/packedbox/README|packedbox]] — NavigationView Phase 4 merged; Steward kernel ops (not a fifth slot)
 - [[Projects/peram-vault/README|peram-vault]] — **local PQ vault SoT** + xAI Collections dry-run (code/path via private map; no public disk location)
-- [[Projects/shellyxz/README|shellyxz]] (https://github.com/p10ns11y/shellyxz.sh, `~/.config/shell`) · [[Projects/shellyxz/sessions/2026-07-15|2026-07-15]]
+- [[Projects/shellyxz/README|shellyxz]] (https://github.com/p10ns11y/shellyxz.sh) · [[Projects/shellyxz/sessions/2026-07-15|2026-07-15]]
 - [[Projects/arch-machine/README|arch-machine]] — keeper #28+#33 · archy #29 · groxy #31+#32 · eye-comfort closed · [[Projects/arch-machine/sessions/2026-07-21|2026-07-21]]
 - [[Projects/mesh/README|mesh]] — local machine allowlist for untrusted agents (internals off this vault)
 - [[Projects/premflow/README|premflow]] — shared SoT · [[Projects/premflow/sessions/2026-07-15|2026-07-15]]

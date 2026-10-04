@@ -2,7 +2,7 @@
 
 This page lists the **real projects** defined in the `Projects/` folder and provides a clear visual graph of their relevance and connections.
 
-See [[UI/Map]] for cluster definitions, [[UI/Dashboard]] for live prioritization, and [[UI/Mission]] for the cash-path heading (plain-language next act, not S0/S1 codes).
+See [[UI/Map]] for cluster definitions, [[UI/Dashboard]] for live prioritization, and [[UI/Mission]] for the career heading (plain-language next act, not S0/S1 codes).
 
 ## Real Projects (from Projects/ folder)
 
@@ -125,7 +125,7 @@ flowchart TD
 
 - Data from each project's frontmatter in `Projects/{slug}/README.md`.
 - **Layout (all projects):** `README.md` (card) + `sessions/YYYY-MM-DD.md` (detail). See [[Kernel/schema]].
-- Agent backfill window: ~30 days of Grok (`~/.grok`) + Cursor (`~/.cursor/projects/.../agent-transcripts`) titles.
+- Agent backfill window: ~30 days of Grok + Cursor agent transcript titles.
 - For live filtering, use Bases views in `Kernel/bases/`.
 - Update this graph when adding new projects or changing frontmatter (importance, cluster, area).
 

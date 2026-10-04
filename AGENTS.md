@@ -60,7 +60,7 @@ Still refuse: unattended bank/email, vault `private/` commits, merging vault int
 
 **Private disk rule:** Public / remote notes are **pointers only** (e.g. “see `private/`”). Financial account details, amounts, phone/carrier ops, legal-name checks, referral details, and similar PII go in `private/` or `_private.*` — never in Dashboard, Areas, Projects cards, or tracked sessions.
 
-### Process-safety (hiring, cash, legal) — do not help anyone block the path
+### Process-safety (hiring, money, legal) — do not help anyone block the path
 
 Public git is readable by **anyone**. Do not publish facts that let a third party **interfere** with a live process (hiring, finances, travel, family), even if they are not classic PII.
 
@@ -73,7 +73,7 @@ Public git is readable by **anyone**. Do not publish facts that let a third part
 
 **Allowed on remote:** generic verbs only — “one pack submitted”, “next relevant apply”, “live intro: same-day reply”, “outcomes on `private/career/`”.
 
-**Local only:** `private/`, `_private.*`, `~/.grok/mission-maps/` (contacts, pipeline, JSON). Nightly `mm-lifeos-graph` must not copy company names or emails into `UI/Mission.md`.
+**Local only:** `private/`, `_private.*`, the local mission-map store (contacts, pipeline, JSON). Nightly `mm-lifeos-graph` must not copy company names or emails into `UI/Mission.md`.
 
 If unsure, **omit**. Prefer a pointer over a revealing sentence. This rule outranks “be helpful / be specific” on public surfaces.
 
@@ -107,9 +107,9 @@ Key skills that resolve under `~/.grok/skills/` (in rough order of use):
 - `verification-cockpit` — project verify layouts. Still run the real check and capture output before calling done
 - `stellar-spacemap` — evidence-driven backlogs, blueprint cards (`stellar-roadmap` is a deprecated alias)
 - `control-graph` — outer loop (`looper` is a deprecated alias)
-- `git-worktrees`, `explore-then-edit`, `structured-repo-explore` as needed
+- `git-worktrees` as needed
 
-`bdd-strategizer` and `explore-repo-readonly` still sit in the skills repo. They are not linked under `~/.grok/skills/`, so a Grok session does not load them.
+`bdd-strategizer` and `explore-repo-readonly` still sit in the skills repo. They are not linked under `~/.grok/skills/`, so a Grok session does not load them. `explore-then-edit` and `structured-repo-explore` are project skills in some connected repos (`.agents/skills/`), not personal skills.
 
 When an agent session touches this vault or connected projects (collab-finder, premflow, arch-machine, shellyxz, skills, thepulimaangani, etc.):
 - For a connected coding project, first read its local `AGENTS.md` (e.g. collab-finder/AGENTS.md) + consult/update the corresponding `Projects/<name>/` note in this vault for session scope / next_action.
@@ -120,9 +120,9 @@ When an agent session touches this vault or connected projects (collab-finder, p
 
 ## premflow Connection
 
-`premflow` code lives in the premflow repo. The `premflow` command is on `PATH`. Byte-level capture source of truth is `~/.premflow/` (private, never push).
+`premflow` code lives in the premflow repo. The `premflow` command is on `PATH`. Byte-level capture source of truth is the premflow ledger (private, never push).
 
-**Vault view (shipped):** `Projects/premflow/capture` is a tracked symlink to `~/.premflow`. Open `capture/todo.txt` or `capture/log.txt` in Obsidian to edit the same files the CLI writes. Portfolio Eisenhower / energy for premflow still live on [[Projects/premflow/README|the project card]] — do not duplicate a second todo list on the card.
+**Vault view (shipped):** `Projects/premflow/capture` is a tracked symlink to the premflow ledger. Open `capture/todo.txt` or `capture/log.txt` in Obsidian to edit the same files the CLI writes. Portfolio Eisenhower / energy for premflow still live on [[Projects/premflow/README|the project card]] — do not duplicate a second todo list on the card.
 
 Full paths, privacy rules, and ensembly wrapper: [[Projects/premflow/README]]. Keep the byte source of truth in the premflow tree; this vault holds portfolio memory and the Obsidian view only.
 
