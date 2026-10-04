@@ -9,7 +9,7 @@ importance: 4
 urgency: 1
 progress: 94
 area: "[[Systems]]"
-next_action: "Checkout sentinel, pull; ignore or gitignore untracked .agents copies — not product dirty."
+next_action: "Checkout sentinel, pull; ignore or gitignore untracked .agents skill copies."
 review_date: 2026-08-22
 effort: high
 tags: [infra, arch, omarchy, theme, keeper, groxy, archy]

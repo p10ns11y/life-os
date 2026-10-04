@@ -1,12 +1,12 @@
 ---
 type: task
-status: "In Progress"
+status: "Done"
 importance: 4
 urgency: 4
-progress: 70
+progress: 100
 area: "[[Relationships]]"
-next_action: "Read infant surname on the e-ticket (names stay private). Bassinet on adult file if still ≤11 kg."
-review_date: 2026-09-01
+next_action: "Reuse these rules for the next lap-infant booking."
+review_date: 2026-10-04
 effort: medium
 tags: [travel, family, infant]
 ---
@@ -32,15 +32,14 @@ Two booking codes. A remark says they travel together. Check-in, delays, bassine
 5. Fallback that already worked: a **1-stop** carrier, 2.5–4h sit, one checkout.
 6. In-flight Wi‑Fi is a **tie-breaker**. Getting on the plane beats Wi‑Fi.
 
-## Open
+## Checklist for next time
 
-- [x] Booked (details private)
-- [ ] Read infant **surname** on the e-ticket (still open — do this week; names private)
-- [ ] Bassinet only if still ≤11 kg; request on the **adult** file
-- [ ] APIS / online check-in window (typically 24–48h before)
-- [ ] Documents pouch (passports + tickets + insurance) — no strings on this card
-- [ ] Cabin / layover: stroller gate-check, food, battery; car-seat decision
+- Read the infant **surname** on the e-ticket (names private)
+- Bassinet only if still ≤11 kg; request on the **adult** file
+- APIS / online check-in window (typically 24–48h before)
+- Documents pouch (passports + tickets + insurance) — no strings on this card
+- Cabin / layover: stroller gate-check, food, battery; car-seat decision
 
-Checklist (names private): `private/travel/`. Open item is still the infant surname on the e-ticket.
+Details (names private): `private/travel/`.
 
 Related: [[Projects/swedish-assimilation/README|swedish-assimilation]] (after arrival) · [[UX/focus-now]] slot 1 Season.

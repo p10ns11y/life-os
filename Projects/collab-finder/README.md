@@ -66,7 +66,7 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 
 - [[Projects/collab-finder/sessions/2026-09-01|2026-09-01]] — application submitted (public pointer)
 - [[Projects/collab-finder/sessions/2026-08-31|2026-08-31]] — hunt packs from gitignored rails; CV how-to; not a submit
-- [[Projects/collab-finder/sessions/2026-08-29|2026-08-29]] — 4 cash-first Sweden IC (stretch parked)
+- [[Projects/collab-finder/sessions/2026-08-29|2026-08-29]] — 4 income-first Sweden IC (stretch parked)
 - [[Projects/collab-finder/sessions/2026-08-19|2026-08-19]] — Agent context diet + verify SoT (`AGENTS.md` router; no phantom lint)
 - [[Projects/collab-finder/sessions/2026-08-18|2026-08-18]] — Firm durability ranker v1 (public IR; SQLite snapshot; theatre-SaaS gated)
 - [[Projects/collab-finder/sessions/2026-08-17-heading-waybar|2026-08-17 heading]] — Waybar Apply → Heading (hydrate no longer steals Discover; hash + Meta+1)

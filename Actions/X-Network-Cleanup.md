@@ -167,7 +167,7 @@ Using available X tools I pulled:
 **Key signals from your actual recent activity**:
 
 - Strong original content on **multi-national cultural design** and **AI inference hardware** (discussions of GPU/CUDA limitations vs alternative architectures for low-latency inference).
-- Heavy RTs on Tesla/energy/AI optimization topics (aligns with the dedicated [[Actions/SpaceXAI-and-Tesla|frontier-lab campaign]] targeting roles in inference/agents/infra).
+- Heavy RTs on Tesla/energy/AI optimization topics (aligns with the dedicated [[Actions/frontier-lab-campaign|frontier-lab campaign]] targeting roles in inference/agents/infra).
 - Some RTs on economics/policy/philosophy and broad debate content (maps to political and policy debate categories).
 - Mentions of local AI/ML events and communities, science education content, and AI spend/jobs analysis papers.
 
