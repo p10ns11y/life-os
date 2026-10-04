@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-10-03
+review_date: 2026-10-04
 ---
 
 # Mission heading
@@ -17,19 +17,19 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 No Do on the map.
 
 
-**Updated:** 2026-10-03T20:04:51+0200  
+**Updated:** 2026-10-04T20:10:22+0200  
 **On the path?** **wait**
 
 | | |
 |--|--|
-| **Arrive when** | A new role starting around early October 2026 |
+| **Arrive when** | A new role or another steady work stream |
 | **Do this now** | Do this now |
 | **Live thread (intro already happened)** | 4.27 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
 | **Longest remaining chain** | 4.266667 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Evening check — thank-you sent after Friday's interview; still waiting on a decision |
+| **This tick did** | Evening check — still waiting on a decision after Friday's interview thank-you |
 | **Named Do (still)** | Reply the same day if a live process writes |
 
 No self-vector. Signpost only; do not invent work.
@@ -66,7 +66,7 @@ Plain language. No S0/S1 codes. Emails are local-only.
 ```mermaid
 flowchart TB
   x["Where you are"]
-  G["Arrive: A new role starting around early October 2026"]
+  G["Arrive: A new role or another steady work stream"]
   S0["Technical interview Friday; thank-you sent (already done)"]
   S4["Decision or next round after the technical interview (waiting on them)"]
   S4b["Team or hiring-manager round (waiting on them)"]
