@@ -7,7 +7,7 @@
 **/_private/
 **/_private/**
 
-# Shared premflow capture: track the *symlink* only (pointer to ~/.premflow).
+# Shared premflow capture: track the *symlink* only (pointer to the premflow ledger).
 # Never pack private target contents if capture is ever a real directory.
 Projects/premflow/capture/**
 # (do not ignore Projects/premflow/capture itself — the symlink is intentional)

@@ -19,7 +19,7 @@ tags: [mesh, infra, agents, local-first]
 
 Personal **machine mesh**: an allowlist so untrusted agents can act on home machines without a free-for-all. Local dogfood. Not a public product yet.
 
-Code lives on this machine (`~/mesh`). Internals, hostnames, and the distinctive design stay off this vault, off git remotes that do not already own them, and off any cloud Bot computer.
+Code lives on this machine. Internals, hostnames, and the distinctive design stay off this vault, off git remotes that do not already own them, and off any cloud Bot computer.
 
 ## Why it sits in the cluster
 
@@ -28,7 +28,7 @@ Code lives on this machine (`~/mesh`). Internals, hostnames, and the distinctive
 | [[Projects/arch-machine/README\|arch-machine]] | Fortress host (install, sentinels, daily Linux) | Host modules |
 | **mesh** | Which agent actions are allowed across personal machines | Mesh SoT only |
 | [[Projects/ensembly/README\|ensembly]] | Digital clone runtime (turn, HITL, proposals) | Clone ledger |
-| `~/life-os` | Portfolio memory | This card |
+| this vault | Portfolio memory | This card |
 
 Grok Bot (cloud teammate) is **untrusted** relative to the mesh. Compose later: the mesh may gate a Bot. Do not copy the mesh into the Bot.
 

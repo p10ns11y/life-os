@@ -9,7 +9,7 @@ cluster: "agentic-reactor"
 github: https://github.com/p10ns11y/collab-finder
 weekly_energy_target: 2
 weekly_energy_logged: 8.5  # +2026-09-01 W36 apply logged (human submit; agent notes)
-next_action: "Kanithanj Desk: hunt/prune/reliability. Human: week 37 apply (slot 2 P0)."
+next_action: "Kanithanj Desk: hunt/prune/reliability. Human: hiring next step on UI/Mission."
 review_date: 2026-09-07
 effort: high
 tags: [agentic, tauri, collab, job-tools, rust, react]
@@ -17,7 +17,7 @@ tags: [agentic, tauri, collab, job-tools, rust, react]
 
 # Collab Finder (Personal Job Target Tool)
 
-Production-ready Tauri + Rust + TS/React agentic desktop app for rapid, high-quality evaluation of job opportunities (especially SpaceXAI-style roles) using Grok and structured prep packs.
+Production-ready Tauri + Rust + TS/React agentic desktop app for rapid, high-quality evaluation of job opportunities (especially frontier-lab roles) using Grok and structured prep packs.
 
 ## Goal / Outcome
 Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailored prep pack in minutes, with reliable history, resume, and data integrity. Becomes the primary engine for my career navigation.
@@ -33,14 +33,14 @@ Daily-driver tool that turns a pasted job post + my CV into fit analysis + tailo
 - **Durable application pack export** (2026-07-16): `export_application_pack` → app-local `application_packs/opp_{id}/` + Discover **Export pack** CTA; mark Applied + hydrate unchanged; CV sidecar still non-mutating
 
 ## Current Focus / Open
-- **Kanithanj Desk** (2026-09-07): hunt + prune/reliability until job lands; operator on week 37 apply only.
+- **Kanithanj Desk** (2026-09-07): hunt + prune/reliability until job lands; operator on the apply only.
 - Employer outcomes / apply-phone: private disk only
-- Next: week 37 apply (human); analyze-via-agent still open
+- Next: hiring next step — see [[UI/Mission]] (human); analyze-via-agent still open
 - **Not** XState adoption yet (MVU owns domain)
 - **Later (do not start now):** make collab-finder more configurable (boards, durability waves, places, launch) — remember, do not scope-creep the v0.2.0 tag
 
 ## Next Actions
-- See `next_action` frontmatter (week 37 apply; W36 pack in)
+- See `next_action` frontmatter
 - Keep session detail in dated notes under this folder (thin main note); PII → `private/`
 
 ## Links

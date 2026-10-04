@@ -19,11 +19,11 @@ tags: [ensembly, life-swarm, digital-clone, game-of-peram, systems, copilot]
 
 **Digital clone / continuous life swarm** — knows current life from local data, removes digital friction, and aims for frequent hooks/connectors. Human joins as **pair** for physical world + HITL, not as full-time digital operator.
 
-Repo: `~/Work/personal/ensembly` · https://github.com/thecuriousts/ensembly
+Repo: the local ensembly clone · https://github.com/thecuriousts/ensembly
 
 ## Boundary (do not confuse)
 
-| This vault (`~/life-os`) | **ensembly** |
+| This vault | **ensembly** |
 |--------------------------|--------------|
 | Clustered Projects/Areas **portfolio memory** | **Runtime clone** + turn/day/graph/game |
 | Wiki of what was started and organized | Continuous (or frequent) friction removal |
@@ -71,7 +71,7 @@ Operator opens turn or watch and **knows** the next body act and next authorizat
 - Cluster map: [[UI/Map]]
 - Career tools that pair with presence: [[Projects/collab-finder/README|collab-finder]], [[Projects/devprofile/README|devprofile]]
 - Skills meta: [[Projects/skills/README|skills]]
-- Local path: `~/Work/personal/ensembly`
+- Local path: the local ensembly clone
 ## Structure
 
 - Project card: `Projects/ensembly/README.md` (this note)

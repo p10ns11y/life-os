@@ -13,7 +13,7 @@ tags: [ensembly, nemoclaw, memory, pulse, fleet]
 
 **Back-link**: [[Projects/ensembly/README|ensembly]]
 
-Full ADR also at `~/dev/products/ensembly/docs/thinking/nemoclaw-fuse-2026-09-08.md`.
+Full ADR also in the ensembly repo: `docs/thinking/nemoclaw-fuse-2026-09-08.md`.
 
 # NemoClaw × ensembly fuse (2026-09-08)
 
@@ -24,7 +24,7 @@ Scope: **patterns**, not a product dependency. Ensembly stays thin Rust operator
 
 | NemoClaw | Ensembly / fleet already | Fuse how |
 |----------|--------------------------|----------|
-| **Self model** (Markdown: people/projects/priorities/patterns) | `~/life-os` Projects/Areas cards | Treat life-os cards as the **readable self model**; schema = Kernel frontmatter + links. Do not duplicate into agent chat logs. |
+| **Self model** (Markdown: people/projects/priorities/patterns) | this vault's Projects/Areas cards | Treat life-os cards as the **readable self model**; schema = Kernel frontmatter + links. Do not duplicate into agent chat logs. |
 | **Evidence → Knowledge → Governed action** | pulse/archive vs memory vs HITL gates | Keep three layers explicit: evidence (pulse packs, mail, harness traces) → knowledge (life-os + ensembly-memory CRDT) → action (HITL/HOOTL / Fleet start-stop). **Context informs; it does not authorize.** |
 | **SQLite ledger** for obligations, rankings, corrections, audit | `ensembly-ops.sqlite` one-writer (bot host) | Extend ops ledger for **obligation/ranking/correction events** if missing; never store judgments as edits to source evidence. |
 | **Intent gate** (stated priorities over urgency) | CoS plate / four-slot charter / Mission Brief | Fleet Desk + CoS already rank; encode “priority-tier before urgency-tier” in pulse admissions + Mission Brief Keep-G, not in model vibes. |

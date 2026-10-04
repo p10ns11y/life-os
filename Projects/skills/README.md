@@ -30,11 +30,11 @@ Includes: ai-optimization, fusion-sage, looper, bdd-strategizer, higher-order-de
 - Powers [[Projects/collab-finder/README|collab-finder]] (reactor, guards)
 - Used across the entire portfolio for execution and planning
 - Related to [[agent-prompt-tuning-lab]] (data source)
-- **2026-07-12**: **looper** is in the skills library (`~/Work/personal/skills/looper` + `rules/looper.mdc`) — structured agent loops / multi-model routing; collab-finder keeps a project-local vendor under `.agents/skills/looper` (see [[Projects/collab-finder/sessions/2026-07-12|2026-07-12]])
+- **2026-07-12**: **looper** is in the skills library (skills repo `looper/` + `rules/looper.mdc`) — structured agent loops / multi-model routing; collab-finder keeps a project-local vendor under `.agents/skills/looper` (see [[Projects/collab-finder/sessions/2026-07-12|2026-07-12]])
 
 ## Local / External
-- Source: ~/Work/personal/skills/
-- Intended for global ~/.cursor/skills, ~/.grok/skills, or equivalent (symlinked or on PATH for agents)
+- Source: the local skills clone
+- Intended for global `~/.grok/skills/` (and the Cursor skills dir), symlinked or on PATH for agents
 - This vault's agentic instructions: [[AGENTS.md]] (load skills before complex work here or on connected projects)
 
 ## Energy Note

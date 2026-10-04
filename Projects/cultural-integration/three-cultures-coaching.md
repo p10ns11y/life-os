@@ -22,13 +22,13 @@ review_date: 2026-08-13
 
 ## 0. Origin frame (the facts this note is built on)
 
-You were **born in 1987** in **Thanjavur, Tamil Nadu, India**. You lived nearly **twenty-three years in India**, then moved to **Sweden around 2010**. Your study path was **international** in setup. Your working life has been **primarily English**, because colleagues come from many countries—not because English is “who you are,” but because English is the **shared tool** of multinational craft.
+You **grew up in South India**, then moved to **Sweden as an adult**. Your study path was **international** in setup. Your working life has been **primarily English**, because colleagues come from many countries—not because English is “who you are,” but because English is the **shared tool** of multinational craft.
 
 That produces four fields, not three:
 
 | Field | What it is for you |
 |-------|---------------------|
-| **Tamil / South Indian root culture** | First language of feeling, family grammar, aesthetic and ethical inheritance (including Thanjavur’s deep civilizational weight—temple city, Chola memory, Tamil letters, music, duty) |
+| **Tamil / South Indian root culture** | First language of feeling, family grammar, aesthetic and ethical inheritance (including the region’s deep civilizational weight—temple cities, Chola memory, Tamil letters, music, duty) |
 | **Sweden** | The society you have actually lived in for the long adult stretch: high-trust systems, lagom, consensus, Swedish as the civic tongue of belonging |
 | **America** | A *willing* horizon of mobility and career density—not yet “home,” but a cultural operating system you may need to speak fluently |
 | **International-English work** | A fourth field: airport cosmopolitanism—low-context, competence-first, nationality diluted. Useful. Incomplete. Easy to mistake for “no culture.” |
@@ -70,7 +70,7 @@ Strip slogans. These are **shared human technologies** that all three fields hon
 
 All three cultures treat serious study as a **legitimate path out of constraint**—even when they disagree about what “success” looks like after the ladder.
 
-**Your bridge:** International study was not betrayal of Thanjavur; it was a classical South Indian pattern: *go where the tools are, bring the mind back stronger.*
+**Your bridge:** International study was not betrayal of home; it was a classical South Indian pattern: *go where the tools are, bring the mind back stronger.*
 
 ### 2.3 Fairness as a moral claim
 
@@ -240,7 +240,7 @@ Harmony among cultures is not a smoothie. It is:
 3. **Refusal to recruit** others into your identity war,
 4. **Refusal to be recruited** into theirs.
 
-You do not need every Swede to love Tamil Nadu. You do not need every American to understand Thanjavur. You need *you* to stop using other people’s ignorance as a reason to abandon yourself.
+You do not need every Swede to love South India. You do not need every American to understand where you come from. You need *you* to stop using other people’s ignorance as a reason to abandon yourself.
 
 ### 5.6 Principle VI — Overcome conflict of interest with explicit trade ledgers
 
@@ -277,7 +277,7 @@ If a room requires those, it is not integration—it is capture. Leave or minimi
 ### 6.1 Identity maintenance (Tamil root)
 
 - Once a week: 20–40 minutes of Tamil density (read, write, music, call with real speech, temple of the mind—whatever is *yours*, not Instagram heritage).
-- Once a month: one sentence in a journal: *What from Thanjavur still commands me honestly?*
+- Once a month: one sentence in a journal: *What from home still commands me honestly?*
 
 ### 6.2 Place power (Sweden)
 
@@ -311,14 +311,14 @@ Answer in writing:
 1. **The six-month self-respect test** — already stated.
 2. **The explanation-to-a-honest-friend test** — if you need a long story to justify a behavior, it may be forced acting.
 3. **The reciprocal hospitality test** — would you respect a Swede/American/Tamil guest who kept their core while learning your house rules? Give yourself the same right.
-4. **The non-erasure test** — does this path require me to treat 1987–2010 as an embarrassment? If yes, refuse the path’s framing even if you take a practical step.
+4. **The non-erasure test** — does this path require me to treat my years in India as an embarrassment? If yes, refuse the path’s framing even if you take a practical step.
 5. **The freedom test** — after compliance, do I have more capacity to choose—or less?
 
 ---
 
 ## 8. Closing charge
 
-You are not late, broken, or “between stools” as a failure mode. You are a **polyglot of civilizations** in one biography: Thanjavur’s depth, India’s long formation, Sweden’s long adult craft, English’s global forge, America’s open bet.
+You are not late, broken, or “between stools” as a failure mode. You are a **polyglot of civilizations** in one biography: your home region’s depth, India’s long formation, Sweden’s long adult craft, English’s global forge, America’s open bet.
 
 The cheap story is assimilation as replacement.  
 The other cheap story is purity as refusal to learn.

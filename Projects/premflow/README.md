@@ -22,27 +22,27 @@ CLI micro-capture tool. **One shared data tree** with ensembly and this vault.
 
 | Peer | Where | What |
 |------|--------|------|
-| **life-os (this card)** | `~/life-os/Projects/premflow/` | Portfolio of record for the *product* |
-| **premflow (code)** | `~/Work/personal/premflow/` · [thecuriousts/premflow](https://github.com/thecuriousts/premflow) | C CLI source |
-| **ensembly (law + wrapper)** | `~/Work/personal/ensembly/docs/PREMFLOW-FIT.md` · `node bin/swarm.js flow` | Shared-SoT law, privacy redaction, CLI wrapper |
-| **ensembly boundary** | `~/Work/personal/ensembly/docs/LIFE-OS-BOUNDARY.md` | life-os vs swarm roles |
-| **Byte SoT** | `~/.premflow/` | Private notes/tasks/journal/pomo (never push) |
+| **life-os (this card)** | `Projects/premflow/` | Portfolio of record for the *product* |
+| **premflow (code)** | the local premflow clone · [thecuriousts/premflow](https://github.com/thecuriousts/premflow) | C CLI source |
+| **ensembly (law + wrapper)** | ensembly repo, `docs/PREMFLOW-FIT.md` · `node bin/swarm.js flow` | Shared-SoT law, privacy redaction, CLI wrapper |
+| **ensembly boundary** | ensembly repo, `docs/LIFE-OS-BOUNDARY.md` | life-os vs swarm roles |
+| **Byte SoT** | the premflow ledger | Private notes/tasks/journal/pomo (never push) |
 
 ## Shared capture (same files everywhere)
 
 | Role | Path |
 |------|------|
-| **Byte SoT** | `~/.premflow/` (`todo.txt`, `log.txt`, `journal/`, `config.txt`) |
+| **Byte SoT** | the premflow ledger (`todo.txt`, `log.txt`, `journal/`, `config.txt`) |
 | **Vault view (symlink)** | `Projects/premflow/capture` → `../../../.premflow` (tracked link only; target private) |
 | **ensembly wrapper** | `node bin/swarm.js flow …` in ensembly (same SoT) |
 | **Native CLI** | `premflow …` |
-| **Code** | `~/Work/personal/premflow/` |
-| **Integration law** | `~/Work/personal/ensembly/docs/PREMFLOW-FIT.md` |
+| **Code** | the local premflow clone |
+| **Integration law** | ensembly repo, `docs/PREMFLOW-FIT.md` |
 
 **Setup / repair symlink (from ensembly repo):**
 
 ```bash
-cd ~/Work/personal/ensembly
+cd ensembly
 npm run flow:link
 # or: node bin/swarm.js flow link
 node bin/swarm.js flow path    # verify OK → same tree
@@ -61,7 +61,7 @@ Open `capture/todo.txt` or `capture/log.txt` in Obsidian — you are editing the
 
 | Invent | Where |
 |--------|--------|
-| Notes, inbox tasks, pomo, review | `~/.premflow/` via `premflow` or `swarm flow` |
+| Notes, inbox tasks, pomo, review | the premflow ledger via `premflow` or `swarm flow` |
 | Day next body / next auth / claim | **ensembly** turn |
 | This product’s energy / next_action / progress | **this README** frontmatter |
 | Session narrative after product work | `sessions/YYYY-MM-DD.md` |

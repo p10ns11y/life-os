@@ -17,7 +17,7 @@ hint_lock: open
 
 **Responsibilities** (ongoing):
 - Maintain high-signal professional presence and continuous skill compounding in agentic systems, Rust/TS, local AI infra.
-- Strategic job search / positioning for roles at SpaceXAI, high-agency AI labs, or frontier tooling.
+- Strategic job search / positioning for roles at high-agency AI labs or frontier tooling.
 - Ship personal projects that demonstrate production readiness (Tauri agents, collab tools, etc.).
 
 **Standards / Metrics**:
@@ -26,11 +26,11 @@ hint_lock: open
 - Healthy pipeline of opportunities evaluated with the collab-finder tooling
 
 **Current Focus / Active Items**:
-- [[Actions/SpaceXAI-and-Tesla|SpaceXAI]] — target campaign; **outcomes private** (`private/career/`)
-- Apply gate: screens already sent; **one specific role** at the frontier campaign is closed (do not resend that title). **W36 apply submitted** (2026-09-01). **Next Do:** week 37 relevant apply (due Fri 11 Sep) — **slot 2 P0**. Details `private/career/`. Named threads: `private/` + `UI/_private.Mission`.
+- [[Actions/SpaceXAI-and-Tesla|Frontier-lab campaign]] — target campaign; **outcomes private** (`private/career/`)
+- Apply gate: screens already sent; **one specific role** at the frontier campaign is closed (do not resend that title). **Next Do:** see [[UI/Mission]]. Details and named threads: `private/` only.
 - **Kanithanj Desk** — collab-finder hunt + prune/reliability until job lands (operator on apply; desk on rails).
 - Sweden still functions; SWE **hiring funnel** is distorted (volume, junior squeeze, experience premium) — [[Resources/ai-hiring-sweden]]. Do not wait for an AI recovery.
-- [[Projects/collab-finder/README|collab-finder]] — Kanithanj Desk; week 37 apply is human Do, not more rails
+- [[Projects/collab-finder/README|collab-finder]] — Kanithanj Desk; the apply is the human Do, not more rails
 - [[Resources/Arbetsformedlingen-Support-A-Z|AF Support A–Z]] — English catalogue of AF programmes / extra support (eligibility = caseworker assessment)
 - [[Resources/hiring-posture|Hiring posture]] — verify via strongest-dev talk or 1–2 week paid trial; market pay quote is not a red flag. Not on the GitHub profile.
 - [[Resources/operator-public-signal|Public signal]] — evidence-tagged self-read (GitHub, GitRoll-as-context, X). Not ATS copy. Ledger: [profile README](https://github.com/p10ns11y/p10ns11y).
@@ -39,8 +39,8 @@ hint_lock: open
 - [[Projects/swedish-assimilation/README|swedish-assimilation]] — language slots (missed log last week). Culture refs live on that project (not `private/career/`).
 
 ## Review Log
-- 2026-09-07: Plate refresh — slot 2 P0; Kanithanj Desk minted; AF synpunkter Wed 9 Sep. [[Reviews/plate-2026-09-07]].
-- 2026-09-01: W36 apply **submitted**. Public pointer only; employer/ATS on `private/career/`. Next Do: week 37 apply. [[Projects/collab-finder/sessions/2026-09-01]].
+- 2026-09-07: Plate refresh — slot 2 P0; Kanithanj Desk minted. [[Reviews/plate-2026-09-07]].
+- 2026-09-01: W36 apply **submitted**. Public pointer only; employer/ATS on `private/career/`. [[Projects/collab-finder/sessions/2026-09-01]].
 - 2026-08-31: W35 close — week apply **not confirmed submitted**. Today was hire-site / hunt-rails (presence), not a thanks page. This week's Do: one relevant apply. [[Reviews/weekly-2026-08-30]].
 - 2026-08-29: pulse-memory — sitting **4 cash-first Sweden IC** (supersedes 2–3 / 10-mix). Stretch parked. Sitting passed without confirmed submit; W36 SoT is Mission (one relevant apply). Details `private/career/`.
 - 2026-08-29: Sweden lucka practice (generic) [[Resources/sweden-sabbatical-cv]]. Operator frame private.
