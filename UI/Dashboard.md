@@ -51,16 +51,16 @@ Applications in; one process waiting on a decision — [[UI/Mission]].
 
 ### Last code scan (2026-09-07, not re-scanned)
 
-| Repo | Kind |
+| Repo | What the scan found |
 |------|------|
 | `wealth-core` | **Re-verify** — was 11 modified (charts, claim-graph) at W35; not re-scanned W36 |
-| `wealth-due-diligence` | **Real** — README + coming-next |
+| `wealth-due-diligence` | README + coming-next edits |
 | `collab-finder` | Feature wave **merged** (#43–#48). #49 firm-list draft/open |
 | `devprofile` | Hire-site tests green; walkthroughs unslop — branch status re-verify |
 | `ensembly` | crew HOOTL; Fleet Desk + Steward keep shipping; operator arch check-ins only; CI #14 billing-parked |
 | `packedbox` | Phase 4 merged (NavigationView); Steward kernel ops |
 | `life-os` | Plate + verify path |
-| `arch-machine` · `premflow` · `thepulimaangani` | Skill/rule **copies**, not product |
+| `arch-machine` · `premflow` · `thepulimaangani` | Only skill/rule copies |
 
 **Clean enough:** skills library tree, grok-build, elomaxz, adaptate, latex-cv. collab-finder main after #43–#48 merge.
 
