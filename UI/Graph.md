@@ -9,7 +9,7 @@ See [[UI/Map]] for cluster definitions, [[UI/Dashboard]] for live prioritization
 These are the active project **folders** (`Projects/{slug}/README.md` + `sessions/`):
 
 - **skills** (Career | agentic-reactor) — Relevance: 4/4, Progress: 72%, Energy logged: 1.5 (control-feeder 08-14)
-- **collab-finder** (Career | agentic-reactor) — Kanithanj Desk; hiring Do is [[UI/Mission]], not a dated week-37 line
+- **collab-finder** (Career | agentic-reactor) — Kanithanj Desk; hiring Do: [[UI/Mission]]
 - **packedbox** (Systems | foundational-infra) — Phase 4 NavigationView merged; Steward ops
 - **ensembly** (Systems | foundational-infra) — crew HOOTL; operator arch check-ins only; Fleet Desk keeps shipping
 - **devprofile** (Career | presence-career) — Relevance: 4/4, Progress: 65% — hire-site tests green; walkthroughs unslop; ensembly off /shipped

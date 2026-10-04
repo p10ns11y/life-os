@@ -14,7 +14,7 @@ review_date: 2026-10-04
 
 | Layer | Meaning |
 |-------|---------|
-| **Immediate** | Four living slots only — [[UX/focus-now]]. Season is the calendar slot (the 9 Sep paperwork date has passed). Career is the live slot (SpaceXAI **filter**). Son = off-laptop. Kivra admin = one private act then stop (Mailbox Desk reminds). |
+| **Immediate** | Four living slots only — [[UX/focus-now]]. Season is the calendar slot. Career is the live slot (SpaceXAI **filter**). Son = off-laptop. Kivra admin = one private act then stop (Mailbox Desk reminds). |
 | **Horizon** | **SpaceXAI acceptance** — unknown duration. Every slot-2 tick must be visible to a hiring loop. |
 | **Park** | **PARKED** = off operator lookup time — agents keep HOOTL (~14%/day token budget). New Wayland/GTK overlays · ensembly as fifth operator slot · theni · skill tourism · second chat inboxes |
 

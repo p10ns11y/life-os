@@ -63,7 +63,7 @@ See Bases views in [[Kernel/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-10-04):** slot **2** still live (chip set 2026-09-22). Do: one relevant application; the 18 Sep date has passed. ensembly **crew HOOTL** (not a fifth slot). Kernel unchanged since 2026-09-07 (\(t_e \approx 4.28\), \(\Delta t_e = 0\)). Wealth DAG: `ops/wealth/sweden-wealth-dag.md`. See [[UI/Dashboard]] · [[UI/Mission]] · [[UX/focus-now]].
+**Current focus (2026-10-04):** slot **2** live. Do and kernel: [[UI/Mission]] (nightly). ensembly **crew HOOTL** (not a fifth slot). Wealth DAG: `ops/wealth/sweden-wealth-dag.md`. See [[UI/Dashboard]] · [[UI/Mission]] · [[UX/focus-now]].
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]

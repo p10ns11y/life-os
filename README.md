@@ -37,7 +37,7 @@ This is my central **Life OS** — combining areas of responsibility, active pro
 
 See [[UI/Graph]] for a visual graph of projects, clusters, areas, and connections.
 
-Current focus (2026-10-04): slot 2 — one relevant application. Clusters in play: Personal Finance (spine), Presence + Career, Cultural Integration. Full cluster list: [[UI/Map]]. Cash-path heading: [[UI/Mission]].
+Current focus (2026-10-04): slot 2. Clusters in play: Personal Finance (spine), Presence + Career, Cultural Integration. Full cluster list: [[UI/Map]]. Heading: [[UI/Mission]].
 
 ## Tech & Tooling
 

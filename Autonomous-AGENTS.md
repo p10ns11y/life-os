@@ -27,7 +27,7 @@ Run this loop continuously (with appropriate sleep/polling intervals):
      - 🟡 DELEGATE (importance <3 + urgency ≥3)
      - ⚪ ELIMINATE (low/low)
    - Prefer tasks that:
-     - Match the live slot in [[UX/focus-now]] before other cluster work (checked 2026-10-04: slot 2, one relevant application).
+     - Match the live slot in [[UX/focus-now]] before other cluster work.
      - Are in high-relevance clusters (see [[UI/Graph]]).
      - Have clear `next_action`.
    - Claim a task by updating its frontmatter:
@@ -89,7 +89,7 @@ Follow all protected areas and rules from AGENTS.md exactly. In particular:
 An autonomous agent might:
 - Wake every 15-60 minutes.
 - Scan Dashboard for DO FIRST items.
-- Pick the highest relevance unfinished task in a Tier 1 cluster.
+- Pick the highest relevance unfinished task that matches the live slot.
 - Load `ai-optimization` + `fusion-sage`.
 - Execute, update the project note with progress/energy.
 - If the task suggests a new capability, create a small project, update [[UI/Map]] and the graph.

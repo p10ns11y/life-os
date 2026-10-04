@@ -6,12 +6,12 @@
 
 **Four slots (unchanged charter):** [[UX/focus-now]] · compass [[UX/north-star]]. ensembly is **not** a fifth slot (operator attention); crew HOOTL; operator arch check-ins only.
 
-Live chip: **slot 2 — Cash / career**, set 2026-09-22, still slot 2. Source: `~/.config/focus-now/live.json`.
+Live slot: [[UX/focus-now]]. Today's Do: [[UI/Mission]].
 
 | # | Slot | Today |
 |---|------|-------|
-| 1 | Season | Calendar slot. The 9 Sep paperwork date has passed; do not treat it as today's act |
-| 2 | Career | **Live slot.** One relevant application. The 18 Sep follow-up date has passed; the act is still open. Heading: [[UI/Mission]] |
+| 1 | Season | Calendar slot; not the live slot |
+| 2 | Career | **Live slot.** Do: [[UI/Mission]] |
 | 3 | Son / body | Human-only — agents do not tick |
 | 4 | Kivra admin | Digital Mailbox Desk reminds; operator acts one statutory item then stops |
 
@@ -37,7 +37,7 @@ Heading: [[UI/Mission]] · ops: `private/` · earlier plate: [[Reviews/plate-202
 
 ### This week
 
-- [ ] One relevant application — the 18 Sep date has passed; still the Do (**slot 2**)
+- [ ] The Do on [[UI/Mission]] (**slot 2**)
 - [ ] Same-day reply **only if** a screen or the intro writes — do not chase
 - [ ] Slot 4 — one Kivra/statutory act when Mailbox Desk pings; then stop
 
@@ -45,7 +45,7 @@ Heading: [[UI/Mission]] · ops: `private/` · earlier plate: [[Reviews/plate-202
 
 **AI vs Sweden:** country still runs; SWE **funnel** is distorted. Evidence: [[Resources/ai-hiring-sweden]]. Do not wait for an “AI recovery.”
 
-**Kernel (not a destiny date):** remaining chain typical \(t_e \approx 4.28\) weeks. Nightly rewrite on 2026-10-04 did not move the chain (\(\Delta t_e = 0\) since the 2026-09-07 snapshot).
+**Kernel (not a destiny date):** remaining chain and change since the last snapshot: [[UI/Mission]] (nightly).
 
 ### Last code scan (2026-09-07, not re-scanned)
 
@@ -89,7 +89,7 @@ Filter in the base on `urgency` / `urgency_label` (formula) or `next_action`. Us
 - Update project frontmatter: `cluster`, `weekly_energy_target`, `weekly_energy_logged`, `importance`, `progress`, `next_action`, `area`.
 - Bases: By Cluster, Energy Balance, Portfolio Projects (High Value).
 
-Current focus (2026-10-04): **slot 2** (one relevant application; 18 Sep date has passed) · ensembly crew HOOTL (not a fifth slot). Clusters: Personal Finance (spine), Presence + Career, Cultural Integration.
+Current focus (2026-10-04): **slot 2** (Do: [[UI/Mission]]) · ensembly crew HOOTL (not a fifth slot). Clusters: Personal Finance (spine), Presence + Career, Cultural Integration.
 
 ## Life Areas (canonical)
 All areas live flat in Areas/ as .md. Use Area template + update frontmatter.

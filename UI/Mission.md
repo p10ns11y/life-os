@@ -5,45 +5,43 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-10-04
+review_date: 2026-09-29
 ---
 
 # Mission heading
 
 Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b overwrite.
 
-**Do this now:** Submit one relevant application — the 18 Sep date has passed; do not wait for replies
+**Do this now:** Submit the three ready applications
 
-Submit one relevant application — the 18 Sep date has passed; do not wait for replies. live-check then submit one relevant application (open as of 2026-10-04). Also: Same-day reply if the live introduction writes — do not chase; treat as dying unless they write — same-day reply only if they write — no extra nudge.
+Submit the three ready applications. submit before the postings pass one week old (by 30 Sep). Also: Technical interview in a live process — attend Fri 2 Oct.
 
-Detailed named graph (this machine only, not on git): [[UI/_private.Mission]].
-Contact mail and posting URLs: `~/.grok/mission-maps/contacts.md`.
 
-**Updated:** 2026-10-04T17:46:11+0200  
+**Updated:** 2026-09-29T21:10:13+0200  
 **On the path?** **on-path**
 
 | | |
 |--|--|
-| **Arrive when** | started a decent Sweden/Nordics/EU full-time role |
-| **Do this now** | Submit one relevant application — the 18 Sep date has passed; do not wait for replies |
-| **Live thread (intro already happened)** | 4.38 weeks typical |
+| **Arrive when** | A new role starting around early October 2026 |
+| **Do this now** | Submit the three ready applications |
+| **Live thread (intro already happened)** | 4.69 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
-| **Longest remaining chain** | 4.283333 weeks (kernel; not a destiny date) |
+| **Longest remaining chain** | 4.686667 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Earlier pack recorded on private/career/. |
-| **Named Do (still)** | one relevant application (18 Sep date has passed; still open) |
+| **This tick did** | Map rebuilt from the current state |
+| **Named Do (still)** | Submit the three ready applications |
 
 This week's act is on the path to a start date.
 
 
 ## How to push
 
-Keep shipping one relevant application per week until a calendar is booked. Same-day reply if a live introduction or a new screen writes. Do not chase after ~1 week of silence — that is not a twelve-week wait. Drop extra applies only the day a calendar lands.
+Submit fresh postings the same week they appear. Reply the same day when a live process writes. Do not chase after about a week of silence. No side projects before this week's interview.
 
 ## How long (Sweden rounds)
 
-Sweden SWE hiring. An earlier week pack is in; outcomes stay on private/career/. One lane is parked. Live intro: no calendar; same-day reply only if they write. Older screens are dying unless they write. A horizon pack on disk is not the goal; do not spend this tick there. The 18 Sep follow-up date has passed. The named Do is still one relevant application, open as of 2026-10-04 (week 40). Unemployed start is often 1–4 weeks, not a 3-month notice.
+One live process has a technical interview this week. Three fresh applications are ready to submit. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
@@ -51,40 +49,46 @@ Plain language. No S0/S1 codes. Emails are local-only.
 
 | What | Status | Next follow-up | When |
 |------|--------|----------------|------|
-| Same-day reply if the live introduction writes — do not chase; treat as dying unless they write | waiting on them | same-day reply only if they write — no extra nudge | — |
-| Earlier pack plus older pool waiting on screens; one older closed req | already done | await screen (submitted) | — |
-| Watch other frontier IC roles — not the closed title; better fit may exist | later / stretch | only new postings that match agents/infra; never resend the closed req | — |
-| Submit one relevant application — the 18 Sep date has passed; do not wait for replies | do now | live-check then submit one relevant application | open as of 2026-10-04 |
-| Technical round — usually 3–10 days to book if a submitted pack is moving; one earlier lane stated 3–4d reply; older screens dying unless they write | waiting on them | if a submitted pack books, show up that day; older screens: same-day reply only if they write — no extra nudge | — |
-| Team or hiring-manager round (typical Swedish SWE loop) | waiting on them | — | — |
-| Offer and start — unemployed, no long notice period | waiting on them | — | — |
-| Skip roles on the wrong tech stack | parked | — | — |
-| Do not resend a closed process | parked | — | — |
-| Do not start a side project instead of applying | parked | — | — |
+| Submit the three ready applications | do now | submit before the postings pass one week old | by 30 Sep |
+| Technical interview in a live process | waiting on them | attend | Fri 2 Oct |
+| Decision or next round after the technical interview | waiting on them | reply the same day if they write | — |
+| Team or hiring-manager round | waiting on them | — | — |
+| Offer and start | waiting on them | — | — |
+| Screens from the new applications | waiting on them | reply the same day if they write | — |
+| Older applications, silent - reply only if they write | waiting on them | no nudge | — |
+| Terms to settle when an offer arrives | later / stretch | — | — |
+| Several processes closed at the first screen | already done | — | — |
+| Roles blocked or on hold | parked | — | — |
+| Side projects until after this week's interview | parked | — | — |
+| Old postings - do not submit | parked | — | — |
 
 ## Graph
 
 ```mermaid
 flowchart TB
   x["Where you are"]
-  G["Arrive: started a decent Sweden/Nordics/EU full-time role"]
-  S0["Same-day reply if the live introduction writes — do not chase; treat as dying unless they write (waiting on them)"]
-  S1["Earlier pack plus older pool waiting on screens; one older closed req (already done)"]
-  S2["Watch other frontier IC roles — not the closed title; better fit may exist (later / stretch)"]
-  S3["Submit one relevant application — the 18 Sep date has passed; do not wait for replies (do now)"]
-  S4["Technical round — usually 3–10 days to book if a submitted pack is moving; one earlier lane stated 3–4d reply; older screens dying unless they write (waiting on them)"]
-  S4b["Team or hiring-manager round (typical Swedish SWE loop) (waiting on them)"]
-  S5["Offer and start — unemployed, no long notice period (waiting on them)"]
-  P1["Skip roles on the wrong tech stack (parked)"]
-  P2["Do not resend a closed process (parked)"]
-  P3["Do not start a side project instead of applying (parked)"]
+  G["Arrive: A new role starting around early October 2026"]
+  S3["Submit the three ready applications (do now)"]
+  S0["Technical interview in a live process (waiting on them)"]
+  S4["Decision or next round after the technical interview (waiting on them)"]
+  S4b["Team or hiring-manager round (waiting on them)"]
+  S5["Offer and start (waiting on them)"]
+  S6["Screens from the new applications (waiting on them)"]
+  S1["Older applications, silent - reply only if they write (waiting on them)"]
+  R1["Terms to settle when an offer arrives (later / stretch)"]
+  D1["Several processes closed at the first screen (already done)"]
+  P1["Roles blocked or on hold (parked)"]
+  P2["Side projects until after this week's interview (parked)"]
+  P3["Old postings - do not submit (parked)"]
+  x --> S3
   x --> S0
-  x --> S1
-  S1 --> S2
-  S1 --> S3
-  S1 -->|"toward start"| S4
+  S0 -->|"toward start"| S4
   S4 -->|"toward start"| S4b
   S4b -->|"toward start"| S5
+  S3 --> S6
+  x --> S1
+  S4 --> R1
+  x --> D1
   x -.->|"skip this week"| P1
   x -.->|"skip this week"| P2
   x -.->|"skip this week"| P3
@@ -96,11 +100,10 @@ flowchart TB
   classDef goal fill:#5a189a,stroke:#c77dff,color:#fff
   class G goal
   class S3 do
-  class S0,S4,S4b,S5 wait
+  class S0,S4,S4b,S5,S6,S1 wait
   class P1,P2,P3 park
-  class S1 done
+  class D1 done
 ```
 
-Live JSON: `~/.grok/mission-maps/cash-path-now.json`. Brief: `~/.grok/mission-maps/cash-path-now.md`.
 
 LLM may propose a stage. Human confirms. Do not treat this page as a destiny date.
