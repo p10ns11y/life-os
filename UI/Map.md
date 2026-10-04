@@ -63,11 +63,11 @@ See Bases views in [[Kernel/bases/priority-matrix.base]].
 
 Track weekly energy in each project card's frontmatter (`Projects/*/README.md`).
 
-**Current focus (2026-10-04):** slot **2** live. Do and kernel: [[UI/Mission]] (nightly). ensembly **crew HOOTL** (not a fifth slot). Wealth DAG: `ops/wealth/sweden-wealth-dag.md`. See [[UI/Dashboard]] · [[UI/Mission]] · [[UX/focus-now]].
+**Current focus (2026-10-04):** slot **2** live. Hiring next step: see [[UI/Mission]]. Kernel: see [[UI/Mission]] (nightly). ensembly **crew HOOTL** (not a fifth slot). Wealth DAG: `ops/wealth/sweden-wealth-dag.md`. See [[UI/Dashboard]] · [[UI/Mission]] · [[UX/focus-now]].
 
 ## Links
 - [[Areas/Career]] · [[Areas/Creative]] · [[Areas/Systems]] · [[Areas/Learning]]
-- [[projects]] — visual graph of projects
+- [[UI/Graph]] — visual graph of projects
 - Git: https://github.com/p10ns11y/life-os
 
 Add new projects as folders under `Projects/` with `README.md` + `sessions/`.

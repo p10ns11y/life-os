@@ -27,7 +27,7 @@ Run this loop continuously (with appropriate sleep/polling intervals):
      - 🟡 DELEGATE (importance <3 + urgency ≥3)
      - ⚪ ELIMINATE (low/low)
    - Prefer tasks that:
-     - Match the live slot in [[UX/focus-now]] before other cluster work.
+     - Match the live slot in [[UX/focus-now]] before other cluster work. Hiring next step: see [[UI/Mission]].
      - Are in high-relevance clusters (see [[UI/Graph]]).
      - Have clear `next_action`.
    - Claim a task by updating its frontmatter:
@@ -73,8 +73,8 @@ Run this loop continuously (with appropriate sleep/polling intervals):
 - **Project Map**: [[UI/Map]] + [[UI/Graph]].
 - **Rules**: `[[Kernel/schema.md]]`, `[[AGENTS.md]]`.
 - **Templates**: `Kernel/templates/Project.md` and `Area.md`.
-- **Skills library**: `~/.grok/skills/` (checkout `~/dev/agentic-reactor/skills/`).
-- **Flow tool**: code `~/dev/foundations-infra/premflow/`, command `~/.local/bin/premflow`.
+- **Skills library**: `~/.grok/skills/` (library: skills repo).
+- **Flow tool**: premflow repo; `premflow` command on `PATH`.
 
 ## Safety & Non-Goals
 

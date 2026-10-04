@@ -6,12 +6,12 @@
 
 **Four slots (unchanged charter):** [[UX/focus-now]] · compass [[UX/north-star]]. ensembly is **not** a fifth slot (operator attention); crew HOOTL; operator arch check-ins only.
 
-Live slot: [[UX/focus-now]]. Today's Do: [[UI/Mission]].
+Live slot: **slot 2 — Career** ([[UX/focus-now]]).
 
 | # | Slot | Today |
 |---|------|-------|
 | 1 | Season | Calendar slot; not the live slot |
-| 2 | Career | **Live slot.** Do: [[UI/Mission]] |
+| 2 | Career | **Live slot.** Hiring next step: see [[UI/Mission]] |
 | 3 | Son / body | Human-only — agents do not tick |
 | 4 | Kivra admin | Digital Mailbox Desk reminds; operator acts one statutory item then stops |
 
@@ -35,9 +35,11 @@ Live slot: [[UX/focus-now]]. Today's Do: [[UI/Mission]].
 
 Heading: [[UI/Mission]] · ops: `private/` · earlier plate: [[Reviews/plate-2026-09-07]] · `Archives/` is attic.
 
+Applications in; one process waiting on a decision — [[UI/Mission]].
+
 ### This week
 
-- [ ] The Do on [[UI/Mission]] (**slot 2**)
+- [ ] Hiring next step: see [[UI/Mission]] (**slot 2**)
 - [ ] Same-day reply **only if** a screen or the intro writes — do not chase
 - [ ] Slot 4 — one Kivra/statutory act when Mailbox Desk pings; then stop
 
@@ -45,7 +47,7 @@ Heading: [[UI/Mission]] · ops: `private/` · earlier plate: [[Reviews/plate-202
 
 **AI vs Sweden:** country still runs; SWE **funnel** is distorted. Evidence: [[Resources/ai-hiring-sweden]]. Do not wait for an “AI recovery.”
 
-**Kernel (not a destiny date):** remaining chain and change since the last snapshot: [[UI/Mission]] (nightly).
+**Kernel (not a destiny date):** see [[UI/Mission]] (nightly).
 
 ### Last code scan (2026-09-07, not re-scanned)
 
@@ -57,7 +59,7 @@ Heading: [[UI/Mission]] · ops: `private/` · earlier plate: [[Reviews/plate-202
 | `devprofile` | Hire-site tests green; walkthroughs unslop — branch status re-verify |
 | `ensembly` | crew HOOTL; Fleet Desk + Steward keep shipping; operator arch check-ins only; CI #14 billing-parked |
 | `packedbox` | Phase 4 merged (NavigationView); Steward kernel ops |
-| `life-os` | Plate + verify path (this PR) |
+| `life-os` | Plate + verify path |
 | `arch-machine` · `premflow` · `thepulimaangani` | Skill/rule **copies**, not product |
 
 **Clean enough:** skills library tree, grok-build, elomaxz, adaptate, latex-cv. collab-finder main after #43–#48 merge.
@@ -85,11 +87,11 @@ Edit `importance` (1-4) + `urgency` (1-4) on notes with `type: project|area|task
 Filter in the base on `urgency` / `urgency_label` (formula) or `next_action`. Use templates for creation.
 
 ## Portfolio Overview
-- Open [[UI/Map]] (Portfolio Map of Content, clusters + energy).
+- Open [[UI/Map]] (clusters + energy).
 - Update project frontmatter: `cluster`, `weekly_energy_target`, `weekly_energy_logged`, `importance`, `progress`, `next_action`, `area`.
 - Bases: By Cluster, Energy Balance, Portfolio Projects (High Value).
 
-Current focus (2026-10-04): **slot 2** (Do: [[UI/Mission]]) · ensembly crew HOOTL (not a fifth slot). Clusters: Personal Finance (spine), Presence + Career, Cultural Integration.
+Current focus (2026-10-04): **slot 2** — hiring next step: see [[UI/Mission]] · ensembly crew HOOTL (not a fifth slot). Clusters: Personal Finance (spine), Presence + Career, Cultural Integration.
 
 ## Life Areas (canonical)
 All areas live flat in Areas/ as .md. Use Area template + update frontmatter.
