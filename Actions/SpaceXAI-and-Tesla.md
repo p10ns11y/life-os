@@ -13,12 +13,12 @@ effort: high
 tags: [spacexai, career, tesla]
 ---
 
-# SpaceXAI and Tesla
+# Frontier labs (mainly SpaceXAI or even bigger efforts of Elon)
 
 Target: Senior IC roles focused on inference, agents, or high-leverage infra.
 
 ## Goal / Outcome
-Land (or be extremely well positioned for) a role at SpaceXAI (or similar) where I can ship truth-seeking systems at the frontier.
+Land (or be extremely well positioned for) a role at one of the frontier labs where I can ship truth-seeking systems at the frontier.
 
 ## Key Prep Items
 - Strong mission-aligned CV + one-pager

@@ -38,7 +38,7 @@ Lifestyle press (“lavish”) is not the evidence. **Payroll and products** are
 | **Elon Musk** | Tesla, SpaceX, xAI, etc. | Tesla alone **~100k+** historically; SpaceX tens of thousands — check latest 10-K / company pages | Public filings (update before citing a letter) |
 | **Walmart** Walton family | Walmart | **~2.1 million** | 2026 employer rankings (e.g. [StatRanker snapshot](https://statranker.org/economy/top-100-companies-by-number-of-employees-2026/)) |
 
-These are **job machines**. They are not a moral ranking of nations. SpaceXAI remains a **long-horizon** filter ([[Actions/SpaceXAI-and-Tesla]]), **parked for this sitting**.
+These are **job machines**. They are not a moral ranking of nations. Frontier labs (mainly SpaceXAI or even bigger efforts of Elon) remain a **long-horizon** filter ([[Actions/SpaceXAI-and-Tesla]]), **parked for this sitting**.
 
 ## How this sits with the operator card
 
