@@ -5,43 +5,42 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-10-07
+review_date: 2026-10-08
 ---
 
 # Mission heading
 
 Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b overwrite.
 
-**Do this now:** Freeze scope, share the code, and send the take-home before the end of the week
+**Do this now:** Review of the take-home, then a team round; reply the same day when they write
 
-Freeze scope, share the code, and send the take-home before the end of the week. send the build by the end of the week (this week). Also: Screens from the two remaining applications submitted 1 Oct — reply the same day if they write.
+Review of the take-home, then a team round; reply the same day when they write. reply the same day; no nudge before about a week. Also: Screen from the one remaining application submitted 1 Oct — reply the same day if they write.
 
 
-**Updated:** 2026-10-07T20:08:55+0200  
+**Updated:** 2026-10-08T20:18:56+0200  
 **On the path?** **on-path**
 
 | | |
 |--|--|
 | **Arrive when** | A new role or another steady work stream |
-| **Do this now** | Freeze scope, share the code, and send the take-home before the end of the week |
-| **Live thread (intro already happened)** | 3.42 weeks typical |
+| **Do this now** | Review of the take-home, then a team round; reply the same day when they write |
+| **Live thread (intro already happened)** | 3.22 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
-| **Longest remaining chain** | 3.416667 weeks (kernel; not a destiny date) |
-| **Change since last snapshot** | 0.000000 |
+| **Longest remaining chain** | 3.216667 weeks (kernel; not a destiny date) |
+| **Change since last snapshot** | -0.200000 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Evening check: the take-home core flow is live and tested; an account blocker was solved; no new replies elsewhere |
-| **Named Do (still)** | Freeze scope on the take-home, share the code, and send it before the end of the week |
+| **This tick did** | Evening check: the take-home was sent a day early and the code shared; one more application closed; no other replies |
+| **Named Do (still)** | Reply the same day when the reviewers or the remaining application write |
 
-This week's act is on the path to a start date.
-
+Progress: completed R2,S4. Remaining T moved -0.200000.
 
 ## How to push
 
-Reply the same day when a live process writes. Do not chase after about a week of silence. The live process moved to a take-home build; ship it on time, with the thinking shown, before anything else. Submit fresh postings the same week they appear.
+Reply the same day when a live process writes. Do not chase after about a week of silence. The take-home is sent; let the review run without extra polish or nudges. Submit fresh postings the same week they appear.
 
 ## How long (Sweden rounds)
 
-The take-home for the live process has its core flow live and tested; what is left is a short final pass, sharing the code and sending both before the end of the week. Two applications from 1 Oct are still waiting on first screens. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
+The take-home for the live process was sent a day early and is now in review. One application from 1 Oct is still waiting on a first screen. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
@@ -50,13 +49,13 @@ Plain language. No S0/S1 codes. Emails are local-only.
 | What | Status | Next follow-up | When |
 |------|--------|----------------|------|
 | Technical interview passed; take-home invite acknowledged | already done | done | this week |
-| Freeze scope, share the code, and send the take-home before the end of the week | do now | send the build by the end of the week | this week |
-| Review of the take-home, then a team round | waiting on them | — | — |
+| Take-home sent a day early, code shared | already done | done | this week |
+| Review of the take-home, then a team round; reply the same day when they write | do now | reply the same day; no nudge before about a week | — |
 | Offer and start | waiting on them | — | — |
-| Screens from the two remaining applications submitted 1 Oct | waiting on them | reply the same day if they write | — |
+| Screen from the one remaining application submitted 1 Oct | waiting on them | reply the same day if they write | — |
 | Older applications, silent - reply only if they write | waiting on them | no nudge | — |
 | Terms to settle when an offer arrives | later / stretch | — | — |
-| Polishing the take-home past the deadline; fires if scope is not frozen the day before, then stop and send | later / stretch | — | — |
+| Polishing past the deadline did not happen; the build was sent early | already done | — | — |
 | Three applications submitted 1 Oct | already done | — | — |
 | Several processes closed at the first screen | already done | — | — |
 | Roles blocked or on hold | parked | — | — |
@@ -70,13 +69,13 @@ flowchart TB
   x["Where you are"]
   G["Arrive: A new role or another steady work stream"]
   S0["Technical interview passed; take-home invite acknowledged (already done)"]
-  S4["Freeze scope, share the code, and send the take-home before the end of the week (do now)"]
-  S4b["Review of the take-home, then a team round (waiting on them)"]
+  S4["Take-home sent a day early, code shared (already done)"]
+  S4b["Review of the take-home, then a team round; reply the same day when they write (do now)"]
   S5["Offer and start (waiting on them)"]
-  S6["Screens from the two remaining applications submitted 1 Oct (waiting on them)"]
+  S6["Screen from the one remaining application submitted 1 Oct (waiting on them)"]
   S1["Older applications, silent - reply only if they write (waiting on them)"]
   R1["Terms to settle when an offer arrives (later / stretch)"]
-  R2["Polishing the take-home past the deadline; fires if scope is not frozen the day before, then stop and send (later / stretch)"]
+  R2["Polishing past the deadline did not happen; the build was sent early (already done)"]
   S3["Three applications submitted 1 Oct (already done)"]
   D1["Several processes closed at the first screen (already done)"]
   P1["Roles blocked or on hold (parked)"]
@@ -102,10 +101,10 @@ flowchart TB
   classDef done fill:#2d2d2d,stroke:#6c757d,color:#adb5bd
   classDef goal fill:#5a189a,stroke:#c77dff,color:#fff
   class G goal
-  class S4 do
-  class S4b,S5,S6,S1 wait
+  class S4b do
+  class S5,S6,S1 wait
   class P1,P2,P3 park
-  class S0,S3,D1 done
+  class S0,S4,R2,S3,D1 done
 ```
 
 
