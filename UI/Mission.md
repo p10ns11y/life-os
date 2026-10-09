@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-10-08
+review_date: 2026-10-09
 ---
 
 # Mission heading
@@ -17,7 +17,7 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 Review of the take-home, then a team round; reply the same day when they write. reply the same day; no nudge before about a week. Also: Screen from the one remaining application submitted 1 Oct — reply the same day if they write.
 
 
-**Updated:** 2026-10-08T20:18:56+0200  
+**Updated:** 2026-10-09T20:07:13+0200  
 **On the path?** **on-path**
 
 | | |
@@ -27,12 +27,13 @@ Review of the take-home, then a team round; reply the same day when they write. 
 | **Live thread (intro already happened)** | 3.22 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
 | **Longest remaining chain** | 3.216667 weeks (kernel; not a destiny date) |
-| **Change since last snapshot** | -0.200000 |
+| **Change since last snapshot** | 0.000000 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Evening check: the take-home was sent a day early and the code shared; one more application closed; no other replies |
+| **This tick did** | Evening check: no new replies, no new closures, nothing on the calendar |
 | **Named Do (still)** | Reply the same day when the reviewers or the remaining application write |
 
-Progress: completed R2,S4. Remaining T moved -0.200000.
+This week's act is on the path to a start date.
+
 
 ## How to push
 
