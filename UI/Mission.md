@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-10-09
+review_date: 2026-10-12
 ---
 
 # Mission heading
@@ -14,10 +14,10 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 
 **Do this now:** Review of the take-home, then a team round; reply the same day when they write
 
-Review of the take-home, then a team round; reply the same day when they write. reply the same day; no nudge before about a week. Also: Screen from the one remaining application submitted 1 Oct — reply the same day if they write.
+Review of the take-home, then a team round; reply the same day when they write. reply the same day; no nudge before about a week. Also: Older applications, silent - reply only if they write — no nudge.
 
 
-**Updated:** 2026-10-09T20:07:13+0200  
+**Updated:** 2026-10-12T20:21:19+0200  
 **On the path?** **on-path**
 
 | | |
@@ -29,11 +29,10 @@ Review of the take-home, then a team round; reply the same day when they write. 
 | **Longest remaining chain** | 3.216667 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Evening check: no new replies, no new closures, nothing on the calendar |
-| **Named Do (still)** | Reply the same day when the reviewers or the remaining application write |
+| **This tick did** | Evening check: one parallel application closed; live take-home still in review; nothing on the calendar |
+| **Named Do (still)** | Reply the same day when the reviewers write |
 
-This week's act is on the path to a start date.
-
+Progress: completed S6. Remaining T moved 0.000000.
 
 ## How to push
 
@@ -41,7 +40,7 @@ Reply the same day when a live process writes. Do not chase after about a week o
 
 ## How long (Sweden rounds)
 
-The take-home for the live process was sent a day early and is now in review. One application from 1 Oct is still waiting on a first screen. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
+The take-home for the live process was sent a day early and is now in review (day 4). The last parallel application from 1 Oct closed today at the first screen. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
@@ -53,7 +52,7 @@ Plain language. No S0/S1 codes. Emails are local-only.
 | Take-home sent a day early, code shared | already done | done | this week |
 | Review of the take-home, then a team round; reply the same day when they write | do now | reply the same day; no nudge before about a week | — |
 | Offer and start | waiting on them | — | — |
-| Screen from the one remaining application submitted 1 Oct | waiting on them | reply the same day if they write | — |
+| The remaining 1 Oct application closed at the first screen | already done | done | this week |
 | Older applications, silent - reply only if they write | waiting on them | no nudge | — |
 | Terms to settle when an offer arrives | later / stretch | — | — |
 | Polishing past the deadline did not happen; the build was sent early | already done | — | — |
@@ -73,7 +72,7 @@ flowchart TB
   S4["Take-home sent a day early, code shared (already done)"]
   S4b["Review of the take-home, then a team round; reply the same day when they write (do now)"]
   S5["Offer and start (waiting on them)"]
-  S6["Screen from the one remaining application submitted 1 Oct (waiting on them)"]
+  S6["The remaining 1 Oct application closed at the first screen (already done)"]
   S1["Older applications, silent - reply only if they write (waiting on them)"]
   R1["Terms to settle when an offer arrives (later / stretch)"]
   R2["Polishing past the deadline did not happen; the build was sent early (already done)"]
@@ -103,9 +102,9 @@ flowchart TB
   classDef goal fill:#5a189a,stroke:#c77dff,color:#fff
   class G goal
   class S4b do
-  class S5,S6,S1 wait
+  class S5,S1 wait
   class P1,P2,P3 park
-  class S0,S4,R2,S3,D1 done
+  class S0,S4,S6,R2,S3,D1 done
 ```
 
 
