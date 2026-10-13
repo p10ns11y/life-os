@@ -5,42 +5,43 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-10-12
+review_date: 2026-10-13
 ---
 
 # Mission heading
 
 Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b overwrite.
 
-**Do this now:** Review of the take-home, then a team round; reply the same day when they write
+**Do this now:** Review of the take-home confirmed under way, then a team round; reply the same day when they write with next steps
 
-Review of the take-home, then a team round; reply the same day when they write. reply the same day; no nudge before about a week. Also: Older applications, silent - reply only if they write — no nudge.
+Review of the take-home confirmed under way, then a team round; reply the same day when they write with next steps. check-in answered; reply the same day on next steps; no further nudge. Also: Older applications, silent - reply only if they write — no nudge.
 
 
-**Updated:** 2026-10-12T20:21:19+0200  
+**Updated:** 2026-10-13T20:22:01+0200  
 **On the path?** **on-path**
 
 | | |
 |--|--|
 | **Arrive when** | A new role or another steady work stream |
-| **Do this now** | Review of the take-home, then a team round; reply the same day when they write |
+| **Do this now** | Review of the take-home confirmed under way, then a team round; reply the same day when they write with next steps |
 | **Live thread (intro already happened)** | 3.22 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
 | **Longest remaining chain** | 3.216667 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Evening check: one parallel application closed; live take-home still in review; nothing on the calendar |
-| **Named Do (still)** | Reply the same day when the reviewers write |
+| **This tick did** | Evening check: check-in answered; take-home confirmed in review; nothing on the calendar |
+| **Named Do (still)** | Reply the same day when they write with next steps; no further nudge |
 
-Progress: completed S6. Remaining T moved 0.000000.
+This week's act is on the path to a start date.
+
 
 ## How to push
 
-Reply the same day when a live process writes. Do not chase after about a week of silence. The take-home is sent; let the review run without extra polish or nudges. Submit fresh postings the same week they appear.
+Reply the same day when a live process writes with next steps. Do not chase after about a week of silence. A short check-in was answered; the take-home is confirmed in review — wait for next steps, no further nudge. Submit fresh postings the same week they appear.
 
 ## How long (Sweden rounds)
 
-The take-home for the live process was sent a day early and is now in review (day 4). The last parallel application from 1 Oct closed today at the first screen. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
+The take-home for the live process was sent a day early; a check-in today confirmed the team has it and review is under way (day 5). Wait for next steps; no further nudge. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
@@ -50,7 +51,7 @@ Plain language. No S0/S1 codes. Emails are local-only.
 |------|--------|----------------|------|
 | Technical interview passed; take-home invite acknowledged | already done | done | this week |
 | Take-home sent a day early, code shared | already done | done | this week |
-| Review of the take-home, then a team round; reply the same day when they write | do now | reply the same day; no nudge before about a week | — |
+| Review of the take-home confirmed under way, then a team round; reply the same day when they write with next steps | do now | check-in answered; reply the same day on next steps; no further nudge | — |
 | Offer and start | waiting on them | — | — |
 | The remaining 1 Oct application closed at the first screen | already done | done | this week |
 | Older applications, silent - reply only if they write | waiting on them | no nudge | — |
@@ -70,7 +71,7 @@ flowchart TB
   G["Arrive: A new role or another steady work stream"]
   S0["Technical interview passed; take-home invite acknowledged (already done)"]
   S4["Take-home sent a day early, code shared (already done)"]
-  S4b["Review of the take-home, then a team round; reply the same day when they write (do now)"]
+  S4b["Review of the take-home confirmed under way, then a team round; reply the same day when they write with next steps (do now)"]
   S5["Offer and start (waiting on them)"]
   S6["The remaining 1 Oct application closed at the first screen (already done)"]
   S1["Older applications, silent - reply only if they write (waiting on them)"]
