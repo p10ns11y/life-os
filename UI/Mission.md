@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-10-13
+review_date: 2026-10-14
 ---
 
 # Mission heading
@@ -17,7 +17,7 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 Review of the take-home confirmed under way, then a team round; reply the same day when they write with next steps. check-in answered; reply the same day on next steps; no further nudge. Also: Older applications, silent - reply only if they write — no nudge.
 
 
-**Updated:** 2026-10-13T20:22:01+0200  
+**Updated:** 2026-10-14T20:07:38+0200  
 **On the path?** **on-path**
 
 | | |
@@ -29,7 +29,7 @@ Review of the take-home confirmed under way, then a team round; reply the same d
 | **Longest remaining chain** | 3.216667 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Evening check: check-in answered; take-home confirmed in review; nothing on the calendar |
+| **This tick did** | Evening check: no new reply on the live process; nothing on the calendar |
 | **Named Do (still)** | Reply the same day when they write with next steps; no further nudge |
 
 This week's act is on the path to a start date.
@@ -41,7 +41,7 @@ Reply the same day when a live process writes with next steps. Do not chase afte
 
 ## How long (Sweden rounds)
 
-The take-home for the live process was sent a day early; a check-in today confirmed the team has it and review is under way (day 5). Wait for next steps; no further nudge. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
+The take-home for the live process was sent a day early; a check-in confirmed the team has it and review is under way (day 6). Wait for next steps; no further nudge. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
