@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-10-16
+review_date: 2026-10-17
 ---
 
 # Mission heading
@@ -17,7 +17,7 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 Review of the take-home confirmed under way, then a team round; reply the same day when they write with next steps. check-in answered; reply the same day on next steps; no further nudge. Also: Older applications, silent - reply only if they write — no nudge.
 
 
-**Updated:** 2026-10-16T20:05:51+0200  
+**Updated:** 2026-10-17T20:09:50+0200  
 **On the path?** **on-path**
 
 | | |
@@ -41,7 +41,7 @@ Reply the same day when a live process writes with next steps. Do not chase afte
 
 ## How long (Sweden rounds)
 
-The take-home for the live process was sent a day early; a check-in confirmed the team has it and review is under way (day 8). Wait for next steps; no further nudge. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
+The take-home for the live process was sent a day early; a check-in confirmed the team has it and review is under way (day 9). Wait for next steps; no further nudge. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
