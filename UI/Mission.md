@@ -5,43 +5,42 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-10-18
+review_date: 2026-10-19
 ---
 
 # Mission heading
 
 Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b overwrite.
 
-**Do this now:** Review of the take-home confirmed under way, then a team round; reply the same day when they write with next steps
+**Do this now:** Send the three prepared applications this week, one at a time (about 2 hours)
 
-Review of the take-home confirmed under way, then a team round; reply the same day when they write with next steps. check-in answered; reply the same day on next steps; no further nudge. Also: Older applications, silent - reply only if they write — no nudge.
+Send the three prepared applications this week, one at a time (about 2 hours). ready to send. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-10-18T20:10:01+0200  
-**On the path?** **on-path**
+**Updated:** 2026-10-19T20:11:50+0200  
+**On the path?** **replan**
 
 | | |
 |--|--|
 | **Arrive when** | A new role or another steady work stream |
-| **Do this now** | Review of the take-home confirmed under way, then a team round; reply the same day when they write with next steps |
-| **Live thread (intro already happened)** | 3.22 weeks typical |
+| **Do this now** | Send the three prepared applications this week, one at a time (about 2 hours) |
+| **Live thread (intro already happened)** | 2.17 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
-| **Longest remaining chain** | 3.216667 weeks (kernel; not a destiny date) |
-| **Change since last snapshot** | 0.000000 |
+| **Longest remaining chain** | 5.650000 weeks (kernel; not a destiny date) |
+| **Change since last snapshot** | 2.433333 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Evening check: no new reply on the live process; one fresh application confirmed; nothing on the calendar |
-| **Named Do (still)** | Reply the same day when they write with next steps; no further nudge |
+| **This tick did** | Evening check: the live process closed after the take-home; plan re-run on the remaining steps |
+| **Named Do (still)** | Send the ready applications this week, one at a time |
 
-This week's act is on the path to a start date.
-
+Remaining T grew (delta_te=2.433333) after a DAG or band replan. The next Do is still on the path. Not a Park.
 
 ## How to push
 
-Reply the same day when a live process writes with next steps. Do not chase after about a week of silence. A short check-in was answered; the take-home is confirmed in review — wait for next steps, no further nudge. Submit fresh postings the same week they appear.
+Reply the same day when a live process writes with next steps. Do not chase after about a week of silence. With no live process, send the ready applications this week, one at a time, before preparing any new ones.
 
 ## How long (Sweden rounds)
 
-The take-home for the live process was sent a day early; a check-in confirmed the team has it and review is under way (day 10). Wait for next steps; no further nudge. Several older applications are silent and are treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer. One fresh application went in this week; it waits for a reply.
+The live process closed after the take-home; the team chose another profile. No interview is open now. Three applications are prepared and ready to send this week. Two recent applications wait for a reply; older ones are silent and treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
@@ -51,11 +50,13 @@ Plain language. No S0/S1 codes. Emails are local-only.
 |------|--------|----------------|------|
 | Technical interview passed; take-home invite acknowledged | already done | done | this week |
 | Take-home sent a day early, code shared | already done | done | this week |
-| Review of the take-home confirmed under way, then a team round; reply the same day when they write with next steps | do now | check-in answered; reply the same day on next steps; no further nudge | — |
+| The live process closed after the take-home; the team chose another profile | already done | done | this week |
+| Send the three prepared applications this week, one at a time (about 2 hours) | do now | ready to send | — |
+| First screens and interview rounds from the new applications | waiting on them | — | — |
 | Offer and start | waiting on them | — | — |
 | The remaining 1 Oct application closed at the first screen | already done | done | this week |
-| Older applications, silent - reply only if they write | waiting on them | no nudge | — |
-| Terms to settle when an offer arrives | later / stretch | — | — |
+| Recent and older applications waiting - reply the same day only if they write | waiting on them | no nudge | — |
+| Terms question closed with the process | already done | — | — |
 | Polishing past the deadline did not happen; the build was sent early | already done | — | — |
 | Three applications submitted 1 Oct | already done | — | — |
 | Several processes closed at the first screen | already done | — | — |
@@ -71,11 +72,13 @@ flowchart TB
   G["Arrive: A new role or another steady work stream"]
   S0["Technical interview passed; take-home invite acknowledged (already done)"]
   S4["Take-home sent a day early, code shared (already done)"]
-  S4b["Review of the take-home confirmed under way, then a team round; reply the same day when they write with next steps (do now)"]
+  S4b["The live process closed after the take-home; the team chose another profile (already done)"]
+  S7["Send the three prepared applications this week, one at a time (about 2 hours) (do now)"]
+  S8["First screens and interview rounds from the new applications (waiting on them)"]
   S5["Offer and start (waiting on them)"]
   S6["The remaining 1 Oct application closed at the first screen (already done)"]
-  S1["Older applications, silent - reply only if they write (waiting on them)"]
-  R1["Terms to settle when an offer arrives (later / stretch)"]
+  S1["Recent and older applications waiting - reply the same day only if they write (waiting on them)"]
+  R1["Terms question closed with the process (already done)"]
   R2["Polishing past the deadline did not happen; the build was sent early (already done)"]
   S3["Three applications submitted 1 Oct (already done)"]
   D1["Several processes closed at the first screen (already done)"]
@@ -83,9 +86,12 @@ flowchart TB
   P2["Side projects on hold until picked up (parked)"]
   P3["Old postings - do not submit (parked)"]
   x --> S0
-  S0 -->|"toward start"| S4
-  S4 -->|"toward start"| S4b
-  S4b -->|"toward start"| S5
+  S0 --> S4
+  S4 --> S4b
+  x --> S7
+  S7 -->|"toward start"| S8
+  S1 --> S8
+  S8 -->|"toward start"| S5
   x --> S6
   x --> S1
   S4b --> R1
@@ -102,10 +108,10 @@ flowchart TB
   classDef done fill:#2d2d2d,stroke:#6c757d,color:#adb5bd
   classDef goal fill:#5a189a,stroke:#c77dff,color:#fff
   class G goal
-  class S4b do
-  class S5,S1 wait
+  class S7 do
+  class S8,S5,S1 wait
   class P1,P2,P3 park
-  class S0,S4,S6,R2,S3,D1 done
+  class S0,S4,S4b,S6,R1,R2,S3,D1 done
 ```
 
 
