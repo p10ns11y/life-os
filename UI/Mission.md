@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-10-23
+review_date: 2026-10-25
 ---
 
 # Mission heading
@@ -17,7 +17,7 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 Send the prepared, checked applications one at a time, top-ranked first; the first two need only one short form answer (about 1-1.5 hours in total). ready to send. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-10-23T20:06:46+0200  
+**Updated:** 2026-10-25T20:06:59+0100  
 **On the path?** **on-path**
 
 | | |
@@ -29,7 +29,7 @@ Send the prepared, checked applications one at a time, top-ranked first; the fir
 | **Longest remaining chain** | 5.558333 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Evening check: no replies yet; job-title wording corrected in two prepared notes; CV refresh awaiting approval |
+| **This tick did** | Evening check: no replies yet; a fill-in sheet for the top two applications is ready |
 | **Named Do (still)** | Send the two top-ranked checked applications, one at a time, each needing only one short form answer |
 
 This week's act is on the path to a start date.
