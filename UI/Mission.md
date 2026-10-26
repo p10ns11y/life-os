@@ -5,35 +5,34 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-10-25
+review_date: 2026-10-26
 ---
 
 # Mission heading
 
 Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b overwrite.
 
-**Do this now:** Send the prepared, checked applications one at a time, top-ranked first; the first two need only one short form answer (about 1-1.5 hours in total)
+**Do this now:** Send the two remaining prepared applications, one at a time
 
-Send the prepared, checked applications one at a time, top-ranked first; the first two need only one short form answer (about 1-1.5 hours in total). ready to send. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
+Send the two remaining prepared applications, one at a time. ready to send. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-10-25T20:06:59+0100  
+**Updated:** 2026-10-26T20:11:22+0100  
 **On the path?** **on-path**
 
 | | |
 |--|--|
 | **Arrive when** | A new role or another steady work stream |
-| **Do this now** | Send the prepared, checked applications one at a time, top-ranked first; the first two need only one short form answer (about 1-1.5 hours in total) |
+| **Do this now** | Send the two remaining prepared applications, one at a time |
 | **Live thread (intro already happened)** | 2.17 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
-| **Longest remaining chain** | 5.558333 weeks (kernel; not a destiny date) |
-| **Change since last snapshot** | 0.000000 |
+| **Longest remaining chain** | 5.455000 weeks (kernel; not a destiny date) |
+| **Change since last snapshot** | -0.103333 |
 | **This tick alignment** | 1.0 |
 | **This tick did** | Evening check: no replies yet; a fill-in sheet for the top two applications is ready |
 | **Named Do (still)** | Send the two top-ranked checked applications, one at a time, each needing only one short form answer |
 
-This week's act is on the path to a start date.
-
+Remaining T shortened (delta_te=-0.103333).
 
 ## How to push
 
@@ -41,7 +40,7 @@ Reply the same day when a live process writes with next steps. Do not chase afte
 
 ## How long (Sweden rounds)
 
-No live process is open. Four applications are prepared and checked; the first two need only one short form answer. Two recent applications wait for a reply; older ones are silent and treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
+Three new applications went out today with the final CV. Two prepared applications remain and need a few short form answers. Recent applications wait for a reply; older ones are silent and treated as closed unless they write. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
@@ -52,7 +51,7 @@ Plain language. No S0/S1 codes. Emails are local-only.
 | Technical interview passed; take-home invite acknowledged | already done | done | this week |
 | Take-home sent a day early, code shared | already done | done | this week |
 | The live process closed after the take-home; the team chose another profile | already done | done | this week |
-| Send the prepared, checked applications one at a time, top-ranked first; the first two need only one short form answer (about 1-1.5 hours in total) | do now | ready to send | — |
+| Send the two remaining prepared applications, one at a time | do now | ready to send | — |
 | First screens and interview rounds from the new applications | waiting on them | — | — |
 | Offer and start | waiting on them | — | — |
 | The remaining 1 Oct application closed at the first screen | already done | done | this week |
@@ -74,7 +73,7 @@ flowchart TB
   S0["Technical interview passed; take-home invite acknowledged (already done)"]
   S4["Take-home sent a day early, code shared (already done)"]
   S4b["The live process closed after the take-home; the team chose another profile (already done)"]
-  S7["Send the prepared, checked applications one at a time, top-ranked first; the first two need only one short form answer (about 1-1.5 hours in total) (do now)"]
+  S7["Send the two remaining prepared applications, one at a time (do now)"]
   S8["First screens and interview rounds from the new applications (waiting on them)"]
   S5["Offer and start (waiting on them)"]
   S6["The remaining 1 Oct application closed at the first screen (already done)"]
