@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-10-28
+review_date: 2026-10-29
 ---
 
 # Mission heading
@@ -17,7 +17,7 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 Send the next checked applications in the queue, one at a time. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-10-28T20:06:22+0100  
+**Updated:** 2026-10-29T20:02:00+0100  
 **On the path?** **on-path**
 
 | | |
@@ -29,8 +29,8 @@ Send the next checked applications in the queue, one at a time. queue open. Also
 | **Longest remaining chain** | 5.455000 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Evening check: ten applications confirmed received; one earlier one closed |
-| **Named Do (still)** | Send the next checked applications in the queue, one at a time |
+| **This tick did** | Evening check: no new applications today; one earlier one closed |
+| **Named Do (still)** | Give the one short decision reply, then send the five ready applications one at a time |
 
 This week's act is on the path to a start date.
 
@@ -41,7 +41,7 @@ Reply the same day when a live process writes with next steps. Do not chase afte
 
 ## How long (Sweden rounds)
 
-Ten applications went out since yesterday evening, all confirmed received; one earlier application closed. A short queue of checked applications is next, sent one at a time. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
+No applications went out today; one more earlier application closed. Five checked applications are ready and wait only on one short decision reply, then go out one at a time. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
