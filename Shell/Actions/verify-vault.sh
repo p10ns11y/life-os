@@ -8,7 +8,7 @@ FAIL=0
 
 say() { printf '%s\n' "$*"; }
 ok() { say "OK  $*"; }
-bad() { say "FAIL $*"; FAIL=1; }
+bad() { say "FAIL $*"; FAIL=$((FAIL + 1)); }
 
 CANONICAL_AREAS=(Career Health Finance Learning Relationships Systems Creative)
 
@@ -34,11 +34,11 @@ for a in "${CANONICAL_AREAS[@]}"; do
   if [[ -f "Areas/${a}.md" ]]; then ok "area Areas/${a}.md"; else bad "missing area Areas/${a}.md"; fi
 done
 
-# No private/ in tracked tree
-if git ls-files 'private/' 'private/**' 2>/dev/null | grep -q .; then
-  bad "private/ paths tracked in git"
+# No private/ or _private.* in tracked tree
+if git ls-files -- ':(glob)private/**' ':(glob)**/private/**' ':(glob)**/_private.*' ':(glob)**/_private/**' 2>/dev/null | grep -q .; then
+  bad "private paths tracked in git"
 else
-  ok "no private/ in git index"
+  ok "no private paths in git index"
 fi
 
 # area: frontmatter must reference canonical wikilinks (project|area|task notes)
