@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-11-01
+review_date: 2026-11-03
 ---
 
 # Mission heading
@@ -17,7 +17,7 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 Send the five checked, live applications one at a time. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-11-01T20:09:16+0100  
+**Updated:** 2026-11-03T20:05:31+0100  
 **On the path?** **on-path**
 
 | | |
@@ -29,7 +29,7 @@ Send the five checked, live applications one at a time. queue open. Also: Recent
 | **Longest remaining chain** | 5.455000 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Evening check: no new applications and no replies today |
+| **This tick did** | Evening catch-up: still no new applications and no replies since the last check |
 | **Named Do (still)** | Send the five ready applications one at a time |
 
 This week's act is on the path to a start date.
@@ -41,7 +41,7 @@ Reply the same day when a live process writes with next steps. Do not chase afte
 
 ## How long (Sweden rounds)
 
-No applications went out for four days. Five checked applications are live and wait only on a Submit press each. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
+No applications went out for six days. Five checked applications are live and wait only on a Submit press each. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
