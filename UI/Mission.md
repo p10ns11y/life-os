@@ -5,32 +5,32 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-11-04
+review_date: 2026-11-05
 ---
 
 # Mission heading
 
 Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b overwrite.
 
-**Do this now:** Send the two checked, live applications one at a time
+**Do this now:** Send the next checked, live applications one at a time
 
-Send the two checked, live applications one at a time. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
+Send the next checked, live applications one at a time. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-11-04T20:10:10+0100  
+**Updated:** 2026-11-05T20:04:20+0100  
 **On the path?** **on-path**
 
 | | |
 |--|--|
 | **Arrive when** | A new role or another steady work stream |
-| **Do this now** | Send the two checked, live applications one at a time |
+| **Do this now** | Send the next checked, live applications one at a time |
 | **Live thread (intro already happened)** | 2.17 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
 | **Longest remaining chain** | 5.455000 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Evening check: still no new applications and no replies since the last check |
-| **Named Do (still)** | Send the two ready applications one at a time |
+| **This tick did** | Evening check: a first screening invite arrived and one more application went out |
+| **Named Do (still)** | Book the first screening call today, then send the next ready application |
 
 This week's act is on the path to a start date.
 
@@ -41,7 +41,7 @@ Reply the same day when a live process writes with next steps. Do not chase afte
 
 ## How long (Sweden rounds)
 
-No applications went out for seven days. Two checked applications are live and wait only on a Submit press each. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
+A first screening invite arrived and needs a booked slot. One more application went out. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
@@ -49,11 +49,12 @@ Plain language. No S0/S1 codes. Emails are local-only.
 
 | What | Status | Next follow-up | When |
 |------|--------|----------------|------|
+| Book the first screening call the same day it was offered | do now | booking open | today |
 | Technical interview passed; take-home invite acknowledged | already done | done | this week |
 | Take-home sent a day early, code shared | already done | done | this week |
 | The live process closed after the take-home; the team chose another profile | already done | done | this week |
-| Send the two checked, live applications one at a time | do now | queue open | — |
-| First screens and interview rounds from the new applications | waiting on them | — | — |
+| Send the next checked, live applications one at a time | do now | queue open | — |
+| The first screening call, then further rounds and screens from the other applications | waiting on them | — | — |
 | Offer and start | waiting on them | — | — |
 | The remaining 1 Oct application closed at the first screen | already done | done | this week |
 | Recent and older applications waiting - reply the same day only if they write | waiting on them | no nudge | — |
@@ -71,11 +72,12 @@ Plain language. No S0/S1 codes. Emails are local-only.
 flowchart TB
   x["Where you are"]
   G["Arrive: A new role or another steady work stream"]
+  S9["Book the first screening call the same day it was offered (do now)"]
   S0["Technical interview passed; take-home invite acknowledged (already done)"]
   S4["Take-home sent a day early, code shared (already done)"]
   S4b["The live process closed after the take-home; the team chose another profile (already done)"]
-  S7["Send the two checked, live applications one at a time (do now)"]
-  S8["First screens and interview rounds from the new applications (waiting on them)"]
+  S7["Send the next checked, live applications one at a time (do now)"]
+  S8["The first screening call, then further rounds and screens from the other applications (waiting on them)"]
   S5["Offer and start (waiting on them)"]
   S6["The remaining 1 Oct application closed at the first screen (already done)"]
   S1["Recent and older applications waiting - reply the same day only if they write (waiting on them)"]
@@ -86,10 +88,12 @@ flowchart TB
   P1["Roles blocked or on hold (parked)"]
   P2["Side projects on hold until picked up (parked)"]
   P3["Old postings - do not submit (parked)"]
+  x --> S9
   x --> S0
   S0 --> S4
   S4 --> S4b
   x --> S7
+  S9 --> S8
   S7 -->|"toward start"| S8
   S1 --> S8
   S8 -->|"toward start"| S5
@@ -109,7 +113,7 @@ flowchart TB
   classDef done fill:#2d2d2d,stroke:#6c757d,color:#adb5bd
   classDef goal fill:#5a189a,stroke:#c77dff,color:#fff
   class G goal
-  class S7 do
+  class S9,S7 do
   class S8,S5,S1 wait
   class P1,P2,P3 park
   class S0,S4,S4b,S6,R1,R2,S3,D1 done
