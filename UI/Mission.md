@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-11-06
+review_date: 2026-11-07
 ---
 
 # Mission heading
@@ -17,7 +17,7 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 Send the next checked, live applications one at a time. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-11-06T20:05:35+0100  
+**Updated:** 2026-11-07T20:04:58+0100  
 **On the path?** **on-path**
 
 | | |
@@ -29,14 +29,15 @@ Send the next checked, live applications one at a time. queue open. Also: Recent
 | **Longest remaining chain** | 5.455000 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Evening check: screening call booked; one waiting application closed; no new submits today |
+| **This tick did** | Evening check: screening call still booked; no new hiring mail; no new submits |
 | **Named Do (still)** | Send the next ready application, then the rest of the checked queue one at a time |
 
-Progress: completed S9. Remaining T moved 0.000000.
+This week's act is on the path to a start date.
+
 
 ## How to push
 
-Reply the same day when a live process writes with next steps. Do not chase after about a week of silence. One screening call is booked. Send the ready applications this week, one at a time, before preparing any new ones.
+Reply the same day when a live process writes with next steps. Do not chase after about a week of silence. One screening call is booked. Send the ready applications early next week, one at a time, before preparing any new ones.
 
 ## How long (Sweden rounds)
 
