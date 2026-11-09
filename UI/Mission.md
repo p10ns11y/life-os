@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-11-07
+review_date: 2026-11-09
 ---
 
 # Mission heading
@@ -17,7 +17,7 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 Send the next checked, live applications one at a time. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-11-07T20:04:58+0100  
+**Updated:** 2026-11-09T20:08:01+0100  
 **On the path?** **on-path**
 
 | | |
@@ -37,11 +37,11 @@ This week's act is on the path to a start date.
 
 ## How to push
 
-Reply the same day when a live process writes with next steps. Do not chase after about a week of silence. One screening call is booked. Send the ready applications early next week, one at a time, before preparing any new ones.
+Reply the same day when a live process writes with next steps. Do not chase after about a week of silence. One screening call is booked. Send the ready applications this week, one at a time, before preparing any new ones.
 
 ## How long (Sweden rounds)
 
-A first screening call is booked for early next week. One recent application closed because the role was filled. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
+A first screening call is booked for this week. One recent application closed because the role was filled. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
