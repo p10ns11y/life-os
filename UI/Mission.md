@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-11-10
+review_date: 2026-11-12
 ---
 
 # Mission heading
@@ -17,7 +17,7 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 Send the next checked, live applications one at a time. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-11-10T20:05:14+0100  
+**Updated:** 2026-11-12T20:10:15+0100  
 **On the path?** **on-path**
 
 | | |
@@ -37,11 +37,11 @@ This week's act is on the path to a start date.
 
 ## How to push
 
-Reply the same day when a live process writes with next steps. Do not chase after about a week of silence. One screening call is rebooked for later this week. Send the ready applications this week, one at a time, before preparing any new ones.
+Reply the same day when a live process writes with next steps. Do not chase after about a week of silence. One screening call is done and waits on the next step. Send the ready applications this week, one at a time, before preparing any new ones.
 
 ## How long (Sweden rounds)
 
-A first screening call is rebooked for later this week. One recent application closed because the role was filled. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
+A first screening call is done and waits on the next step. One recent application closed because the role was filled. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
@@ -49,12 +49,12 @@ Plain language. No S0/S1 codes. Emails are local-only.
 
 | What | Status | Next follow-up | When |
 |------|--------|----------------|------|
-| First screening call rebooked for later this week after a connection problem | already done | rebooked | later this week |
+| First screening call held; thank-you note sent | already done | done | this week |
 | Technical interview passed; take-home invite acknowledged | already done | done | this week |
 | Take-home sent a day early, code shared | already done | done | this week |
 | The live process closed after the take-home; the team chose another profile | already done | done | this week |
 | Send the next checked, live applications one at a time | do now | queue open | — |
-| The rebooked screening call, then further rounds and screens from the other applications | waiting on them | — | — |
+| Next step after the screening call, then further rounds and screens from the other applications | waiting on them | — | — |
 | Offer and start | waiting on them | — | — |
 | The remaining 1 Oct application closed at the first screen | already done | done | this week |
 | Recent and older applications waiting - reply the same day only if they write | waiting on them | no nudge | — |
@@ -72,12 +72,12 @@ Plain language. No S0/S1 codes. Emails are local-only.
 flowchart TB
   x["Where you are"]
   G["Arrive: A new role or another steady work stream"]
-  S9["First screening call rebooked for later this week after a connection problem (already done)"]
+  S9["First screening call held; thank-you note sent (already done)"]
   S0["Technical interview passed; take-home invite acknowledged (already done)"]
   S4["Take-home sent a day early, code shared (already done)"]
   S4b["The live process closed after the take-home; the team chose another profile (already done)"]
   S7["Send the next checked, live applications one at a time (do now)"]
-  S8["The rebooked screening call, then further rounds and screens from the other applications (waiting on them)"]
+  S8["Next step after the screening call, then further rounds and screens from the other applications (waiting on them)"]
   S5["Offer and start (waiting on them)"]
   S6["The remaining 1 Oct application closed at the first screen (already done)"]
   S1["Recent and older applications waiting - reply the same day only if they write (waiting on them)"]
