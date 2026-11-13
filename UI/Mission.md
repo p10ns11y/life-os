@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-11-12
+review_date: 2026-11-13
 ---
 
 # Mission heading
@@ -17,8 +17,8 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 Send the next checked, live applications one at a time. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-11-12T20:10:15+0100  
-**On the path?** **on-path**
+**Updated:** 2026-11-13T20:11:09+0100  
+**On the path?** **replan**
 
 | | |
 |--|--|
@@ -26,22 +26,21 @@ Send the next checked, live applications one at a time. queue open. Also: Recent
 | **Do this now** | Send the next checked, live applications one at a time |
 | **Live thread (intro already happened)** | 2.17 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
-| **Longest remaining chain** | 5.455000 weeks (kernel; not a destiny date) |
-| **Change since last snapshot** | 0.000000 |
+| **Longest remaining chain** | 6.038333 weeks (kernel; not a destiny date) |
+| **Change since last snapshot** | 0.583333 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Evening check: screening call rebooked for later this week; no new submits |
+| **This tick did** | Evening check: the screening call closed without a next step; no new submits |
 | **Named Do (still)** | Send the next ready application, then the rest of the checked queue one at a time |
 
-This week's act is on the path to a start date.
-
+Remaining T grew (delta_te=0.583333) after a DAG or band replan. The next Do is still on the path. Not a Park.
 
 ## How to push
 
-Reply the same day when a live process writes with next steps. Do not chase after about a week of silence. One screening call is done and waits on the next step. Send the ready applications this week, one at a time, before preparing any new ones.
+Reply the same day when a live process writes with next steps. Do not chase after about a week of silence. No interview is live right now. Send the ready applications one at a time before preparing any new ones.
 
 ## How long (Sweden rounds)
 
-A first screening call is done and waits on the next step. One recent application closed because the role was filled. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
+The first screening call closed without a next step; the feedback asks for recent shipped work with real users. No interview is live. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
 
 ## Stages
 
@@ -49,12 +48,12 @@ Plain language. No S0/S1 codes. Emails are local-only.
 
 | What | Status | Next follow-up | When |
 |------|--------|----------------|------|
-| First screening call held; thank-you note sent | already done | done | this week |
+| First screening call held; the process closed without a next step | already done | done | this week |
 | Technical interview passed; take-home invite acknowledged | already done | done | this week |
 | Take-home sent a day early, code shared | already done | done | this week |
 | The live process closed after the take-home; the team chose another profile | already done | done | this week |
 | Send the next checked, live applications one at a time | do now | queue open | — |
-| Next step after the screening call, then further rounds and screens from the other applications | waiting on them | — | — |
+| First screens from the sent and waiting applications, then further rounds | waiting on them | — | — |
 | Offer and start | waiting on them | — | — |
 | The remaining 1 Oct application closed at the first screen | already done | done | this week |
 | Recent and older applications waiting - reply the same day only if they write | waiting on them | no nudge | — |
@@ -72,12 +71,12 @@ Plain language. No S0/S1 codes. Emails are local-only.
 flowchart TB
   x["Where you are"]
   G["Arrive: A new role or another steady work stream"]
-  S9["First screening call held; thank-you note sent (already done)"]
+  S9["First screening call held; the process closed without a next step (already done)"]
   S0["Technical interview passed; take-home invite acknowledged (already done)"]
   S4["Take-home sent a day early, code shared (already done)"]
   S4b["The live process closed after the take-home; the team chose another profile (already done)"]
   S7["Send the next checked, live applications one at a time (do now)"]
-  S8["Next step after the screening call, then further rounds and screens from the other applications (waiting on them)"]
+  S8["First screens from the sent and waiting applications, then further rounds (waiting on them)"]
   S5["Offer and start (waiting on them)"]
   S6["The remaining 1 Oct application closed at the first screen (already done)"]
   S1["Recent and older applications waiting - reply the same day only if they write (waiting on them)"]
