@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-11-13
+review_date: 2026-11-14
 ---
 
 # Mission heading
@@ -17,8 +17,8 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 Send the next checked, live applications one at a time. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-11-13T20:11:09+0100  
-**On the path?** **replan**
+**Updated:** 2026-11-14T20:00:41+0100  
+**On the path?** **on-path**
 
 | | |
 |--|--|
@@ -27,12 +27,13 @@ Send the next checked, live applications one at a time. queue open. Also: Recent
 | **Live thread (intro already happened)** | 2.17 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
 | **Longest remaining chain** | 6.038333 weeks (kernel; not a destiny date) |
-| **Change since last snapshot** | 0.583333 |
+| **Change since last snapshot** | 0.000000 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Evening check: the screening call closed without a next step; no new submits |
+| **This tick did** | Evening check: no new replies; no new submits |
 | **Named Do (still)** | Send the next ready application, then the rest of the checked queue one at a time |
 
-Remaining T grew (delta_te=0.583333) after a DAG or band replan. The next Do is still on the path. Not a Park.
+This week's act is on the path to a start date.
+
 
 ## How to push
 
