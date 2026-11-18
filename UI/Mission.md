@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-11-17
+review_date: 2026-11-18
 ---
 
 # Mission heading
@@ -17,7 +17,7 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 Send the next checked, live applications one at a time. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-11-17T20:05:40+0100  
+**Updated:** 2026-11-18T20:02:30+0100  
 **On the path?** **on-path**
 
 | | |
@@ -29,7 +29,7 @@ Send the next checked, live applications one at a time. queue open. Also: Recent
 | **Longest remaining chain** | 6.038333 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 | **This tick alignment** | 1.0 |
-| **This tick did** | Evening check: one waiting application closed; no new submits |
+| **This tick did** | Evening check: no hiring replies; new applications packed; no new submits |
 | **Named Do (still)** | Send the next ready application, then the rest of the checked queue one at a time |
 
 This week's act is on the path to a start date.
