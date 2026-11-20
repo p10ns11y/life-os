@@ -5,32 +5,32 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-11-18
+review_date: 2026-11-20
 ---
 
 # Mission heading
 
 Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b overwrite.
 
-**Do this now:** Send the next checked, live applications one at a time
+**Do this now:** Send the rest of the approved batch of applications
 
-Send the next checked, live applications one at a time. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
+Send the rest of the approved batch of applications. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-11-18T20:02:30+0100  
+**Updated:** 2026-11-20T20:05:11+0100  
 **On the path?** **on-path**
 
 | | |
 |--|--|
 | **Arrive when** | A new role or another steady work stream |
-| **Do this now** | Send the next checked, live applications one at a time |
+| **Do this now** | Send the rest of the approved batch of applications |
 | **Live thread (intro already happened)** | 2.17 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
 | **Longest remaining chain** | 6.038333 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
-| **This tick alignment** | 1.0 |
-| **This tick did** | Evening check: no hiring replies; new applications packed; no new submits |
-| **Named Do (still)** | Send the next ready application, then the rest of the checked queue one at a time |
+
+| **This tick did** | Three new applications went out today with receipts; no replies or interviews yet |
+| **Named Do (still)** | Keep the approved batch of applications going out |
 
 This week's act is on the path to a start date.
 
@@ -41,7 +41,7 @@ Reply the same day when a live process writes with next steps. Do not chase afte
 
 ## How long (Sweden rounds)
 
-One waiting application closed this week because the role was filled. No interview is live. The feedback from the last screen asks for recent shipped work with real users. Swedish processes usually take 1-3 weeks per round; a start can be 1-4 weeks after an offer.
+Late November. Approved batch of applications started going out; three sent today. No replies or interviews yet.
 
 ## Stages
 
@@ -53,7 +53,7 @@ Plain language. No S0/S1 codes. Emails are local-only.
 | Technical interview passed; take-home invite acknowledged | already done | done | this week |
 | Take-home sent a day early, code shared | already done | done | this week |
 | The live process closed after the take-home; the team chose another profile | already done | done | this week |
-| Send the next checked, live applications one at a time | do now | queue open | — |
+| Send the rest of the approved batch of applications | do now | queue open | — |
 | First screens from the sent and waiting applications, then further rounds | waiting on them | — | — |
 | Offer and start | waiting on them | — | — |
 | The remaining 1 Oct application closed at the first screen | already done | done | this week |
@@ -76,7 +76,7 @@ flowchart TB
   S0["Technical interview passed; take-home invite acknowledged (already done)"]
   S4["Take-home sent a day early, code shared (already done)"]
   S4b["The live process closed after the take-home; the team chose another profile (already done)"]
-  S7["Send the next checked, live applications one at a time (do now)"]
+  S7["Send the rest of the approved batch of applications (do now)"]
   S8["First screens from the sent and waiting applications, then further rounds (waiting on them)"]
   S5["Offer and start (waiting on them)"]
   S6["The remaining 1 Oct application closed at the first screen (already done)"]
