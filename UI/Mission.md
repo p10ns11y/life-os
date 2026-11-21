@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-11-20
+review_date: 2026-11-21
 ---
 
 # Mission heading
@@ -17,7 +17,7 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 Send the rest of the approved batch of applications. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-11-20T20:05:11+0100  
+**Updated:** 2026-11-21T20:04:22+0100  
 **On the path?** **on-path**
 
 | | |
@@ -29,8 +29,8 @@ Send the rest of the approved batch of applications. queue open. Also: Recent an
 | **Longest remaining chain** | 6.038333 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 
-| **This tick did** | Three new applications went out today with receipts; no replies or interviews yet |
-| **Named Do (still)** | Keep the approved batch of applications going out |
+| **This tick did** | Five more applications went out with receipts; a recruiter asked for a short chat and a reply went out offering times |
+| **Named Do (still)** | Send the rest of the approved batch; be ready for a first recruiter chat |
 
 This week's act is on the path to a start date.
 
@@ -54,7 +54,7 @@ Plain language. No S0/S1 codes. Emails are local-only.
 | Take-home sent a day early, code shared | already done | done | this week |
 | The live process closed after the take-home; the team chose another profile | already done | done | this week |
 | Send the rest of the approved batch of applications | do now | queue open | — |
-| First screens from the sent and waiting applications, then further rounds | waiting on them | — | — |
+| A recruiter asked for a short first chat (times offered, waiting on confirmation); other first screens still to come | waiting on them | — | — |
 | Offer and start | waiting on them | — | — |
 | The remaining 1 Oct application closed at the first screen | already done | done | this week |
 | Recent and older applications waiting - reply the same day only if they write | waiting on them | no nudge | — |
@@ -77,7 +77,7 @@ flowchart TB
   S4["Take-home sent a day early, code shared (already done)"]
   S4b["The live process closed after the take-home; the team chose another profile (already done)"]
   S7["Send the rest of the approved batch of applications (do now)"]
-  S8["First screens from the sent and waiting applications, then further rounds (waiting on them)"]
+  S8["A recruiter asked for a short first chat (times offered, waiting on confirmation); other first screens still to come (waiting on them)"]
   S5["Offer and start (waiting on them)"]
   S6["The remaining 1 Oct application closed at the first screen (already done)"]
   S1["Recent and older applications waiting - reply the same day only if they write (waiting on them)"]
