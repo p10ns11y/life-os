@@ -5,32 +5,32 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-11-24
+review_date: 2026-11-25
 ---
 
 # Mission heading
 
 Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b overwrite.
 
-**Do this now:** Send the rest of the approved batch of applications
+**Do this now:** Send the strongest prepared applications, one at a time
 
-Send the rest of the approved batch of applications. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
+Send the strongest prepared applications, one at a time. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-11-24T20:04:38+0100  
+**Updated:** 2026-11-25T20:04:20+0100  
 **On the path?** **on-path**
 
 | | |
 |--|--|
 | **Arrive when** | A new role or another steady work stream |
-| **Do this now** | Send the rest of the approved batch of applications |
+| **Do this now** | Send the strongest prepared applications, one at a time |
 | **Live thread (intro already happened)** | 2.17 weeks typical |
 | **If that thread dies** | you usually know within ~1 week of silence — not 12 weeks |
 | **Longest remaining chain** | 6.038333 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 
-| **This tick did** | One early rejection; the recruiter chat went quiet; more applications prepared |
-| **Named Do (still)** | Send the rest of the approved batch |
+| **This tick did** | One early rejection; weaker applications set aside; new strong fits prepared |
+| **Named Do (still)** | Send the strongest prepared applications, one at a time |
 
 This week's act is on the path to a start date.
 
@@ -41,7 +41,7 @@ Reply the same day when a live process writes with next steps. Do not chase afte
 
 ## How long (Sweden rounds)
 
-Late November. Approved batch still going out; one more early rejection today. No interviews yet.
+Late November. Applications refocused on the strongest fits; one more early rejection today. No interviews yet.
 
 ## Stages
 
@@ -53,7 +53,7 @@ Plain language. No S0/S1 codes. Emails are local-only.
 | Technical interview passed; take-home invite acknowledged | already done | done | this week |
 | Take-home sent a day early, code shared | already done | done | this week |
 | The live process closed after the take-home; the team chose another profile | already done | done | this week |
-| Send the rest of the approved batch of applications | do now | queue open | — |
+| Send the strongest prepared applications, one at a time | do now | queue open | — |
 | A recruiter asked for a short first chat but has gone quiet after times were offered; other first screens still to come | waiting on them | — | — |
 | Offer and start | waiting on them | — | — |
 | The remaining 1 Oct application closed at the first screen | already done | done | this week |
@@ -76,7 +76,7 @@ flowchart TB
   S0["Technical interview passed; take-home invite acknowledged (already done)"]
   S4["Take-home sent a day early, code shared (already done)"]
   S4b["The live process closed after the take-home; the team chose another profile (already done)"]
-  S7["Send the rest of the approved batch of applications (do now)"]
+  S7["Send the strongest prepared applications, one at a time (do now)"]
   S8["A recruiter asked for a short first chat but has gone quiet after times were offered; other first screens still to come (waiting on them)"]
   S5["Offer and start (waiting on them)"]
   S6["The remaining 1 Oct application closed at the first screen (already done)"]
