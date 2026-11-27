@@ -5,7 +5,7 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-11-26
+review_date: 2026-11-27
 ---
 
 # Mission heading
@@ -17,7 +17,7 @@ Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b
 Send the strongest prepared applications, one at a time. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-11-26T20:04:01+0100  
+**Updated:** 2026-11-27T20:01:30+0100  
 **On the path?** **on-path**
 
 | | |
@@ -29,7 +29,7 @@ Send the strongest prepared applications, one at a time. queue open. Also: Recen
 | **Longest remaining chain** | 6.038333 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 
-| **This tick did** | Replied to a contract recruiter with interest; more strong fits prepared |
+| **This tick did** | One more rejection after apply; more strong fits prepared |
 | **Named Do (still)** | Send the strongest prepared applications, one at a time |
 
 This week's act is on the path to a start date.
@@ -41,7 +41,7 @@ Reply the same day when a live process writes with next steps. Do not chase afte
 
 ## How long (Sweden rounds)
 
-Late November. Applications refocused on the strongest fits; one more early rejection today. No interviews yet.
+Late November. One more rejection after apply; more strong fits prepared. No interviews yet.
 
 ## Stages
 
