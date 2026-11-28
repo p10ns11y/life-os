@@ -5,19 +5,19 @@ importance: 4
 urgency: 3
 area: "[[Career]]"
 tags: [mission-map, heading, nightly]
-review_date: 2026-11-27
+review_date: 2026-11-28
 ---
 
 # Mission heading
 
-Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. No silent a/m/b overwrite.
+Nightly rewrite (20:00 local). Numbers from `mission-map-graph`. Does not silently overwrite duration estimates.
 
 **Do this now:** Send the strongest prepared applications, one at a time
 
 Send the strongest prepared applications, one at a time. queue open. Also: Recent and older applications waiting - reply the same day only if they write — no nudge.
 
 
-**Updated:** 2026-11-27T20:01:30+0100  
+**Updated:** 2026-11-28T20:02:47+0100  
 **On the path?** **on-path**
 
 | | |
@@ -29,7 +29,7 @@ Send the strongest prepared applications, one at a time. queue open. Also: Recen
 | **Longest remaining chain** | 6.038333 weeks (kernel; not a destiny date) |
 | **Change since last snapshot** | 0.000000 |
 
-| **This tick did** | One more rejection after apply; more strong fits prepared |
+| **This tick did** | One more rejection after apply; prepared applications still queued |
 | **Named Do (still)** | Send the strongest prepared applications, one at a time |
 
 This week's act is on the path to a start date.
@@ -41,7 +41,7 @@ Reply the same day when a live process writes with next steps. Do not chase afte
 
 ## How long (Sweden rounds)
 
-Late November. One more rejection after apply; more strong fits prepared. No interviews yet.
+Late November. One more rejection after apply. No interviews yet; prepared applications still queued.
 
 ## Stages
 
@@ -70,8 +70,8 @@ Plain language. No S0/S1 codes. Emails are local-only.
 
 ```mermaid
 flowchart TB
-  x["Where you are"]
-  G["Arrive: A new role or another steady work stream"]
+  where_you_are["Where you are"]
+  arrival["Arrive: A new role or another steady work stream"]
   S9["First screening call held; the process closed without a next step (already done)"]
   S0["Technical interview passed; take-home invite acknowledged (already done)"]
   S4["Take-home sent a day early, code shared (already done)"]
@@ -88,31 +88,31 @@ flowchart TB
   P1["Roles blocked or on hold (parked)"]
   P2["Side projects on hold until picked up (parked)"]
   P3["Old postings - do not submit (parked)"]
-  x --> S9
-  x --> S0
+  where_you_are --> S9
+  where_you_are --> S0
   S0 --> S4
   S4 --> S4b
-  x --> S7
+  where_you_are --> S7
   S9 --> S8
   S7 -->|"toward start"| S8
   S1 --> S8
   S8 -->|"toward start"| S5
-  x --> S6
-  x --> S1
+  where_you_are --> S6
+  where_you_are --> S1
   S4b --> R1
   S4 --> R2
-  x --> S3
-  x --> D1
-  x -.->|"skip this week"| P1
-  x -.->|"skip this week"| P2
-  x -.->|"skip this week"| P3
-  S5 --> G
+  where_you_are --> S3
+  where_you_are --> D1
+  where_you_are -.->|"skip this week"| P1
+  where_you_are -.->|"skip this week"| P2
+  where_you_are -.->|"skip this week"| P3
+  S5 --> arrival
   classDef do fill:#1b4332,stroke:#95d5b2,color:#fff
   classDef wait fill:#1d3557,stroke:#a8dadc,color:#fff
   classDef park fill:#3d3d3d,stroke:#9a8c98,color:#ddd
   classDef done fill:#2d2d2d,stroke:#6c757d,color:#adb5bd
   classDef goal fill:#5a189a,stroke:#c77dff,color:#fff
-  class G goal
+  class arrival goal
   class S7 do
   class S8,S5,S1 wait
   class P1,P2,P3 park
